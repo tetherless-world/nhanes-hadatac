@@ -1,0 +1,867 @@
+@prefix : <http://purl.org/twc/NHANES#> .
+@prefix exo: <http://purl.obolibrary.org/obo/ExO_> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sio: <http://semanticscience.org/resource/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix chebi: <http://purl.obolibrary.org/obo/CHEBI_> .
+@prefix hasco: <http://hadatac.org/ont/hasco/> .
+@prefix hhear: <http://purl.org/twc/HHEAR_> .
+@prefix nhanes: <http://purl.org/twc/NHANES_> .
+@base <http://purl.org/twc/NHANES> .
+
+<http://purl.org/twc/NHANES> rdf:type owl:Ontology .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://www.w3.org/2004/02/skos/core#notation
+skos:notation rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://purl.org/twc/NHANES_00029
+<http://purl.org/twc/NHANES_00029> rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.w3.org/2000/01/rdf-schema#label
+rdfs:label rdf:type owl:DatatypeProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#definition
+skos:definition rdf:type owl:DatatypeProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#notation
+skos:notation rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://hadatac.org/ont/hasco/QualityValue
+hasco:QualityValue rdf:type owl:Class .
+
+
+###  http://hadatac.org/ont/hasco/QuantityVariable
+hasco:QuantityVariable rdf:type owl:Class .
+
+
+###  http://hadatac.org/ont/hasco/StudyIndicator
+hasco:StudyIndicator rdf:type owl:Class .
+
+
+###  http://purl.obolibrary.org/obo/CHEBI_23888
+obo:CHEBI_23888 rdf:type owl:Class ;
+                rdfs:subClassOf hasco:StudyIndicator .
+
+
+###  http://purl.obolibrary.org/obo/ExO_0000041
+obo:ExO_0000041 rdf:type owl:Class .
+
+
+###  http://purl.obolibrary.org/obo/NCIT_C70811
+obo:NCIT_C70811 rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00050
+<http://purl.org/twc/HHEAR_00050> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00549
+<http://purl.org/twc/HHEAR_00549> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00556
+<http://purl.org/twc/HHEAR_00556> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00001
+<http://purl.org/twc/NHANES_00001> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00002
+<http://purl.org/twc/NHANES_00002> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00003
+<http://purl.org/twc/NHANES_00003> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00004
+<http://purl.org/twc/NHANES_00004> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00005
+<http://purl.org/twc/NHANES_00005> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00006
+<http://purl.org/twc/NHANES_00006> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00007
+<http://purl.org/twc/NHANES_00007> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00008
+<http://purl.org/twc/NHANES_00008> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00009
+<http://purl.org/twc/NHANES_00009> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00010
+<http://purl.org/twc/NHANES_00010> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00011
+<http://purl.org/twc/NHANES_00011> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00012
+<http://purl.org/twc/NHANES_00012> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00013
+<http://purl.org/twc/NHANES_00013> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00014
+<http://purl.org/twc/NHANES_00014> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00015
+<http://purl.org/twc/NHANES_00015> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00016
+<http://purl.org/twc/NHANES_00016> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00017
+<http://purl.org/twc/NHANES_00017> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00018
+<http://purl.org/twc/NHANES_00018> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00019
+<http://purl.org/twc/NHANES_00019> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:NCIT_C70811 .
+
+
+###  http://purl.org/twc/NHANES_00020
+<http://purl.org/twc/NHANES_00020> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_000391 .
+
+
+###  http://purl.org/twc/NHANES_00021
+<http://purl.org/twc/NHANES_00021> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_000794 .
+
+
+###  http://purl.org/twc/NHANES_00022
+<http://purl.org/twc/NHANES_00022> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_000794 .
+
+
+###  http://purl.org/twc/NHANES_00023
+<http://purl.org/twc/NHANES_00023> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_000794 .
+
+
+###  http://purl.org/twc/NHANES_00024
+<http://purl.org/twc/NHANES_00024> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_000794 .
+
+
+###  http://purl.org/twc/NHANES_00025
+<http://purl.org/twc/NHANES_00025> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00556> .
+
+
+###  http://purl.org/twc/NHANES_00026
+<http://purl.org/twc/NHANES_00026> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00556> .
+
+
+###  http://purl.org/twc/NHANES_00027
+<http://purl.org/twc/NHANES_00027> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_000391 .
+
+
+###  http://purl.org/twc/NHANES_00028
+<http://purl.org/twc/NHANES_00028> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00050> .
+
+
+###  http://purl.org/twc/NHANES_00030
+<http://purl.org/twc/NHANES_00030> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00031
+<http://purl.org/twc/NHANES_00031> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00047> .
+
+
+###  http://purl.org/twc/NHANES_00032
+<http://purl.org/twc/NHANES_00032> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00047> .
+
+
+###  http://purl.org/twc/NHANES_00033
+<http://purl.org/twc/NHANES_00033> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00047> .
+
+
+###  http://purl.org/twc/NHANES_00034
+<http://purl.org/twc/NHANES_00034> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00047> .
+
+
+###  http://purl.org/twc/NHANES_00035
+<http://purl.org/twc/NHANES_00035> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00047> .
+
+
+###  http://purl.org/twc/NHANES_00036
+<http://purl.org/twc/NHANES_00036> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00048> .
+
+
+###  http://purl.org/twc/NHANES_00037
+<http://purl.org/twc/NHANES_00037> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00048> .
+
+
+###  http://purl.org/twc/NHANES_00038
+<http://purl.org/twc/NHANES_00038> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00048> .
+
+
+###  http://purl.org/twc/NHANES_00039
+<http://purl.org/twc/NHANES_00039> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00048> .
+
+
+###  http://purl.org/twc/NHANES_00040
+<http://purl.org/twc/NHANES_00040> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00049> .
+
+
+###  http://purl.org/twc/NHANES_00041
+<http://purl.org/twc/NHANES_00041> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00049> .
+
+
+###  http://purl.org/twc/NHANES_00042
+<http://purl.org/twc/NHANES_00042> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00049> .
+
+
+###  http://purl.org/twc/NHANES_00043
+<http://purl.org/twc/NHANES_00043> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00049> .
+
+
+###  http://purl.org/twc/NHANES_00044
+<http://purl.org/twc/NHANES_00044> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00050> .
+
+
+###  http://purl.org/twc/NHANES_00045
+<http://purl.org/twc/NHANES_00045> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00050> .
+
+
+###  http://purl.org/twc/NHANES_00046
+<http://purl.org/twc/NHANES_00046> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:ExO_0000041 .
+
+
+###  http://purl.org/twc/NHANES_00047
+<http://purl.org/twc/NHANES_00047> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00048> .
+
+
+###  http://purl.org/twc/NHANES_00048
+<http://purl.org/twc/NHANES_00048> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:ExO_0000041 .
+
+
+###  http://purl.org/twc/NHANES_00049
+<http://purl.org/twc/NHANES_00049> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:ExO_0000041 .
+
+
+###  http://purl.org/twc/NHANES_00050
+<http://purl.org/twc/NHANES_00050> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:ExO_0000041 .
+
+
+###  http://purl.org/twc/NHANES_00051
+<http://purl.org/twc/NHANES_00051> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:ExO_0000041 .
+
+
+###  http://purl.org/twc/NHANES_00052
+<http://purl.org/twc/NHANES_00052> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:ExO_0000041 .
+
+
+###  http://purl.org/twc/NHANES_00053
+<http://purl.org/twc/NHANES_00053> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00054
+<http://purl.org/twc/NHANES_00054> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00549> .
+
+
+###  http://purl.org/twc/NHANES_00055
+<http://purl.org/twc/NHANES_00055> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00549> .
+
+
+###  http://purl.org/twc/NHANES_00056
+<http://purl.org/twc/NHANES_00056> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00549> .
+
+
+###  http://purl.org/twc/NHANES_00057
+<http://purl.org/twc/NHANES_00057> rdf:type owl:Class ;
+                                   rdfs:label "Drug exposure" .
+
+
+###  http://purl.org/twc/NHANES_00058
+<http://purl.org/twc/NHANES_00058> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:CHEBI_23888 ;
+                                   rdfs:label "Unknown drug" .
+
+
+###  http://purl.org/twc/NHANES_00059
+<http://purl.org/twc/NHANES_00059> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:CHEBI_23888 ;
+                                   rdfs:label "Refused drug" .
+
+
+###  http://purl.org/twc/NHANES_00060
+<http://purl.org/twc/NHANES_00060> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:CHEBI_23888 ;
+                                   rdfs:label "Don' know drug" .
+
+
+###  http://semanticscience.org/resource/SIO_000391
+sio:SIO_000391 rdf:type owl:Class .
+
+
+###  http://semanticscience.org/resource/SIO_000794
+sio:SIO_000794 rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://purl.obolibrary.org/obo/CHEBI_23888
+obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
+                rdfs:label "Drug" ;
+                skos:definition "Any substance which when absorbed into a living organism may modify one or more of its functions. The term is generally accepted for a substance taken for a therapeutic purpose, but is also commonly used for abused substances." .
+
+
+###  http://purl.org/twc/NHANES_00001
+<http://purl.org/twc/NHANES_00001> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Don't know" .
+
+
+###  http://purl.org/twc/NHANES_00002
+<http://purl.org/twc/NHANES_00002> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Refused" .
+
+
+###  http://purl.org/twc/NHANES_00003
+<http://purl.org/twc/NHANES_00003> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Yes, positive lab pregnancy test or self-reported pregnant at exam" .
+
+
+###  http://purl.org/twc/NHANES_00004
+<http://purl.org/twc/NHANES_00004> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "The participant was not pregnant at exam" .
+
+
+###  http://purl.org/twc/NHANES_00005
+<http://purl.org/twc/NHANES_00005> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Cannot ascertain if the participant is pregnant at exam" .
+
+
+###  http://purl.org/twc/NHANES_00006
+<http://purl.org/twc/NHANES_00006> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$ 0 to $ 4,999" .
+
+
+###  http://purl.org/twc/NHANES_00007
+<http://purl.org/twc/NHANES_00007> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$ 5,000 to $ 9,999" .
+
+
+###  http://purl.org/twc/NHANES_00008
+<http://purl.org/twc/NHANES_00008> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$10,000 to $14,999" .
+
+
+###  http://purl.org/twc/NHANES_00009
+<http://purl.org/twc/NHANES_00009> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$15,000 to $19,999" .
+
+
+###  http://purl.org/twc/NHANES_00010
+<http://purl.org/twc/NHANES_00010> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$20,000 to $24,999" .
+
+
+###  http://purl.org/twc/NHANES_00011
+<http://purl.org/twc/NHANES_00011> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$25,000 to $34,999" .
+
+
+###  http://purl.org/twc/NHANES_00012
+<http://purl.org/twc/NHANES_00012> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$35,000 to $44,999" .
+
+
+###  http://purl.org/twc/NHANES_00013
+<http://purl.org/twc/NHANES_00013> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$45,000 to $54,999" .
+
+
+###  http://purl.org/twc/NHANES_00014
+<http://purl.org/twc/NHANES_00014> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$55,000 to $64,999" .
+
+
+###  http://purl.org/twc/NHANES_00015
+<http://purl.org/twc/NHANES_00015> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$65,000 to $74,999" .
+
+
+###  http://purl.org/twc/NHANES_00016
+<http://purl.org/twc/NHANES_00016> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$20,000 and Over" .
+
+
+###  http://purl.org/twc/NHANES_00017
+<http://purl.org/twc/NHANES_00017> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Under $20,000" .
+
+
+###  http://purl.org/twc/NHANES_00018
+<http://purl.org/twc/NHANES_00018> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$75,000 to $99,999" .
+
+
+###  http://purl.org/twc/NHANES_00019
+<http://purl.org/twc/NHANES_00019> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "$100,000 and Over" .
+
+
+###  http://purl.org/twc/NHANES_00020
+<http://purl.org/twc/NHANES_00020> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Screening time" .
+
+
+###  http://purl.org/twc/NHANES_00021
+<http://purl.org/twc/NHANES_00021> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "Total number of people in the Family" ;
+                                   skos:definition "Total number of people in the Family" .
+
+
+###  http://purl.org/twc/NHANES_00022
+<http://purl.org/twc/NHANES_00022> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "# of children 5 years or younger in HH" ;
+                                   skos:definition "Number of children aged 5 years or younger in the household" .
+
+
+###  http://purl.org/twc/NHANES_00023
+<http://purl.org/twc/NHANES_00023> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "# of children 6-17 years old in HH" ;
+                                   skos:definition "Number of children aged 6-17 years old in the household" .
+
+
+###  http://purl.org/twc/NHANES_00024
+<http://purl.org/twc/NHANES_00024> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "# of adults 60 years or older in HH" ;
+                                   skos:definition "Number of adults aged 60 years or older in the household" .
+
+
+###  http://purl.org/twc/NHANES_00025
+<http://purl.org/twc/NHANES_00025> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Born in 50 US states or Washington, DC" .
+
+
+###  http://purl.org/twc/NHANES_00026
+<http://purl.org/twc/NHANES_00026> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Others" .
+
+
+###  http://purl.org/twc/NHANES_00027
+<http://purl.org/twc/NHANES_00027> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "MEC exam time" .
+
+
+###  http://purl.org/twc/NHANES_00028
+<http://purl.org/twc/NHANES_00028> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "Full sample 2 year weight" ;
+                                   skos:definition "Full sample 2 year weight." .
+
+
+###  http://purl.org/twc/NHANES_00029
+<http://purl.org/twc/NHANES_00029> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "is treated by" .
+
+
+###  http://purl.org/twc/NHANES_00030
+<http://purl.org/twc/NHANES_00030> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Drug usage for disease treatment" .
+
+
+###  http://purl.org/twc/NHANES_00031
+<http://purl.org/twc/NHANES_00031> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Never attended / kindergarten only" .
+
+
+###  http://purl.org/twc/NHANES_00032
+<http://purl.org/twc/NHANES_00032> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "1st grade" .
+
+
+###  http://purl.org/twc/NHANES_00033
+<http://purl.org/twc/NHANES_00033> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "2nd grade" .
+
+
+###  http://purl.org/twc/NHANES_00034
+<http://purl.org/twc/NHANES_00034> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "3rd grade" .
+
+
+###  http://purl.org/twc/NHANES_00035
+<http://purl.org/twc/NHANES_00035> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "4th grade" .
+
+
+###  http://purl.org/twc/NHANES_00036
+<http://purl.org/twc/NHANES_00036> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "5th grade" .
+
+
+###  http://purl.org/twc/NHANES_00037
+<http://purl.org/twc/NHANES_00037> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "6th grade" .
+
+
+###  http://purl.org/twc/NHANES_00038
+<http://purl.org/twc/NHANES_00038> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "7th grade" .
+
+
+###  http://purl.org/twc/NHANES_00039
+<http://purl.org/twc/NHANES_00039> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "8th grade" .
+
+
+###  http://purl.org/twc/NHANES_00040
+<http://purl.org/twc/NHANES_00040> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "9th grade" .
+
+
+###  http://purl.org/twc/NHANES_00041
+<http://purl.org/twc/NHANES_00041> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "10th grade" .
+
+
+###  http://purl.org/twc/NHANES_00042
+<http://purl.org/twc/NHANES_00042> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "11th grade" .
+
+
+###  http://purl.org/twc/NHANES_00043
+<http://purl.org/twc/NHANES_00043> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "12th grade, no diploma" .
+
+
+###  http://purl.org/twc/NHANES_00044
+<http://purl.org/twc/NHANES_00044> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "High school graduate" .
+
+
+###  http://purl.org/twc/NHANES_00045
+<http://purl.org/twc/NHANES_00045> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "GED or equivalent" .
+
+
+###  http://purl.org/twc/NHANES_00046
+<http://purl.org/twc/NHANES_00046> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "More than high school" .
+
+
+###  http://purl.org/twc/NHANES_00047
+<http://purl.org/twc/NHANES_00047> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Less than 5th grade" .
+
+
+###  http://purl.org/twc/NHANES_00048
+<http://purl.org/twc/NHANES_00048> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Less than 9th grade" .
+
+
+###  http://purl.org/twc/NHANES_00049
+<http://purl.org/twc/NHANES_00049> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "9-11th grade (Includes 12th grade with no diploma)" .
+
+
+###  http://purl.org/twc/NHANES_00050
+<http://purl.org/twc/NHANES_00050> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "High school graduate/GED or equivalent" .
+
+
+###  http://purl.org/twc/NHANES_00051
+<http://purl.org/twc/NHANES_00051> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Some college or AA degree" .
+
+
+###  http://purl.org/twc/NHANES_00052
+<http://purl.org/twc/NHANES_00052> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "College graduate or above" .
+
+
+###  http://purl.org/twc/NHANES_00053
+<http://purl.org/twc/NHANES_00053> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Drug usage for disease prevention" .
+
+
+###  http://purl.org/twc/NHANES_00054
+<http://purl.org/twc/NHANES_00054> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Unknown disease" .
+
+
+###  http://purl.org/twc/NHANES_00055
+<http://purl.org/twc/NHANES_00055> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Refused disease" .
+
+
+###  http://purl.org/twc/NHANES_00056
+<http://purl.org/twc/NHANES_00056> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Don't know disease" .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+<http://purl.org/twc/NHANES_00001> skos:notation 99 .
+
+
+<http://purl.org/twc/NHANES_00002> skos:notation 77 .
+
+
+<http://purl.org/twc/NHANES_00003> skos:notation 1 .
+
+
+<http://purl.org/twc/NHANES_00004> skos:notation 2 .
+
+
+<http://purl.org/twc/NHANES_00005> skos:notation 3 .
+
+
+<http://purl.org/twc/NHANES_00006> skos:notation 1 .
+
+
+<http://purl.org/twc/NHANES_00007> skos:notation 2 .
+
+
+<http://purl.org/twc/NHANES_00008> skos:notation 3 .
+
+
+<http://purl.org/twc/NHANES_00009> skos:notation 4 .
+
+
+<http://purl.org/twc/NHANES_00010> skos:notation 5 .
+
+
+<http://purl.org/twc/NHANES_00011> skos:notation 6 .
+
+
+<http://purl.org/twc/NHANES_00012> skos:notation 7 .
+
+
+<http://purl.org/twc/NHANES_00013> skos:notation 8 .
+
+
+<http://purl.org/twc/NHANES_00014> skos:notation 9 .
+
+
+<http://purl.org/twc/NHANES_00015> skos:notation 10 .
+
+
+<http://purl.org/twc/NHANES_00016> skos:notation 12 .
+
+
+<http://purl.org/twc/NHANES_00017> skos:notation 13 .
+
+
+<http://purl.org/twc/NHANES_00018> skos:notation 14 .
+
+
+<http://purl.org/twc/NHANES_00019> skos:notation 15 .
+
+
+<http://purl.org/twc/NHANES_00025> skos:notation 1 .
+
+
+<http://purl.org/twc/NHANES_00026> skos:notation 2 .
+
+
+<http://purl.org/twc/NHANES_00031> skos:notation 0 .
+
+
+<http://purl.org/twc/NHANES_00032> skos:notation 1 .
+
+
+<http://purl.org/twc/NHANES_00033> skos:notation 2 .
+
+
+<http://purl.org/twc/NHANES_00034> skos:notation 3 .
+
+
+<http://purl.org/twc/NHANES_00035> skos:notation 4 .
+
+
+<http://purl.org/twc/NHANES_00036> skos:notation 5 .
+
+
+<http://purl.org/twc/NHANES_00037> skos:notation 6 .
+
+
+<http://purl.org/twc/NHANES_00038> skos:notation 7 .
+
+
+<http://purl.org/twc/NHANES_00039> skos:notation 8 .
+
+
+<http://purl.org/twc/NHANES_00040> skos:notation 9 .
+
+
+<http://purl.org/twc/NHANES_00041> skos:notation 10 .
+
+
+<http://purl.org/twc/NHANES_00042> skos:notation 11 .
+
+
+<http://purl.org/twc/NHANES_00043> skos:notation 12 .
+
+
+<http://purl.org/twc/NHANES_00044> skos:notation 13 .
+
+
+<http://purl.org/twc/NHANES_00045> skos:notation 14 .
+
+
+<http://purl.org/twc/NHANES_00046> skos:notation 15 .
+
+
+<http://purl.org/twc/NHANES_00047> skos:notation 55 .
+
+
+<http://purl.org/twc/NHANES_00048> skos:notation 66 .
+
+
+<http://purl.org/twc/NHANES_00049> skos:notation 2 .
+
+
+<http://purl.org/twc/NHANES_00050> skos:notation 3 .
+
+
+<http://purl.org/twc/NHANES_00051> skos:notation 4 .
+
+
+<http://purl.org/twc/NHANES_00052> skos:notation 5 .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
