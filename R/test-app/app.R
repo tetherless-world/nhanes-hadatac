@@ -4,11 +4,12 @@ ui <- fluidPage(
   titlePanel("NHANES R test app"),
   sidebarLayout(
     sidebarPanel(
-      selectInput("filenames", "File:", list.files(path = "data/Henrique", pattern = '.csv')),
-      varSelectInput("variable", "Variable:", nhanes),
-      selectInput("variable", "Variable:",
-                  c("Study year" = "STUDY.ID")),
-      checkboxInput("outliers", "Show outliers", TRUE)
+      selectInput("filenames", "File:", list.files(path = "/data", pattern = '.csv')),
+      actionButton("btnLoad", "Load"),
+      varSelectInput("variable0", "Variable:", NULL),
+      varSelectInput("variable1", "Variable:", NULL),
+      checkboxInput("outliers", "Show outliers", TRUE),
+      actionButton("btnPlot", "Plot")
     ),
     
     mainPanel(
@@ -18,28 +19,30 @@ ui <- fluidPage(
   )
 )
 
-server <- function(input, output) {
+server <- function(input, output, session) {
   formulaText <- reactive({
-    paste("Subject.Human.Age.Year.Screening.Time ~", input$variable)
+    paste(input$variable0, "~", input$variable1)
   })
   
   output$caption <- renderText({
     formulaText()
   })
   
-  output$varPlot <- renderPlot({
-    boxplot(as.formula(formulaText()),
-            data = nhanes,
-            outline = input$outliers,
-            col = "#75AADB", pch = 19)
+  observeEvent(input$btnLoad, {
+    nhanes <- read.csv(paste("/data/", input$filenames, sep = ""))
+    updateVarSelectInput(session, "variable0", data = nhanes)
+    updateVarSelectInput(session, "variable1", data = nhanes)
   })
   
-  datasetInput <- reactive({
-    switch(input$filenames,
-           filenames)
-    nhanes <- read.csv("data/Henrique/nhanes.csv")
+  observeEvent(input$btnPlot, {
+    nhanes <- read.csv(paste("/data/", input$filenames, sep = ""))
+    output$varPlot <- renderPlot({
+      boxplot(as.formula(formulaText()),
+              data = nhanes,
+              outline = input$outliers,
+              col = "#75AADB", pch = 19)
+    })
   })
-  
 }
 
 shinyApp(ui, server)
