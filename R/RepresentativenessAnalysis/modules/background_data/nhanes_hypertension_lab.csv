@@ -1,0 +1,13 @@
+"","TC","FPG","background_n"
+"1","High TC","Glucose<100",7828797
+"2","Normal TC","Glucose<100",12614151
+"3",NA,"Glucose<100",0
+"4","High TC","Glucose 100-125",16424631
+"5","Normal TC","Glucose 100-125",23015798
+"6",NA,"Glucose 100-125",208916
+"7","High TC","Glucose>=126",5052688
+"8","Normal TC","Glucose>=126",10175323
+"9",NA,"Glucose>=126",374105
+"10","High TC",NA,0
+"11","Normal TC",NA,0
+"12",NA,NA,0
