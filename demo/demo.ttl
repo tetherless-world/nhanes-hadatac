@@ -48,6 +48,22 @@ obo:OMRSE_00000076 rdf:type owl:Class ;
                    rdfs:label "Household" .
 
 
+###  http://purl.org/twc/NHANES_000001
+<http://purl.org/twc/NHANES_000001> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_000002
+<http://purl.org/twc/NHANES_000002> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_000003
+<http://purl.org/twc/NHANES_000003> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_000004
+<http://purl.org/twc/NHANES_000004> rdf:type owl:Class .
+
+
 ###  http://semanticscience.org/resource/SIO_001013
 sio:SIO_001013 rdf:type owl:Class ;
                rdfs:subClassOf hasco:StudyIndicator .
@@ -65,6 +81,26 @@ sio:SIO_010029 rdf:type owl:Class ;
 #################################################################
 #    Individuals
 #################################################################
+
+###  http://purl.org/twc/NHANES_000001
+<http://purl.org/twc/NHANES_000001> rdf:type owl:NamedIndividual ,
+                                             hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_000002
+<http://purl.org/twc/NHANES_000002> rdf:type owl:NamedIndividual ,
+                                             hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_000003
+<http://purl.org/twc/NHANES_000003> rdf:type owl:NamedIndividual ,
+                                             hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_000004
+<http://purl.org/twc/NHANES_000004> rdf:type owl:NamedIndividual ,
+                                             hasco:QualityValue .
+
 
 ###  http://semanticscience.org/resource/SIO_001013
 sio:SIO_001013 rdf:type owl:NamedIndividual ,
@@ -91,6 +127,22 @@ sio:SIO_010052 rdf:type owl:NamedIndividual ,
 #################################################################
 #    Annotations
 #################################################################
+
+<http://purl.org/twc/NHANES_000001> skos:notation "201"^^xsd:string ;
+                                    rdfs:label "<20 years" .
+
+
+<http://purl.org/twc/NHANES_000002> rdfs:label "20-39 years" ;
+                                    skos:notation "202"^^xsd:string .
+
+
+<http://purl.org/twc/NHANES_000003> skos:notation "203"^^xsd:string ;
+                                    rdfs:label "40-59 years" .
+
+
+<http://purl.org/twc/NHANES_000004> rdfs:label "60+ years" ;
+                                    skos:notation "204"^^xsd:string .
+
 
 sio:SIO_001013 rdfs:label "Age" .
 
