@@ -64,9 +64,35 @@ obo:OMRSE_00000076 rdf:type owl:Class ;
 <http://purl.org/twc/EXAMPLE_000004> rdf:type owl:Class .
 
 
+###  http://purl.org/twc/EXAMPLE_000005
+<http://purl.org/twc/EXAMPLE_000005> rdf:type owl:Class ;
+                                     rdfs:subClassOf <http://purl.org/twc/EXAMPLE_000007> .
+
+
+###  http://purl.org/twc/EXAMPLE_000006
+<http://purl.org/twc/EXAMPLE_000006> rdf:type owl:Class ;
+                                     rdfs:label "Year Range" .
+
+
+###  http://purl.org/twc/EXAMPLE_000007
+<http://purl.org/twc/EXAMPLE_000007> rdf:type owl:Class ;
+                                     rdfs:subClassOf hasco:StudyIndicator ;
+                                     rdfs:label "Demographic" .
+
+
+###  http://purl.org/twc/EXAMPLE_000008
+<http://purl.org/twc/EXAMPLE_000008> rdf:type owl:Class ;
+                                     rdfs:subClassOf sio:SIO_000391 ;
+                                     rdfs:label "Screening Time" .
+
+
+###  http://semanticscience.org/resource/SIO_000391
+sio:SIO_000391 rdf:type owl:Class .
+
+
 ###  http://semanticscience.org/resource/SIO_001013
 sio:SIO_001013 rdf:type owl:Class ;
-               rdfs:subClassOf hasco:StudyIndicator .
+               rdfs:subClassOf <http://purl.org/twc/EXAMPLE_000007> .
 
 
 ###  http://semanticscience.org/resource/SIO_001064
@@ -75,7 +101,7 @@ sio:SIO_001064 rdf:type owl:Class .
 
 ###  http://semanticscience.org/resource/SIO_010029
 sio:SIO_010029 rdf:type owl:Class ;
-               rdfs:subClassOf hasco:StudyIndicator .
+               rdfs:subClassOf <http://purl.org/twc/EXAMPLE_000007> .
 
 
 #################################################################
@@ -100,6 +126,11 @@ sio:SIO_010029 rdf:type owl:Class ;
 ###  http://purl.org/twc/EXAMPLE_000004
 <http://purl.org/twc/EXAMPLE_000004> rdf:type owl:NamedIndividual ,
                                               hasco:QualityValue .
+
+
+###  http://purl.org/twc/EXAMPLE_000005
+<http://purl.org/twc/EXAMPLE_000005> rdf:type owl:NamedIndividual ,
+                                              hasco:QuantityVariable .
 
 
 ###  http://semanticscience.org/resource/SIO_001013
@@ -142,6 +173,9 @@ sio:SIO_010052 rdf:type owl:NamedIndividual ,
 
 <http://purl.org/twc/EXAMPLE_000004> rdfs:label "60+ years" ;
                                      skos:notation "204"^^xsd:string .
+
+
+<http://purl.org/twc/EXAMPLE_000005> rdfs:label "Age Range" .
 
 
 sio:SIO_001013 rdfs:label "Age" .
