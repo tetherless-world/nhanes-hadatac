@@ -11,6 +11,7 @@
 @prefix chebi: <http://purl.obolibrary.org/obo/CHEBI_> .
 @prefix hasco: <http://hadatac.org/ont/hasco/> .
 @prefix hhear: <http://purl.org/twc/HHEAR_> .
+@prefix vstoi: <http://hadatac.org/ont/vstoi#> .
 @prefix nhanes: <http://purl.org/twc/NHANES_> .
 @base <http://purl.org/twc/NHANES> .
 
@@ -62,6 +63,10 @@ hasco:QuantityVariable rdf:type owl:Class .
 
 ###  http://hadatac.org/ont/hasco/StudyIndicator
 hasco:StudyIndicator rdf:type owl:Class .
+
+
+###  http://hadatac.org/ont/vstoi#Questionnaire
+vstoi:Questionnaire rdf:type owl:Class .
 
 
 ###  http://purl.obolibrary.org/obo/CHEBI_23888
@@ -358,26 +363,70 @@ obo:NCIT_C70811 rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/NHANES_00057
-<http://purl.org/twc/NHANES_00057> rdf:type owl:Class ;
-                                   rdfs:label "Drug exposure" .
+<http://purl.org/twc/NHANES_00057> rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/NHANES_00058
 <http://purl.org/twc/NHANES_00058> rdf:type owl:Class ;
-                                   rdfs:subClassOf obo:CHEBI_23888 ;
-                                   rdfs:label "Unknown drug" .
+                                   rdfs:subClassOf obo:CHEBI_23888 .
 
 
 ###  http://purl.org/twc/NHANES_00059
 <http://purl.org/twc/NHANES_00059> rdf:type owl:Class ;
-                                   rdfs:subClassOf obo:CHEBI_23888 ;
-                                   rdfs:label "Refused drug" .
+                                   rdfs:subClassOf obo:CHEBI_23888 .
 
 
 ###  http://purl.org/twc/NHANES_00060
 <http://purl.org/twc/NHANES_00060> rdf:type owl:Class ;
-                                   rdfs:subClassOf obo:CHEBI_23888 ;
-                                   rdfs:label "Don' know drug" .
+                                   rdfs:subClassOf obo:CHEBI_23888 .
+
+
+###  http://purl.org/twc/NHANES_00061
+<http://purl.org/twc/NHANES_00061> rdf:type owl:Class ;
+                                   rdfs:subClassOf vstoi:Questionnaire ;
+                                   rdfs:label "Computer Assisted Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00062
+<http://purl.org/twc/NHANES_00062> rdf:type owl:Class ;
+                                   rdfs:subClassOf vstoi:Questionnaire ;
+                                   rdfs:label "Human Interviewer Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00063
+<http://purl.org/twc/NHANES_00063> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
+                                   rdfs:label "Family Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00064
+<http://purl.org/twc/NHANES_00064> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
+                                   rdfs:label "Sample Person Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00065
+<http://purl.org/twc/NHANES_00065> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00061> ;
+                                   rdfs:label "Audio Computer Assisted Personal Self Interview (ACASI) Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00066
+<http://purl.org/twc/NHANES_00066> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00061> ;
+                                   rdfs:label "Computer Assisted Personal Interview (CAPI) Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00067
+<http://purl.org/twc/NHANES_00067> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
+                                   rdfs:label "Special Follow-up Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00068
+<http://purl.org/twc/NHANES_00068> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
+                                   rdfs:label "Dietary Questionnaire" .
 
 
 ###  http://semanticscience.org/resource/SIO_000391
@@ -729,6 +778,26 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00056
 <http://purl.org/twc/NHANES_00056> rdf:type owl:NamedIndividual ;
                                    rdfs:label "Don't know disease" .
+
+
+###  http://purl.org/twc/NHANES_00057
+<http://purl.org/twc/NHANES_00057> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Drug exposure" .
+
+
+###  http://purl.org/twc/NHANES_00058
+<http://purl.org/twc/NHANES_00058> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Unknown drug" .
+
+
+###  http://purl.org/twc/NHANES_00059
+<http://purl.org/twc/NHANES_00059> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Refused drug" .
+
+
+###  http://purl.org/twc/NHANES_00060
+<http://purl.org/twc/NHANES_00060> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Don' know drug" .
 
 
 #################################################################
