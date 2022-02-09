@@ -175,7 +175,7 @@ sio:SIO_010052 rdf:type owl:NamedIndividual ,
                                      skos:notation "204"^^xsd:string .
 
 
-<http://purl.org/twc/EXAMPLE_000005> rdfs:label "Age Range" .
+<http://purl.org/twc/EXAMPLE_000005> rdfs:label "Age Category" .
 
 
 sio:SIO_001013 rdfs:label "Age" .
