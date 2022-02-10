@@ -86,6 +86,14 @@ obo:OMRSE_00000076 rdf:type owl:Class ;
                                      rdfs:label "Screening Time" .
 
 
+###  http://purl.org/twc/EXAMPLE_000009
+<http://purl.org/twc/EXAMPLE_000009> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/EXAMPLE_000010
+<http://purl.org/twc/EXAMPLE_000010> rdf:type owl:Class .
+
+
 ###  http://semanticscience.org/resource/SIO_000391
 sio:SIO_000391 rdf:type owl:Class .
 
@@ -133,6 +141,16 @@ sio:SIO_010029 rdf:type owl:Class ;
                                               hasco:QuantityVariable .
 
 
+###  http://purl.org/twc/EXAMPLE_000009
+<http://purl.org/twc/EXAMPLE_000009> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
+###  http://purl.org/twc/EXAMPLE_000010
+<http://purl.org/twc/EXAMPLE_000010> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
 ###  http://semanticscience.org/resource/SIO_001013
 sio:SIO_001013 rdf:type owl:NamedIndividual ,
                         hasco:QuantityVariable .
@@ -176,6 +194,14 @@ sio:SIO_010052 rdf:type owl:NamedIndividual ,
 
 
 <http://purl.org/twc/EXAMPLE_000005> rdfs:label "Age Category" .
+
+
+<http://purl.org/twc/EXAMPLE_000009> rdfs:label "<12 months" ;
+                                     skos:notation "205"^^xsd:string .
+
+
+<http://purl.org/twc/EXAMPLE_000010> skos:notation "206"^^xsd:string ;
+                                     rdfs:label "12-24 months" .
 
 
 sio:SIO_001013 rdfs:label "Age" .
