@@ -383,50 +383,76 @@ obo:NCIT_C70811 rdf:type owl:Class .
 
 ###  http://purl.org/twc/NHANES_00061
 <http://purl.org/twc/NHANES_00061> rdf:type owl:Class ;
-                                   rdfs:subClassOf vstoi:Questionnaire ;
-                                   rdfs:label "Computer Assisted Questionnaire" .
+                                   rdfs:subClassOf vstoi:Questionnaire .
 
 
 ###  http://purl.org/twc/NHANES_00062
 <http://purl.org/twc/NHANES_00062> rdf:type owl:Class ;
-                                   rdfs:subClassOf vstoi:Questionnaire ;
-                                   rdfs:label "Human Interviewer Questionnaire" .
+                                   rdfs:subClassOf vstoi:Questionnaire .
 
 
 ###  http://purl.org/twc/NHANES_00063
 <http://purl.org/twc/NHANES_00063> rdf:type owl:Class ;
-                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
-                                   rdfs:label "Family Questionnaire" .
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> .
 
 
 ###  http://purl.org/twc/NHANES_00064
 <http://purl.org/twc/NHANES_00064> rdf:type owl:Class ;
-                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
-                                   rdfs:label "Sample Person Questionnaire" .
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> .
 
 
 ###  http://purl.org/twc/NHANES_00065
 <http://purl.org/twc/NHANES_00065> rdf:type owl:Class ;
-                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00061> ;
-                                   rdfs:label "Audio Computer Assisted Personal Self Interview (ACASI) Questionnaire" .
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00061> .
 
 
 ###  http://purl.org/twc/NHANES_00066
 <http://purl.org/twc/NHANES_00066> rdf:type owl:Class ;
-                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00061> ;
-                                   rdfs:label "Computer Assisted Personal Interview (CAPI) Questionnaire" .
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00061> .
 
 
 ###  http://purl.org/twc/NHANES_00067
 <http://purl.org/twc/NHANES_00067> rdf:type owl:Class ;
-                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
-                                   rdfs:label "Special Follow-up Questionnaire" .
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> .
 
 
 ###  http://purl.org/twc/NHANES_00068
 <http://purl.org/twc/NHANES_00068> rdf:type owl:Class ;
-                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> ;
-                                   rdfs:label "Dietary Questionnaire" .
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00062> .
+
+
+###  http://purl.org/twc/NHANES_00069
+<http://purl.org/twc/NHANES_00069> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00050> .
+
+
+###  http://purl.org/twc/NHANES_00070
+<http://purl.org/twc/NHANES_00070> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00071
+<http://purl.org/twc/NHANES_00071> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00072
+<http://purl.org/twc/NHANES_00072> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00073
+<http://purl.org/twc/NHANES_00073> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00074
+<http://purl.org/twc/NHANES_00074> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00075
+<http://purl.org/twc/NHANES_00075> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00076
+<http://purl.org/twc/NHANES_00076> rdf:type owl:Class ;
+                                   rdfs:label "Year Range" .
 
 
 ###  http://semanticscience.org/resource/SIO_000391
@@ -800,6 +826,81 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
                                    rdfs:label "Don' know drug" .
 
 
+###  http://purl.org/twc/NHANES_00061
+<http://purl.org/twc/NHANES_00061> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Computer Assisted Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00062
+<http://purl.org/twc/NHANES_00062> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Human Interviewer Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00063
+<http://purl.org/twc/NHANES_00063> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Family Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00064
+<http://purl.org/twc/NHANES_00064> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Sample Person Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00065
+<http://purl.org/twc/NHANES_00065> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Audio Computer Assisted Personal Self Interview (ACASI) Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00066
+<http://purl.org/twc/NHANES_00066> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Computer Assisted Personal Interview (CAPI) Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00067
+<http://purl.org/twc/NHANES_00067> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Special Follow-up Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00068
+<http://purl.org/twc/NHANES_00068> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Dietary Questionnaire" .
+
+
+###  http://purl.org/twc/NHANES_00069
+<http://purl.org/twc/NHANES_00069> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable .
+
+
+###  http://purl.org/twc/NHANES_00070
+<http://purl.org/twc/NHANES_00070> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00071
+<http://purl.org/twc/NHANES_00071> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00072
+<http://purl.org/twc/NHANES_00072> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00073
+<http://purl.org/twc/NHANES_00073> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00074
+<http://purl.org/twc/NHANES_00074> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00075
+<http://purl.org/twc/NHANES_00075> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
 #################################################################
 #    Annotations
 #################################################################
@@ -931,6 +1032,33 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
 
 
 <http://purl.org/twc/NHANES_00052> skos:notation 5 .
+
+
+<http://purl.org/twc/NHANES_00069> rdfs:label "Age Category" .
+
+
+<http://purl.org/twc/NHANES_00070> skos:notation 201 ;
+                                   rdfs:label "<20 years" .
+
+
+<http://purl.org/twc/NHANES_00071> rdfs:label "<12 months" ,
+                                              205 .
+
+
+<http://purl.org/twc/NHANES_00072> skos:notation 204 ;
+                                   rdfs:label "60+ years" .
+
+
+<http://purl.org/twc/NHANES_00073> rdfs:label "40-59 years" ;
+                                   skos:notation 203 .
+
+
+<http://purl.org/twc/NHANES_00074> skos:notation 202 ;
+                                   rdfs:label "20-39 years" .
+
+
+<http://purl.org/twc/NHANES_00075> rdfs:label "12-24 months" ;
+                                   skos:notation 206 .
 
 
 ###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
