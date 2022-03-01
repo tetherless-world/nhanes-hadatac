@@ -57,6 +57,10 @@ skos:notation rdf:type owl:DatatypeProperty .
 hasco:QualityValue rdf:type owl:Class .
 
 
+###  http://hadatac.org/ont/hasco/QualityVariable
+hasco:QualityVariable rdf:type owl:Class .
+
+
 ###  http://hadatac.org/ont/hasco/QuantityVariable
 hasco:QuantityVariable rdf:type owl:Class .
 
@@ -84,6 +88,10 @@ obo:NCIT_C70811 rdf:type owl:Class .
 
 ###  http://purl.org/twc/HHEAR_00050
 <http://purl.org/twc/HHEAR_00050> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00144
+<http://purl.org/twc/HHEAR_00144> rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/HHEAR_00549
@@ -451,8 +459,77 @@ obo:NCIT_C70811 rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/NHANES_00076
-<http://purl.org/twc/NHANES_00076> rdf:type owl:Class ;
-                                   rdfs:label "Year Range" .
+<http://purl.org/twc/NHANES_00076> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00077
+<http://purl.org/twc/NHANES_00077> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00144> .
+
+
+###  http://purl.org/twc/NHANES_00078
+<http://purl.org/twc/NHANES_00078> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00079
+<http://purl.org/twc/NHANES_00079> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00080
+<http://purl.org/twc/NHANES_00080> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00081
+<http://purl.org/twc/NHANES_00081> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00082
+<http://purl.org/twc/NHANES_00082> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00083
+<http://purl.org/twc/NHANES_00083> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00084
+<http://purl.org/twc/NHANES_00084> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00085
+<http://purl.org/twc/NHANES_00085> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00086
+<http://purl.org/twc/NHANES_00086> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00087
+<http://purl.org/twc/NHANES_00087> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00088
+<http://purl.org/twc/NHANES_00088> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00089
+<http://purl.org/twc/NHANES_00089> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
+
+
+###  http://purl.org/twc/NHANES_00090
+<http://purl.org/twc/NHANES_00090> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00077> .
 
 
 ###  http://semanticscience.org/resource/SIO_000391
@@ -868,36 +945,119 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
 
 ###  http://purl.org/twc/NHANES_00069
 <http://purl.org/twc/NHANES_00069> rdf:type owl:NamedIndividual ,
-                                            hasco:QuantityVariable .
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "Age Category" .
 
 
 ###  http://purl.org/twc/NHANES_00070
 <http://purl.org/twc/NHANES_00070> rdf:type owl:NamedIndividual ,
-                                            hasco:QualityValue .
+                                            hasco:QualityValue ;
+                                   rdfs:label "<20 years" .
 
 
 ###  http://purl.org/twc/NHANES_00071
 <http://purl.org/twc/NHANES_00071> rdf:type owl:NamedIndividual ,
-                                            hasco:QualityValue .
+                                            hasco:QualityValue ;
+                                   rdfs:label 205 ,
+                                              "<12 months" .
 
 
 ###  http://purl.org/twc/NHANES_00072
 <http://purl.org/twc/NHANES_00072> rdf:type owl:NamedIndividual ,
-                                            hasco:QualityValue .
+                                            hasco:QualityValue ;
+                                   rdfs:label "60+ years" .
 
 
 ###  http://purl.org/twc/NHANES_00073
 <http://purl.org/twc/NHANES_00073> rdf:type owl:NamedIndividual ,
-                                            hasco:QualityValue .
+                                            hasco:QualityValue ;
+                                   rdfs:label "40-59 years" .
 
 
 ###  http://purl.org/twc/NHANES_00074
 <http://purl.org/twc/NHANES_00074> rdf:type owl:NamedIndividual ,
-                                            hasco:QualityValue .
+                                            hasco:QualityValue ;
+                                   rdfs:label "20-39 years" .
 
 
 ###  http://purl.org/twc/NHANES_00075
 <http://purl.org/twc/NHANES_00075> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "12-24 months" .
+
+
+###  http://purl.org/twc/NHANES_00076
+<http://purl.org/twc/NHANES_00076> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "Year Range" .
+
+
+###  http://purl.org/twc/NHANES_00077
+<http://purl.org/twc/NHANES_00077> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityVariable .
+
+
+###  http://purl.org/twc/NHANES_00078
+<http://purl.org/twc/NHANES_00078> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00079
+<http://purl.org/twc/NHANES_00079> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00080
+<http://purl.org/twc/NHANES_00080> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00081
+<http://purl.org/twc/NHANES_00081> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00082
+<http://purl.org/twc/NHANES_00082> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00083
+<http://purl.org/twc/NHANES_00083> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00084
+<http://purl.org/twc/NHANES_00084> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00085
+<http://purl.org/twc/NHANES_00085> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00086
+<http://purl.org/twc/NHANES_00086> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00087
+<http://purl.org/twc/NHANES_00087> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00088
+<http://purl.org/twc/NHANES_00088> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00089
+<http://purl.org/twc/NHANES_00089> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue .
+
+
+###  http://purl.org/twc/NHANES_00090
+<http://purl.org/twc/NHANES_00090> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue .
 
 
@@ -1034,31 +1194,74 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
 <http://purl.org/twc/NHANES_00052> skos:notation 5 .
 
 
-<http://purl.org/twc/NHANES_00069> rdfs:label "Age Category" .
+<http://purl.org/twc/NHANES_00070> skos:notation 201 .
 
 
-<http://purl.org/twc/NHANES_00070> skos:notation 201 ;
-                                   rdfs:label "<20 years" .
+<http://purl.org/twc/NHANES_00072> skos:notation 204 .
 
 
-<http://purl.org/twc/NHANES_00071> rdfs:label "<12 months" ,
-                                              205 .
+<http://purl.org/twc/NHANES_00073> skos:notation 203 .
 
 
-<http://purl.org/twc/NHANES_00072> skos:notation 204 ;
-                                   rdfs:label "60+ years" .
+<http://purl.org/twc/NHANES_00074> skos:notation 202 .
 
 
-<http://purl.org/twc/NHANES_00073> rdfs:label "40-59 years" ;
-                                   skos:notation 203 .
+<http://purl.org/twc/NHANES_00075> skos:notation 206 .
 
 
-<http://purl.org/twc/NHANES_00074> skos:notation 202 ;
-                                   rdfs:label "20-39 years" .
+<http://purl.org/twc/NHANES_00077> rdfs:label "Insurance" .
 
 
-<http://purl.org/twc/NHANES_00075> rdfs:label "12-24 months" ;
-                                   skos:notation 206 .
+<http://purl.org/twc/NHANES_00078> skos:notation "HIQ14" ;
+                                   rdfs:label "Covered by private insurance" .
+
+
+<http://purl.org/twc/NHANES_00079> skos:notation "HIQ15" ;
+                                   rdfs:label "Covered by Medicare" .
+
+
+<http://purl.org/twc/NHANES_00080> rdfs:label "Covered by Medi-Gap" ;
+                                   skos:notation "HIQ16" .
+
+
+<http://purl.org/twc/NHANES_00081> rdfs:label "Covered by Medicaid" ;
+                                   skos:notation "HIQ17" .
+
+
+<http://purl.org/twc/NHANES_00082> rdfs:label "Covered by CHIP" ;
+                                   skos:notation "HIQ18" .
+
+
+<http://purl.org/twc/NHANES_00083> skos:notation "HIQ19" ;
+                                   rdfs:label "Covered by military health care" .
+
+
+<http://purl.org/twc/NHANES_00084> rdfs:label "Covered by state-sponsored health plan" ;
+                                   skos:notation "HIQ21" .
+
+
+<http://purl.org/twc/NHANES_00085> skos:notation "HIQ22" ;
+                                   rdfs:label "Covered by other government insurance" .
+
+
+<http://purl.org/twc/NHANES_00086> skos:notation "HIQ23" ;
+                                   rdfs:label "Covered by single service plan" .
+
+
+<http://purl.org/twc/NHANES_00087> rdfs:label "No coverage of any type" ;
+                                   skos:notation "HIQ40" .
+
+
+<http://purl.org/twc/NHANES_00088> rdfs:label "Refused" ;
+                                   skos:notation "HIQ77" .
+
+
+<http://purl.org/twc/NHANES_00089> skos:notation "HIQ99" ;
+                                   rdfs:label "Don't know" .
+
+
+<http://purl.org/twc/NHANES_00090> rdfs:label "Covered by Indian Health Service" ;
+                                   skos:notation "HIQ20" .
 
 
 ###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
