@@ -12,6 +12,7 @@
 @prefix chebi: <http://purl.obolibrary.org/obo/CHEBI_> .
 @prefix hasco: <http://hadatac.org/ont/hasco/> .
 @prefix hhear: <http://purl.org/twc/HHEAR_> .
+@prefix stato: <http://purl.obolibrary.org/obo/STATO_> .
 @prefix vstoi: <http://hadatac.org/ont/vstoi#> .
 @prefix nhanes: <http://purl.org/twc/NHANES_> .
 @base <http://purl.org/twc/NHANES> .
@@ -77,8 +78,7 @@ vstoi:Questionnaire rdf:type owl:Class .
 ###  http://purl.obolibrary.org/obo/CHEBI_16113
 obo:CHEBI_16113 rdf:type owl:Class ;
                 rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
-                                <http://purl.org/twc/HHEAR_00034> ;
-                rdfs:label "cholesterol" .
+                                <http://purl.org/twc/HHEAR_00034> .
 
 
 ###  http://purl.obolibrary.org/obo/CHEBI_23888
@@ -92,6 +92,11 @@ obo:ExO_0000041 rdf:type owl:Class .
 
 ###  http://purl.obolibrary.org/obo/NCIT_C70811
 obo:NCIT_C70811 rdf:type owl:Class .
+
+
+###  http://purl.obolibrary.org/obo/STATO_0000113
+obo:STATO_0000113 rdf:type owl:Class ;
+                  rdfs:label "variance" .
 
 
 ###  http://purl.obolibrary.org/obo/UO_0000052
@@ -582,6 +587,23 @@ obo:UO_0000052 rdf:type owl:Class .
                                    rdfs:subClassOf obo:UO_0000052 .
 
 
+###  http://purl.org/twc/NHANES_00097
+<http://purl.org/twc/NHANES_00097> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00050> .
+
+
+###  http://purl.org/twc/NHANES_00098
+<http://purl.org/twc/NHANES_00098> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:STATO_0000113 ,
+                                                   <http://purl.org/twc/HHEAR_00050> .
+
+
+###  http://purl.org/twc/NHANES_00099
+<http://purl.org/twc/NHANES_00099> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:STATO_0000113 ,
+                                                   <http://purl.org/twc/HHEAR_00050> .
+
+
 ###  http://semanticscience.org/resource/SIO_000391
 sio:SIO_000391 rdf:type owl:Class .
 
@@ -593,6 +615,11 @@ sio:SIO_000794 rdf:type owl:Class .
 #################################################################
 #    Individuals
 #################################################################
+
+###  http://purl.obolibrary.org/obo/CHEBI_16113
+obo:CHEBI_16113 rdf:type owl:NamedIndividual ;
+                rdfs:label "cholesterol" .
+
 
 ###  http://purl.obolibrary.org/obo/CHEBI_23888
 obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
@@ -767,8 +794,7 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00028
 <http://purl.org/twc/NHANES_00028> rdf:type owl:NamedIndividual ,
                                             hasco:QuantityVariable ;
-                                   rdfs:label "Full sample 2 year weight" ;
-                                   skos:definition "Full sample 2 year weight." .
+                                   rdfs:label "Full sample 2 year interview weight" .
 
 
 ###  http://purl.org/twc/NHANES_00029
@@ -1158,6 +1184,24 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00096
 <http://purl.org/twc/NHANES_00096> rdf:type owl:NamedIndividual ;
                                    rdfs:label "milligram per deciliter" .
+
+
+###  http://purl.org/twc/NHANES_00097
+<http://purl.org/twc/NHANES_00097> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "Full sample 2 year MEC exam weight" .
+
+
+###  http://purl.org/twc/NHANES_00098
+<http://purl.org/twc/NHANES_00098> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "Masked variance pseudo-PSU" .
+
+
+###  http://purl.org/twc/NHANES_00099
+<http://purl.org/twc/NHANES_00099> rdf:type owl:NamedIndividual ,
+                                            hasco:QuantityVariable ;
+                                   rdfs:label "Masked variance pseudo-stratum" .
 
 
 #################################################################
