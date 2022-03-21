@@ -1,4 +1,5 @@
 @prefix : <http://purl.org/twc/NHANES#> .
+@prefix uo: <http://purl.obolibrary.org/obo/UO_> .
 @prefix exo: <http://purl.obolibrary.org/obo/ExO_> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -73,6 +74,13 @@ hasco:StudyIndicator rdf:type owl:Class .
 vstoi:Questionnaire rdf:type owl:Class .
 
 
+###  http://purl.obolibrary.org/obo/CHEBI_16113
+obo:CHEBI_16113 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
+                rdfs:label "cholesterol" .
+
+
 ###  http://purl.obolibrary.org/obo/CHEBI_23888
 obo:CHEBI_23888 rdf:type owl:Class ;
                 rdfs:subClassOf hasco:StudyIndicator .
@@ -84,6 +92,18 @@ obo:ExO_0000041 rdf:type owl:Class .
 
 ###  http://purl.obolibrary.org/obo/NCIT_C70811
 obo:NCIT_C70811 rdf:type owl:Class .
+
+
+###  http://purl.obolibrary.org/obo/UO_0000052
+obo:UO_0000052 rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00027
+<http://purl.org/twc/HHEAR_00027> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00034
+<http://purl.org/twc/HHEAR_00034> rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/HHEAR_00050
@@ -555,6 +575,11 @@ obo:NCIT_C70811 rdf:type owl:Class .
 ###  http://purl.org/twc/NHANES_00095
 <http://purl.org/twc/NHANES_00095> rdf:type owl:Class ;
                                    rdfs:subClassOf <http://purl.org/twc/NHANES_00026> .
+
+
+###  http://purl.org/twc/NHANES_00096
+<http://purl.org/twc/NHANES_00096> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:UO_0000052 .
 
 
 ###  http://semanticscience.org/resource/SIO_000391
@@ -1128,6 +1153,11 @@ obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
 <http://purl.org/twc/NHANES_00095> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
                                    rdfs:label "Born in Other Non-Spanish Speaking Country" .
+
+
+###  http://purl.org/twc/NHANES_00096
+<http://purl.org/twc/NHANES_00096> rdf:type owl:NamedIndividual ;
+                                   rdfs:label "milligram per deciliter" .
 
 
 #################################################################
