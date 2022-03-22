@@ -1,0 +1,146 @@
+SEQN,RXDUSE,RXDDRUG,RXDDRGID,RXQSEEN,RXDDAYS,RXDRSC,RXDRSD,RXDCOUNT
+83732,1,CETIRIZINE,d03827,2,365,R09.81,"Nasal congestion",9
+83732,1,FLUTICASONE NASAL,d04283,2,365,R09.81,"Nasal congestion",9
+83732,1,HYDROXYCHLOROQUINE,d00817,2,4,J98.9,"Respiratory disorder, unspecified",9
+83732,1,INSULIN GLARGINE,d04538,2,1825,R73,"Elevated blood glucose level",9
+83732,1,LIRAGLUTIDE,d07466,1,1825,E11,"Type 2 diabetes mellitus",9
+83732,1,LISINOPRIL,d00732,1,730,I49.9,"Cardiac arrhythmia, unspecified",9
+83732,1,METFORMIN,d03807,1,3650,R73,"Elevated blood glucose level",9
+83732,1,METOCLOPRAMIDE,d00298,1,730,K92.9,"Disease of digestive system, unspecified",9
+83732,1,MONTELUKAST,d04289,2,730,R09.81,"Nasal congestion",9
+83734,1,ALBUTEROL,d00749,1,3650,R06.02,"Shortness of breath",7
+83734,1,AMLODIPINE,d00689,1,3650,I10,"Essential (primary) hypertension",7
+83734,1,BUDESONIDE; FORMOTEROL,d04795,1,3650,J42,"Unspecified chronic bronchitis",7
+83734,1,FOSINOPRIL,d00242,1,3650,I10,"Essential (primary) hypertension",7
+83734,1,GEMFIBROZIL,d00245,1,4380,E78.1,"Pure hyperglyceridemia",7
+83734,1,ISOSORBIDE MONONITRATE,d00269,1,3650,I10,"Essential (primary) hypertension",7
+83734,1,LEVOTHYROXINE,d00278,1,4015,E03.9,"Hypothyroidism, unspecified",7
+83735,1,AMPHETAMINE,d00803,1,182,F90,"Attention-deficit hyperactivity disorders",5
+83735,1,BUPROPION,d00181,1,1825,F32.9,"Major depressive disorder, single episode, unspecified",5
+83735,1,FLUOXETINE,d00236,1,2190,F32.9,"Major depressive disorder, single episode, unspecified",5
+83735,1,FLUOXETINE,d00236,1,2190,F41.9,"Anxiety disorder, unspecified",5
+83735,1,FLUOXETINE,d00236,1,2190,F43.1,"Post-traumatic stress disorder (PTSD)",5
+83735,1,PRIMIDONE,d00352,1,5840,G25.0,"Essential tremor",5
+83735,1,TEMAZEPAM,d00384,1,730,G47.0,"Insomnia",5
+83736,1,NITROFURANTOIN,d00112,2,4,N30,"Cystitis",1
+83743,1,DOXYCYCLINE,d00037,1,61,L70,"Acne",1
+83744,1,CARVEDILOL,d03847,1,1095,I10,"Essential (primary) hypertension",6
+83744,1,CLONIDINE,d00044,1,1095,I10,"Essential (primary) hypertension",6
+83744,1,HYDRALAZINE,d00132,1,1095,I10,"Essential (primary) hypertension",6
+83744,1,HYDROCHLOROTHIAZIDE; LISINOPRIL,d03266,1,1095,I50.9,"Heart failure, unspecified",6
+83744,1,INSULIN GLARGINE,d04538,1,1095,E11,"Type 2 diabetes mellitus",6
+83744,1,LOSARTAN,d03821,1,1095,I10,"Essential (primary) hypertension",6
+83747,1,RANITIDINE,d00021,2,730,K30,"Functional dyspepsia",1
+83748,1,LACTULOSE,d01024,1,30,K59.0,"Constipation",1
+83749,1,PREDNISONE,d00350,1,7,55555,"",1
+83754,1,APIXABAN,d07804,1,61,I49.9,"Cardiac arrhythmia, unspecified",3
+83754,1,METOPROLOL,d00134,1,304,I10,"Essential (primary) hypertension",3
+83754,1,PRAVASTATIN,d00348,1,122,E78.0,"Pure hypercholesterolemia",3
+83755,1,AMLODIPINE,d00689,1,2555,I10,"Essential (primary) hypertension",5
+83755,1,ASPIRIN,d00170,1,2555,55555,"",5
+83755,1,INSULIN ISOPHANE; INSULIN REGULAR,d04374,1,2555,E11,"Type 2 diabetes mellitus",5
+83755,1,METFORMIN,d03807,1,2555,E11,"Type 2 diabetes mellitus",5
+83756,1,AMPHETAMINE,d00803,1,182,F90,"Attention-deficit hyperactivity disorders",1
+83757,1,ATORVASTATIN,d04105,1,730,R73,"Elevated blood glucose level",11
+83757,1,BETAMETHASONE TOPICAL,d03197,1,91,H57.9,"Unspecified disorder of eye and adnexa",11
+83757,1,CLONIDINE,d00044,1,1460,I10,"Essential (primary) hypertension",11
+83757,1,FENTANYL,d00233,1,213,M19.9,"Osteoarthritis, unspecified site",11
+83757,1,FUROSEMIDE,d00070,1,3650,I10,"Essential (primary) hypertension",11
+83757,1,FUROSEMIDE,d00070,1,3650,R60.9,"Edema, unspecified",11
+83757,1,GLUCAGON,d00593,1,1460,R73,"Elevated blood glucose level",11
+83757,1,INSULIN REGULAR,d04369,1,730,R73,"Elevated blood glucose level",11
+83757,1,LEVOTHYROXINE,d00278,1,5475,E03.9,"Hypothyroidism, unspecified",11
+83757,1,METOPROLOL,d00134,1,3650,E78.0,"Pure hypercholesterolemia",11
+83757,1,POTASSIUM CHLORIDE,d00345,1,3650,E78.0,"Pure hypercholesterolemia",11
+83758,1,AMIODARONE,d00002,1,730,99999,"",9
+83758,1,ATORVASTATIN,d04105,1,1460,I10,"Essential (primary) hypertension",9
+83758,1,CARBIDOPA; LEVODOPA,d03473,1,730,G20,"Parkinson's disease",9
+83758,1,DONEPEZIL,d04099,1,99999,R41,"Other symptoms and signs involving cognitive functions and awareness",9
+83758,1,LEVOTHYROXINE,d00278,1,1460,E03.9,"Hypothyroidism, unspecified",9
+83758,1,LINACLOTIDE,d07902,1,1095,K59.0,"Constipation",9
+83758,1,SULFASALAZINE,d00379,1,1095,99999,"",9
+83759,1,ARIPIPRAZOLE,d04825,1,7,F20,"Schizophrenia",2
+83759,1,ARIPIPRAZOLE,d04825,1,61,F20,"Schizophrenia",2
+83764,1,INSULIN ASPART,d04697,1,730,E11,"Type 2 diabetes mellitus",1
+83767,1,DESONIDE TOPICAL,d01290,1,30,L23,"Allergic contact dermatitis",4
+83767,1,ESTRADIOL,d00537,1,1825,Z79.890,"Hormone replacement therapy",4
+83767,1,HYDROCHLOROTHIAZIDE,d00253,1,2920,I10,"Essential (primary) hypertension",4
+83767,1,MEDROXYPROGESTERONE,d00284,1,1825,Z79.890,"Hormone replacement therapy",4
+83773,1,AMITRIPTYLINE,d00146,1,14600,G47.0,"Insomnia",7
+83773,1,FAMOTIDINE,d00141,1,1825,K30,"Functional dyspepsia",7
+83773,1,HYDROCHLOROTHIAZIDE; LOSARTAN,d03830,1,7300,I10,"Essential (primary) hypertension",7
+83773,1,METFORMIN,d03807,1,274,E11,"Type 2 diabetes mellitus",7
+83773,1,POLYETHYLENE GLYCOL 3350,d05350,1,3650,K59.0,"Constipation",7
+83773,1,SIMVASTATIN,d00746,1,3650,E78.0,"Pure hypercholesterolemia",7
+83773,1,ZALEPLON,d04452,1,3650,G47.9,"Sleep disorder, unspecified",7
+83775,1,CARVEDILOL,d03847,1,1095,I10,"Essential (primary) hypertension",4
+83775,1,ESOMEPRAZOLE,d04749,1,730,K30,"Functional dyspepsia",4
+83775,1,LISINOPRIL,d00732,1,3650,I10,"Essential (primary) hypertension",4
+83775,1,PRAVASTATIN,d00348,1,7300,E78.0,"Pure hypercholesterolemia",4
+83776,1,ESTRADIOL; NORETHINDRONE,d04375,3,2190,N95,"Menopausal and other perimenopausal disorders",1
+83777,1,ATORVASTATIN,d04105,1,365,E78.0,"Pure hypercholesterolemia",7
+83777,1,DEXLANSOPRAZOLE,d07395,1,365,K21,"Gastro-esophageal reflux disease",7
+83777,1,FENOFIBRATE,d04286,1,730,E78.0,"Pure hypercholesterolemia",7
+83777,1,GLYBURIDE,d00248,1,91,E11,"Type 2 diabetes mellitus",7
+83777,1,HYDROCHLOROTHIAZIDE,d00253,1,730,I10,"Essential (primary) hypertension",7
+83777,1,LOSARTAN,d03821,1,61,E11.2,"Type 2 diabetes mellitus with kidney complications",7
+83777,1,NAPROXEN,d00019,1,730,M25.5,"Pain in joint",7
+83779,1,LACTULOSE,d01024,1,365,K59.0,"Constipation",1
+83785,1,ATORVASTATIN,d04105,1,3650,E78.0,"Pure hypercholesterolemia",5
+83785,1,CONJUGATED ESTROGENS,d00541,1,3650,Z79.890,"Hormone replacement therapy",5
+83785,1,ENALAPRIL,d00013,1,3650,I10,"Essential (primary) hypertension",5
+83785,1,METOPROLOL,d00134,1,3650,I10,"Essential (primary) hypertension",5
+83785,1,SAXAGLIPTIN,d07467,1,365,E11,"Type 2 diabetes mellitus",5
+83787,1,IBUPROFEN,d00015,1,1825,M25.5,"Pain in joint",3
+83787,1,IBUPROFEN,d00015,1,1825,M79.1,"Myalgia",3
+83787,1,LISINOPRIL,d00732,1,3650,I10,"Essential (primary) hypertension",3
+83787,1,LOVASTATIN,d00280,1,3650,E78.0,"Pure hypercholesterolemia",3
+83788,1,NITROFURANTOIN,d00112,1,61,N39.0,"Urinary tract infection, site not specified",1
+83789,1,AZELASTINE NASAL,d04068,1,1825,R09.81,"Nasal congestion",5
+83789,1,ESCITALOPRAM,d04812,1,3650,F32.9,"Major depressive disorder, single episode, unspecified",5
+83789,1,LOSARTAN,d03821,1,3650,I10,"Essential (primary) hypertension",5
+83789,1,OLOPATADINE OPHTHALMIC,d04117,1,1825,H57.9,"Unspecified disorder of eye and adnexa",5
+83789,1,SIMVASTATIN,d00746,1,3650,E78.0,"Pure hypercholesterolemia",5
+83791,1,ALENDRONATE,d03849,1,4380,M81,"Osteoporosis without current pathological fracture",5
+83791,1,LEVOTHYROXINE,d00278,1,10950,E03.9,"Hypothyroidism, unspecified",5
+83791,1,PREDNISONE,d00350,1,730,M35,"Other systemic involvement of connective tissue",5
+83791,1,SOTALOL,d00371,1,730,I49.9,"Cardiac arrhythmia, unspecified",5
+83791,1,WARFARIN,d00022,1,730,I49.9,"Cardiac arrhythmia, unspecified",5
+83795,1,AZITHROMYCIN,d00091,2,5,J18.9,"Pneumonia, unspecified organism",2
+83795,1,CEFDINIR,d04256,1,2,J02,"Acute pharyngitis",2
+83796,1,ALBUTEROL,d00749,1,122,J45,"Asthma",4
+83796,1,BUDESONIDE,d04276,1,14,J45,"Asthma",4
+83796,1,MONTELUKAST,d04289,1,122,J45,"Asthma",4
+83796,1,MONTELUKAST,d04289,1,122,T78.40,"Allergy, unspecified",4
+83796,1,MUPIROCIN TOPICAL,d01267,1,21,L08.9,"Local infection of the skin and subcutaneous tissue, unspecified",4
+83801,1,ATORVASTATIN,d04105,1,3650,E78.0,"Pure hypercholesterolemia",3
+83801,1,RIVAROXABAN,d07356,1,730,Z79.0,"Long term (current) use of anticoagulants and antithrombotics/antiplatelets",3
+83802,1,SERTRALINE,d00880,1,122,F41.9,"Anxiety disorder, unspecified",1
+83804,1,CETIRIZINE,d03827,1,7,J00,"Acute nasopharyngitis [common cold]",1
+83812,1,FENOFIBRATE,d04286,2,2920,E78.0,"Pure hypercholesterolemia",4
+83812,1,HYDROCHLOROTHIAZIDE; LISINOPRIL,d03266,2,2920,I10,"Essential (primary) hypertension",4
+83812,1,LEVOTHYROXINE,d00278,2,1460,E03.9,"Hypothyroidism, unspecified",4
+83812,1,SIMVASTATIN,d00746,2,2920,E78.0,"Pure hypercholesterolemia",4
+83818,1,ESOMEPRAZOLE,d04749,1,2920,K21,"Gastro-esophageal reflux disease",4
+83818,1,LOSARTAN,d03821,1,3650,I10,"Essential (primary) hypertension",4
+83818,1,NEBIVOLOL,d05265,1,3650,I10,"Essential (primary) hypertension",4
+83818,1,ROSUVASTATIN,d04851,1,730,E78.0,"Pure hypercholesterolemia",4
+83819,1,FLUOXETINE,d00236,1,2555,F90,"Attention-deficit hyperactivity disorders",3
+83819,1,MINOCYCLINE,d00110,1,365,L70,"Acne",3
+83819,1,MONTELUKAST,d04289,1,1460,J45,"Asthma",3
+83821,1,AMLODIPINE,d00689,1,2190,I10,"Essential (primary) hypertension",14
+83821,1,CARVEDILOL,d03847,1,1460,I10,"Essential (primary) hypertension",14
+83821,1,DOCUSATE,d01021,1,2190,K58,"Irritable bowel syndrome",14
+83821,1,GABAPENTIN,d03182,1,1095,M54,"Dorsalgia",14
+83821,1,LEVOTHYROXINE,d00278,1,365,E03.9,"Hypothyroidism, unspecified",14
+83821,1,LOSARTAN,d03821,1,3650,I10,"Essential (primary) hypertension",14
+83821,1,MECLIZINE,d00859,1,365,R42,"Dizziness and giddiness",14
+83821,1,OMEPRAZOLE,d00325,1,10950,K21,"Gastro-esophageal reflux disease",14
+83821,1,PAROXETINE,d03157,1,365,F41.9,"Anxiety disorder, unspecified",14
+83821,1,POTASSIUM CHLORIDE,d00345,1,730,E87.6,"Hypokalemia",14
+83821,1,PRAVASTATIN,d00348,1,1825,E78.0,"Pure hypercholesterolemia",14
+83821,1,TRAMADOL,d03826,1,365,M54,"Dorsalgia",14
+83821,1,TRAMADOL,d03826,1,547,M54,"Dorsalgia",14
+83822,1,DESOGESTREL; ETHINYL ESTRADIOL,d03782,1,1095,N92,"Excessive, frequent and irregular menstruation",1
+83827,1,LOSARTAN,d03821,1,365,I10,"Essential (primary) hypertension",1
+83831,1,ADAPALENE TOPICAL,d04015,1,547,L70,"Acne",1
