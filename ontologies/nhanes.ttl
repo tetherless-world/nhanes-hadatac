@@ -90,6 +90,13 @@ obo:CHEBI_23888 rdf:type owl:Class ;
 obo:ExO_0000041 rdf:type owl:Class .
 
 
+###  http://purl.obolibrary.org/obo/NCIT_C64849
+obo:NCIT_C64849 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
+                rdfs:label "Glycosylated Hemoglobin Measurement" .
+
+
 ###  http://purl.obolibrary.org/obo/NCIT_C70811
 obo:NCIT_C70811 rdf:type owl:Class .
 
@@ -1281,36 +1288,31 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00101
 <http://purl.org/twc/NHANES_00101> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Yes" ;
-                                   skos:notation "DIQ010-1" .
+                                   rdfs:label "Yes" .
 
 
 ###  http://purl.org/twc/NHANES_00102
 <http://purl.org/twc/NHANES_00102> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "No" ;
-                                   skos:notation "DIQ010-2" .
+                                   rdfs:label "No" .
 
 
 ###  http://purl.org/twc/NHANES_00103
 <http://purl.org/twc/NHANES_00103> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Borderline" ;
-                                   skos:notation "DIQ010-3" .
+                                   rdfs:label "Borderline" .
 
 
 ###  http://purl.org/twc/NHANES_00104
 <http://purl.org/twc/NHANES_00104> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Refused" ;
-                                   skos:notation "DIQ010-7" .
+                                   rdfs:label "Refused" .
 
 
 ###  http://purl.org/twc/NHANES_00105
 <http://purl.org/twc/NHANES_00105> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Don't know" ;
-                                   skos:notation "DIQ010-9" .
+                                   rdfs:label "Don't know" .
 
 
 ###  http://purl.org/twc/NHANES_00106
@@ -1322,29 +1324,25 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00107
 <http://purl.org/twc/NHANES_00107> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Yes" ;
-                                   skos:notation "DIQ050-1" .
+                                   rdfs:label "Yes" .
 
 
 ###  http://purl.org/twc/NHANES_00108
 <http://purl.org/twc/NHANES_00108> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "No" ;
-                                   skos:notation "DIQ050-2" .
+                                   rdfs:label "No" .
 
 
 ###  http://purl.org/twc/NHANES_00109
 <http://purl.org/twc/NHANES_00109> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Refused" ;
-                                   skos:notation "DIQ050-7" .
+                                   rdfs:label "Refused" .
 
 
 ###  http://purl.org/twc/NHANES_00110
 <http://purl.org/twc/NHANES_00110> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Don't know" ;
-                                   skos:notation "DIQ050-9" .
+                                   rdfs:label "Don't know" .
 
 
 ###  http://purl.org/twc/NHANES_00111
@@ -1356,29 +1354,25 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00112
 <http://purl.org/twc/NHANES_00112> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Yes" ;
-                                   skos:notation "DIQ070-1" .
+                                   rdfs:label "Yes" .
 
 
 ###  http://purl.org/twc/NHANES_00113
 <http://purl.org/twc/NHANES_00113> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "No" ;
-                                   skos:notation "DIQ070-2" .
+                                   rdfs:label "No" .
 
 
 ###  http://purl.org/twc/NHANES_00114
 <http://purl.org/twc/NHANES_00114> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Refused" ;
-                                   skos:notation "DIQ070-7" .
+                                   rdfs:label "Refused" .
 
 
 ###  http://purl.org/twc/NHANES_00115
 <http://purl.org/twc/NHANES_00115> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Don't know" ;
-                                   skos:notation "DIQ070-9" .
+                                   rdfs:label "Don't know" .
 
 
 #################################################################
@@ -1581,6 +1575,45 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 
 
 <http://purl.org/twc/NHANES_00095> skos:notation "DMDBORN-05" .
+
+
+<http://purl.org/twc/NHANES_00101> skos:notation "DIQ010-1" .
+
+
+<http://purl.org/twc/NHANES_00102> skos:notation "DIQ010-2" .
+
+
+<http://purl.org/twc/NHANES_00103> skos:notation "DIQ010-3" .
+
+
+<http://purl.org/twc/NHANES_00104> skos:notation "DIQ010-7" .
+
+
+<http://purl.org/twc/NHANES_00105> skos:notation "DIQ010-9" .
+
+
+<http://purl.org/twc/NHANES_00107> skos:notation "DIQ050-1" .
+
+
+<http://purl.org/twc/NHANES_00108> skos:notation "DIQ050-2" .
+
+
+<http://purl.org/twc/NHANES_00109> skos:notation "DIQ050-7" .
+
+
+<http://purl.org/twc/NHANES_00110> skos:notation "DIQ050-9" .
+
+
+<http://purl.org/twc/NHANES_00112> skos:notation "DIQ070-1" .
+
+
+<http://purl.org/twc/NHANES_00113> skos:notation "DIQ070-2" .
+
+
+<http://purl.org/twc/NHANES_00114> skos:notation "DIQ070-7" .
+
+
+<http://purl.org/twc/NHANES_00115> skos:notation "DIQ070-9" .
 
 
 ###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
