@@ -1,0 +1,166 @@
+SEQN,RXDUSE,RXDDRUG,RXDDRGID,RXQSEEN,RXDDAYS,RXDRSC,RXDRSD,RXDCOUNT
+73557,1,INSULIN,d00262,2,1460,E11,"Type 2 diabetes mellitus",2
+73558,1,GABAPENTIN,d03182,1,243,G25.81,"Restless legs syndrome",4
+73558,1,INSULIN GLARGINE,d04538,1,365,E11,"Type 2 diabetes mellitus",4
+73558,1,OLMESARTAN,d04801,1,14,E11.2,"Type 2 diabetes mellitus with kidney complications",4
+73558,1,SIMVASTATIN,d00746,1,61,E78.0,"Pure hypercholesterolemia",4
+73559,1,INSULIN ASPART,d04697,1,365,E11,"Type 2 diabetes mellitus",5
+73559,1,INSULIN GLARGINE,d04538,1,4380,E11,"Type 2 diabetes mellitus",5
+73559,1,PANCRELIPASE,d01002,1,365,K86.9,"Disease of pancreas, unspecified",5
+73559,1,SIMVASTATIN,d00746,1,2920,E78.0,"Pure hypercholesterolemia",5
+73559,1,VALSARTAN,d04113,1,3650,I10,"Essential (primary) hypertension",5
+73561,1,55555,,1,152,55555,"",4
+73561,1,CARVEDILOL,d03847,1,6205,I10,"Essential (primary) hypertension",4
+73561,1,LEVOTHYROXINE,d00278,1,6205,E03.9,"Hypothyroidism, unspecified",4
+73561,1,VALSARTAN,d04113,1,4380,I10,"Essential (primary) hypertension",4
+73562,1,AMLODIPINE,d00689,2,365,I10,"Essential (primary) hypertension",7
+73562,1,ATORVASTATIN,d04105,2,1825,E78.0,"Pure hypercholesterolemia",7
+73562,1,LISINOPRIL,d00732,2,3650,I10,"Essential (primary) hypertension",7
+73562,1,MINOXIDIL,d00135,2,365,I10,"Essential (primary) hypertension",7
+73562,1,NAPROXEN,d00019,2,730,55555,"",7
+73562,1,PAROXETINE,d03157,2,5475,G47.0,"Insomnia",7
+73562,1,PRASUGREL,d07409,2,365,Z95.5,"Presence of coronary angioplasty implant and graft",7
+73564,1,CITALOPRAM,d04332,1,1825,F32.9,"Major depressive disorder, single episode, unspecified",3
+73564,1,LORAZEPAM,d00149,1,5475,F41.9,"Anxiety disorder, unspecified",3
+73564,1,ZOLPIDEM,d00910,1,1825,G47.9,"Sleep disorder, unspecified",3
+73565,1,BUPROPION,d00181,2,5,F17.203,"Nicotine dependence unspecified, with withdrawal",1
+73566,1,ACETAMINOPHEN; HYDROCODONE,d03428,1,2555,M79.1,"Myalgia",3
+73566,1,BACLOFEN,d00967,1,2555,M62.83,"Muscle spasm",3
+73566,1,GABAPENTIN,d03182,1,2555,M62.83,"Muscle spasm",3
+73571,1,ESOMEPRAZOLE,d04749,2,3650,K21,"Gastro-esophageal reflux disease",3
+73572,1,MONTELUKAST,d04289,1,21,J30.9,"Allergic rhinitis, unspecified",1
+73572,1,MONTELUKAST,d04289,1,21,R09.81,"Nasal congestion",1
+73575,1,BROMPHENIRAMINE; PSEUDOEPHEDRINE,d03301,1,14,J00,"Acute nasopharyngitis [common cold]",3
+73575,1,IBUPROFEN,d00015,1,3,R50.9,"Fever, unspecified",3
+73575,1,PREDNISOLONE,d00084,1,7,R05,"Cough",3
+73583,1,RANITIDINE,d00021,1,21,K92.2,"Gastrointestinal hemorrhage, unspecified",1
+73597,1,ACETAMINOPHEN; HYDROCODONE,d03428,3,30,M54.9,"Dorsalgia, unspecified",3
+73597,1,ALBUTEROL,d00749,3,30,R05,"Cough",3
+73597,1,HEPARIN,d00252,3,30,I26,"Pulmonary embolism",3
+73600,1,AMOXICILLIN,d00088,2,7,L03.90,"Cellulitis, unspecified",1
+73604,1,ATORVASTATIN,d04105,1,365,E78.0,"Pure hypercholesterolemia",6
+73604,1,DULOXETINE,d05355,1,2920,G25.81,"Restless legs syndrome",6
+73604,1,LEVOTHYROXINE,d00278,1,18250,E03.9,"Hypothyroidism, unspecified",6
+73604,1,LORAZEPAM,d00149,1,5475,G47.9,"Sleep disorder, unspecified",6
+73604,1,METOPROLOL,d00134,1,365,I51.9,"Heart disease, unspecified",6
+73604,1,METOPROLOL,d00134,1,365,R01.1,"Cardiac murmur, unspecified",6
+73604,1,TRAMADOL,d03826,1,1825,M79.673,"Pain in unspecified foot",6
+73607,1,CELECOXIB,d04380,1,365,M13,"Other arthritis",5
+73607,1,CLONAZEPAM,d00197,1,2920,G47.9,"Sleep disorder, unspecified",5
+73607,1,DIVALPROEX SODIUM,d03833,1,2920,F20,"Schizophrenia",5
+73607,1,RISPERIDONE,d03180,1,4380,F20,"Schizophrenia",5
+73607,1,TRAMADOL,d03826,1,365,M13,"Other arthritis",5
+73612,1,ALBUTEROL,d00749,1,1095,J45,"Asthma",1
+73613,1,AMLODIPINE,d00689,1,2555,I10,"Essential (primary) hypertension",7
+73613,1,HYDROCHLOROTHIAZIDE,d00253,1,5475,I10,"Essential (primary) hypertension",7
+73613,1,LOSARTAN,d03821,1,2555,I10,"Essential (primary) hypertension",7
+73613,1,METOPROLOL,d00134,1,2555,I10,"Essential (primary) hypertension",7
+73613,1,PHENTERMINE,d00806,1,365,E66.3,"Overweight",7
+73613,1,PREDNISONE,d00350,1,5475,M60.9,"Myositis, unspecified",7
+73613,1,SPIRONOLACTONE,d00373,1,2555,I10,"Essential (primary) hypertension",7
+73614,1,ALBUTEROL,d00749,1,1095,J42,"Unspecified chronic bronchitis",4
+73614,1,ALBUTEROL; IPRATROPIUM,d04066,1,14,J44.9,"Chronic obstructive pulmonary disease, unspecified",4
+73614,1,PANTOPRAZOLE,d04514,1,14,99999,"",4
+73614,1,PREDNISONE,d00350,1,14,J44.9,"Chronic obstructive pulmonary disease, unspecified",4
+73615,1,ALBUTEROL,d00749,3,99999,J45,"Asthma",14
+73615,1,BENZTROPINE,d00175,3,99999,F98.4,"Stereotyped movement disorders",14
+73615,1,CLOBETASOL TOPICAL,d01288,3,99999,L23,"Allergic contact dermatitis",14
+73615,1,CLOTRIMAZOLE TOPICAL,d04395,3,99999,B37.3,"Candidiasis of vulva and vagina",14
+73615,1,DOCUSATE,d01021,3,99999,K59.0,"Constipation",14
+73615,1,FLUTICASONE; SALMETEROL,d04611,3,99999,J45,"Asthma",14
+73615,1,INSULIN GLARGINE,d04538,3,99999,E11,"Type 2 diabetes mellitus",14
+73615,1,LACTIC ACID TOPICAL,d04090,3,99999,L85.3,"Xerosis cutis",14
+73615,1,METFORMIN,d03807,3,99999,E11,"Type 2 diabetes mellitus",14
+73615,1,PALIPERIDONE,d06297,3,99999,F20,"Schizophrenia",14
+73615,1,PREGABALIN,d05508,3,99999,E11.4,"Type 2 diabetes mellitus with neurological complications",14
+73615,1,QUETIAPINE,d04220,3,99999,F20,"Schizophrenia",14
+73615,1,RISPERIDONE,d03180,3,99999,F20,"Schizophrenia",14
+73615,1,TIOTROPIUM,d04829,3,99999,J45,"Asthma",14
+73616,1,ATORVASTATIN,d04105,1,1095,E78.0,"Pure hypercholesterolemia",2
+73616,1,CONJUGATED ESTROGENS,d00541,1,1825,N81.4,"Uterovaginal prolapse, unspecified",2
+73620,1,AMOXICILLIN,d00088,2,5,J40,"Bronchitis, not specified as acute or chronic",1
+73621,1,ALENDRONATE,d03849,1,1095,M81,"Osteoporosis without current pathological fracture",3
+73621,1,ATORVASTATIN,d04105,1,365,E78.0,"Pure hypercholesterolemia",3
+73621,1,FESOTERODINE,d07162,1,730,N32.81,"Overactive bladder",3
+73622,1,TADALAFIL,d04896,1,1460,N52.9,"Male erectile dysfunction, unspecified",1
+73623,1,TESTOSTERONE,d00558,2,365,E29.1,"Testicular hypofunction",1
+73624,1,CIPROFLOXACIN,d00011,1,2,A09,"Infectious gastroenteritis and colitis, unspecified",1
+73626,1,ACETAMINOPHEN; HYDROCODONE,d03428,1,1095,M25.55,"Pain in hip",5
+73626,1,ACETAMINOPHEN; HYDROCODONE,d03428,1,1095,M79.1,"Myalgia",5
+73626,1,ACETAMINOPHEN; HYDROCODONE,d03428,1,1095,M79.606,"Pain in leg, unspecified",5
+73626,1,ACYCLOVIR,d00001,1,1460,B34.9,"Viral infection, unspecified",5
+73626,1,AMLODIPINE,d00689,1,16425,I10,"Essential (primary) hypertension",5
+73626,1,GABAPENTIN,d03182,1,1460,M79.2,"Neuralgia and neuritis, unspecified",5
+73626,1,NORTRIPTYLINE,d00144,1,122,M79.2,"Neuralgia and neuritis, unspecified",5
+73628,1,ALENDRONATE,d03849,1,4380,M81,"Osteoporosis without current pathological fracture",11
+73628,1,BUDESONIDE; FORMOTEROL,d04795,1,5475,J44.9,"Chronic obstructive pulmonary disease, unspecified",11
+73628,1,CARVEDILOL,d03847,1,3650,I51.9,"Heart disease, unspecified",11
+73628,1,COLCHICINE,d00150,1,730,M1A,"Chronic gout",11
+73628,1,DILTIAZEM,d00045,1,10585,I51.9,"Heart disease, unspecified",11
+73628,1,FUROSEMIDE,d00070,1,1825,N28.9,"Disorder of kidney and ureter, unspecified",11
+73628,1,IPRATROPIUM NASAL,d04235,1,2190,R09.89,"Other specified symptoms and signs involving the circulatory and respiratory systems",11
+73628,1,LATANOPROST OPHTHALMIC,d04017,1,1825,H40,"Glaucoma",11
+73628,1,LEVOTHYROXINE,d00278,1,4380,E03.9,"Hypothyroidism, unspecified",11
+73628,1,LISINOPRIL,d00732,1,10585,I51.9,"Heart disease, unspecified",11
+73628,1,ZOLPIDEM,d00910,1,730,G47.0,"Insomnia",11
+73630,1,FLUOROMETHOLONE OPHTHALMIC,d03227,1,14,H10.1,"Acute atopic conjunctivitis",2
+73630,1,METHYLPHENIDATE,d00900,1,1460,F90,"Attention-deficit hyperactivity disorders",2
+73633,1,HYDROCHLOROTHIAZIDE; LOSARTAN,d03830,1,730,I10,"Essential (primary) hypertension",1
+73634,1,AMLODIPINE,d00689,1,365,F32.9,"Major depressive disorder, single episode, unspecified",4
+73634,1,ESCITALOPRAM,d04812,1,365,99999,"",4
+73634,1,MIRTAZAPINE,d04025,1,365,F32.9,"Major depressive disorder, single episode, unspecified",4
+73634,1,OLANZAPINE,d04050,1,365,99999,"",4
+73635,1,AMOXICILLIN,d00088,1,7,H66.9,"Otitis media, unspecified",1
+73638,1,CYCLOBENZAPRINE,d00963,1,365,M62.83,"Muscle spasm",12
+73638,1,EZETIMIBE; SIMVASTATIN,d05348,1,2190,E78.0,"Pure hypercholesterolemia",12
+73638,1,GABAPENTIN,d03182,1,730,M79.2,"Neuralgia and neuritis, unspecified",12
+73638,1,GLIPIZIDE,d00246,1,4745,E11,"Type 2 diabetes mellitus",12
+73638,1,LISINOPRIL,d00732,1,1825,I10,"Essential (primary) hypertension",12
+73638,1,MELOXICAM,d04532,1,1095,M19.9,"Osteoarthritis, unspecified site",12
+73638,1,METFORMIN,d03807,1,7300,E11,"Type 2 diabetes mellitus",12
+73638,1,NITROFURANTOIN,d00112,1,182,N30,"Cystitis",12
+73638,1,OMEPRAZOLE,d00325,1,7665,K21,"Gastro-esophageal reflux disease",12
+73638,1,SERTRALINE,d00880,1,7665,F32.9,"Major depressive disorder, single episode, unspecified",12
+73638,1,SITAGLIPTIN,d05896,1,730,E11,"Type 2 diabetes mellitus",12
+73638,1,SOLIFENACIN,d05413,1,182,N39.4,"Other specified urinary incontinence",12
+73639,1,DONEPEZIL,d04099,1,1095,G30.9,"Alzheimer's disease, unspecified",3
+73639,1,LEVOTHYROXINE,d00278,1,1825,E04.9,"Nontoxic goiter, unspecified",3
+73639,1,TERAZOSIN,d00386,1,365,R35.0,"Frequency of micturition",3
+73640,1,ALENDRONATE,d03849,3,730,M81,"Osteoporosis without current pathological fracture",5
+73640,1,AMLODIPINE,d00689,3,3650,I10,"Essential (primary) hypertension",5
+73640,1,ENALAPRIL,d00013,3,3650,I10,"Essential (primary) hypertension",5
+73640,1,IBUPROFEN,d00015,3,1825,55555,"",5
+73640,1,MORPHINE,d00308,2,3650,55555,"",5
+73641,1,ATENOLOL,d00004,1,9125,I10,"Essential (primary) hypertension",1
+73642,1,MELOXICAM,d04532,1,730,M13,"Other arthritis",1
+73643,1,AMLODIPINE; OLMESARTAN,d06905,1,3650,I10,"Essential (primary) hypertension",6
+73643,1,COLESEVELAM,d04695,1,365,E11,"Type 2 diabetes mellitus",6
+73643,1,GLYBURIDE; METFORMIN,d04703,1,6570,E11,"Type 2 diabetes mellitus",6
+73643,1,OMEGA-3 POLYUNSATURATED FATTY ACIDS,d00497,1,1825,E78.1,"Pure hyperglyceridemia",6
+73643,1,ROSUVASTATIN,d04851,1,3650,E78.0,"Pure hypercholesterolemia",6
+73643,1,SITAGLIPTIN,d05896,1,6570,E11,"Type 2 diabetes mellitus",6
+73645,1,ATENOLOL,d00004,1,3650,I10,"Essential (primary) hypertension",9
+73645,1,CITALOPRAM,d04332,1,730,F41.9,"Anxiety disorder, unspecified",9
+73645,1,GLIPIZIDE,d00246,1,1460,E11,"Type 2 diabetes mellitus",9
+73645,1,HYDROCHLOROTHIAZIDE,d00253,1,1095,I10,"Essential (primary) hypertension",9
+73645,1,INSULIN GLARGINE,d04538,1,182,E11,"Type 2 diabetes mellitus",9
+73645,1,LISINOPRIL,d00732,1,1095,I10,"Essential (primary) hypertension",9
+73645,1,METFORMIN,d03807,1,1460,E11,"Type 2 diabetes mellitus",9
+73645,1,OMEPRAZOLE; SODIUM BICARBONATE,d05770,1,1095,E58,"Dietary calcium deficiency",9
+73645,1,OMEPRAZOLE; SODIUM BICARBONATE,d05770,1,1095,K30,"Functional dyspepsia",9
+73645,1,SIMVASTATIN,d00746,1,1095,E78.0,"Pure hypercholesterolemia",9
+73647,1,ATORVASTATIN,d04105,1,1460,E78.0,"Pure hypercholesterolemia",7
+73647,1,CILOSTAZOL,d04382,1,1460,I70.21,"Atherosclerosis of native arteries of extremities with intermittent claudication",7
+73647,1,LEVOTHYROXINE,d00278,1,1460,E03.9,"Hypothyroidism, unspecified",7
+73647,1,METFORMIN,d03807,1,1460,E11,"Type 2 diabetes mellitus",7
+73647,1,METOPROLOL,d00134,1,1460,I10,"Essential (primary) hypertension",7
+73652,1,AMLODIPINE,d00689,1,1095,I10,"Essential (primary) hypertension",5
+73652,1,CARVEDILOL,d03847,1,1095,I10,"Essential (primary) hypertension",5
+73652,1,HYDROCHLOROTHIAZIDE,d00253,1,1095,I10,"Essential (primary) hypertension",5
+73652,1,INSULIN ASPART,d04697,1,365,E11,"Type 2 diabetes mellitus",5
+73652,1,INSULIN GLARGINE,d04538,1,365,E11,"Type 2 diabetes mellitus",5
+73654,1,DORZOLAMIDE; TIMOLOL OPHTHALMIC,d04303,1,1460,H40,"Glaucoma",4
+73654,1,LEVALBUTEROL,d04427,1,1460,J45,"Asthma",4
+73654,1,TELMISARTAN,d04364,1,365,I10,"Essential (primary) hypertension",4
+73654,1,TRAVOPROST OPHTHALMIC,d04753,1,1460,H40,"Glaucoma",4
+73656,1,ATORVASTATIN,d04105,1,2555,E78.0,"Pure hypercholesterolemia",1
