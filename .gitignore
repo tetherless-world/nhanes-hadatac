@@ -1,0 +1,8 @@
+#macOS temp files
+.DS_Store
+
+#MS-Office temp files
+~$*
+
+#Python
+venv

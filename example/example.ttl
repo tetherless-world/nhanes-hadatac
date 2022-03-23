@@ -1,0 +1,213 @@
+@prefix : <http://purl.org/twc/EXAMPLE_> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sio: <http://semanticscience.org/resource/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix hasco: <http://hadatac.org/ont/hasco/> .
+@prefix example: <http://purl.org/twc/EXAMPLE_> .
+@base <http://purl.org/twc/EXAMPLE_> .
+
+<http://purl.org/twc/EXAMPLE_> rdf:type owl:Ontology .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://www.w3.org/2004/02/skos/core#notation
+skos:notation rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://hadatac.org/ont/hasco/QualityValue
+hasco:QualityValue rdf:type owl:Class .
+
+
+###  http://hadatac.org/ont/hasco/QualityVariable
+hasco:QualityVariable rdf:type owl:Class .
+
+
+###  http://hadatac.org/ont/hasco/QuantityVariable
+hasco:QuantityVariable rdf:type owl:Class .
+
+
+###  http://hadatac.org/ont/hasco/StudyIndicator
+hasco:StudyIndicator rdf:type owl:Class .
+
+
+###  http://purl.obolibrary.org/obo/OMRSE_00000076
+obo:OMRSE_00000076 rdf:type owl:Class ;
+                   rdfs:subClassOf hasco:StudyIndicator ,
+                                   sio:SIO_001064 ;
+                   rdfs:label "Household" .
+
+
+###  http://purl.org/twc/EXAMPLE_000001
+<http://purl.org/twc/EXAMPLE_000001> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/EXAMPLE_000002
+<http://purl.org/twc/EXAMPLE_000002> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/EXAMPLE_000003
+<http://purl.org/twc/EXAMPLE_000003> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/EXAMPLE_000004
+<http://purl.org/twc/EXAMPLE_000004> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/EXAMPLE_000005
+<http://purl.org/twc/EXAMPLE_000005> rdf:type owl:Class ;
+                                     rdfs:subClassOf <http://purl.org/twc/EXAMPLE_000007> .
+
+
+###  http://purl.org/twc/EXAMPLE_000006
+<http://purl.org/twc/EXAMPLE_000006> rdf:type owl:Class ;
+                                     rdfs:label "Year Range" .
+
+
+###  http://purl.org/twc/EXAMPLE_000007
+<http://purl.org/twc/EXAMPLE_000007> rdf:type owl:Class ;
+                                     rdfs:subClassOf hasco:StudyIndicator ;
+                                     rdfs:label "Demographic" .
+
+
+###  http://purl.org/twc/EXAMPLE_000008
+<http://purl.org/twc/EXAMPLE_000008> rdf:type owl:Class ;
+                                     rdfs:subClassOf sio:SIO_000391 ;
+                                     rdfs:label "Screening Time" .
+
+
+###  http://purl.org/twc/EXAMPLE_000009
+<http://purl.org/twc/EXAMPLE_000009> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/EXAMPLE_000010
+<http://purl.org/twc/EXAMPLE_000010> rdf:type owl:Class .
+
+
+###  http://semanticscience.org/resource/SIO_000391
+sio:SIO_000391 rdf:type owl:Class .
+
+
+###  http://semanticscience.org/resource/SIO_001013
+sio:SIO_001013 rdf:type owl:Class ;
+               rdfs:subClassOf <http://purl.org/twc/EXAMPLE_000007> .
+
+
+###  http://semanticscience.org/resource/SIO_001064
+sio:SIO_001064 rdf:type owl:Class .
+
+
+###  http://semanticscience.org/resource/SIO_010029
+sio:SIO_010029 rdf:type owl:Class ;
+               rdfs:subClassOf <http://purl.org/twc/EXAMPLE_000007> .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://purl.org/twc/EXAMPLE_000001
+<http://purl.org/twc/EXAMPLE_000001> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
+###  http://purl.org/twc/EXAMPLE_000002
+<http://purl.org/twc/EXAMPLE_000002> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
+###  http://purl.org/twc/EXAMPLE_000003
+<http://purl.org/twc/EXAMPLE_000003> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
+###  http://purl.org/twc/EXAMPLE_000004
+<http://purl.org/twc/EXAMPLE_000004> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
+###  http://purl.org/twc/EXAMPLE_000005
+<http://purl.org/twc/EXAMPLE_000005> rdf:type owl:NamedIndividual ,
+                                              hasco:QuantityVariable .
+
+
+###  http://purl.org/twc/EXAMPLE_000009
+<http://purl.org/twc/EXAMPLE_000009> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
+###  http://purl.org/twc/EXAMPLE_000010
+<http://purl.org/twc/EXAMPLE_000010> rdf:type owl:NamedIndividual ,
+                                              hasco:QualityValue .
+
+
+###  http://semanticscience.org/resource/SIO_001013
+sio:SIO_001013 rdf:type owl:NamedIndividual ,
+                        hasco:QuantityVariable .
+
+
+###  http://semanticscience.org/resource/SIO_010029
+sio:SIO_010029 rdf:type owl:NamedIndividual ,
+                        hasco:QualityVariable .
+
+
+###  http://semanticscience.org/resource/SIO_010048
+sio:SIO_010048 rdf:type owl:NamedIndividual ,
+                        hasco:QualityValue ;
+               skos:notation "111"^^xsd:string .
+
+
+###  http://semanticscience.org/resource/SIO_010052
+sio:SIO_010052 rdf:type owl:NamedIndividual ,
+                        hasco:QualityValue ;
+               skos:notation "110"^^xsd:string .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+<http://purl.org/twc/EXAMPLE_000001> skos:notation "201"^^xsd:string ;
+                                     rdfs:label "<20 years" .
+
+
+<http://purl.org/twc/EXAMPLE_000002> skos:notation "202"^^xsd:string ;
+                                     rdfs:label "20-39 years" .
+
+
+<http://purl.org/twc/EXAMPLE_000003> rdfs:label "40-59 years" ;
+                                     skos:notation "203"^^xsd:string .
+
+
+<http://purl.org/twc/EXAMPLE_000004> rdfs:label "60+ years" ;
+                                     skos:notation "204"^^xsd:string .
+
+
+<http://purl.org/twc/EXAMPLE_000005> rdfs:label "Age Category" .
+
+
+<http://purl.org/twc/EXAMPLE_000009> rdfs:label "<12 months" ;
+                                     skos:notation "205"^^xsd:string .
+
+
+<http://purl.org/twc/EXAMPLE_000010> skos:notation "206"^^xsd:string ;
+                                     rdfs:label "12-24 months" .
+
+
+sio:SIO_001013 rdfs:label "Age" .
+
+
+sio:SIO_010029 rdfs:label "Biological Sex" .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
