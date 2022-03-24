@@ -93,8 +93,7 @@ obo:ExO_0000041 rdf:type owl:Class .
 ###  http://purl.obolibrary.org/obo/NCIT_C64849
 obo:NCIT_C64849 rdf:type owl:Class ;
                 rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
-                                <http://purl.org/twc/HHEAR_00034> ;
-                rdfs:label "Glycosylated Hemoglobin Measurement" .
+                                <http://purl.org/twc/HHEAR_00034> .
 
 
 ###  http://purl.obolibrary.org/obo/NCIT_C70811
@@ -119,6 +118,10 @@ obo:UO_0000052 rdf:type owl:Class .
 
 ###  http://purl.org/twc/HHEAR_00050
 <http://purl.org/twc/HHEAR_00050> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00119
+<http://purl.org/twc/HHEAR_00119> rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/HHEAR_00144
@@ -674,6 +677,27 @@ obo:UO_0000052 rdf:type owl:Class .
 <http://purl.org/twc/NHANES_00115> rdf:type owl:Class .
 
 
+###  http://purl.org/twc/NHANES_00116
+<http://purl.org/twc/NHANES_00116> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00119> .
+
+
+###  http://purl.org/twc/NHANES_00117
+<http://purl.org/twc/NHANES_00117> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00118
+<http://purl.org/twc/NHANES_00118> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00119
+<http://purl.org/twc/NHANES_00119> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00120
+<http://purl.org/twc/NHANES_00120> rdf:type owl:Class .
+
+
 ###  http://semanticscience.org/resource/SIO_000391
 sio:SIO_000391 rdf:type owl:Class .
 
@@ -695,6 +719,11 @@ obo:CHEBI_16113 rdf:type owl:NamedIndividual ;
 obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
                 rdfs:label "Drug" ;
                 skos:definition "Any substance which when absorbed into a living organism may modify one or more of its functions. The term is generally accepted for a substance taken for a therapeutic purpose, but is also commonly used for abused substances." .
+
+
+###  http://purl.obolibrary.org/obo/NCIT_C64849
+obo:NCIT_C64849 rdf:type owl:NamedIndividual ;
+                rdfs:label "Glycosylated Hemoglobin Measurement" .
 
 
 ###  http://purl.obolibrary.org/obo/STATO_0000113
@@ -1373,6 +1402,40 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 <http://purl.org/twc/NHANES_00115> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
                                    rdfs:label "Don't know" .
+
+
+###  http://purl.org/twc/NHANES_00116
+<http://purl.org/twc/NHANES_00116> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityVariable ;
+                                   rdfs:label "Pregnancy test result" .
+
+
+###  http://purl.org/twc/NHANES_00117
+<http://purl.org/twc/NHANES_00117> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Positive" ;
+                                   skos:notation "UCPREG-1" .
+
+
+###  http://purl.org/twc/NHANES_00118
+<http://purl.org/twc/NHANES_00118> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Negative" ;
+                                   skos:notation "UCPREG-2" .
+
+
+###  http://purl.org/twc/NHANES_00119
+<http://purl.org/twc/NHANES_00119> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Not Done" ;
+                                   skos:notation "UCPREG-3" .
+
+
+###  http://purl.org/twc/NHANES_00120
+<http://purl.org/twc/NHANES_00120> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Invalid" ;
+                                   skos:notation "UCPREG-4" .
 
 
 #################################################################
