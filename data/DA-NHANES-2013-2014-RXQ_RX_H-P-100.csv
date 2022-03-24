@@ -1,0 +1,5 @@
+SEQN,RXDUSE,RXDDRUG,RXDDRGID,RXQSEEN,RXDDAYS,RXDRSC,RXDRSD,RXDCOUNT
+73571,1,OLMESARTAN,d04801,2,1460,I21,"Prevent heart attack/myocardial infarction",3
+73571,1,SIMVASTATIN,d00746,2,1460,I21,"Prevent heart attack/myocardial infarction",3
+73647,1,CLOPIDOGREL,d04258,1,1460,D75.9,"Prevent blood clots",7
+73647,1,LISINOPRIL,d00732,1,1460,I21,"Prevent heart attack/myocardial infarction",7
