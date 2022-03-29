@@ -698,6 +698,69 @@ obo:UO_0000052 rdf:type owl:Class .
 <http://purl.org/twc/NHANES_00120> rdf:type owl:Class .
 
 
+###  http://purl.org/twc/NHANES_00121
+<http://purl.org/twc/NHANES_00121> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00144> .
+
+
+###  http://purl.org/twc/NHANES_00122
+<http://purl.org/twc/NHANES_00122> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00123
+<http://purl.org/twc/NHANES_00123> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00124
+<http://purl.org/twc/NHANES_00124> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00125
+<http://purl.org/twc/NHANES_00125> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00126
+<http://purl.org/twc/NHANES_00126> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00144> .
+
+
+###  http://purl.org/twc/NHANES_00127
+<http://purl.org/twc/NHANES_00127> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00128
+<http://purl.org/twc/NHANES_00128> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00129
+<http://purl.org/twc/NHANES_00129> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00130
+<http://purl.org/twc/NHANES_00130> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00131
+<http://purl.org/twc/NHANES_00131> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/HHEAR_00144> .
+
+
+###  http://purl.org/twc/NHANES_00132
+<http://purl.org/twc/NHANES_00132> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00133
+<http://purl.org/twc/NHANES_00133> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00134
+<http://purl.org/twc/NHANES_00134> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00135
+<http://purl.org/twc/NHANES_00135> rdf:type owl:Class .
+
+
 ###  http://semanticscience.org/resource/SIO_000391
 sio:SIO_000391 rdf:type owl:Class .
 
@@ -1240,13 +1303,13 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00088
 <http://purl.org/twc/NHANES_00088> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Refused" .
+                                   rdfs:label "Covered by private insurance - Refused" .
 
 
 ###  http://purl.org/twc/NHANES_00089
 <http://purl.org/twc/NHANES_00089> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Don't know" .
+                                   rdfs:label "Covered by private insurance - Don't know" .
 
 
 ###  http://purl.org/twc/NHANES_00090
@@ -1413,29 +1476,127 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 ###  http://purl.org/twc/NHANES_00117
 <http://purl.org/twc/NHANES_00117> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Positive" ;
-                                   skos:notation "UCPREG-1" .
+                                   rdfs:label "Positive" .
 
 
 ###  http://purl.org/twc/NHANES_00118
 <http://purl.org/twc/NHANES_00118> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Negative" ;
-                                   skos:notation "UCPREG-2" .
+                                   rdfs:label "Negative" .
 
 
 ###  http://purl.org/twc/NHANES_00119
 <http://purl.org/twc/NHANES_00119> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Not Done" ;
-                                   skos:notation "UCPREG-3" .
+                                   rdfs:label "Not Done" .
 
 
 ###  http://purl.org/twc/NHANES_00120
 <http://purl.org/twc/NHANES_00120> rdf:type owl:NamedIndividual ,
                                             hasco:QualityValue ;
-                                   rdfs:label "Invalid" ;
-                                   skos:notation "UCPREG-4" .
+                                   rdfs:label "Invalid" .
+
+
+###  http://purl.org/twc/NHANES_00121
+<http://purl.org/twc/NHANES_00121> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityVariable ;
+                                   rdfs:label "Covered by health insurance?" .
+
+
+###  http://purl.org/twc/NHANES_00122
+<http://purl.org/twc/NHANES_00122> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Yes" ;
+                                   skos:notation "HIQ1" .
+
+
+###  http://purl.org/twc/NHANES_00123
+<http://purl.org/twc/NHANES_00123> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "No" ;
+                                   skos:notation "HIQ2" .
+
+
+###  http://purl.org/twc/NHANES_00124
+<http://purl.org/twc/NHANES_00124> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Refused" ;
+                                   skos:notation "HIQ7" .
+
+
+###  http://purl.org/twc/NHANES_00125
+<http://purl.org/twc/NHANES_00125> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Don't know" ;
+                                   skos:notation "HIQ9" .
+
+
+###  http://purl.org/twc/NHANES_00126
+<http://purl.org/twc/NHANES_00126> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityVariable ;
+                                   rdfs:label "Prescription coverage" .
+
+
+###  http://purl.org/twc/NHANES_00127
+<http://purl.org/twc/NHANES_00127> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Yes" ;
+                                   skos:notation "HIQ1" .
+
+
+###  http://purl.org/twc/NHANES_00128
+<http://purl.org/twc/NHANES_00128> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "No" ;
+                                   skos:notation "HIQ2" .
+
+
+###  http://purl.org/twc/NHANES_00129
+<http://purl.org/twc/NHANES_00129> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Refused" ;
+                                   skos:notation "HIQ7" .
+
+
+###  http://purl.org/twc/NHANES_00130
+<http://purl.org/twc/NHANES_00130> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Don't know" ;
+                                   skos:notation "HIQ9" .
+
+
+###  http://purl.org/twc/NHANES_00131
+<http://purl.org/twc/NHANES_00131> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityVariable ;
+                                   rdfs:label "Have Medicare?" .
+
+
+###  http://purl.org/twc/NHANES_00132
+<http://purl.org/twc/NHANES_00132> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Yes" ;
+                                   skos:notation "HIQ1" .
+
+
+###  http://purl.org/twc/NHANES_00133
+<http://purl.org/twc/NHANES_00133> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "No" ;
+                                   skos:notation "HIQ2" .
+
+
+###  http://purl.org/twc/NHANES_00134
+<http://purl.org/twc/NHANES_00134> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Refused" ;
+                                   skos:notation "HIQ7" .
+
+
+###  http://purl.org/twc/NHANES_00135
+<http://purl.org/twc/NHANES_00135> rdf:type owl:NamedIndividual ,
+                                            hasco:QualityValue ;
+                                   rdfs:label "Don't know" ;
+                                   skos:notation "HIQ9" .
 
 
 #################################################################
@@ -1677,6 +1838,18 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual ;
 
 
 <http://purl.org/twc/NHANES_00115> skos:notation "DIQ070-9" .
+
+
+<http://purl.org/twc/NHANES_00117> skos:notation "UCPREG-1" .
+
+
+<http://purl.org/twc/NHANES_00118> skos:notation "UCPREG-2" .
+
+
+<http://purl.org/twc/NHANES_00119> skos:notation "UCPREG-3" .
+
+
+<http://purl.org/twc/NHANES_00120> skos:notation "UCPREG-4" .
 
 
 ###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
