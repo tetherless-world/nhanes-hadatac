@@ -1,0 +1,98 @@
+@prefix prov:          <http://www.w3.org/ns/prov#> .
+@prefix dcat:          <http://www.w3.org/ns/dcat#> .
+@prefix dcterms:       <http://purl.org/dc/terms/> .
+@prefix void:          <http://rdfs.org/ns/void#> .
+@prefix setl:          <http://purl.org/twc/vocab/setl/> .
+@prefix csvw:          <http://www.w3.org/ns/csvw#> .
+@prefix pv:            <http://purl.org/net/provenance/ns#> .
+@prefix :              <http://example.com/setl/> .
+
+:table a setl:XPORT, setl:Table;
+    csvw:delimiter ",";
+    prov:wasGeneratedBy [
+        a setl:Extract;
+        prov:used <../data/raw/RXQ_DRUG.xpt>;
+    ] .
+
+<http://purl.org/twc/nhanes/drug/> a void:Dataset;
+    prov:wasGeneratedBy [
+        a setl:Transform, setl:JSLDT;
+        prov:used :table;
+        setl:hasContext '''{
+            "skos": "http://www.w3.org/2004/02/skos/core#",
+            "owl" : "http://www.w3.org/2002/07/owl#",
+            "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+            "chebi" : "http://purl.obolibrary.org/obo/",
+            "hasco" : "http://hadatac.org/ont/hasco/",
+            "mltcs" : "http://purl.org/twc/nhanes/mltcs/",
+            "drug" : "http://purl.org/twc/nhanes/drug/"
+        }''';
+        prov:value '''[{
+            "@id": "drug:DRUG_{{row.RXDDRGID.decode(\'utf-8\')}}",
+            "@type": "owl:Class",
+            "rdfs:subClassOf": [
+                {
+                    "@id": "chebi:CHEBI_23888"
+                },
+                {
+                    "@id": "hasco:QualityValue"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI1A)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI1A)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI1B)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI1B)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI1C)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI1C)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI2A)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI2A)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI2B)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI2B)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI2C)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI2C)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI3A)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI3A)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI3B)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI3B)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI3C)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI3C)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI4A)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI4A)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI4B)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI4B)}}"
+                },
+                {
+                    "@if": "not isempty(row.RXDDCI4C)",
+                    "@id": "mltcs:MLTCS_{{int(row.RXDDCI4C)}}"
+                }
+            ],
+            "rdfs:label": "{{row.RXDDRUG.decode(\'utf-8\')}}",
+            "skos:notation": "{{row.RXDDRGID.decode(\'utf-8\')}}"
+        }]'''] .
+
+<../ontologies/rxq_drug.ttl> a pv:File;
+    dcterms:format "text/turtle";
+    prov:wasGeneratedBy [
+      a setl:Load;
+      prov:used <http://purl.org/twc/nhanes/drug/> ;
+    ].
