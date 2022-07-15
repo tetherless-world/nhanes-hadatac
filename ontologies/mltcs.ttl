@@ -1,0 +1,1534 @@
+@prefix mltcs: <http://purl.org/twc/nhanes/mltcs/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+mltcs:MLTCS_10 a owl:Class ;
+    rdfs:label "LEPROSTATICS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_102 a owl:Class ;
+    rdfs:label "CONTRACEPTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_103 a owl:Class ;
+    rdfs:label "THYROID HORMONES" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_106 a owl:Class ;
+    rdfs:label "ANTIDOTES" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_107 a owl:Class ;
+    rdfs:label "CHELATING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_108 a owl:Class ;
+    rdfs:label "CHOLINERGIC MUSCLE STIMULANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_109 a owl:Class ;
+    rdfs:label "LOCAL INJECTABLE ANESTHETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_110 a owl:Class ;
+    rdfs:label "MISCELLANEOUS UNCATEGORIZED AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_111 a owl:Class ;
+    rdfs:label "PSORALENS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_114 a owl:Class ;
+    rdfs:label "ILLICIT (STREET) DRUGS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_116 a owl:Class ;
+    rdfs:label "IRON PRODUCTS" ;
+    rdfs:subClassOf mltcs:MLTCS_115 .
+
+mltcs:MLTCS_117 a owl:Class ;
+    rdfs:label "MINERALS AND ELECTROLYTES" ;
+    rdfs:subClassOf mltcs:MLTCS_115 .
+
+mltcs:MLTCS_119 a owl:Class ;
+    rdfs:label "VITAMINS" ;
+    rdfs:subClassOf mltcs:MLTCS_115 .
+
+mltcs:MLTCS_12 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIBIOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_120 a owl:Class ;
+    rdfs:label "VITAMIN AND MINERAL COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_115 .
+
+mltcs:MLTCS_121 a owl:Class ;
+    rdfs:label "INTRAVENOUS NUTRITIONAL PRODUCTS" ;
+    rdfs:subClassOf mltcs:MLTCS_115 .
+
+mltcs:MLTCS_123 a owl:Class ;
+    rdfs:label "ANTIHISTAMINES" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_124 a owl:Class ;
+    rdfs:label "ANTITUSSIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_126 a owl:Class ;
+    rdfs:label "METHYLXANTHINES" ;
+    rdfs:subClassOf mltcs:MLTCS_125 .
+
+mltcs:MLTCS_127 a owl:Class ;
+    rdfs:label "DECONGESTANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_128 a owl:Class ;
+    rdfs:label "EXPECTORANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_129 a owl:Class ;
+    rdfs:label "MISCELLANEOUS RESPIRATORY AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_131 a owl:Class ;
+    rdfs:label "ANTIASTHMATIC COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_132 a owl:Class ;
+    rdfs:label "UPPER RESPIRATORY COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_134 a owl:Class ;
+    rdfs:label "ANORECTAL PREPARATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_135 a owl:Class ;
+    rdfs:label "ANTISEPTIC AND GERMICIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_137 a owl:Class ;
+    rdfs:label "TOPICAL ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_138 a owl:Class ;
+    rdfs:label "TOPICAL STEROIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_139 a owl:Class ;
+    rdfs:label "TOPICAL ANESTHETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_14 a owl:Class ;
+    rdfs:label "QUINOLONES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_140 a owl:Class ;
+    rdfs:label "MISCELLANEOUS TOPICAL AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_141 a owl:Class ;
+    rdfs:label "TOPICAL STEROIDS WITH ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_143 a owl:Class ;
+    rdfs:label "TOPICAL ACNE AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_144 a owl:Class ;
+    rdfs:label "TOPICAL ANTIPSORIATICS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_146 a owl:Class ;
+    rdfs:label "MOUTH AND THROAT PRODUCTS" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_15 a owl:Class ;
+    rdfs:label "SULFONAMIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_153 a owl:Class ;
+    rdfs:label "PLASMA EXPANDERS" .
+
+mltcs:MLTCS_154 a owl:Class ;
+    rdfs:label "LOOP DIURETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_49 .
+
+mltcs:MLTCS_155 a owl:Class ;
+    rdfs:label "POTASSIUM-SPARING DIURETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_49 .
+
+mltcs:MLTCS_156 a owl:Class ;
+    rdfs:label "THIAZIDE AND THIAZIDE-LIKE DIURETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_49 .
+
+mltcs:MLTCS_157 a owl:Class ;
+    rdfs:label "CARBONIC ANHYDRASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_49 .
+
+mltcs:MLTCS_159 a owl:Class ;
+    rdfs:label "FIRST GENERATION CEPHALOSPORINS" ;
+    rdfs:subClassOf mltcs:MLTCS_9 .
+
+mltcs:MLTCS_16 a owl:Class ;
+    rdfs:label "TETRACYCLINES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_160 a owl:Class ;
+    rdfs:label "SECOND GENERATION CEPHALOSPORINS" ;
+    rdfs:subClassOf mltcs:MLTCS_9 .
+
+mltcs:MLTCS_161 a owl:Class ;
+    rdfs:label "THIRD GENERATION CEPHALOSPORINS" ;
+    rdfs:subClassOf mltcs:MLTCS_9 .
+
+mltcs:MLTCS_163 a owl:Class ;
+    rdfs:label "OPHTHALMIC ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_164 a owl:Class ;
+    rdfs:label "OPHTHALMIC GLAUCOMA AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_165 a owl:Class ;
+    rdfs:label "OPHTHALMIC STEROIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_166 a owl:Class ;
+    rdfs:label "OPHTHALMIC STEROIDS WITH ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_167 a owl:Class ;
+    rdfs:label "OPHTHALMIC ANTI-INFLAMMATORY AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_168 a owl:Class ;
+    rdfs:label "OPHTHALMIC LUBRICANTS AND IRRIGATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_169 a owl:Class ;
+    rdfs:label "MISCELLANEOUS OPHTHALMIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_17 a owl:Class ;
+    rdfs:label "URINARY ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_170 a owl:Class ;
+    rdfs:label "OTIC ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_148 .
+
+mltcs:MLTCS_171 a owl:Class ;
+    rdfs:label "OTIC STEROIDS WITH ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_148 .
+
+mltcs:MLTCS_172 a owl:Class ;
+    rdfs:label "MISCELLANEOUS OTIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_148 .
+
+mltcs:MLTCS_173 a owl:Class ;
+    rdfs:label "HMG-COA REDUCTASE INHIBITORS (STATINS)" ;
+    rdfs:subClassOf mltcs:MLTCS_19 .
+
+mltcs:MLTCS_174 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIHYPERLIPIDEMIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_19 .
+
+mltcs:MLTCS_175 a owl:Class ;
+    rdfs:label "PROTEASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_176 a owl:Class ;
+    rdfs:label "NRTIS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_177 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIVIRALS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_178 a owl:Class ;
+    rdfs:label "SKELETAL MUSCLE RELAXANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_73 .
+
+mltcs:MLTCS_179 a owl:Class ;
+    rdfs:label "SKELETAL MUSCLE RELAXANT COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_73 .
+
+mltcs:MLTCS_18 a owl:Class ;
+    rdfs:label "AMINOGLYCOSIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_180 a owl:Class ;
+    rdfs:label "ADRENERGIC BRONCHODILATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_125 .
+
+mltcs:MLTCS_181 a owl:Class ;
+    rdfs:label "BRONCHODILATOR COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_125 .
+
+mltcs:MLTCS_182 a owl:Class ;
+    rdfs:label "ANDROGENS AND ANABOLIC STEROIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_183 a owl:Class ;
+    rdfs:label "ESTROGENS" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_184 a owl:Class ;
+    rdfs:label "GONADOTROPINS" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_185 a owl:Class ;
+    rdfs:label "PROGESTINS" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_186 a owl:Class ;
+    rdfs:label "SEX HORMONE COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_187 a owl:Class ;
+    rdfs:label "MISCELLANEOUS SEX HORMONES" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_191 a owl:Class ;
+    rdfs:label "NARCOTIC ANALGESIC COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_192 a owl:Class ;
+    rdfs:label "ANTIRHEUMATICS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_193 a owl:Class ;
+    rdfs:label "ANTIMIGRAINE AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_194 a owl:Class ;
+    rdfs:label "ANTIGOUT AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_195 a owl:Class ;
+    rdfs:label "5HT3 RECEPTOR ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_65 .
+
+mltcs:MLTCS_196 a owl:Class ;
+    rdfs:label "PHENOTHIAZINE ANTIEMETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_65 .
+
+mltcs:MLTCS_197 a owl:Class ;
+    rdfs:label "ANTICHOLINERGIC ANTIEMETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_65 .
+
+mltcs:MLTCS_198 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIEMETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_65 .
+
+mltcs:MLTCS_199 a owl:Class ;
+    rdfs:label "HYDANTOIN ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_2 a owl:Class ;
+    rdfs:label "AMEBICIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_200 a owl:Class ;
+    rdfs:label "SUCCINIMIDE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_201 a owl:Class ;
+    rdfs:label "BARBITURATE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_203 a owl:Class ;
+    rdfs:label "BENZODIAZEPINE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_204 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_205 a owl:Class ;
+    rdfs:label "ANTICHOLINERGIC ANTIPARKINSON AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_66 .
+
+mltcs:MLTCS_208 a owl:Class ;
+    rdfs:label "SSRI ANTIDEPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_249 .
+
+mltcs:MLTCS_209 a owl:Class ;
+    rdfs:label "TRICYCLIC ANTIDEPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_249 .
+
+mltcs:MLTCS_21 a owl:Class ;
+    rdfs:label "ALKYLATING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_210 a owl:Class ;
+    rdfs:label "PHENOTHIAZINE ANTIPSYCHOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_251 .
+
+mltcs:MLTCS_211 a owl:Class ;
+    rdfs:label "PLATELET AGGREGATION INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_83 .
+
+mltcs:MLTCS_213 a owl:Class ;
+    rdfs:label "SULFONYLUREAS" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_214 a owl:Class ;
+    rdfs:label "BIGUANIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_215 a owl:Class ;
+    rdfs:label "INSULIN" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_216 a owl:Class ;
+    rdfs:label "ALPHA-GLUCOSIDASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_217 a owl:Class ;
+    rdfs:label "BISPHOSPHONATES" ;
+    rdfs:subClassOf mltcs:MLTCS_409 .
+
+mltcs:MLTCS_219 a owl:Class ;
+    rdfs:label "NUTRACEUTICAL PRODUCTS" ;
+    rdfs:subClassOf mltcs:MLTCS_218 .
+
+mltcs:MLTCS_222 a owl:Class ;
+    rdfs:label "PENICILLINASE RESISTANT PENICILLINS" ;
+    rdfs:subClassOf mltcs:MLTCS_13 .
+
+mltcs:MLTCS_223 a owl:Class ;
+    rdfs:label "ANTIPSEUDOMONAL PENICILLINS" ;
+    rdfs:subClassOf mltcs:MLTCS_13 .
+
+mltcs:MLTCS_224 a owl:Class ;
+    rdfs:label "AMINOPENICILLINS" ;
+    rdfs:subClassOf mltcs:MLTCS_13 .
+
+mltcs:MLTCS_225 a owl:Class ;
+    rdfs:label "PENICILLINS/BETA-LACTAMASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_13 .
+
+mltcs:MLTCS_226 a owl:Class ;
+    rdfs:label "NATURAL PENICILLINS" ;
+    rdfs:subClassOf mltcs:MLTCS_13 .
+
+mltcs:MLTCS_227 a owl:Class ;
+    rdfs:label "NNRTIS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_228 a owl:Class ;
+    rdfs:label "ADAMANTANE ANTIVIRALS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_229 a owl:Class ;
+    rdfs:label "PURINE NUCLEOSIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_23 a owl:Class ;
+    rdfs:label "ANTIMETABOLITES" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_232 a owl:Class ;
+    rdfs:label "RIFAMYCIN DERIVATIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_6 .
+
+mltcs:MLTCS_234 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTITUBERCULOSIS AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_6 .
+
+mltcs:MLTCS_235 a owl:Class ;
+    rdfs:label "POLYENES" ;
+    rdfs:subClassOf mltcs:MLTCS_4 .
+
+mltcs:MLTCS_236 a owl:Class ;
+    rdfs:label "AZOLE ANTIFUNGALS" ;
+    rdfs:subClassOf mltcs:MLTCS_4 .
+
+mltcs:MLTCS_237 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIFUNGALS" ;
+    rdfs:subClassOf mltcs:MLTCS_4 .
+
+mltcs:MLTCS_238 a owl:Class ;
+    rdfs:label "ANTIMALARIAL QUINOLINES" ;
+    rdfs:subClassOf mltcs:MLTCS_5 .
+
+mltcs:MLTCS_239 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIMALARIALS" ;
+    rdfs:subClassOf mltcs:MLTCS_5 .
+
+mltcs:MLTCS_24 a owl:Class ;
+    rdfs:label "ANTINEOPLASTIC HORMONES" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_240 a owl:Class ;
+    rdfs:label "LINCOMYCIN DERIVATIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_241 a owl:Class ;
+    rdfs:label "FIBRIC ACID DERIVATIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_19 .
+
+mltcs:MLTCS_243 a owl:Class ;
+    rdfs:label "LEUKOTRIENE MODIFIERS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_245 a owl:Class ;
+    rdfs:label "NASAL STEROIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_247 .
+
+mltcs:MLTCS_246 a owl:Class ;
+    rdfs:label "NASAL ANTIHISTAMINES AND DECONGESTANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_247 .
+
+mltcs:MLTCS_248 a owl:Class ;
+    rdfs:label "TOPICAL EMOLLIENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_25 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTINEOPLASTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_250 a owl:Class ;
+    rdfs:label "MONOAMINE OXIDASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_249 .
+
+mltcs:MLTCS_252 a owl:Class ;
+    rdfs:label "BILE ACID SEQUESTRANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_19 .
+
+mltcs:MLTCS_253 a owl:Class ;
+    rdfs:label "ANOREXIANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_256 a owl:Class ;
+    rdfs:label "INTERFERONS" ;
+    rdfs:subClassOf mltcs:MLTCS_437 .
+
+mltcs:MLTCS_26 a owl:Class ;
+    rdfs:label "MITOTIC INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_261 a owl:Class ;
+    rdfs:label "HEPARINS" ;
+    rdfs:subClassOf mltcs:MLTCS_82 .
+
+mltcs:MLTCS_262 a owl:Class ;
+    rdfs:label "COUMARINS AND INDANEDIONES" ;
+    rdfs:subClassOf mltcs:MLTCS_82 .
+
+mltcs:MLTCS_263 a owl:Class ;
+    rdfs:label "ERECTILE DYSFUNCTION AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_113 .
+
+mltcs:MLTCS_264 a owl:Class ;
+    rdfs:label "URINARY ANTISPASMODICS" ;
+    rdfs:subClassOf mltcs:MLTCS_113 .
+
+mltcs:MLTCS_265 a owl:Class ;
+    rdfs:label "URINARY PH MODIFIERS" ;
+    rdfs:subClassOf mltcs:MLTCS_113 .
+
+mltcs:MLTCS_266 a owl:Class ;
+    rdfs:label "MISCELLANEOUS GENITOURINARY TRACT AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_113 .
+
+mltcs:MLTCS_267 a owl:Class ;
+    rdfs:label "OPHTHALMIC ANTIHISTAMINES AND DECONGESTANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_268 a owl:Class ;
+    rdfs:label "VAGINAL ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_151 .
+
+mltcs:MLTCS_269 a owl:Class ;
+    rdfs:label "MISCELLANEOUS VAGINAL AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_151 .
+
+mltcs:MLTCS_270 a owl:Class ;
+    rdfs:label "ANTIPSORIATICS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_271 a owl:Class ;
+    rdfs:label "THIAZOLIDINEDIONES" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_272 a owl:Class ;
+    rdfs:label "PROTON PUMP INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_274 a owl:Class ;
+    rdfs:label "BETA BLOCKERS, CARDIOSELECTIVE" ;
+    rdfs:subClassOf mltcs:MLTCS_47 .
+
+mltcs:MLTCS_275 a owl:Class ;
+    rdfs:label "BETA BLOCKERS, NON-CARDIOSELECTIVE" ;
+    rdfs:subClassOf mltcs:MLTCS_47 .
+
+mltcs:MLTCS_276 a owl:Class ;
+    rdfs:label "DOPAMINERGIC ANTIPARKINSONISM AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_66 .
+
+mltcs:MLTCS_277 a owl:Class ;
+    rdfs:label "5-AMINOSALICYLATES" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_278 a owl:Class ;
+    rdfs:label "COX-2 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_279 a owl:Class ;
+    rdfs:label "GONADOTROPIN-RELEASING HORMONE AND ANALOGS" ;
+    rdfs:subClassOf mltcs:MLTCS_101 .
+
+mltcs:MLTCS_280 a owl:Class ;
+    rdfs:label "THIOXANTHENES" ;
+    rdfs:subClassOf mltcs:MLTCS_251 .
+
+mltcs:MLTCS_281 a owl:Class ;
+    rdfs:label "NEURAMINIDASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_282 a owl:Class ;
+    rdfs:label "MEGLITINIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_283 a owl:Class ;
+    rdfs:label "THROMBIN INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_82 .
+
+mltcs:MLTCS_284 a owl:Class ;
+    rdfs:label "VISCOSUPPLEMENTATION AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_285 a owl:Class ;
+    rdfs:label "FACTOR XA INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_82 .
+
+mltcs:MLTCS_286 a owl:Class ;
+    rdfs:label "MYDRIATICS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_287 a owl:Class ;
+    rdfs:label "OPHTHALMIC ANESTHETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_288 a owl:Class ;
+    rdfs:label "5-ALPHA-REDUCTASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_289 a owl:Class ;
+    rdfs:label "ANTIHYPERURICEMIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_290 a owl:Class ;
+    rdfs:label "TOPICAL ANTIBIOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_291 a owl:Class ;
+    rdfs:label "TOPICAL ANTIVIRALS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_292 a owl:Class ;
+    rdfs:label "TOPICAL ANTIFUNGALS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_293 a owl:Class ;
+    rdfs:label "GLUCOSE ELEVATING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_295 a owl:Class ;
+    rdfs:label "GROWTH HORMONES" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_296 a owl:Class ;
+    rdfs:label "INHALED CORTICOSTEROIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_130 .
+
+mltcs:MLTCS_297 a owl:Class ;
+    rdfs:label "MUCOLYTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_130 .
+
+mltcs:MLTCS_298 a owl:Class ;
+    rdfs:label "MAST CELL STABILIZERS" ;
+    rdfs:subClassOf mltcs:MLTCS_130 .
+
+mltcs:MLTCS_299 a owl:Class ;
+    rdfs:label "ANTICHOLINERGIC BRONCHODILATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_125 .
+
+mltcs:MLTCS_3 a owl:Class ;
+    rdfs:label "ANTHELMINTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_300 a owl:Class ;
+    rdfs:label "CORTICOTROPIN" ;
+    rdfs:subClassOf mltcs:MLTCS_98 .
+
+mltcs:MLTCS_301 a owl:Class ;
+    rdfs:label "GLUCOCORTICOIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_98 .
+
+mltcs:MLTCS_302 a owl:Class ;
+    rdfs:label "MINERALOCORTICOIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_98 .
+
+mltcs:MLTCS_303 a owl:Class ;
+    rdfs:label "AGENTS FOR PULMONARY HYPERTENSION" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_304 a owl:Class ;
+    rdfs:label "MACROLIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_11 .
+
+mltcs:MLTCS_305 a owl:Class ;
+    rdfs:label "KETOLIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_11 .
+
+mltcs:MLTCS_306 a owl:Class ;
+    rdfs:label "PHENYLPIPERAZINE ANTIDEPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_249 .
+
+mltcs:MLTCS_307 a owl:Class ;
+    rdfs:label "TETRACYCLIC ANTIDEPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_249 .
+
+mltcs:MLTCS_308 a owl:Class ;
+    rdfs:label "SSNRI ANTIDEPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_249 .
+
+mltcs:MLTCS_311 a owl:Class ;
+    rdfs:label "DIBENZAZEPINE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_312 a owl:Class ;
+    rdfs:label "CHOLINERGIC AGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_313 a owl:Class ;
+    rdfs:label "CHOLINESTERASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_314 a owl:Class ;
+    rdfs:label "ANTIDIABETIC COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_316 a owl:Class ;
+    rdfs:label "CHOLESTEROL ABSORPTION INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_19 .
+
+mltcs:MLTCS_317 a owl:Class ;
+    rdfs:label "ANTIHYPERLIPIDEMIC COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_19 .
+
+mltcs:MLTCS_32 a owl:Class ;
+    rdfs:label "COLONY STIMULATING FACTORS" ;
+    rdfs:subClassOf mltcs:MLTCS_437 .
+
+mltcs:MLTCS_320 a owl:Class ;
+    rdfs:label "SMOKING CESSATION AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_321 a owl:Class ;
+    rdfs:label "OPHTHALMIC DIAGNOSTIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_324 a owl:Class ;
+    rdfs:label "ANTINEOPLASTIC INTERFERONS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_327 a owl:Class ;
+    rdfs:label "ANTIVIRAL COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_328 a owl:Class ;
+    rdfs:label "ANTIMALARIAL COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_5 .
+
+mltcs:MLTCS_329 a owl:Class ;
+    rdfs:label "ANTITUBERCULOSIS COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_6 .
+
+mltcs:MLTCS_33 a owl:Class ;
+    rdfs:label "IMMUNE GLOBULINS" ;
+    rdfs:subClassOf mltcs:MLTCS_254 .
+
+mltcs:MLTCS_330 a owl:Class ;
+    rdfs:label "ANTIVIRAL INTERFERONS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_34 a owl:Class ;
+    rdfs:label "IN VIVO DIAGNOSTIC BIOLOGICALS" ;
+    rdfs:subClassOf mltcs:MLTCS_28 .
+
+mltcs:MLTCS_340 a owl:Class ;
+    rdfs:label "ALDOSTERONE RECEPTOR ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_341 a owl:Class ;
+    rdfs:label "ATYPICAL ANTIPSYCHOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_251 .
+
+mltcs:MLTCS_342 a owl:Class ;
+    rdfs:label "RENIN INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_345 a owl:Class ;
+    rdfs:label "FATTY ACID DERIVATIVE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_346 a owl:Class ;
+    rdfs:label "GAMMA-AMINOBUTYRIC ACID REUPTAKE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_347 a owl:Class ;
+    rdfs:label "GAMMA-AMINOBUTYRIC ACID ANALOGS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_348 a owl:Class ;
+    rdfs:label "TRIAZINE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_349 a owl:Class ;
+    rdfs:label "CARBAMATE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_350 a owl:Class ;
+    rdfs:label "PYRROLIDINE ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_351 a owl:Class ;
+    rdfs:label "CARBONIC ANHYDRASE INHIBITOR ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_353 a owl:Class ;
+    rdfs:label "ANTI-ANGIOGENIC OPHTHALMIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_147 .
+
+mltcs:MLTCS_354 a owl:Class ;
+    rdfs:label "H. PYLORI ERADICATION AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_356 a owl:Class ;
+    rdfs:label "SEROTONINERGIC NEUROENTERIC MODULATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_355 .
+
+mltcs:MLTCS_359 a owl:Class ;
+    rdfs:label "PERIPHERALLY ACTING ANTIOBESITY AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_36 a owl:Class ;
+    rdfs:label "ERYTHROPOIESIS-STIMULATING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_28 .
+
+mltcs:MLTCS_361 a owl:Class ;
+    rdfs:label "MISCELLANEOUS METABOLIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_362 a owl:Class ;
+    rdfs:label "CHLORIDE CHANNEL ACTIVATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_355 .
+
+mltcs:MLTCS_364 a owl:Class ;
+    rdfs:label "ANTIVIRAL CHEMOKINE RECEPTOR ANTAGONIST" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_366 a owl:Class ;
+    rdfs:label "INTEGRASE STRAND TRANSFER INHIBITOR" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_370 a owl:Class ;
+    rdfs:label "OTIC STEROIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_148 .
+
+mltcs:MLTCS_371 a owl:Class ;
+    rdfs:label "DIPEPTIDYL PEPTIDASE 4 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_372 a owl:Class ;
+    rdfs:label "AMYLIN ANALOGS" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_373 a owl:Class ;
+    rdfs:label "GLP-1 RECEPTOR AGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_374 a owl:Class ;
+    rdfs:label "CARDIAC STRESSING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_332 .
+
+mltcs:MLTCS_375 a owl:Class ;
+    rdfs:label "PERIPHERAL OPIOID RECEPTOR ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_355 .
+
+mltcs:MLTCS_377 a owl:Class ;
+    rdfs:label "PROLACTIN INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_378 a owl:Class ;
+    rdfs:label "DRUGS USED IN ALCOHOL DEPENDENCE" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_380 a owl:Class ;
+    rdfs:label "TOPICAL DEBRIDING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_381 a owl:Class ;
+    rdfs:label "TOPICAL DEPIGMENTING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_382 a owl:Class ;
+    rdfs:label "TOPICAL ANTIHISTAMINES" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_383 a owl:Class ;
+    rdfs:label "ANTINEOPLASTIC DETOXIFYING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_385 a owl:Class ;
+    rdfs:label "GROUP I ANTIARRHYTHMICS" ;
+    rdfs:subClassOf mltcs:MLTCS_46 .
+
+mltcs:MLTCS_386 a owl:Class ;
+    rdfs:label "GROUP II ANTIARRHYTHMICS" ;
+    rdfs:subClassOf mltcs:MLTCS_46 .
+
+mltcs:MLTCS_387 a owl:Class ;
+    rdfs:label "GROUP III ANTIARRHYTHMICS" ;
+    rdfs:subClassOf mltcs:MLTCS_46 .
+
+mltcs:MLTCS_388 a owl:Class ;
+    rdfs:label "GROUP IV ANTIARRHYTHMICS" ;
+    rdfs:subClassOf mltcs:MLTCS_46 .
+
+mltcs:MLTCS_389 a owl:Class ;
+    rdfs:label "GROUP V ANTIARRHYTHMICS" ;
+    rdfs:subClassOf mltcs:MLTCS_46 .
+
+mltcs:MLTCS_39 a owl:Class ;
+    rdfs:label "MISCELLANEOUS BIOLOGICALS" ;
+    rdfs:subClassOf mltcs:MLTCS_254 .
+
+mltcs:MLTCS_392 a owl:Class ;
+    rdfs:label "OTIC ANESTHETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_148 .
+
+mltcs:MLTCS_393 a owl:Class ;
+    rdfs:label "CERUMENOLYTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_148 .
+
+mltcs:MLTCS_395 a owl:Class ;
+    rdfs:label "TOPICAL KERATOLYTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_397 a owl:Class ;
+    rdfs:label "MULTIKINASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_398 a owl:Class ;
+    rdfs:label "BCR-ABL TYROSINE KINASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_401 a owl:Class ;
+    rdfs:label "CD20 MONOCLONAL ANTIBODIES" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_402 a owl:Class ;
+    rdfs:label "VEGF/VEGFR INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_403 a owl:Class ;
+    rdfs:label "MTOR INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_404 a owl:Class ;
+    rdfs:label "EGFR INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_405 a owl:Class ;
+    rdfs:label "HER2 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_406 a owl:Class ;
+    rdfs:label "GLYCOPEPTIDE ANTIBIOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_407 a owl:Class ;
+    rdfs:label "INHALED ANTI-INFECTIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_130 .
+
+mltcs:MLTCS_41 a owl:Class ;
+    rdfs:label "AGENTS FOR HYPERTENSIVE EMERGENCIES" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_411 a owl:Class ;
+    rdfs:label "CALCITONIN" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_412 a owl:Class ;
+    rdfs:label "UTEROTONIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_113 .
+
+mltcs:MLTCS_413 a owl:Class ;
+    rdfs:label "ANTIGONADOTROPIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_414 a owl:Class ;
+    rdfs:label "ANTIDIURETIC HORMONES" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_415 a owl:Class ;
+    rdfs:label "MISCELLANEOUS BONE RESORPTION INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_409 .
+
+mltcs:MLTCS_416 a owl:Class ;
+    rdfs:label "SOMATOSTATIN AND SOMATOSTATIN ANALOGS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_417 a owl:Class ;
+    rdfs:label "SELECTIVE ESTROGEN RECEPTOR MODULATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_418 a owl:Class ;
+    rdfs:label "PARATHYROID HORMONE AND ANALOGS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_42 a owl:Class ;
+    rdfs:label "ANGIOTENSIN CONVERTING ENZYME (ACE) INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_420 a owl:Class ;
+    rdfs:label "ANTIANDROGENS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_422 a owl:Class ;
+    rdfs:label "ANTITHYROID AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_423 a owl:Class ;
+    rdfs:label "AROMATASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_426 a owl:Class ;
+    rdfs:label "SYNTHETIC OVULATION STIMULANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_427 a owl:Class ;
+    rdfs:label "TOCOLYTIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_113 .
+
+mltcs:MLTCS_43 a owl:Class ;
+    rdfs:label "ANTIADRENERGIC AGENTS, PERIPHERALLY ACTING" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_430 a owl:Class ;
+    rdfs:label "ANTICHOLINERGIC CHRONOTROPIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_433 a owl:Class ;
+    rdfs:label "CATECHOLAMINES" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_435 a owl:Class ;
+    rdfs:label "SELECTIVE PHOSPHODIESTERASE-4 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_439 a owl:Class ;
+    rdfs:label "OTHER IMMUNOSTIMULANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_437 .
+
+mltcs:MLTCS_44 a owl:Class ;
+    rdfs:label "ANTIADRENERGIC AGENTS, CENTRALLY ACTING" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_440 a owl:Class ;
+    rdfs:label "THERAPEUTIC VACCINES" ;
+    rdfs:subClassOf mltcs:MLTCS_437 .
+
+mltcs:MLTCS_441 a owl:Class ;
+    rdfs:label "CALCINEURIN INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_104 .
+
+mltcs:MLTCS_442 a owl:Class ;
+    rdfs:label "TNF ALPHA INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_104 .
+
+mltcs:MLTCS_443 a owl:Class ;
+    rdfs:label "INTERLEUKIN INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_104 .
+
+mltcs:MLTCS_444 a owl:Class ;
+    rdfs:label "SELECTIVE IMMUNOSUPPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_104 .
+
+mltcs:MLTCS_445 a owl:Class ;
+    rdfs:label "OTHER IMMUNOSUPPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_104 .
+
+mltcs:MLTCS_448 a owl:Class ;
+    rdfs:label "TOPICAL NON-STEROIDAL ANTI-INFLAMMATORIES" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_45 a owl:Class ;
+    rdfs:label "ANTIANGINAL AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_450 a owl:Class ;
+    rdfs:label "TOPICAL ANTINEOPLASTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_453 a owl:Class ;
+    rdfs:label "TOPICAL RUBEFACIENT" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_454 a owl:Class ;
+    rdfs:label "PROTEASOME INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_455 a owl:Class ;
+    rdfs:label "OPIOID RECEPTOR ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_355 .
+
+mltcs:MLTCS_456 a owl:Class ;
+    rdfs:label "AMPA RECEPTOR ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_64 .
+
+mltcs:MLTCS_457 a owl:Class ;
+    rdfs:label "HYDRAZIDE DERIVATIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_6 .
+
+mltcs:MLTCS_458 a owl:Class ;
+    rdfs:label "SGLT-2 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_99 .
+
+mltcs:MLTCS_460 a owl:Class ;
+    rdfs:label "PHOSPHATE BINDERS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_461 a owl:Class ;
+    rdfs:label "TOPICAL ANTI-ROSACEA AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_136 .
+
+mltcs:MLTCS_467 a owl:Class ;
+    rdfs:label "ACE INHIBITORS WITH THIAZIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_468 a owl:Class ;
+    rdfs:label "ANTIADRENERGIC AGENTS (CENTRAL) WITH THIAZIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_469 a owl:Class ;
+    rdfs:label "ANTIADRENERGIC AGENTS (PERIPHERAL) WITH THIAZIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_470 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIHYPERTENSIVE COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_472 a owl:Class ;
+    rdfs:label "ETA BLOCKERS WITH THIAZIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_473 a owl:Class ;
+    rdfs:label "ANGIOTENSIN II INHIBITORS WITH THIAZIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_475 a owl:Class ;
+    rdfs:label "POTASSIUM SPARING DIURETICS WITH THIAZIDES" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_476 a owl:Class ;
+    rdfs:label "ACE INHIBITORS WITH CALCIUM CHANNEL BLOCKING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_479 a owl:Class ;
+    rdfs:label "ANGIOTENSIN II INHIBITORS WITH CALCIUM CHANNEL BLOCKERS" ;
+    rdfs:subClassOf mltcs:MLTCS_55 .
+
+mltcs:MLTCS_48 a owl:Class ;
+    rdfs:label "CALCIUM CHANNEL BLOCKING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_480 a owl:Class ;
+    rdfs:label "ANTIVIRAL BOOSTERS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_481 a owl:Class ;
+    rdfs:label "NK1 RECEPTOR ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_65 .
+
+mltcs:MLTCS_482 a owl:Class ;
+    rdfs:label "ANGIOTENSIN RECEPTOR BLOCKERS AND NEPRILYSIN INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_483 a owl:Class ;
+    rdfs:label "NEPRILYSIN INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_484 a owl:Class ;
+    rdfs:label "PCSK9 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_19 .
+
+mltcs:MLTCS_485 a owl:Class ;
+    rdfs:label "NS5A INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_7 .
+
+mltcs:MLTCS_488 a owl:Class ;
+    rdfs:label "ANTICOAGULANT REVERSAL AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_81 .
+
+mltcs:MLTCS_490 a owl:Class ;
+    rdfs:label "ERIPHERAL OPIOID RECEPTOR MIXED AGONISTS/ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_355 .
+
+mltcs:MLTCS_492 a owl:Class ;
+    rdfs:label "CEPHALOSPORINS/BETA-LACTAMASE INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_9 .
+
+mltcs:MLTCS_495 a owl:Class ;
+    rdfs:label "CALCIMIMETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_496 a owl:Class ;
+    rdfs:label "VMAT2 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_497 a owl:Class ;
+    rdfs:label "CATION EXCHANGE RESINS" ;
+    rdfs:subClassOf mltcs:MLTCS_105 .
+
+mltcs:MLTCS_50 a owl:Class ;
+    rdfs:label "INOTROPIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_501 a owl:Class ;
+    rdfs:label "CDK 4/6 INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_20 .
+
+mltcs:MLTCS_502 a owl:Class ;
+    rdfs:label "CGRP INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_504 a owl:Class ;
+    rdfs:label "ANTIMANIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_242 .
+
+mltcs:MLTCS_51 a owl:Class ;
+    rdfs:label "MISCELLANEOUS CARDIOVASCULAR AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_52 a owl:Class ;
+    rdfs:label "PERIPHERAL VASODILATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_53 a owl:Class ;
+    rdfs:label "VASODILATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_54 a owl:Class ;
+    rdfs:label "VASOPRESSORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_56 a owl:Class ;
+    rdfs:label "ANGIOTENSIN II INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_59 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANALGESICS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_60 a owl:Class ;
+    rdfs:label "NARCOTIC ANALGESICS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_61 a owl:Class ;
+    rdfs:label "NONSTEROIDAL ANTI-INFLAMMATORY AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_62 a owl:Class ;
+    rdfs:label "SALICYLATES" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_63 a owl:Class ;
+    rdfs:label "ANALGESIC COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_58 .
+
+mltcs:MLTCS_68 a owl:Class ;
+    rdfs:label "BARBITURATES" ;
+    rdfs:subClassOf mltcs:MLTCS_67 .
+
+mltcs:MLTCS_69 a owl:Class ;
+    rdfs:label "BENZODIAZEPINES" ;
+    rdfs:subClassOf mltcs:MLTCS_67 .
+
+mltcs:MLTCS_70 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANXIOLYTICS, SEDATIVES AND HYPNOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_67 .
+
+mltcs:MLTCS_71 a owl:Class ;
+    rdfs:label "CNS STIMULANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_72 a owl:Class ;
+    rdfs:label "GENERAL ANESTHETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_76 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIDEPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_249 .
+
+mltcs:MLTCS_77 a owl:Class ;
+    rdfs:label "MISCELLANEOUS ANTIPSYCHOTIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_251 .
+
+mltcs:MLTCS_79 a owl:Class ;
+    rdfs:label "PSYCHOTHERAPEUTIC COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_242 .
+
+mltcs:MLTCS_80 a owl:Class ;
+    rdfs:label "MISCELLANEOUS CENTRAL NERVOUS SYSTEM AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_85 a owl:Class ;
+    rdfs:label "MISCELLANEOUS COAGULATION MODIFIERS" ;
+    rdfs:subClassOf mltcs:MLTCS_81 .
+
+mltcs:MLTCS_88 a owl:Class ;
+    rdfs:label "ANTACIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_89 a owl:Class ;
+    rdfs:label "ANTICHOLINERGICS/ANTISPASMODICS" ;
+    rdfs:subClassOf mltcs:MLTCS_355 .
+
+mltcs:MLTCS_90 a owl:Class ;
+    rdfs:label "ANTIDIARRHEALS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_91 a owl:Class ;
+    rdfs:label "DIGESTIVE ENZYMES" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_92 a owl:Class ;
+    rdfs:label "GALLSTONE SOLUBILIZING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_93 a owl:Class ;
+    rdfs:label "GI STIMULANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_94 a owl:Class ;
+    rdfs:label "H2 ANTAGONISTS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_95 a owl:Class ;
+    rdfs:label "LAXATIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_96 a owl:Class ;
+    rdfs:label "MISCELLANEOUS GI AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_218 a owl:Class ;
+    rdfs:label "ALTERNATIVE MEDICINES" .
+
+mltcs:MLTCS_331 a owl:Class ;
+    rdfs:label "RADIOLOGIC AGENTS" .
+
+mltcs:MLTCS_332 a owl:Class ;
+    rdfs:label "RADIOLOGIC ADJUNCTS" ;
+    rdfs:subClassOf mltcs:MLTCS_331 .
+
+mltcs:MLTCS_83 a owl:Class ;
+    rdfs:label "ANTIPLATELET AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_81 .
+
+mltcs:MLTCS_11 a owl:Class ;
+    rdfs:label "MACROLIDE DERIVATIVES" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_151 a owl:Class ;
+    rdfs:label "VAGINAL PREPARATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_247 a owl:Class ;
+    rdfs:label "NASAL PREPARATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_28 a owl:Class ;
+    rdfs:label "BIOLOGICALS" .
+
+mltcs:MLTCS_409 a owl:Class ;
+    rdfs:label "BONE RESORPTION INHIBITORS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_47 a owl:Class ;
+    rdfs:label "BETA-ADRENERGIC BLOCKING AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_66 a owl:Class ;
+    rdfs:label "ANTIPARKINSON AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_73 a owl:Class ;
+    rdfs:label "MUSCLE RELAXANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_4 a owl:Class ;
+    rdfs:label "ANTIFUNGALS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_5 a owl:Class ;
+    rdfs:label "ANTIMALARIAL AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_67 a owl:Class ;
+    rdfs:label "ANXIOLYTICS, SEDATIVES, AND HYPNOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_98 a owl:Class ;
+    rdfs:label "ADRENAL CORTICAL STEROIDS" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_125 a owl:Class ;
+    rdfs:label "BRONCHODILATORS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_130 a owl:Class ;
+    rdfs:label "RESPIRATORY INHALANT PRODUCTS" ;
+    rdfs:subClassOf mltcs:MLTCS_122 .
+
+mltcs:MLTCS_242 a owl:Class ;
+    rdfs:label "PSYCHOTHERAPEUTIC AGENTS" .
+
+mltcs:MLTCS_251 a owl:Class ;
+    rdfs:label "ANTIPSYCHOTICS" ;
+    rdfs:subClassOf mltcs:MLTCS_242 .
+
+mltcs:MLTCS_254 a owl:Class ;
+    rdfs:label "IMMUNOLOGIC AGENTS",
+        "IMMUNOLOGIC AGENTS (DELETE)" .
+
+mltcs:MLTCS_437 a owl:Class ;
+    rdfs:label "IMMUNOSTIMULANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_254 .
+
+mltcs:MLTCS_49 a owl:Class ;
+    rdfs:label "DIURETICS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_6 a owl:Class ;
+    rdfs:label "ANTITUBERCULOSIS AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_81 a owl:Class ;
+    rdfs:label "COAGULATION MODIFIERS" .
+
+mltcs:MLTCS_82 a owl:Class ;
+    rdfs:label "ANTICOAGULANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_81 .
+
+mltcs:MLTCS_9 a owl:Class ;
+    rdfs:label "CEPHALOSPORINS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_104 a owl:Class ;
+    rdfs:label "IMMUNOSUPPRESSIVE AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_254 .
+
+mltcs:MLTCS_115 a owl:Class ;
+    rdfs:label "NUTRITIONAL PRODUCTS" .
+
+mltcs:MLTCS_13 a owl:Class ;
+    rdfs:label "PENICILLINS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_46 a owl:Class ;
+    rdfs:label "ANTIARRHYTHMIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_65 a owl:Class ;
+    rdfs:label "ANTIEMETIC/ANTIVERTIGO AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_113 a owl:Class ;
+    rdfs:label "GENITOURINARY TRACT AGENTS" .
+
+mltcs:MLTCS_148 a owl:Class ;
+    rdfs:label "OTIC PREPARATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_355 a owl:Class ;
+    rdfs:label "FUNCTIONAL BOWEL DISORDER AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_87 .
+
+mltcs:MLTCS_19 a owl:Class ;
+    rdfs:label "ANTIHYPERLIPIDEMIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_249 a owl:Class ;
+    rdfs:label "ANTIDEPRESSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_242 .
+
+mltcs:MLTCS_101 a owl:Class ;
+    rdfs:label "SEX HORMONES" ;
+    rdfs:subClassOf mltcs:MLTCS_97 .
+
+mltcs:MLTCS_133 a owl:Class ;
+    rdfs:label "TOPICAL AGENTS" .
+
+mltcs:MLTCS_358 a owl:Class ;
+    rdfs:label "METABOLIC AGENTS" .
+
+mltcs:MLTCS_55 a owl:Class ;
+    rdfs:label "ANTIHYPERTENSIVE COMBINATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_40 .
+
+mltcs:MLTCS_58 a owl:Class ;
+    rdfs:label "ANALGESICS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_122 a owl:Class ;
+    rdfs:label "RESPIRATORY AGENTS" .
+
+mltcs:MLTCS_99 a owl:Class ;
+    rdfs:label "ANTIDIABETIC AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_358 .
+
+mltcs:MLTCS_147 a owl:Class ;
+    rdfs:label "OPHTHALMIC PREPARATIONS" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_87 a owl:Class ;
+    rdfs:label "GASTROINTESTINAL AGENTS" .
+
+mltcs:MLTCS_105 a owl:Class ;
+    rdfs:label "MISCELLANEOUS AGENTS" .
+
+mltcs:MLTCS_7 a owl:Class ;
+    rdfs:label "ANTIVIRAL AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_1 .
+
+mltcs:MLTCS_57 a owl:Class ;
+    rdfs:label "CENTRAL NERVOUS SYSTEM AGENTS" .
+
+mltcs:MLTCS_64 a owl:Class ;
+    rdfs:label "ANTICONVULSANTS" ;
+    rdfs:subClassOf mltcs:MLTCS_57 .
+
+mltcs:MLTCS_20 a owl:Class ;
+    rdfs:label "ANTINEOPLASTICS" .
+
+mltcs:MLTCS_97 a owl:Class ;
+    rdfs:label "HORMONES/HORMONE MODIFIERS" .
+
+mltcs:MLTCS_1 a owl:Class ;
+    rdfs:label "ANTI-INFECTIVES" .
+
+mltcs:MLTCS_136 a owl:Class ;
+    rdfs:label "DERMATOLOGICAL AGENTS" ;
+    rdfs:subClassOf mltcs:MLTCS_133 .
+
+mltcs:MLTCS_40 a owl:Class ;
+    rdfs:label "CARDIOVASCULAR AGENTS" .
+

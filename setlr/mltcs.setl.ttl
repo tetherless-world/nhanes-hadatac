@@ -1,0 +1,70 @@
+@prefix prov:          <http://www.w3.org/ns/prov#> .
+@prefix rdfs:          <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:           <http://www.w3.org/2002/07/owl#> .
+@prefix dcat:          <http://www.w3.org/ns/dcat#> .
+@prefix dcterms:       <http://purl.org/dc/terms/> .
+@prefix void:          <http://rdfs.org/ns/void#> .
+@prefix setl:          <http://purl.org/twc/vocab/setl/> .
+@prefix csvw:          <http://www.w3.org/ns/csvw#> .
+@prefix pv:            <http://purl.org/net/provenance/ns#> .
+@prefix :              <http://example.com/setl/> .
+
+:table a csvw:Table, setl:Table;
+    csvw:delimiter ",";
+    prov:wasGeneratedBy [
+        a setl:Extract;
+        prov:used <../data/dd/mltcs.csv>;
+    ] .
+
+:pandas a owl:Class, prov:SoftwareAgent, setl:PythonScript;
+    rdfs:subClassOf prov:Activity;
+    prov:value '''
+import pandas as result
+    '''.
+
+<http://purl.org/twc/nhanes/mltcs/> a void:Dataset;
+    prov:wasGeneratedBy [
+        a setl:Transform, setl:JSLDT;
+        prov:used :table;
+        prov:qualifiedUsage [
+            a prov:Usage;
+            prov:entity :pandas;
+            prov:hadRole [
+                dcterms:identifier "pandas"
+            ]
+        ];
+        setl:hasContext '''{
+            "owl" : "http://www.w3.org/2002/07/owl#",
+            "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+            "mltcs" : "http://purl.org/twc/nhanes/mltcs/"
+        }''';
+        prov:value '''[{
+            "@id": "mltcs:MLTCS_{{row.ID1}}",
+            "@type": "owl:Class",
+            "rdfs:label": "{{row.NAME1}}"
+        },
+        {
+            "@if": "not pandas.isna(row.ID2)",
+            "@id": "mltcs:MLTCS_{{row.ID2}}",
+            "@type": "owl:Class",
+            "rdfs:subClassOf": {
+                "@id": "mltcs:MLTCS_{{row.ID1}}"
+            },
+            "rdfs:label": "{{row.NAME2}}"
+        },
+        {
+            "@if": "not pandas.isna(row.ID3)",
+            "@id": "mltcs:MLTCS_{{row.ID3}}",
+            "@type": "owl:Class",
+            "rdfs:subClassOf": {
+                "@id": "mltcs:MLTCS_{{row.ID2}}"
+            },
+            "rdfs:label": "{{row.NAME3}}"
+        }]'''] .
+
+<../ontologies/mltcs.ttl> a pv:File;
+    dcterms:format "text/turtle";
+    prov:wasGeneratedBy [
+      a setl:Load;
+      prov:used <http://purl.org/twc/nhanes/mltcs/> ;
+    ].
