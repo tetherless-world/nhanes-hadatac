@@ -6,10 +6,11 @@ Welcome to the NHANES-HADatAc Github. This repository has the objective of stori
 
 | Resource | Filename |   |
 | -------- | -------- | - |
-| NHANES Drug Ontology - Drugs | `rxq_drug.ttl` | Link |
-| NHANES Drug Ontology - Therapeutic classification | `mltcs.ttl` | Link |
+| NHANES Drug Ontology - Drugs | `rxq_drug.ttl` | [Link](https://github.com/tetherless-world/nhanes-hadatac/blob/main/ontologies/rxq_drug.ttl) |
+| NHANES Drug Ontology - Therapeutic classification | `mltcs.ttl` | [Link](https://github.com/tetherless-world/nhanes-hadatac/blob/main/ontologies/mltcs.ttl) |
 | Prescription Medications (RXQ_RX) Prevention SDD | `SDD-NHANES-RXQ_RX-P.xlsx` | [Link](https://github.com/tetherless-world/nhanes-hadatac/blob/main/metadata/SDD-NHANES-RXQ_RX-P.xlsx) |
 | Prescription Medications (RXQ_RX) Treatment SDD | `SDD-NHANES-RXQ_RX-T.xlsx` | [Link](https://github.com/tetherless-world/nhanes-hadatac/blob/main/metadata/SDD-NHANES-RXQ_RX-T.xlsx) |
+| SETLr scripts | `rxq_drug.setl.ttl` & `mltcs.setl.ttl` | [Link](https://github.com/tetherless-world/nhanes-hadatac/tree/main/setlr)
 
 ## Supporting Ontologies
 
