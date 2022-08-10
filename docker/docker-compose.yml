@@ -1,0 +1,70 @@
+version: '3'
+
+services:
+    # The HADatAc Solr service
+    solr:
+        image: tetherlessworld/nhanes-hadatac_solr:latest
+        container_name: nhanes-hadatac_solr
+        restart: always
+        environment:
+            SOLR_JAVA_MEM: "-Xms1g -Xmx1g"
+        volumes:
+            - hadatac-solr:/opt/solr/server
+        networks:
+            hadatac:
+                aliases:
+                    - solr
+        ports:
+            - "8983:8983"
+
+    # The HADatAc Blazegraph service
+    blazegraph:
+        image: tetherlessworld/nhanes-hadatac_blazegraph:latest
+        container_name: hadatac_blazegraph
+        networks:
+            hadatac:
+                aliases:
+                    - blazegraph
+        ports:
+            - "8080:8080"
+        restart: always
+        environment:
+            JAVA_OPTS: -Xms128m -Xmx2g
+        volumes:
+            - hadatac-blazegraph:/var/lib/jetty
+
+    # The main HADatAc web app
+    hadatac:
+        image: tetherlessworld/nhanes-hadatac:latest
+        restart: always
+        container_name: hadatac
+        tty: true
+        ports:
+            - "9000:9000"
+        networks:
+            hadatac:
+                aliases:
+                    - hadatac
+        environment:
+            JAVA_OPTS: -Xms128m -Xmx12g
+        volumes:
+            - hadatac-csvs:/hadatac/csvs
+            - hadatac-working_csv:/hadatac/working_csv
+            - hadatac-conf:/hadatac/conf
+            - /var/log/hadatac:/hadatac/logs
+        links:
+            - blazegraph
+            - solr
+        depends_on:
+            - blazegraph
+            - solr
+
+volumes:
+    hadatac-solr:
+    hadatac-blazegraph:
+    hadatac-csvs:
+    hadatac-working_csv:
+    hadatac-conf:
+
+networks:
+    hadatac:
