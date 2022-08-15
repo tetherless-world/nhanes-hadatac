@@ -52,5 +52,21 @@ services:
             - blazegraph
             - solr
 
+    # The main HADatAc web app
+    jupyter:
+        image: jupyter/scipy-notebook:latest
+        restart: always
+        container_name: nhanes-jupyter
+        ports:
+            - "8888:8888"
+        networks:
+            hadatac:
+                aliases:
+                    - jupyter
+        links:
+            - hadatac
+        depends_on:
+            - hadatac
+
 networks:
     hadatac:
