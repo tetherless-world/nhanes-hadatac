@@ -136,6 +136,12 @@ obo:UO_0000052 rdf:type owl:Class .
 <http://purl.org/twc/HHEAR_00556> rdf:type owl:Class .
 
 
+###  http://purl.org/twc/HHEAR_00578
+<http://purl.org/twc/HHEAR_00578> rdf:type owl:Class ;
+                                  rdfs:subClassOf <http://purl.org/twc/NHANES_00156> ;
+                                  owl:disjointWith <http://purl.org/twc/NHANES_00157> .
+
+
 ###  http://purl.org/twc/NHANES_00001
 <http://purl.org/twc/NHANES_00001> rdf:type owl:Class .
 
@@ -853,7 +859,7 @@ obo:UO_0000052 rdf:type owl:Class .
 
 ###  http://purl.org/twc/NHANES_00157
 <http://purl.org/twc/NHANES_00157> rdf:type owl:Class ;
-                                   rdfs:subClassOf obo:NCIT_C17049 .
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00156> .
 
 
 ###  http://semanticscience.org/resource/SIO_000391
