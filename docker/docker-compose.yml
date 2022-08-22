@@ -52,11 +52,14 @@ services:
             - blazegraph
             - solr
 
-    # The main HADatAc web app
+    # Jupyter Lab
     jupyter:
-        image: jupyter/scipy-notebook:latest
+        image: tetherlessworld/nhanes-hadatac_jupyter:latest
+        build: nhanes-hadatac_jupyter/
         restart: always
-        container_name: nhanes-jupyter
+        container_name: nhanes-hadatac_jupyter
+        environment:
+            - NOTEBOOK_ARGS=--VoilaConfiguration.strip_sources=False
         ports:
             - "8888:8888"
         networks:
