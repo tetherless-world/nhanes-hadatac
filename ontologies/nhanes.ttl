@@ -104,6 +104,10 @@ obo:STATO_0000113 rdf:type owl:Class .
 obo:UO_0000052 rdf:type owl:Class .
 
 
+###  http://purl.obolibrary.org/obo/UO_0000178
+obo:UO_0000178 rdf:type owl:Class .
+
+
 ###  http://purl.org/twc/HHEAR_00027
 <http://purl.org/twc/HHEAR_00027> rdf:type owl:Class .
 
@@ -830,6 +834,12 @@ obo:UO_0000052 rdf:type owl:Class .
 
 ###  http://purl.org/twc/NHANES_00153
 <http://purl.org/twc/NHANES_00153> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/NHANES_00154
+<http://purl.org/twc/NHANES_00154> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:UO_0000178 ;
+                                   rdfs:label "microunit per mililiter" .
 
 
 ###  http://semanticscience.org/resource/SIO_000391
@@ -1783,8 +1793,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDEDUC3-11" .
 
 
-<http://purl.org/twc/NHANES_00043> rdfs:label "12th grade, no diploma" ;
-                                   skos:notation "DMDEDUC3-12" .
+<http://purl.org/twc/NHANES_00043> skos:notation "DMDEDUC3-12" ;
+                                   rdfs:label "12th grade, no diploma" .
 
 
 <http://purl.org/twc/NHANES_00044> skos:notation "DMDEDUC3-13" ;
@@ -1884,8 +1894,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    rdfs:label "<20 years" .
 
 
-<http://purl.org/twc/NHANES_00071> rdfs:label "<12 months" ,
-                                              205 .
+<http://purl.org/twc/NHANES_00071> rdfs:label 205 ,
+                                              "<12 months" .
 
 
 <http://purl.org/twc/NHANES_00072> skos:notation "DMDHRAGZ-4" ;
@@ -1950,8 +1960,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "HIQ031AA-40" .
 
 
-<http://purl.org/twc/NHANES_00088> rdfs:label "Covered by private insurance - Refused" ;
-                                   skos:notation "HIQ031A-77" .
+<http://purl.org/twc/NHANES_00088> skos:notation "HIQ031A-77" ;
+                                   rdfs:label "Covered by private insurance - Refused" .
 
 
 <http://purl.org/twc/NHANES_00089> rdfs:label "Covered by private insurance - Don't know" ;
@@ -2005,8 +2015,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DIQ010-2" .
 
 
-<http://purl.org/twc/NHANES_00103> rdfs:label "Borderline" ;
-                                   skos:notation "DIQ010-3" .
+<http://purl.org/twc/NHANES_00103> skos:notation "DIQ010-3" ;
+                                   rdfs:label "Borderline" .
 
 
 <http://purl.org/twc/NHANES_00104> rdfs:label "Refused" ;
@@ -2162,8 +2172,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    rdfs:label "Don't know" .
 
 
-<http://purl.org/twc/NHANES_00144> rdfs:label "Refused" ,
-                                              "DMDHREDZ-7" .
+<http://purl.org/twc/NHANES_00144> rdfs:label "DMDHREDZ-7" ,
+                                              "Refused" .
 
 
 <http://purl.org/twc/NHANES_00145> rdfs:label "Don't know" ;
