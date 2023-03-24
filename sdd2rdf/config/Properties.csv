@@ -1,0 +1,14 @@
+Column,Property
+Attribute,rdf:type
+attributeOf,sio:isAttributeOf
+Comment,rdfs:comment
+Definition,skos:definition
+Entity,rdf:type
+inRelationTo,sio:inRelationTo
+Label,rdfs:label
+Role,sio:hasRole
+Time,sio:existsAt
+Unit,sio:hasUnit
+Value,sio:hasValue
+wasDerivedFrom,prov:wasDerivedFrom
+wasGeneratedBy,prov:wasGeneratedBy

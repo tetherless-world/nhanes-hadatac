@@ -1,0 +1,188 @@
+prefix autism-core: <http://purl.org/autism-ontology/1.0/autism-core.owl#> 
+prefix chebi: <http://purl.obolibrary.org/obo/CHEBI_> 
+prefix cl: <http://purl.obolibrary.org/obo/CL_> 
+prefix cmo: <http://purl.obolibrary.org/obo/CMO_> 
+prefix cogat: <http://www.cognitiveatlas.org/ontology/cogat.owl#CAO_> 
+prefix cogpo: <http://www.cogpo.org/ontologies/working/CogPOver2011.owl#COGPO_> 
+prefix CSEO: <http://scai.fraunhofer.de/CSEO#> 
+prefix dct: <http://purl.org/dc/terms/> 
+prefix dcterms: <http://purl.org/dc/terms/> 
+prefix doid: <http://purl.obolibrary.org/obo/DOID_> 
+prefix drug: <http://purl.org/twc/DRUG_> 
+prefix efo: <http://www.ebi.ac.uk/efo/EFO_> 
+prefix envo: <http://purl.obolibrary.org/obo/ENVO_> 
+prefix exo: <http://purl.obolibrary.org/obo/ExO_> 
+prefix fma: <http://purl.obolibrary.org/obo/FMA_> 
+prefix foaf: <http://xmlns.com/foaf/0.1/> 
+prefix hasco: <http://hadatac.org/ont/hasco/> 
+prefix hhear: <http://purl.org/twc/HHEAR_> 
+prefix hp: <http://purl.obolibrary.org/obo/HP_> 
+prefix icd10cm: <http://purl.bioontology.org/ontology/ICD10CM/> 
+prefix maxo: <http://purl.obolibrary.org/obo/MAXO_> 
+prefix mi: <http://purl.obolibrary.org/obo/MI_> 
+prefix nbo: <http://purl.obolibrary.org/obo/NBO_> 
+prefix ncit: <http://purl.obolibrary.org/obo/NCIT_> 
+prefix nhanes: <http://purl.org/twc/NHANES_> 
+prefix nhanes-kb: <http://hadatac.org/kb/nhanes#> 
+prefix obo: <http://purl.obolibrary.org/obo/> 
+prefix ogms: <http://purl.obolibrary.org/obo/OGMS_> 
+prefix omit: <http://purl.obolibrary.org/obo/OMIT_> 
+prefix owl: <http://www.w3.org/2002/07/owl#> 
+prefix pato: <http://purl.obolibrary.org/obo/PATO_> 
+prefix prov: <http://www.w3.org/ns/prov#> 
+prefix pubchem: <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/> 
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+prefix sio: <http://semanticscience.org/resource/> 
+prefix skos: <http://www.w3.org/2004/02/skos/core#> 
+prefix stato: <http://purl.obolibrary.org/obo/STATO_> 
+prefix sty: <http://purl.bioontology.org/ontology/STY/> 
+prefix symp: <http://purl.obolibrary.org/obo/SYMP_> 
+prefix uberon: <http://purl.obolibrary.org/obo/UBERON_> 
+prefix uniprot: <http://www.uniprot.org/uniprot/> 
+prefix uo: <http://purl.obolibrary.org/obo/UO_> 
+prefix vstoi: <http://hadatac.org/ont/vstoi#> 
+prefix wikidata: <http://www.wikidata.org/wiki/> 
+prefix xsd: <http://www.w3.org/2001/XMLSchema#> 
+
+SELECT DISTINCT ?seqn ?screening_yr ?mec_yr ?ridageyr ?ridagemn ?riagendr ?ridreth1 ?dmdborn2 ?dmdborn4 ?dmdeduc3 ?dmdeduc2 ?dmdhredz ?dmdhredu ?dmdhrgnd ?dmdhragz ?dmdhrage ?dmdmartl ?ridexprg ?indhhin2 ?dmdfmsiz ?dmdhhsza  ?dmdhhszb ?dmdhhsze ?indfmin2 ?wtint2yr ?wtmec2yr ?sdmvpsu ?sdmvstra WHERE {
+  ?seqn_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> hasco:originalID  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?seqn .
+
+  ?screening_yr_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_000428  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?screening_V  ;
+    <http://semanticscience.org/resource/hasValue> ?screening_yr .
+
+  ?mec_yr_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_000428  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?mec_V  ;
+    <http://semanticscience.org/resource/hasValue> ?mec_yr .
+
+  ?ridageyr_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_001013  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasUnit>    sio:SIO_000428 ;
+    <http://semanticscience.org/resource/existsAt>     ?screening_V  ;
+    <http://semanticscience.org/resource/hasValue> ?ridageyr .
+
+  ?ridagemn_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_001013  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasUnit>    sio:SIO_000429 ;
+    <http://semanticscience.org/resource/existsAt>     ?screening_V  ;
+    <http://semanticscience.org/resource/hasValue> ?ridagemn .
+
+  ?riagendr_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_010029  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?riagendr .
+
+  ?ridreth1_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> hhear:00609  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?ridreth1 .
+
+  ?dmdborn2_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> hhear:00556  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdborn2 .
+
+  ?dmdborn4_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> hhear:00556  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdborn4 .
+
+  ?dmdeduc3_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> exo:0000041  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdeduc3 .
+
+  ?dmdeduc2_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> exo:0000041  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdeduc2 .
+
+  ?dmdhredz_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> exo:0000041  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hhref_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhredz .
+
+  ?dmdhredu_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> exo:0000041  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hhref_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhredu .
+
+  ?dmdhrgnd_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_010029  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hhref_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhrgnd .
+
+  ?dmdhragz_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00069  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hhref_V  ;
+    <http://semanticscience.org/resource/hasUnit>    nhanes:00076 ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhragz .
+
+  ?dmdhrage_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_001013  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hhref_V  ;
+    <http://semanticscience.org/resource/hasUnit>    sio:SIO_000428 ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhrage .
+
+  ?dmdmartl_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> hhear:00238  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdmartl .
+
+  ?ridexprg_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> hhear:00489  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?ridexprg .
+
+  ?indhhin2_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> obo:NCIT_C70811  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hh_V  ;
+    <http://semanticscience.org/resource/hasValue> ?indhhin2 .
+
+  ?dmdfmsiz_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00021  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?family_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdfmsiz .
+
+  ?dmdhhsza _E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00022  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hh_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhhsza  .
+
+  ?dmdhhszb_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00023  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hh_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhhszb .
+
+  ?dmdhhsze_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00024  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?hh_V  ;
+    <http://semanticscience.org/resource/hasValue> ?dmdhhsze .
+
+  ?indfmin2_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> obo:NCIT_C70811  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?family_V  ;
+    <http://semanticscience.org/resource/hasValue> ?indfmin2 .
+
+  ?wtint2yr_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00028  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/existsAt>     ?screening_V  ;
+    <http://semanticscience.org/resource/hasValue> ?wtint2yr .
+
+  ?wtmec2yr_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00097  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/existsAt>     ?mec_V  ;
+    <http://semanticscience.org/resource/hasValue> ?wtmec2yr .
+
+  ?sdmvpsu_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00098  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?sdmvpsu .
+
+  ?sdmvstra_E <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00099  ;
+    <http://semanticscience.org/resource/isAttributeOf>    ?participant_V  ;
+    <http://semanticscience.org/resource/hasValue> ?sdmvstra .
+
+
+  ?participant_V <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_000485  ;
+    <http://semanticscience.org/resource/hasRole>    [ <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_000883 ].
+
+  ?screening_V <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00020  ;
+    <http://semanticscience.org/resource/inRelationTo>    ?participant_V .
+
+  ?mec_V <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> nhanes:00027  ;
+    <http://semanticscience.org/resource/inRelationTo>    ?participant_V .
+
+  ?hhref_V <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_000485  ;
+    sio:SIO_000011 ?hh_V .
+
+  ?hh_V <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> obo:OMRSE_00000076  ;
+    sio:SIO_000059 ?participant_V .
+
+  ?family_V <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> sio:SIO_000620  ;
+    <http://semanticscience.org/resource/inRelationTo>    ?participant_V .
+
+}

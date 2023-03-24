@@ -1,0 +1,19 @@
+[Prefixes]
+# Specify a file with the prefixes for existing ontologies used in your translation
+prefixes = sdd2rdf/config/prefixes.csv
+# Specify the base uri to be associated with all triples minted by the script
+base_uri = nhanes-kb
+nanopublication=disabled
+
+[Source Files]
+dictionary = sdd2rdf/input/DM/SDD-NHANES-DEMO-DM.csv
+codebook = sdd2rdf/input/CB/SDD-NHANES-DEMO-CB.csv
+data_file = sdd2rdf/input/Data/DA-NHANES-2009-2010-DEMO_F-100.csv
+code_mappings = sdd2rdf/config/code_mappings.csv
+infosheet = sdd2rdf/config/Infosheet.csv
+properties = sdd2rdf/config/Properties.csv
+
+[Output Files]
+out_file = sdd2rdf/output/ttl/nhanes-kg-2009-2010-DEMO_F.ttl
+query_file = sdd2rdf/output/sparql/nhanesQuery
+swrl_file = sdd2rdf/output/swrl/nhanesSWRL
