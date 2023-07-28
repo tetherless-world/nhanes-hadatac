@@ -1,5 +1,6 @@
 @prefix : <http://purl.org/twc/NHANES#> .
 @prefix uo: <http://purl.obolibrary.org/obo/UO_> .
+@prefix cmo: <http://purl.obolibrary.org/obo/CMO_> .
 @prefix exo: <http://purl.obolibrary.org/obo/ExO_> .
 @prefix obo: <http://purl.obolibrary.org/obo/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -15,13 +16,17 @@
 @prefix stato: <http://purl.obolibrary.org/obo/STATO_> .
 @prefix vstoi: <http://hadatac.org/ont/vstoi#> .
 @prefix nhanes: <http://purl.org/twc/NHANES_> .
-@base <http://purl.org/twc/NHANES> .
+@base <http://purl.org/twc/NHANES#> .
 
 <http://purl.org/twc/NHANES> rdf:type owl:Ontology .
 
 #################################################################
 #    Annotation properties
 #################################################################
+
+###  http://www.w3.org/2004/02/skos/core#definition
+skos:definition rdf:type owl:AnnotationProperty .
+
 
 ###  http://www.w3.org/2004/02/skos/core#notation
 skos:notation rdf:type owl:AnnotationProperty .
@@ -86,6 +91,19 @@ obo:CHEBI_23888 rdf:type owl:Class ;
 obo:ExO_0000041 rdf:type owl:Class .
 
 
+###  http://purl.obolibrary.org/obo/FMA_24890
+obo:FMA_24890 rdf:type owl:Class ;
+              rdfs:subClassOf sio:SIO_010046 ;
+              rdfs:label "Arm" .
+
+
+###  http://purl.obolibrary.org/obo/FMA_24979
+obo:FMA_24979 rdf:type owl:Class ;
+              rdfs:subClassOf sio:SIO_010046 ;
+              rdfs:label "Upper Leg" ;
+              skos:definition "Intermediate segment of free lower limb" .
+
+
 ###  http://purl.obolibrary.org/obo/NCIT_C64849
 obo:NCIT_C64849 rdf:type owl:Class ;
                 rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
@@ -106,6 +124,10 @@ obo:UO_0000052 rdf:type owl:Class .
 
 ###  http://purl.org/twc/HHEAR_00027
 <http://purl.org/twc/HHEAR_00027> rdf:type owl:Class .
+
+
+###  http://purl.org/twc/HHEAR_00029
+<http://purl.org/twc/HHEAR_00029> rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/HHEAR_00034
@@ -832,12 +854,45 @@ obo:UO_0000052 rdf:type owl:Class .
 <http://purl.org/twc/NHANES_00153> rdf:type owl:Class .
 
 
+###  http://purl.org/twc/NHANES_00154
+<http://purl.org/twc/NHANES_00154> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00027> ;
+                                   rdfs:label "1st reading" .
+
+
+###  http://purl.org/twc/NHANES_00155
+<http://purl.org/twc/NHANES_00155> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00027> ;
+                                   rdfs:label "2nd reading" .
+
+
+###  http://purl.org/twc/NHANES_00156
+<http://purl.org/twc/NHANES_00156> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00027> ;
+                                   rdfs:label "3rd reading" .
+
+
+###  http://purl.org/twc/NHANES_00157
+<http://purl.org/twc/NHANES_00157> rdf:type owl:Class ;
+                                   rdfs:subClassOf <http://purl.org/twc/NHANES_00027> ;
+                                   rdfs:label "4th reading" .
+
+
+###  http://semanticscience.org/resource/SIO_000041
+sio:SIO_000041 rdf:type owl:Class ;
+               rdfs:subClassOf <http://purl.org/twc/HHEAR_00029> .
+
+
 ###  http://semanticscience.org/resource/SIO_000391
 sio:SIO_000391 rdf:type owl:Class .
 
 
 ###  http://semanticscience.org/resource/SIO_000794
 sio:SIO_000794 rdf:type owl:Class .
+
+
+###  http://semanticscience.org/resource/SIO_010046
+sio:SIO_010046 rdf:type owl:Class .
 
 
 #################################################################
@@ -1608,6 +1663,11 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual .
                                             hasco:QualityValue .
 
 
+###  http://semanticscience.org/resource/SIO_000041
+sio:SIO_000041 rdf:type owl:NamedIndividual ,
+                        hasco:QuantityVariable .
+
+
 #################################################################
 #    Annotations
 #################################################################
@@ -1632,16 +1692,16 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDEDUC3-77" .
 
 
-<http://purl.org/twc/NHANES_00003> skos:notation "RIDEXPRG-1" ;
-                                   rdfs:label "Yes, positive lab pregnancy test or self-reported pregnant at exam" .
+<http://purl.org/twc/NHANES_00003> rdfs:label "Yes, positive lab pregnancy test or self-reported pregnant at exam" ;
+                                   skos:notation "RIDEXPRG-1" .
 
 
-<http://purl.org/twc/NHANES_00004> skos:notation "RIDEXPRG-2" ;
-                                   rdfs:label "The participant was not pregnant at exam" .
+<http://purl.org/twc/NHANES_00004> rdfs:label "The participant was not pregnant at exam" ;
+                                   skos:notation "RIDEXPRG-2" .
 
 
-<http://purl.org/twc/NHANES_00005> skos:notation "RIDEXPRG-3" ;
-                                   rdfs:label "Cannot ascertain if the participant is pregnant at exam" .
+<http://purl.org/twc/NHANES_00005> rdfs:label "Cannot ascertain if the participant is pregnant at exam" ;
+                                   skos:notation "RIDEXPRG-3" .
 
 
 <http://purl.org/twc/NHANES_00006> rdfs:label "$ 0 to $ 4,999" ;
@@ -1656,28 +1716,28 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "INDHHIN2-3" .
 
 
-<http://purl.org/twc/NHANES_00009> skos:notation "INDHHIN2-4" ;
-                                   rdfs:label "$15,000 to $19,999" .
+<http://purl.org/twc/NHANES_00009> rdfs:label "$15,000 to $19,999" ;
+                                   skos:notation "INDHHIN2-4" .
 
 
 <http://purl.org/twc/NHANES_00010> rdfs:label "$20,000 to $24,999" ;
                                    skos:notation "INDHHIN2-5" .
 
 
-<http://purl.org/twc/NHANES_00011> skos:notation "INDHHIN2-6" ;
-                                   rdfs:label "$25,000 to $34,999" .
+<http://purl.org/twc/NHANES_00011> rdfs:label "$25,000 to $34,999" ;
+                                   skos:notation "INDHHIN2-6" .
 
 
-<http://purl.org/twc/NHANES_00012> skos:notation "INDHHIN2-7" ;
-                                   rdfs:label "$35,000 to $44,999" .
+<http://purl.org/twc/NHANES_00012> rdfs:label "$35,000 to $44,999" ;
+                                   skos:notation "INDHHIN2-7" .
 
 
-<http://purl.org/twc/NHANES_00013> skos:notation "INDHHIN2-8" ;
-                                   rdfs:label "$45,000 to $54,999" .
+<http://purl.org/twc/NHANES_00013> rdfs:label "$45,000 to $54,999" ;
+                                   skos:notation "INDHHIN2-8" .
 
 
-<http://purl.org/twc/NHANES_00014> skos:notation "INDHHIN2-9" ;
-                                   rdfs:label "$55,000 to $64,999" .
+<http://purl.org/twc/NHANES_00014> rdfs:label "$55,000 to $64,999" ;
+                                   skos:notation "INDHHIN2-9" .
 
 
 <http://purl.org/twc/NHANES_00015> rdfs:label "$65,000 to $74,999" ;
@@ -1696,8 +1756,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "INDHHIN2-14" .
 
 
-<http://purl.org/twc/NHANES_00019> skos:notation "INDHHIN2-15" ;
-                                   rdfs:label "$100,000 and Over" .
+<http://purl.org/twc/NHANES_00019> rdfs:label "$100,000 and Over" ;
+                                   skos:notation "INDHHIN2-15" .
 
 
 <http://purl.org/twc/NHANES_00020> rdfs:label "Screening time" .
@@ -1719,8 +1779,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDBORN4-1" .
 
 
-<http://purl.org/twc/NHANES_00026> skos:notation "DMDBORN4-2" ;
-                                   rdfs:label "Others" .
+<http://purl.org/twc/NHANES_00026> rdfs:label "Others" ;
+                                   skos:notation "DMDBORN4-2" .
 
 
 <http://purl.org/twc/NHANES_00027> rdfs:label "MEC exam time" .
@@ -1735,8 +1795,8 @@ obo:STATO_0000113 rdfs:label "variance" .
 <http://purl.org/twc/NHANES_00030> rdfs:label "Drug usage for disease treatment" .
 
 
-<http://purl.org/twc/NHANES_00031> skos:notation "DMDEDUC3-0" ;
-                                   rdfs:label "Never attended / kindergarten only" .
+<http://purl.org/twc/NHANES_00031> rdfs:label "Never attended / kindergarten only" ;
+                                   skos:notation "DMDEDUC3-0" .
 
 
 <http://purl.org/twc/NHANES_00032> rdfs:label "1st grade" ;
@@ -1751,16 +1811,16 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDEDUC3-3" .
 
 
-<http://purl.org/twc/NHANES_00035> skos:notation "DMDEDUC3-4" ;
-                                   rdfs:label "4th grade" .
+<http://purl.org/twc/NHANES_00035> rdfs:label "4th grade" ;
+                                   skos:notation "DMDEDUC3-4" .
 
 
-<http://purl.org/twc/NHANES_00036> skos:notation "DMDEDUC3-5" ;
-                                   rdfs:label "5th grade" .
+<http://purl.org/twc/NHANES_00036> rdfs:label "5th grade" ;
+                                   skos:notation "DMDEDUC3-5" .
 
 
-<http://purl.org/twc/NHANES_00037> skos:notation "DMDEDUC3-6" ;
-                                   rdfs:label "6th grade" .
+<http://purl.org/twc/NHANES_00037> rdfs:label "6th grade" ;
+                                   skos:notation "DMDEDUC3-6" .
 
 
 <http://purl.org/twc/NHANES_00038> rdfs:label "7th grade" ;
@@ -1771,8 +1831,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDEDUC3-8" .
 
 
-<http://purl.org/twc/NHANES_00040> skos:notation "DMDEDUC3-9" ;
-                                   rdfs:label "9th grade" .
+<http://purl.org/twc/NHANES_00040> rdfs:label "9th grade" ;
+                                   skos:notation "DMDEDUC3-9" .
 
 
 <http://purl.org/twc/NHANES_00041> rdfs:label "10th grade" ;
@@ -1787,16 +1847,16 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDEDUC3-12" .
 
 
-<http://purl.org/twc/NHANES_00044> skos:notation "DMDEDUC3-13" ;
-                                   rdfs:label "High school graduate" .
+<http://purl.org/twc/NHANES_00044> rdfs:label "High school graduate" ;
+                                   skos:notation "DMDEDUC3-13" .
 
 
-<http://purl.org/twc/NHANES_00045> skos:notation "DMDEDUC3-14" ;
-                                   rdfs:label "GED or equivalent" .
+<http://purl.org/twc/NHANES_00045> rdfs:label "GED or equivalent" ;
+                                   skos:notation "DMDEDUC3-14" .
 
 
-<http://purl.org/twc/NHANES_00046> skos:notation "DMDEDUC3-15" ;
-                                   rdfs:label "More than high school" .
+<http://purl.org/twc/NHANES_00046> rdfs:label "More than high school" ;
+                                   skos:notation "DMDEDUC3-15" .
 
 
 <http://purl.org/twc/NHANES_00047> rdfs:label "Less than 5th grade" ;
@@ -1819,8 +1879,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDEDUC2-4" .
 
 
-<http://purl.org/twc/NHANES_00052> skos:notation "DMDEDUC2-5" ;
-                                   rdfs:label "College graduate or above" .
+<http://purl.org/twc/NHANES_00052> rdfs:label "College graduate or above" ;
+                                   skos:notation "DMDEDUC2-5" .
 
 
 <http://purl.org/twc/NHANES_00053> rdfs:label "Drug usage for disease prevention" .
@@ -1834,8 +1894,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "RXDRSC-77777" .
 
 
-<http://purl.org/twc/NHANES_00056> skos:notation "RXDRSC-99999" ;
-                                   rdfs:label "Don't know disease" .
+<http://purl.org/twc/NHANES_00056> rdfs:label "Don't know disease" ;
+                                   skos:notation "RXDRSC-99999" .
 
 
 <http://purl.org/twc/NHANES_00057> rdfs:label "Drug exposure" .
@@ -1845,8 +1905,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "RXDDRGID-55555" .
 
 
-<http://purl.org/twc/NHANES_00059> skos:notation "RXDDRGID-77777" ;
-                                   rdfs:label "Refused drug" .
+<http://purl.org/twc/NHANES_00059> rdfs:label "Refused drug" ;
+                                   skos:notation "RXDDRGID-77777" .
 
 
 <http://purl.org/twc/NHANES_00060> rdfs:label "Don' know drug" ;
@@ -1880,24 +1940,24 @@ obo:STATO_0000113 rdfs:label "variance" .
 <http://purl.org/twc/NHANES_00069> rdfs:label "Age Category" .
 
 
-<http://purl.org/twc/NHANES_00070> skos:notation "DMDHRAGZ-1" ;
-                                   rdfs:label "<20 years" .
+<http://purl.org/twc/NHANES_00070> rdfs:label "<20 years" ;
+                                   skos:notation "DMDHRAGZ-1" .
 
 
-<http://purl.org/twc/NHANES_00071> rdfs:label "<12 months" ,
-                                              205 .
+<http://purl.org/twc/NHANES_00071> rdfs:label 205 ,
+                                              "<12 months" .
 
 
-<http://purl.org/twc/NHANES_00072> skos:notation "DMDHRAGZ-4" ;
-                                   rdfs:label "60+ years" .
+<http://purl.org/twc/NHANES_00072> rdfs:label "60+ years" ;
+                                   skos:notation "DMDHRAGZ-4" .
 
 
 <http://purl.org/twc/NHANES_00073> rdfs:label "40-59 years" ;
                                    skos:notation "DMDHRAGZ-3" .
 
 
-<http://purl.org/twc/NHANES_00074> skos:notation "DMDHRAGZ-2" ;
-                                   rdfs:label "20-39 years" .
+<http://purl.org/twc/NHANES_00074> rdfs:label "20-39 years" ;
+                                   skos:notation "DMDHRAGZ-2" .
 
 
 <http://purl.org/twc/NHANES_00075> rdfs:label "12-24 months" ;
@@ -1910,8 +1970,8 @@ obo:STATO_0000113 rdfs:label "variance" .
 <http://purl.org/twc/NHANES_00077> rdfs:label "Insurance" .
 
 
-<http://purl.org/twc/NHANES_00078> skos:notation "HIQ031A-14" ;
-                                   rdfs:label "Covered by private insurance" .
+<http://purl.org/twc/NHANES_00078> rdfs:label "Covered by private insurance" ;
+                                   skos:notation "HIQ031A-14" .
 
 
 <http://purl.org/twc/NHANES_00079> rdfs:label "Covered by Medicare" ;
@@ -1938,12 +1998,12 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "HIQ031H-21" .
 
 
-<http://purl.org/twc/NHANES_00085> skos:notation "HIQ031I-22" ;
-                                   rdfs:label "Covered by other government insurance" .
+<http://purl.org/twc/NHANES_00085> rdfs:label "Covered by other government insurance" ;
+                                   skos:notation "HIQ031I-22" .
 
 
-<http://purl.org/twc/NHANES_00086> skos:notation "HIQ031J-23" ;
-                                   rdfs:label "Covered by single service plan" .
+<http://purl.org/twc/NHANES_00086> rdfs:label "Covered by single service plan" ;
+                                   skos:notation "HIQ031J-23" .
 
 
 <http://purl.org/twc/NHANES_00087> rdfs:label "No coverage of any type" ;
@@ -2020,8 +2080,8 @@ obo:STATO_0000113 rdfs:label "variance" .
 <http://purl.org/twc/NHANES_00106> rdfs:label "taking insulin now?" .
 
 
-<http://purl.org/twc/NHANES_00107> skos:notation "DIQ050-1" ;
-                                   rdfs:label "Yes" .
+<http://purl.org/twc/NHANES_00107> rdfs:label "Yes" ;
+                                   skos:notation "DIQ050-1" .
 
 
 <http://purl.org/twc/NHANES_00108> rdfs:label "No" ;
@@ -2032,19 +2092,19 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DIQ050-7" .
 
 
-<http://purl.org/twc/NHANES_00110> skos:notation "DIQ050-9" ;
-                                   rdfs:label "Don't know" .
+<http://purl.org/twc/NHANES_00110> rdfs:label "Don't know" ;
+                                   skos:notation "DIQ050-9" .
 
 
 <http://purl.org/twc/NHANES_00111> rdfs:label "take diabetic pills to lower blood sugar?" .
 
 
-<http://purl.org/twc/NHANES_00112> skos:notation "DIQ070-1" ;
-                                   rdfs:label "Yes" .
+<http://purl.org/twc/NHANES_00112> rdfs:label "Yes" ;
+                                   skos:notation "DIQ070-1" .
 
 
-<http://purl.org/twc/NHANES_00113> skos:notation "DIQ070-2" ;
-                                   rdfs:label "No" .
+<http://purl.org/twc/NHANES_00113> rdfs:label "No" ;
+                                   skos:notation "DIQ070-2" .
 
 
 <http://purl.org/twc/NHANES_00114> rdfs:label "Refused" ;
@@ -2058,39 +2118,39 @@ obo:STATO_0000113 rdfs:label "variance" .
 <http://purl.org/twc/NHANES_00116> rdfs:label "Pregnancy test result" .
 
 
-<http://purl.org/twc/NHANES_00117> skos:notation "URXPREG-1" ;
-                                   rdfs:label "Positive" .
+<http://purl.org/twc/NHANES_00117> rdfs:label "Positive" ;
+                                   skos:notation "URXPREG-1" .
 
 
-<http://purl.org/twc/NHANES_00118> skos:notation "URXPREG-2" ;
-                                   rdfs:label "Negative" .
+<http://purl.org/twc/NHANES_00118> rdfs:label "Negative" ;
+                                   skos:notation "URXPREG-2" .
 
 
 <http://purl.org/twc/NHANES_00119> rdfs:label "Not Done" ;
                                    skos:notation "URXPREG-3" .
 
 
-<http://purl.org/twc/NHANES_00120> skos:notation "URXPREG-4" ;
-                                   rdfs:label "Invalid" .
+<http://purl.org/twc/NHANES_00120> rdfs:label "Invalid" ;
+                                   skos:notation "URXPREG-4" .
 
 
 <http://purl.org/twc/NHANES_00121> rdfs:label "Covered by health insurance?" .
 
 
-<http://purl.org/twc/NHANES_00122> skos:notation "HIQ011-1" ;
-                                   rdfs:label "Yes" .
+<http://purl.org/twc/NHANES_00122> rdfs:label "Yes" ;
+                                   skos:notation "HIQ011-1" .
 
 
 <http://purl.org/twc/NHANES_00123> rdfs:label "No" ;
                                    skos:notation "HIQ011-2" .
 
 
-<http://purl.org/twc/NHANES_00124> skos:notation "HIQ011-7" ;
-                                   rdfs:label "Refused" .
+<http://purl.org/twc/NHANES_00124> rdfs:label "Refused" ;
+                                   skos:notation "HIQ011-7" .
 
 
-<http://purl.org/twc/NHANES_00125> skos:notation "HIQ011-9" ;
-                                   rdfs:label "Don't know" .
+<http://purl.org/twc/NHANES_00125> rdfs:label "Don't know" ;
+                                   skos:notation "HIQ011-9" .
 
 
 <http://purl.org/twc/NHANES_00126> rdfs:label "Prescription coverage" .
@@ -2100,12 +2160,12 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "HIQ270-1" .
 
 
-<http://purl.org/twc/NHANES_00128> skos:notation "HIQ270-2" ;
-                                   rdfs:label "No" .
+<http://purl.org/twc/NHANES_00128> rdfs:label "No" ;
+                                   skos:notation "HIQ270-2" .
 
 
-<http://purl.org/twc/NHANES_00129> skos:notation "HIQ270-7" ;
-                                   rdfs:label "Refused" .
+<http://purl.org/twc/NHANES_00129> rdfs:label "Refused" ;
+                                   skos:notation "HIQ270-7" .
 
 
 <http://purl.org/twc/NHANES_00130> rdfs:label "Don't know" ;
@@ -2115,8 +2175,8 @@ obo:STATO_0000113 rdfs:label "variance" .
 <http://purl.org/twc/NHANES_00131> rdfs:label "Have Medicare?" .
 
 
-<http://purl.org/twc/NHANES_00132> skos:notation "HIQ260-1" ;
-                                   rdfs:label "Yes" .
+<http://purl.org/twc/NHANES_00132> rdfs:label "Yes" ;
+                                   skos:notation "HIQ260-1" .
 
 
 <http://purl.org/twc/NHANES_00133> rdfs:label "No" ;
@@ -2127,8 +2187,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "HIQ260-7" .
 
 
-<http://purl.org/twc/NHANES_00135> skos:notation "HIQ260-9" ;
-                                   rdfs:label "Don't know" .
+<http://purl.org/twc/NHANES_00135> rdfs:label "Don't know" ;
+                                   skos:notation "HIQ260-9" .
 
 
 <http://purl.org/twc/NHANES_00136> rdfs:label "Ever told you had high blood pressure" .
@@ -2138,8 +2198,8 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "BPQ020-1" .
 
 
-<http://purl.org/twc/NHANES_00138> skos:notation "BPQ020-2" ;
-                                   rdfs:label "No" .
+<http://purl.org/twc/NHANES_00138> rdfs:label "No" ;
+                                   skos:notation "BPQ020-2" .
 
 
 <http://purl.org/twc/NHANES_00139> rdfs:label "Refused" ;
@@ -2154,28 +2214,28 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDEDUC2-1" .
 
 
-<http://purl.org/twc/NHANES_00142> rdfs:label "Refused" ,
-                                              "DMDEDUC2-7" .
+<http://purl.org/twc/NHANES_00142> rdfs:label "DMDEDUC2-7" ,
+                                              "Refused" .
 
 
-<http://purl.org/twc/NHANES_00143> skos:notation "DMDEDUC2-9" ;
-                                   rdfs:label "Don't know" .
+<http://purl.org/twc/NHANES_00143> rdfs:label "Don't know" ;
+                                   skos:notation "DMDEDUC2-9" .
 
 
-<http://purl.org/twc/NHANES_00144> rdfs:label "Refused" ,
-                                              "DMDHREDZ-7" .
+<http://purl.org/twc/NHANES_00144> rdfs:label "DMDHREDZ-7" ,
+                                              "Refused" .
 
 
 <http://purl.org/twc/NHANES_00145> rdfs:label "Don't know" ;
                                    skos:notation "DMDHREDZ-9" .
 
 
-<http://purl.org/twc/NHANES_00146> skos:notation "DMDHREDU-9" ;
-                                   rdfs:label "Don't know" .
+<http://purl.org/twc/NHANES_00146> rdfs:label "Don't know" ;
+                                   skos:notation "DMDHREDU-9" .
 
 
-<http://purl.org/twc/NHANES_00147> skos:notation "DMDHREDU-7" ;
-                                   rdfs:label "Refused" .
+<http://purl.org/twc/NHANES_00147> rdfs:label "Refused" ;
+                                   skos:notation "DMDHREDU-7" .
 
 
 <http://purl.org/twc/NHANES_00148> rdfs:label "Refused" ;
@@ -2186,12 +2246,12 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "DMDMARTL-99" .
 
 
-<http://purl.org/twc/NHANES_00150> skos:notation "INDHHIN2-77" ;
-                                   rdfs:label "Refused" .
+<http://purl.org/twc/NHANES_00150> rdfs:label "Refused" ;
+                                   skos:notation "INDHHIN2-77" .
 
 
-<http://purl.org/twc/NHANES_00151> skos:notation "INDHHIN2-99" ;
-                                   rdfs:label "Don't know" .
+<http://purl.org/twc/NHANES_00151> rdfs:label "Don't know" ;
+                                   skos:notation "INDHHIN2-99" .
 
 
 <http://purl.org/twc/NHANES_00152> rdfs:label "Refused" ;
@@ -2202,4 +2262,4 @@ obo:STATO_0000113 rdfs:label "variance" .
                                    skos:notation "INDFMIN2-99" .
 
 
-###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
+###  Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi
