@@ -79,11 +79,13 @@ vstoi:Questionnaire rdf:type owl:Class .
 
 ###  http://purl.bioontology.org/ontology/SNOMEDCT/26091008
 <http://purl.bioontology.org/ontology/SNOMEDCT/26091008> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
                                                          rdfs:label "Aspartate aminotransferase" .
 
 
 ###  http://purl.bioontology.org/ontology/SNOMEDCT/60153001
 <http://purl.bioontology.org/ontology/SNOMEDCT/60153001> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
                                                          rdfs:label "Gamma-glutamyltransferase" .
 
 
@@ -93,9 +95,33 @@ obo:CHEBI_16113 rdf:type owl:Class ;
                                 <http://purl.org/twc/HHEAR_00034> .
 
 
+###  http://purl.obolibrary.org/obo/CHEBI_17234
+obo:CHEBI_17234 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:label "glucose" .
+
+
+###  http://purl.obolibrary.org/obo/CHEBI_17855
+obo:CHEBI_17855 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:label "triglyceride" .
+
+
+###  http://purl.obolibrary.org/obo/CHEBI_17996
+obo:CHEBI_17996 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:label "chloride" .
+
+
 ###  http://purl.obolibrary.org/obo/CHEBI_23888
 obo:CHEBI_23888 rdf:type owl:Class ;
                 rdfs:subClassOf hasco:StudyIndicator .
+
+
+###  http://purl.obolibrary.org/obo/CMO_0000587
+obo:CMO_0000587 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:label "serum urea nitrogen level" .
 
 
 ###  http://purl.obolibrary.org/obo/ExO_0000041
@@ -119,6 +145,12 @@ obo:FMA_24979 rdf:type owl:Class ;
 obo:NCIT_C64849 rdf:type owl:Class ;
                 rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
                                 <http://purl.org/twc/HHEAR_00034> .
+
+
+###  http://purl.obolibrary.org/obo/NCIT_C67330
+obo:NCIT_C67330 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:label "Aspartate Aminotransferase" .
 
 
 ###  http://purl.obolibrary.org/obo/NCIT_C70811
