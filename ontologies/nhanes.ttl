@@ -16,6 +16,7 @@
 @prefix stato: <http://purl.obolibrary.org/obo/STATO_> .
 @prefix vstoi: <http://hadatac.org/ont/vstoi#> .
 @prefix nhanes: <http://purl.org/twc/NHANES_> .
+@prefix snomedct: <http://purl.bioontology.org/ontology/SNOMEDCT/> .
 @base <http://purl.org/twc/NHANES#> .
 
 <http://purl.org/twc/NHANES> rdf:type owl:Ontology .
@@ -76,6 +77,16 @@ hasco:StudyIndicator rdf:type owl:Class .
 vstoi:Questionnaire rdf:type owl:Class .
 
 
+###  http://purl.bioontology.org/ontology/SNOMEDCT/26091008
+<http://purl.bioontology.org/ontology/SNOMEDCT/26091008> rdf:type owl:Class ;
+                                                         rdfs:label "Aspartate aminotransferase" .
+
+
+###  http://purl.bioontology.org/ontology/SNOMEDCT/60153001
+<http://purl.bioontology.org/ontology/SNOMEDCT/60153001> rdf:type owl:Class ;
+                                                         rdfs:label "Gamma-glutamyltransferase" .
+
+
 ###  http://purl.obolibrary.org/obo/CHEBI_16113
 obo:CHEBI_16113 rdf:type owl:Class ;
                 rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
@@ -120,6 +131,10 @@ obo:STATO_0000113 rdf:type owl:Class .
 
 ###  http://purl.obolibrary.org/obo/UO_0000052
 obo:UO_0000052 rdf:type owl:Class .
+
+
+###  http://purl.obolibrary.org/obo/UO_0000067
+obo:UO_0000067 rdf:type owl:Class .
 
 
 ###  http://purl.org/twc/HHEAR_00027
@@ -878,6 +893,18 @@ obo:UO_0000052 rdf:type owl:Class .
                                    rdfs:label "4th reading" .
 
 
+###  http://purl.org/twc/NHANES_00158
+<http://purl.org/twc/NHANES_00158> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:UO_0000067 ;
+                                   rdfs:label "millimole per litre" .
+
+
+###  http://purl.org/twc/NHANES_00159
+<http://purl.org/twc/NHANES_00159> rdf:type owl:Class ;
+                                   rdfs:subClassOf obo:UO_0000067 ;
+                                   rdfs:label "millimole per kilogram" .
+
+
 ###  http://semanticscience.org/resource/SIO_000041
 sio:SIO_000041 rdf:type owl:Class ;
                rdfs:subClassOf <http://purl.org/twc/HHEAR_00029> .
@@ -904,8 +931,7 @@ obo:CHEBI_16113 rdf:type owl:NamedIndividual .
 
 
 ###  http://purl.obolibrary.org/obo/CHEBI_23888
-obo:CHEBI_23888 rdf:type owl:NamedIndividual ;
-                skos:definition "Any substance which when absorbed into a living organism may modify one or more of its functions. The term is generally accepted for a substance taken for a therapeutic purpose, but is also commonly used for abused substances." .
+obo:CHEBI_23888 rdf:type owl:NamedIndividual .
 
 
 ###  http://purl.obolibrary.org/obo/NCIT_C64849
@@ -1017,26 +1043,22 @@ obo:STATO_0000113 rdf:type owl:NamedIndividual .
 
 ###  http://purl.org/twc/NHANES_00021
 <http://purl.org/twc/NHANES_00021> rdf:type owl:NamedIndividual ,
-                                            hasco:QuantityVariable ;
-                                   skos:definition "Total number of people in the Family" .
+                                            hasco:QuantityVariable .
 
 
 ###  http://purl.org/twc/NHANES_00022
 <http://purl.org/twc/NHANES_00022> rdf:type owl:NamedIndividual ,
-                                            hasco:QuantityVariable ;
-                                   skos:definition "Number of children aged 5 years or younger in the household" .
+                                            hasco:QuantityVariable .
 
 
 ###  http://purl.org/twc/NHANES_00023
 <http://purl.org/twc/NHANES_00023> rdf:type owl:NamedIndividual ,
-                                            hasco:QuantityVariable ;
-                                   skos:definition "Number of children aged 6-17 years old in the household" .
+                                            hasco:QuantityVariable .
 
 
 ###  http://purl.org/twc/NHANES_00024
 <http://purl.org/twc/NHANES_00024> rdf:type owl:NamedIndividual ,
-                                            hasco:QuantityVariable ;
-                                   skos:definition "Number of adults aged 60 years or older in the household" .
+                                            hasco:QuantityVariable .
 
 
 ###  http://purl.org/twc/NHANES_00025
@@ -1675,7 +1697,8 @@ sio:SIO_000041 rdf:type owl:NamedIndividual ,
 obo:CHEBI_16113 rdfs:label "cholesterol" .
 
 
-obo:CHEBI_23888 rdfs:label "Drug" .
+obo:CHEBI_23888 rdfs:label "Drug" ;
+                skos:definition "Any substance which when absorbed into a living organism may modify one or more of its functions. The term is generally accepted for a substance taken for a therapeutic purpose, but is also commonly used for abused substances." .
 
 
 obo:NCIT_C64849 rdfs:label "Glycosylated Hemoglobin Measurement" .
@@ -1763,16 +1786,20 @@ obo:STATO_0000113 rdfs:label "variance" .
 <http://purl.org/twc/NHANES_00020> rdfs:label "Screening time" .
 
 
-<http://purl.org/twc/NHANES_00021> rdfs:label "Total number of people in the Family" .
+<http://purl.org/twc/NHANES_00021> rdfs:label "Total number of people in the Family" ;
+                                   skos:definition "Total number of people in the Family" .
 
 
-<http://purl.org/twc/NHANES_00022> rdfs:label "# of children 5 years or younger in HH" .
+<http://purl.org/twc/NHANES_00022> rdfs:label "# of children 5 years or younger in HH" ;
+                                   skos:definition "Number of children aged 5 years or younger in the household" .
 
 
-<http://purl.org/twc/NHANES_00023> rdfs:label "# of children 6-17 years old in HH" .
+<http://purl.org/twc/NHANES_00023> rdfs:label "# of children 6-17 years old in HH" ;
+                                   skos:definition "Number of children aged 6-17 years old in the household" .
 
 
-<http://purl.org/twc/NHANES_00024> rdfs:label "# of adults 60 years or older in HH" .
+<http://purl.org/twc/NHANES_00024> rdfs:label "# of adults 60 years or older in HH" ;
+                                   skos:definition "Number of adults aged 60 years or older in the household" .
 
 
 <http://purl.org/twc/NHANES_00025> rdfs:label "Born in 50 US states or Washington, DC" ;
