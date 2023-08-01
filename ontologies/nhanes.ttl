@@ -118,6 +118,12 @@ obo:CHEBI_23888 rdf:type owl:Class ;
                 rdfs:subClassOf hasco:StudyIndicator .
 
 
+###  http://purl.obolibrary.org/obo/CHEBI_47774
+obo:CHEBI_47774 rdf:type owl:Class ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:label "low-density lipoprotein cholesterol" .
+
+
 ###  http://purl.obolibrary.org/obo/CMO_0000587
 obo:CMO_0000587 rdf:type owl:Class ;
                 rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
@@ -937,6 +943,24 @@ obo:UO_0000067 rdf:type owl:Class .
                                    rdfs:label "millimole per kilogram" .
 
 
+###  http://purl.org/twc/NHANES_00160
+<http://purl.org/twc/NHANES_00160> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_001088 ;
+                                   rdfs:label "Concentration, Friedewald" .
+
+
+###  http://purl.org/twc/NHANES_00161
+<http://purl.org/twc/NHANES_00161> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_001088 ;
+                                   rdfs:label "Concentration, Martin-Hopkins" .
+
+
+###  http://purl.org/twc/NHANES_00162
+<http://purl.org/twc/NHANES_00162> rdf:type owl:Class ;
+                                   rdfs:subClassOf sio:SIO_001088 ;
+                                   rdfs:label "Concentration, NIH Equation 2" .
+
+
 ###  http://semanticscience.org/resource/SIO_000041
 sio:SIO_000041 rdf:type owl:Class ;
                rdfs:subClassOf <http://purl.org/twc/HHEAR_00029> .
@@ -948,6 +972,10 @@ sio:SIO_000391 rdf:type owl:Class .
 
 ###  http://semanticscience.org/resource/SIO_000794
 sio:SIO_000794 rdf:type owl:Class .
+
+
+###  http://semanticscience.org/resource/SIO_001088
+sio:SIO_001088 rdf:type owl:Class .
 
 
 ###  http://semanticscience.org/resource/SIO_010046
