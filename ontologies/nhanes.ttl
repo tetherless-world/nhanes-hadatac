@@ -8,6 +8,7 @@
 @prefix sio: <http://semanticscience.org/resource/> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix pato: <http://purl.obolibrary.org/obo/PATO_> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix chebi: <http://purl.obolibrary.org/obo/CHEBI_> .
@@ -79,13 +80,15 @@ vstoi:Questionnaire rdf:type owl:Class .
 
 ###  http://purl.bioontology.org/ontology/SNOMEDCT/26091008
 <http://purl.bioontology.org/ontology/SNOMEDCT/26091008> rdf:type owl:Class ;
-                                                         rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                                                         rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                                                         <http://purl.org/twc/HHEAR_00034> ;
                                                          rdfs:label "Aspartate aminotransferase" .
 
 
 ###  http://purl.bioontology.org/ontology/SNOMEDCT/60153001
 <http://purl.bioontology.org/ontology/SNOMEDCT/60153001> rdf:type owl:Class ;
-                                                         rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                                                         rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                                                         <http://purl.org/twc/HHEAR_00034> ;
                                                          rdfs:label "Gamma-glutamyltransferase" .
 
 
@@ -97,19 +100,22 @@ obo:CHEBI_16113 rdf:type owl:Class ;
 
 ###  http://purl.obolibrary.org/obo/CHEBI_17234
 obo:CHEBI_17234 rdf:type owl:Class ;
-                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
                 rdfs:label "glucose" .
 
 
 ###  http://purl.obolibrary.org/obo/CHEBI_17855
 obo:CHEBI_17855 rdf:type owl:Class ;
-                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
                 rdfs:label "triglyceride" .
 
 
 ###  http://purl.obolibrary.org/obo/CHEBI_17996
 obo:CHEBI_17996 rdf:type owl:Class ;
-                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
                 rdfs:label "chloride" .
 
 
@@ -120,13 +126,15 @@ obo:CHEBI_23888 rdf:type owl:Class ;
 
 ###  http://purl.obolibrary.org/obo/CHEBI_47774
 obo:CHEBI_47774 rdf:type owl:Class ;
-                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
                 rdfs:label "low-density lipoprotein cholesterol" .
 
 
 ###  http://purl.obolibrary.org/obo/CMO_0000587
 obo:CMO_0000587 rdf:type owl:Class ;
-                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
                 rdfs:label "serum urea nitrogen level" .
 
 
@@ -155,12 +163,20 @@ obo:NCIT_C64849 rdf:type owl:Class ;
 
 ###  http://purl.obolibrary.org/obo/NCIT_C67330
 obo:NCIT_C67330 rdf:type owl:Class ;
-                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ;
+                rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                <http://purl.org/twc/HHEAR_00034> ;
                 rdfs:label "Aspartate Aminotransferase" .
 
 
 ###  http://purl.obolibrary.org/obo/NCIT_C70811
 obo:NCIT_C70811 rdf:type owl:Class .
+
+
+###  http://purl.obolibrary.org/obo/PATO_0002027
+obo:PATO_0002027 rdf:type owl:Class ;
+                 rdfs:subClassOf <http://purl.org/twc/HHEAR_00027> ,
+                                 <http://purl.org/twc/HHEAR_00034> ;
+                 rdfs:label "osmolality" .
 
 
 ###  http://purl.obolibrary.org/obo/STATO_0000113
