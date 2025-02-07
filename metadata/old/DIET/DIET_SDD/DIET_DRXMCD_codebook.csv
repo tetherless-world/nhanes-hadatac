@@ -1,0 +1,9 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,DRXMC,100000 To 206659,Range Of Values,"['Food Modification code', 'Modification Code']",[nan],[nan],,
+1,DRXMC,.,Missing,"['Food Modification code', 'Modification Code']",[nan],[nan],,
+2,DRXMC,100000 To 206992,Range Of Values,"['Food Modification code', 'Modification Code']",[nan],[nan],,
+3,DRXMC,100000 To 207215,Range Of Values,"['Food Modification code', 'Modification Code']",[nan],[nan],,
+4,DRXMC,100000 To 207604,Range Of Values,"['Food Modification code', 'Modification Code']",[nan],[nan],,
+5,DRXMC,100004 To 207829,Range Of Values,"['Food Modification code', 'Modification Code']",[nan],[nan],,
+6,DRXMCD,Modification Code Description,Value Was Recorded,"['Modification Code Description', 'Modification Code Description ']",[nan],[nan],,
+7,DRXMCD,,,"['Modification Code Description', 'Modification Code Description ']",[nan],[nan],,

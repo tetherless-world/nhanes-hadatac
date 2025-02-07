@@ -1,0 +1,504 @@
+"Data.File.Name","Data.File.Description","Component","Begin.Year","EndYear"
+"ACQ","Acculturation","Questionnaire",1999,2000
+"ALQ","Alcohol Use","Questionnaire",1999,2000
+"AUQ","Audiometry","Questionnaire",1999,2000
+"BAQ","Balance","Questionnaire",1999,2000
+"BPQ","Blood Pressure & Cholesterol","Questionnaire",1999,2000
+"CDQ","Cardiovascular Health","Questionnaire",1999,2000
+"CFQ","Cognitive Functioning","Questionnaire",1999,2000
+"CIQGAD","Mental Health - Generalized Anxiety Disorder","Questionnaire",1999,2000
+"CIQMDEP","Mental Health - Depression","Questionnaire",1999,2000
+"CIQPANIC","Mental Health - Panic Disorder","Questionnaire",1999,2000
+"DBQ","Diet Behavior & Nutrition","Questionnaire",1999,2000
+"DEQ","Dermatology","Questionnaire",1999,2000
+"DIQ","Diabetes","Questionnaire",1999,2000
+"DUQ","Drug Use","Questionnaire",1999,2000
+"ECQ","Early Childhood","Questionnaire",1999,2000
+"FSQ","Food Security","Questionnaire",1999,2000
+"HIQ","Health Insurance","Questionnaire",1999,2000
+"HOQ","Housing Characteristics","Questionnaire",1999,2000
+"HSQ","Current Health Status","Questionnaire",1999,2000
+"HUQ","Hospital Utilization & Access to Care","Questionnaire",1999,2000
+"IMQ","Immunization","Questionnaire",1999,2000
+"KIQ","Kidney Conditions","Questionnaire",1999,2000
+"MCQ","Medical Conditions","Questionnaire",1999,2000
+"MPQ","Miscellaneous Pain","Questionnaire",1999,2000
+"OCQ","Occupation","Questionnaire",1999,2000
+"OHQ","Oral Health","Questionnaire",1999,2000
+"OSQ","Osteoporosis","Questionnaire",1999,2000
+"PAQ","Physical Activity","Questionnaire",1999,2000
+"PAQIAF","Physical Activity - Individual Activities","Questionnaire",1999,2000
+"PFQ","Physical Functioning","Questionnaire",1999,2000
+"PUQ","Pesticide Use","Questionnaire",1999,2000
+"RDQ","Respiratory Health","Questionnaire",1999,2000
+"RHQ","Reproductive Health","Questionnaire",1999,2000
+"RXQ_ANA","Analgesic Pain Relievers","Questionnaire",1999,2000
+"RXQ_RX","Prescription Medications","Questionnaire",1999,2000
+"SMQ","Smoking - Cigarette/Tobacco Use - Adult","Questionnaire",1999,2000
+"SMQFAM","Smoking - Household Smokers","Questionnaire",1999,2000
+"SMQMEC","Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use","Questionnaire",1999,2000
+"SSQ","Social Support","Questionnaire",1999,2000
+"SXQ","Sexual Behavior","Questionnaire",1999,2000
+"TBQ","Tuberculosis","Questionnaire",1999,2000
+"VIQ","Vision","Questionnaire",1999,2000
+"WHQ","Weight History","Questionnaire",1999,2000
+"ACQ_B","Acculturation","Questionnaire",2001,2002
+"ALQ_B","Alcohol Use","Questionnaire",2001,2002
+"AUQ_B","Audiometry","Questionnaire",2001,2002
+"BAQ_B","Balance","Questionnaire",2001,2002
+"BPQ_B","Blood Pressure & Cholesterol","Questionnaire",2001,2002
+"CDQ_B","Cardiovascular Health","Questionnaire",2001,2002
+"CFQ_B","Cognitive Functioning","Questionnaire",2001,2002
+"CIQDEP_B","Mental Health - Depression","Questionnaire",2001,2002
+"CIQGAD_B","Mental Health - Generalized Anxiety Disorder","Questionnaire",2001,2002
+"CIQPAN_B","Mental Health - Panic Disorder","Questionnaire",2001,2002
+"DBQ_B","Diet Behavior & Nutrition","Questionnaire",2001,2002
+"DEQ_B","Dermatology","Questionnaire",2001,2002
+"DIQ_B","Diabetes","Questionnaire",2001,2002
+"DUQ_B","Drug Use","Questionnaire",2001,2002
+"ECQ_B","Early Childhood","Questionnaire",2001,2002
+"FSQ_B","Food Security","Questionnaire",2001,2002
+"HCQ_B","Hepatitis C Follow Up","Questionnaire",2001,2002
+"HIQ_B","Health Insurance","Questionnaire",2001,2002
+"HOQ_B","Housing Characteristics","Questionnaire",2001,2002
+"HSQ_B","Current Health Status","Questionnaire",2001,2002
+"HUQ_B","Hospital Utilization & Access to Care","Questionnaire",2001,2002
+"IMQ_B","Immunization","Questionnaire",2001,2002
+"KIQ_P_B","Prostate Conditions","Questionnaire",2001,2002
+"KIQ_U_B","Kidney Conditions - Urology","Questionnaire",2001,2002
+"MCQ_B","Medical Conditions","Questionnaire",2001,2002
+"MPQ_B","Miscellaneous Pain","Questionnaire",2001,2002
+"OCQ_B","Occupation","Questionnaire",2001,2002
+"OHQ_B","Oral Health","Questionnaire",2001,2002
+"OSQ_B","Osteoporosis","Questionnaire",2001,2002
+"PAQ_B","Physical Activity","Questionnaire",2001,2002
+"PAQIAF_B","Physical Activity - Individual Activities","Questionnaire",2001,2002
+"PFQ_B","Physical Functioning","Questionnaire",2001,2002
+"PUQ_B","Pesticide Use","Questionnaire",2001,2002
+"RDQ_B","Respiratory Health","Questionnaire",2001,2002
+"RHQ_B","Reproductive Health","Questionnaire",2001,2002
+"RXQ_RX_B","Prescription Medications","Questionnaire",2001,2002
+"RXQANA_B","Analgesic Pain Relievers","Questionnaire",2001,2002
+"SMQ_B","Smoking - Cigarette/Tobacco Use - Adult","Questionnaire",2001,2002
+"SMQFAM_B","Smoking - Household Smokers","Questionnaire",2001,2002
+"SMQMEC_B","Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use","Questionnaire",2001,2002
+"SSQ_B","Social Support","Questionnaire",2001,2002
+"SXQ_B","Sexual Behavior","Questionnaire",2001,2002
+"VIQ_B","Vision","Questionnaire",2001,2002
+"WHQ_B","Weight History","Questionnaire",2001,2002
+"ACQ_C","Acculturation","Questionnaire",2003,2004
+"ALQ_C","Alcohol Use","Questionnaire",2003,2004
+"AUQ_C","Audiometry","Questionnaire",2003,2004
+"BAQ_C","Balance","Questionnaire",2003,2004
+"BPQ_C","Blood Pressure & Cholesterol","Questionnaire",2003,2004
+"CDQ_C","Cardiovascular Health","Questionnaire",2003,2004
+"CIQDEP_C","Mental Health - Depression","Questionnaire",2003,2004
+"CIQGAD_C","Mental Health - Generalized Anxiety Disorder","Questionnaire",2003,2004
+"CIQPAN_C","Mental Health - Panic Disorder","Questionnaire",2003,2004
+"DBQ_C","Diet Behavior & Nutrition","Questionnaire",2003,2004
+"DEQ_C","Dermatology","Questionnaire",2003,2004
+"DIQ_C","Diabetes","Questionnaire",2003,2004
+"DUQ_C","Drug Use","Questionnaire",2003,2004
+"ECQ_C","Early Childhood","Questionnaire",2003,2004
+"FSQ_C","Food Security","Questionnaire",2003,2004
+"HCQ_C","Hepatitis C Follow Up","Questionnaire",2003,2004
+"HIQ_C","Health Insurance","Questionnaire",2003,2004
+"HOQ_C","Housing Characteristics","Questionnaire",2003,2004
+"HSQ_C","Current Health Status","Questionnaire",2003,2004
+"HUQ_C","Hospital Utilization & Access to Care","Questionnaire",2003,2004
+"IMQ_C","Immunization","Questionnaire",2003,2004
+"KIQ_P_C","Prostate Conditions","Questionnaire",2003,2004
+"KIQ_U_C","Kidney Conditions - Urology","Questionnaire",2003,2004
+"MCQ_C","Medical Conditions","Questionnaire",2003,2004
+"MPQ_C","Miscellaneous Pain","Questionnaire",2003,2004
+"OCQ_C","Occupation","Questionnaire",2003,2004
+"OHQ_C","Oral Health","Questionnaire",2003,2004
+"OSQ_C","Osteoporosis","Questionnaire",2003,2004
+"PAQ_C","Physical Activity","Questionnaire",2003,2004
+"PAQIAF_C","Physical Activity - Individual Activities","Questionnaire",2003,2004
+"PFQ_C","Physical Functioning","Questionnaire",2003,2004
+"PSQ_C","Prostate Specific Antigen Follow-up","Questionnaire",2003,2004
+"PUQ_C","Pesticide Use","Questionnaire",2003,2004
+"RDQ_C","Respiratory Health","Questionnaire",2003,2004
+"RHQ_C","Reproductive Health","Questionnaire",2003,2004
+"RXQ_RX_C","Prescription Medications","Questionnaire",2003,2004
+"RXQANA_C","Analgesic Pain Relievers","Questionnaire",2003,2004
+"SMQ_C","Smoking - Cigarette/Tobacco Use - Adult","Questionnaire",2003,2004
+"SMQFAM_C","Smoking - Household Smokers","Questionnaire",2003,2004
+"SMQMEC_C","Smoking - Adult Recent Tobacco Use & Youth Cigarette/Tobacco Use","Questionnaire",2003,2004
+"SSQ_C","Social Support","Questionnaire",2003,2004
+"SXQ_C","Sexual Behavior","Questionnaire",2003,2004
+"VIQ_C","Vision","Questionnaire",2003,2004
+"WHQ_C","Weight History","Questionnaire",2003,2004
+"ACQ_D","Acculturation","Questionnaire",2005,2006
+"AGQ_D","Allergy","Questionnaire",2005,2006
+"ALQ_D","Alcohol Use","Questionnaire",2005,2006
+"AUQ_D","Audiometry","Questionnaire",2005,2006
+"BHQ_D","Bowel Health","Questionnaire",2005,2006
+"BPQ_D","Blood Pressure & Cholesterol","Questionnaire",2005,2006
+"CDQ_D","Cardiovascular Health","Questionnaire",2005,2006
+"DBQ_D","Diet Behavior & Nutrition","Questionnaire",2005,2006
+"DEQ_D","Dermatology","Questionnaire",2005,2006
+"DIQ_D","Diabetes","Questionnaire",2005,2006
+"DPQ_D","Mental Health - Depression Screener","Questionnaire",2005,2006
+"DUQ_D","Drug Use","Questionnaire",2005,2006
+"ECQ_D","Early Childhood","Questionnaire",2005,2006
+"FSQ_D","Food Security","Questionnaire",2005,2006
+"HCQ_D","Hepatitis C Follow Up","Questionnaire",2005,2006
+"HIQ_D","Health Insurance","Questionnaire",2005,2006
+"HOQ_D","Housing Characteristics","Questionnaire",2005,2006
+"HSQ_D","Current Health Status","Questionnaire",2005,2006
+"HUQ_D","Hospital Utilization & Access to Care","Questionnaire",2005,2006
+"IMQ_D","Immunization","Questionnaire",2005,2006
+"KIQ_P_D","Prostate Conditions","Questionnaire",2005,2006
+"KIQ_U_D","Kidney Conditions - Urology","Questionnaire",2005,2006
+"MCQ_D","Medical Conditions","Questionnaire",2005,2006
+"OCQ_D","Occupation","Questionnaire",2005,2006
+"OHQ_D","Oral Health","Questionnaire",2005,2006
+"OSQ_D","Osteoporosis","Questionnaire",2005,2006
+"PAQ_D","Physical Activity","Questionnaire",2005,2006
+"PAQIAF_D","Physical Activity - Individual Activities","Questionnaire",2005,2006
+"PFQ_D","Physical Functioning","Questionnaire",2005,2006
+"PSQ_D","Prostate Specific Antigen Follow-up","Questionnaire",2005,2006
+"PUQMEC_D","Pesticide Use","Questionnaire",2005,2006
+"RDQ_D","Respiratory Health","Questionnaire",2005,2006
+"RHQ_D","Reproductive Health","Questionnaire",2005,2006
+"RXQ_RX_D","Prescription Medications","Questionnaire",2005,2006
+"SLQ_D","Sleep Disorders","Questionnaire",2005,2006
+"SMQ_D","Smoking - Cigarette Use","Questionnaire",2005,2006
+"SMQFAM_D","Smoking - Household Smokers","Questionnaire",2005,2006
+"SMQRTU_D","Smoking - Recent Tobacco Use","Questionnaire",2005,2006
+"SSQ_D","Social Support","Questionnaire",2005,2006
+"SXQ_D","Sexual Behavior","Questionnaire",2005,2006
+"VIQ_D","Vision","Questionnaire",2005,2006
+"WHQ_D","Weight History","Questionnaire",2005,2006
+"WHQMEC_D","Weight History - Youth","Questionnaire",2005,2006
+"ACQ_E","Acculturation","Questionnaire",2007,2008
+"ALQ_E","Alcohol Use","Questionnaire",2007,2008
+"AQQ_E","Air Quality","Questionnaire",2007,2008
+"AUQ_E","Audiometry","Questionnaire",2007,2008
+"BHQ_E","Bowel Health","Questionnaire",2007,2008
+"BPQ_E","Blood Pressure & Cholesterol","Questionnaire",2007,2008
+"CBQ_E","Consumer Behavior","Questionnaire",2007,2008
+"CBQPFA_E","Consumer Behavior Phone Follow-up Module - Adult","Questionnaire",2007,2008
+"CBQPFC_E","Consumer Behavior Phone Follow-up Module - Child","Questionnaire",2007,2008
+"CDQ_E","Cardiovascular Health","Questionnaire",2007,2008
+"DBQ_E","Diet Behavior & Nutrition","Questionnaire",2007,2008
+"DIQ_E","Diabetes","Questionnaire",2007,2008
+"DPQ_E","Mental Health - Depression Screener","Questionnaire",2007,2008
+"DUQ_E","Drug Use","Questionnaire",2007,2008
+"ECQ_E","Early Childhood","Questionnaire",2007,2008
+"FSQ_E","Food Security","Questionnaire",2007,2008
+"HCQ_E","Hepatitis C Follow Up","Questionnaire",2007,2008
+"HIQ_E","Health Insurance","Questionnaire",2007,2008
+"HOQ_E","Housing Characteristics","Questionnaire",2007,2008
+"HSQ_E","Current Health Status","Questionnaire",2007,2008
+"HUQ_E","Hospital Utilization & Access to Care","Questionnaire",2007,2008
+"IMQ_E","Immunization","Questionnaire",2007,2008
+"INQ_E","Income","Questionnaire",2007,2008
+"KIQ_P_E","Prostate Conditions","Questionnaire",2007,2008
+"KIQ_U_E","Kidney Conditions - Urology","Questionnaire",2007,2008
+"MCQ_E","Medical Conditions","Questionnaire",2007,2008
+"OCQ_E","Occupation","Questionnaire",2007,2008
+"OHQ_E","Oral Health","Questionnaire",2007,2008
+"OSQ_E","Osteoporosis","Questionnaire",2007,2008
+"PAQ_E","Physical Activity","Questionnaire",2007,2008
+"PFQ_E","Physical Functioning","Questionnaire",2007,2008
+"PUQMEC_E","Pesticide Use","Questionnaire",2007,2008
+"RDQ_E","Respiratory Health","Questionnaire",2007,2008
+"RHQ_E","Reproductive Health","Questionnaire",2007,2008
+"RXQ_RX_E","Prescription Medications","Questionnaire",2007,2008
+"SLQ_E","Sleep Disorders","Questionnaire",2007,2008
+"SMQ_E","Smoking - Cigarette Use","Questionnaire",2007,2008
+"SMQFAM_E","Smoking - Household Smokers","Questionnaire",2007,2008
+"SMQRTU_E","Smoking - Recent Tobacco Use","Questionnaire",2007,2008
+"SSQ_E","Social Support","Questionnaire",2007,2008
+"SXQ_E","Sexual Behavior","Questionnaire",2007,2008
+"VIQ_E","Vision","Questionnaire",2007,2008
+"WHQ_E","Weight History","Questionnaire",2007,2008
+"WHQMEC_E","Weight History - Youth","Questionnaire",2007,2008
+"ACQ_F","Acculturation","Questionnaire",2009,2010
+"ALQ_F","Alcohol Use","Questionnaire",2009,2010
+"ALQY_F","Alcohol Use (Ages 18-19)","Questionnaire",2009,2010
+"AQQ_F","Air Quality","Questionnaire",2009,2010
+"ARQ_F","Arthritis","Questionnaire",2009,2010
+"AUQ_F","Audiometry","Questionnaire",2009,2010
+"BHQ_F","Bowel Health","Questionnaire",2009,2010
+"BPQ_F","Blood Pressure & Cholesterol","Questionnaire",2009,2010
+"CBQ_F","Consumer Behavior","Questionnaire",2009,2010
+"CBQPFA_F","Consumer Behavior Phone Follow-up Module - Adult","Questionnaire",2009,2010
+"CBQPFC_F","Consumer Behavior Phone Follow-up Module - Child","Questionnaire",2009,2010
+"CDQ_F","Cardiovascular Health","Questionnaire",2009,2010
+"DBQ_F","Diet Behavior & Nutrition","Questionnaire",2009,2010
+"DEQ_F","Dermatology","Questionnaire",2009,2010
+"DIQ_F","Diabetes","Questionnaire",2009,2010
+"DPQ_F","Mental Health - Depression Screener","Questionnaire",2009,2010
+"DUQ_F","Drug Use","Questionnaire",2009,2010
+"ECQ_F","Early Childhood","Questionnaire",2009,2010
+"FSQ_F","Food Security","Questionnaire",2009,2010
+"HCQ_F","Hepatitis C Follow Up","Questionnaire",2009,2010
+"HIQ_F","Health Insurance","Questionnaire",2009,2010
+"HOQ_F","Housing Characteristics","Questionnaire",2009,2010
+"HSQ_F","Current Health Status","Questionnaire",2009,2010
+"HUQ_F","Hospital Utilization & Access to Care","Questionnaire",2009,2010
+"IMQ_F","Immunization","Questionnaire",2009,2010
+"INQ_F","Income","Questionnaire",2009,2010
+"KIQ_U_F","Kidney Conditions - Urology","Questionnaire",2009,2010
+"MCQ_F","Medical Conditions","Questionnaire",2009,2010
+"OCQ_F","Occupation","Questionnaire",2009,2010
+"OHQ_F","Oral Health","Questionnaire",2009,2010
+"OSQ_F","Osteoporosis","Questionnaire",2009,2010
+"PAQ_F","Physical Activity","Questionnaire",2009,2010
+"PFQ_F","Physical Functioning","Questionnaire",2009,2010
+"PUQMEC_F","Pesticide Use","Questionnaire",2009,2010
+"RDQ_F","Respiratory Health","Questionnaire",2009,2010
+"RHQ_F","Reproductive Health","Questionnaire",2009,2010
+"RXQ_RX_F","Prescription Medications","Questionnaire",2009,2010
+"SLQ_F","Sleep Disorders","Questionnaire",2009,2010
+"SMQ_F","Smoking - Cigarette Use","Questionnaire",2009,2010
+"SMQFAM_F","Smoking - Household Smokers","Questionnaire",2009,2010
+"SMQRTU_F","Smoking - Recent Tobacco Use","Questionnaire",2009,2010
+"SXQ_F","Sexual Behavior","Questionnaire",2009,2010
+"VTQ_F","Volatile Toxicant (Subsample)","Questionnaire",2009,2010
+"WHQ_F","Weight History","Questionnaire",2009,2010
+"WHQMEC_F","Weight History - Youth","Questionnaire",2009,2010
+"ACQ_G","Acculturation","Questionnaire",2011,2012
+"ALQ_G","Alcohol Use","Questionnaire",2011,2012
+"AUQ_G","Audiometry","Questionnaire",2011,2012
+"BPQ_G","Blood Pressure & Cholesterol","Questionnaire",2011,2012
+"CBQ_G","Consumer Behavior","Questionnaire",2011,2012
+"CDQ_G","Cardiovascular Health","Questionnaire",2011,2012
+"CFQ_G","Cognitive Functioning","Questionnaire",2011,2012
+"CKQ_G","Creatine Kinase","Questionnaire",2011,2012
+"CSQ_G","Taste & Smell","Questionnaire",2011,2012
+"DBQ_G","Diet Behavior & Nutrition","Questionnaire",2011,2012
+"DEQ_G","Dermatology","Questionnaire",2011,2012
+"DIQ_G","Diabetes","Questionnaire",2011,2012
+"DPQ_G","Mental Health - Depression Screener","Questionnaire",2011,2012
+"DUQ_G","Drug Use","Questionnaire",2011,2012
+"ECQ_G","Early Childhood","Questionnaire",2011,2012
+"FSQ_G","Food Security","Questionnaire",2011,2012
+"HCQ_G","Hepatitis C Follow Up","Questionnaire",2011,2012
+"HIQ_G","Health Insurance","Questionnaire",2011,2012
+"HOQ_G","Housing Characteristics","Questionnaire",2011,2012
+"HSQ_G","Current Health Status","Questionnaire",2011,2012
+"HUQ_G","Hospital Utilization & Access to Care","Questionnaire",2011,2012
+"IMQ_G","Immunization","Questionnaire",2011,2012
+"INQ_G","Income","Questionnaire",2011,2012
+"KIQ_U_G","Kidney Conditions - Urology","Questionnaire",2011,2012
+"MCQ_G","Medical Conditions","Questionnaire",2011,2012
+"OCQ_G","Occupation","Questionnaire",2011,2012
+"OHQ_G","Oral Health","Questionnaire",2011,2012
+"PAQ_G","Physical Activity","Questionnaire",2011,2012
+"PFQ_G","Physical Functioning","Questionnaire",2011,2012
+"PUQMEC_G","Pesticide Use","Questionnaire",2011,2012
+"RDQ_G","Respiratory Health","Questionnaire",2011,2012
+"RHQ_G","Reproductive Health","Questionnaire",2011,2012
+"RXQ_RX_G","Prescription Medications","Questionnaire",2011,2012
+"RXQASA_G","Preventive Aspirin Use","Questionnaire",2011,2012
+"SLQ_G","Sleep Disorders","Questionnaire",2011,2012
+"SMQ_G","Smoking - Cigarette Use","Questionnaire",2011,2012
+"SMQFAM_G","Smoking - Household Smokers","Questionnaire",2011,2012
+"SMQRTU_G","Smoking - Recent Tobacco Use","Questionnaire",2011,2012
+"SXQ_G","Sexual Behavior","Questionnaire",2011,2012
+"TBQ_G","Tuberculosis","Questionnaire",2011,2012
+"VTQ_G","Volatile Toxicant (Subsample)","Questionnaire",2011,2012
+"WHQ_G","Weight History","Questionnaire",2011,2012
+"WHQMEC_G","Weight History - Youth","Questionnaire",2011,2012
+"ACQ_H","Acculturation","Questionnaire",2013,2014
+"ALQ_H","Alcohol Use","Questionnaire",2013,2014
+"BPQ_H","Blood Pressure & Cholesterol","Questionnaire",2013,2014
+"CBQ_H","Consumer Behavior","Questionnaire",2013,2014
+"CDQ_H","Cardiovascular Health","Questionnaire",2013,2014
+"CFQ_H","Cognitive Functioning","Questionnaire",2013,2014
+"CKQ_H","Creatine Kinase","Questionnaire",2013,2014
+"CSQ_H","Taste & Smell","Questionnaire",2013,2014
+"DBQ_H","Diet Behavior & Nutrition","Questionnaire",2013,2014
+"DEQ_H","Dermatology","Questionnaire",2013,2014
+"DIQ_H","Diabetes","Questionnaire",2013,2014
+"DLQ_H","Disability","Questionnaire",2013,2014
+"DPQ_H","Mental Health - Depression Screener","Questionnaire",2013,2014
+"DUQ_H","Drug Use","Questionnaire",2013,2014
+"ECQ_H","Early Childhood","Questionnaire",2013,2014
+"FSQ_H","Food Security","Questionnaire",2013,2014
+"HEQ_H","Hepatitis","Questionnaire",2013,2014
+"HIQ_H","Health Insurance","Questionnaire",2013,2014
+"HOQ_H","Housing Characteristics","Questionnaire",2013,2014
+"HSQ_H","Current Health Status","Questionnaire",2013,2014
+"HUQ_H","Hospital Utilization & Access to Care","Questionnaire",2013,2014
+"IMQ_H","Immunization","Questionnaire",2013,2014
+"INQ_H","Income","Questionnaire",2013,2014
+"KIQ_U_H","Kidney Conditions - Urology","Questionnaire",2013,2014
+"MCQ_H","Medical Conditions","Questionnaire",2013,2014
+"OCQ_H","Occupation","Questionnaire",2013,2014
+"OHQ_H","Oral Health","Questionnaire",2013,2014
+"OSQ_H","Osteoporosis","Questionnaire",2013,2014
+"PAQ_H","Physical Activity","Questionnaire",2013,2014
+"PFQ_H","Physical Functioning","Questionnaire",2013,2014
+"PUQMEC_H","Pesticide Use","Questionnaire",2013,2014
+"RHQ_H","Reproductive Health","Questionnaire",2013,2014
+"RXQ_RX_H","Prescription Medications","Questionnaire",2013,2014
+"RXQASA_H","Preventive Aspirin Use","Questionnaire",2013,2014
+"SLQ_H","Sleep Disorders","Questionnaire",2013,2014
+"SMQ_H","Smoking - Cigarette Use","Questionnaire",2013,2014
+"SMQFAM_H","Smoking - Household Smokers","Questionnaire",2013,2014
+"SMQRTU_H","Smoking - Recent Tobacco Use","Questionnaire",2013,2014
+"SMQSHS_H","Smoking - Secondhand Smoke Exposure","Questionnaire",2013,2014
+"SXQ_H","Sexual Behavior","Questionnaire",2013,2014
+"VTQ_H","Volatile Toxicant (Subsample)","Questionnaire",2013,2014
+"WHQ_H","Weight History","Questionnaire",2013,2014
+"WHQMEC_H","Weight History - Youth","Questionnaire",2013,2014
+"ACQ_I","Acculturation","Questionnaire",2015,2016
+"ALQ_I","Alcohol Use","Questionnaire",2015,2016
+"AUQ_I","Audiometry","Questionnaire",2015,2016
+"BPQ_I","Blood Pressure & Cholesterol","Questionnaire",2015,2016
+"CBQ_I","Consumer Behavior","Questionnaire",2015,2016
+"CDQ_I","Cardiovascular Health","Questionnaire",2015,2016
+"DBQ_I","Diet Behavior & Nutrition","Questionnaire",2015,2016
+"DEQ_I","Dermatology","Questionnaire",2015,2016
+"DIQ_I","Diabetes","Questionnaire",2015,2016
+"DLQ_I","Disability","Questionnaire",2015,2016
+"DPQ_I","Mental Health - Depression Screener","Questionnaire",2015,2016
+"DUQ_I","Drug Use","Questionnaire",2015,2016
+"ECQ_I","Early Childhood","Questionnaire",2015,2016
+"FSQ_I","Food Security","Questionnaire",2015,2016
+"HEQ_I","Hepatitis","Questionnaire",2015,2016
+"HIQ_I","Health Insurance","Questionnaire",2015,2016
+"HOQ_I","Housing Characteristics","Questionnaire",2015,2016
+"HSQ_I","Current Health Status","Questionnaire",2015,2016
+"HUQ_I","Hospital Utilization & Access to Care","Questionnaire",2015,2016
+"IMQ_I","Immunization","Questionnaire",2015,2016
+"INQ_I","Income","Questionnaire",2015,2016
+"KIQ_U_I","Kidney Conditions - Urology","Questionnaire",2015,2016
+"MCQ_I","Medical Conditions","Questionnaire",2015,2016
+"OCQ_I","Occupation","Questionnaire",2015,2016
+"OHQ_I","Oral Health","Questionnaire",2015,2016
+"PAQ_I","Physical Activity","Questionnaire",2015,2016
+"PFQ_I","Physical Functioning","Questionnaire",2015,2016
+"PUQMEC_I","Pesticide Use","Questionnaire",2015,2016
+"RHQ_I","Reproductive Health","Questionnaire",2015,2016
+"RXQ_RX_I","Prescription Medications","Questionnaire",2015,2016
+"RXQASA_I","Preventive Aspirin Use","Questionnaire",2015,2016
+"SLQ_I","Sleep Disorders","Questionnaire",2015,2016
+"SMQ_I","Smoking - Cigarette Use","Questionnaire",2015,2016
+"SMQFAM_I","Smoking - Household Smokers","Questionnaire",2015,2016
+"SMQRTU_I","Smoking - Recent Tobacco Use","Questionnaire",2015,2016
+"SMQSHS_I","Smoking - Secondhand Smoke Exposure","Questionnaire",2015,2016
+"SXQ_I","Sexual Behavior","Questionnaire",2015,2016
+"VTQ_I","Volatile Toxicant","Questionnaire",2015,2016
+"WHQ_I","Weight History","Questionnaire",2015,2016
+"WHQMEC_I","Weight History - Youth","Questionnaire",2015,2016
+"ACQ_J","Acculturation","Questionnaire",2017,2018
+"ALQ_J","Alcohol Use","Questionnaire",2017,2018
+"AUQ_J","Audiometry","Questionnaire",2017,2018
+"BPQ_J","Blood Pressure & Cholesterol","Questionnaire",2017,2018
+"CBQ_J","Consumer Behavior","Questionnaire",2017,2018
+"CBQPFA_J","Consumer Behavior Phone Follow-up Module - Adult","Questionnaire",2017,2018
+"CBQPFC_J","Consumer Behavior Phone Follow-up Module - Child","Questionnaire",2017,2018
+"CDQ_J","Cardiovascular Health","Questionnaire",2017,2018
+"DBQ_J","Diet Behavior & Nutrition","Questionnaire",2017,2018
+"DEQ_J","Dermatology","Questionnaire",2017,2018
+"DIQ_J","Diabetes","Questionnaire",2017,2018
+"DLQ_J","Disability","Questionnaire",2017,2018
+"DPQ_J","Mental Health - Depression Screener","Questionnaire",2017,2018
+"DUQ_J","Drug Use","Questionnaire",2017,2018
+"ECQ_J","Early Childhood","Questionnaire",2017,2018
+"FSQ_J","Food Security","Questionnaire",2017,2018
+"HEQ_J","Hepatitis","Questionnaire",2017,2018
+"HIQ_J","Health Insurance","Questionnaire",2017,2018
+"HOQ_J","Housing Characteristics","Questionnaire",2017,2018
+"HSQ_J","Current Health Status","Questionnaire",2017,2018
+"HUQ_J","Hospital Utilization & Access to Care","Questionnaire",2017,2018
+"IMQ_J","Immunization","Questionnaire",2017,2018
+"INQ_J","Income","Questionnaire",2017,2018
+"KIQ_U_J","Kidney Conditions - Urology","Questionnaire",2017,2018
+"MCQ_J","Medical Conditions","Questionnaire",2017,2018
+"OCQ_J","Occupation","Questionnaire",2017,2018
+"OHQ_J","Oral Health","Questionnaire",2017,2018
+"OSQ_J","Osteoporosis","Questionnaire",2017,2018
+"P_ACQ","Acculturation","Questionnaire",2017,2020
+"P_ALQ","Alcohol Use","Questionnaire",2017,2020
+"P_AUQ","Audiometry","Questionnaire",2017,2020
+"P_BPQ","Blood Pressure & Cholesterol","Questionnaire",2017,2020
+"P_CBQPFA","Consumer Behavior Phone Follow-up Module - Adult","Questionnaire",2017,2020
+"P_CBQPFC","Consumer Behavior Phone Follow-up Module – Child","Questionnaire",2017,2020
+"P_CDQ","Cardiovascular Health","Questionnaire",2017,2020
+"P_DBQ","Diet Behavior & Nutrition","Questionnaire",2017,2020
+"P_DEQ","Dermatology","Questionnaire",2017,2020
+"P_DIQ","Diabetes","Questionnaire",2017,2020
+"P_DPQ","Mental Health - Depression Screener","Questionnaire",2017,2020
+"P_ECQ","Early Childhood","Questionnaire",2017,2020
+"P_FSQ","Food Security","Questionnaire",2017,2020
+"P_HEQ","Hepatitis","Questionnaire",2017,2020
+"P_HIQ","Health Insurance","Questionnaire",2017,2020
+"P_HSQ","Current Health Status","Questionnaire",2017,2020
+"P_HUQ","Hospital Utilization & Access to Care","Questionnaire",2017,2020
+"P_IMQ","Immunization","Questionnaire",2017,2020
+"P_INQ","Income","Questionnaire",2017,2020
+"P_KIQ_U","Kidney Conditions - Urology","Questionnaire",2017,2020
+"P_MCQ","Medical Conditions","Questionnaire",2017,2020
+"P_OCQ","Occupation","Questionnaire",2017,2020
+"P_OHQ","Oral Health","Questionnaire",2017,2020
+"P_OSQ","Osteoporosis","Questionnaire",2017,2020
+"P_PAQ","Physical Activity","Questionnaire",2017,2020
+"P_PAQY","Physical Activity - Youth","Questionnaire",2017,2020
+"P_PUQMEC","Pesticide Use","Questionnaire",2017,2020
+"P_RHQ","Reproductive Health","Questionnaire",2017,2020
+"P_RXQ_RX","Prescription Medications","Questionnaire",2017,2020
+"P_RXQASA","Preventive Aspirin Use","Questionnaire",2017,2020
+"P_SLQ","Sleep Disorders","Questionnaire",2017,2020
+"P_SMQ","Smoking - Cigarette Use","Questionnaire",2017,2020
+"P_SMQFAM","Smoking - Household Smokers","Questionnaire",2017,2020
+"P_SMQRTU","Smoking - Recent Tobacco Use","Questionnaire",2017,2020
+"P_SMQSHS","Smoking - Secondhand Smoke Exposure","Questionnaire",2017,2020
+"P_VTQ","Volatile Toxicant","Questionnaire",2017,2020
+"P_WHQ","Weight History","Questionnaire",2017,2020
+"P_WHQMEC","Weight History - Youth","Questionnaire",2017,2020
+"PAQ_J","Physical Activity","Questionnaire",2017,2018
+"PAQY_J","Physical Activity - Youth","Questionnaire",2017,2018
+"PFQ_J","Physical Functioning","Questionnaire",2017,2018
+"PUQMEC_J","Pesticide Use","Questionnaire",2017,2018
+"RHQ_J","Reproductive Health","Questionnaire",2017,2018
+"RXQ_RX_J","Prescription Medications","Questionnaire",2017,2018
+"RXQASA_J","Preventive Aspirin Use","Questionnaire",2017,2018
+"SLQ_J","Sleep Disorders","Questionnaire",2017,2018
+"SMQ_J","Smoking - Cigarette Use","Questionnaire",2017,2018
+"SMQFAM_J","Smoking - Household Smokers","Questionnaire",2017,2018
+"SMQRTU_J","Smoking - Recent Tobacco Use","Questionnaire",2017,2018
+"SMQSHS_J","Smoking - Secondhand Smoke Exposure","Questionnaire",2017,2018
+"VTQ_J","Volatile Toxicant","Questionnaire",2017,2018
+"WHQ_J","Weight History","Questionnaire",2017,2018
+"WHQMEC_J","Weight History - Youth","Questionnaire",2017,2018
+"ACQ_L","Acculturation","Questionnaire",2021,2023
+"ALQ_L","Alcohol Use","Questionnaire",2021,2023
+"AUQ_L","Audiometry","Questionnaire",2021,2023
+"BAQ_L","Balance","Questionnaire",2021,2023
+"BPQ_L","Blood Pressure & Cholesterol","Questionnaire",2021,2023
+"DBQ_L","Diet Behavior & Nutrition","Questionnaire",2021,2023
+"DEQ_L","Dermatology","Questionnaire",2021,2023
+"DIQ_L","Diabetes","Questionnaire",2021,2023
+"DPQ_L","Mental Health - Depression Screener","Questionnaire",2021,2023
+"ECQ_L","Early Childhood","Questionnaire",2021,2023
+"FNQ_L","Functioning","Questionnaire",2021,2023
+"HEQ_L","Hepatitis","Questionnaire",2021,2023
+"HIQ_L","Health Insurance","Questionnaire",2021,2023
+"HOQ_L","Housing Characteristics","Questionnaire",2021,2023
+"HSQ_L","Current Health Status","Questionnaire",2021,2023
+"HUQ_L","Hospital Utilization & Access to Care","Questionnaire",2021,2023
+"IMQ_L","Immunization","Questionnaire",2021,2023
+"INQ_L","Income","Questionnaire",2021,2023
+"KIQ_U_L","Kidney Conditions - Urology","Questionnaire",2021,2023
+"MCQ_L","Medical Conditions","Questionnaire",2021,2023
+"OCQ_L","Occupation","Questionnaire",2021,2023
+"OHQ_L","Oral Health","Questionnaire",2021,2023
+"PAQ_L","Physical Activity","Questionnaire",2021,2023
+"PAQY_L","Physical Activity - Youth","Questionnaire",2021,2023
+"PUQMEC_L","Pesticide Use","Questionnaire",2021,2023
+"RHQ_L","Reproductive Health","Questionnaire",2021,2023
+"RXQ_RX_L","Prescription Medications","Questionnaire",2021,2023
+"RXQASA_L","Preventive Aspirin Use","Questionnaire",2021,2023
+"SLQ_L","Sleep Disorders","Questionnaire",2021,2023
+"SMQ_L","Smoking - Cigarette Use","Questionnaire",2021,2023
+"SMQFAM_L","Smoking - Household Smokers","Questionnaire",2021,2023
+"SMQRTU_L","Smoking - Recent Tobacco Use","Questionnaire",2021,2023
+"WHQ_L","Weight History","Questionnaire",2021,2023

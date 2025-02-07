@@ -1,0 +1,124 @@
+"Data.File.Name","Data.File.Description","Component","Begin.Year","EndYear"
+"DRXFMT","Dietary Interview Technical Support File - Food Code Format File","Dietary",1999,2000
+"DRXIFF","Dietary Interview - Individual Foods","Dietary",1999,2000
+"DRXTOT","Dietary Interview - Total Nutrient Intakes","Dietary",1999,2000
+"DSBI","Dietary Supplement Database - Blend Information","Dietary",1999,2020
+"DSII","Dietary Supplement Database - Ingredient Information","Dietary",1999,2020
+"DSPI","Dietary Supplement Database - Product Information","Dietary",1999,2020
+"DSQFILE1","Dietary Supplement Use 30-Day - File 1, Supplement Counts","Dietary",1999,2000
+"DSQFILE2","Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements","Dietary",1999,2000
+"DRXFMT_B","Dietary Interview Technical Support File - Food Code Format File","Dietary",2001,2002
+"DRXIFF_B","Dietary Interview - Individual Foods","Dietary",2001,2002
+"DRXTOT_B","Dietary Interview - Total Nutrient Intakes","Dietary",2001,2002
+"DSQ1_B","Dietary Supplement Use 30-Day - File 1, Supplement Counts","Dietary",2001,2002
+"DSQ2_B","Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements","Dietary",2001,2002
+"DR1IFF_C","Dietary Interview - Individual Foods, First Day","Dietary",2003,2004
+"DR1TOT_C","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2003,2004
+"DR2IFF_C","Dietary Interview - Individual Foods, Second Day","Dietary",2003,2004
+"DR2TOT_C","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2003,2004
+"DRXFCD_C","Dietary Interview Technical Support File - Food Codes","Dietary",2003,2004
+"DRXMCD_C","Dietary Interview Technical Support File - Modification Codes","Dietary",2003,2004
+"DSQ1_C","Dietary Supplement Use 30-Day - File 1, Supplement Counts","Dietary",2003,2004
+"DSQ2_C","Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements","Dietary",2003,2004
+"FFQDC_C","Food Frequency Questionnaire - Output from DietCalc Software","Dietary",2003,2004
+"FFQRAW_C","Food Frequency Questionnaire - Raw Questionnaire Responses","Dietary",2003,2004
+"FOODLK_C","Food Frequency Questionnaire - Look-Up Table FOODLOOK","Dietary",2003,2004
+"VARLK_C","Food Frequency Questionnaire - Look-Up Table VARLOOK","Dietary",2003,2004
+"DR1IFF_D","Dietary Interview - Individual Foods, First Day","Dietary",2005,2006
+"DR1TOT_D","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2005,2006
+"DR2IFF_D","Dietary Interview - Individual Foods, Second Day","Dietary",2005,2006
+"DR2TOT_D","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2005,2006
+"DRXFCD_D","Dietary Interview Technical Support File - Food Codes","Dietary",2005,2006
+"DRXMCD_D","Dietary Interview Technical Support File - Modification Codes","Dietary",2005,2006
+"DSQ1_D","Dietary Supplement Use 30-Day - File 1, Supplement Counts","Dietary",2005,2006
+"DSQ2_D","Dietary Supplement Use 30-Day - File 2, Participant's Use of Supplements","Dietary",2005,2006
+"FFQDC_D","Food Frequency Questionnaire - Output from DietCalc Software","Dietary",2005,2006
+"FFQRAW_D","Food Frequency Questionnaire - Raw Questionnaire Responses","Dietary",2005,2006
+"FOODLK_D","Food Frequency Questionnaire - Look-Up Table FOODLOOK","Dietary",2005,2006
+"VARLK_D","Food Frequency Questionnaire - Look-Up Table VARLOOK","Dietary",2005,2006
+"DR1IFF_E","Dietary Interview - Individual Foods, First Day","Dietary",2007,2008
+"DR1TOT_E","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2007,2008
+"DR2IFF_E","Dietary Interview - Individual Foods, Second Day","Dietary",2007,2008
+"DR2TOT_E","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2007,2008
+"DRXFCD_E","Dietary Interview Technical Support File - Food Codes","Dietary",2007,2008
+"DRXMCD_E","Dietary Interview Technical Support File - Modification Codes","Dietary",2007,2008
+"DS1IDS_E","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day","Dietary",2007,2008
+"DS1TOT_E","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day","Dietary",2007,2008
+"DS2IDS_E","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day","Dietary",2007,2008
+"DS2TOT_E","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day","Dietary",2007,2008
+"DSQIDS_E","Dietary Supplement Use 30 Day - Individual Dietary Supplements","Dietary",2007,2008
+"DSQTOT_E","Dietary Supplement Use 30-Day - Total Dietary Supplements","Dietary",2007,2008
+"DR1IFF_F","Dietary Interview - Individual Foods, First Day","Dietary",2009,2010
+"DR1TOT_F","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2009,2010
+"DR2IFF_F","Dietary Interview - Individual Foods, Second Day","Dietary",2009,2010
+"DR2TOT_F","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2009,2010
+"DRXFCD_F","Dietary Interview Technical Support File - Food Codes","Dietary",2009,2010
+"DRXMCD_F","Dietary Interview Technical Support File - Modification Codes","Dietary",2009,2010
+"DS1IDS_F","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day","Dietary",2009,2010
+"DS1TOT_F","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day","Dietary",2009,2010
+"DS2IDS_F","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day","Dietary",2009,2010
+"DS2TOT_F","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day","Dietary",2009,2010
+"DSQIDS_F","Dietary Supplement Use 30 Day - Individual Dietary Supplements","Dietary",2009,2010
+"DSQTOT_F","Dietary Supplement Use 30-Day - Total Dietary Supplements","Dietary",2009,2010
+"DTQ_F","Dietary Screener Questionnaire","Dietary",2009,2010
+"DR1IFF_G","Dietary Interview - Individual Foods, First Day","Dietary",2011,2012
+"DR1TOT_G","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2011,2012
+"DR2IFF_G","Dietary Interview - Individual Foods, Second Day","Dietary",2011,2012
+"DR2TOT_G","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2011,2012
+"DRXFCD_G","Dietary Interview Technical Support File - Food Codes","Dietary",2011,2012
+"DRXMCD_G","Dietary Interview Technical Support File - Modification Codes","Dietary",2011,2012
+"DS1IDS_G","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day","Dietary",2011,2012
+"DS1TOT_G","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day","Dietary",2011,2012
+"DS2IDS_G","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day","Dietary",2011,2012
+"DS2TOT_G","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day","Dietary",2011,2012
+"DSQIDS_G","Dietary Supplement Use 30 Day - Individual Dietary Supplements","Dietary",2011,2012
+"DSQTOT_G","Dietary Supplement Use 30-Day - Total Dietary Supplements","Dietary",2011,2012
+"DR1IFF_H","Dietary Interview - Individual Foods, First Day","Dietary",2013,2014
+"DR1TOT_H","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2013,2014
+"DR2IFF_H","Dietary Interview - Individual Foods, Second Day","Dietary",2013,2014
+"DR2TOT_H","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2013,2014
+"DRXFCD_H","Dietary Interview Technical Support File - Food Codes","Dietary",2013,2014
+"DS1IDS_H","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day","Dietary",2013,2014
+"DS1TOT_H","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day","Dietary",2013,2014
+"DS2IDS_H","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day","Dietary",2013,2014
+"DS2TOT_H","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day","Dietary",2013,2014
+"DSQIDS_H","Dietary Supplement Use 30-Day - Individual Dietary Supplements","Dietary",2013,2014
+"DSQTOT_H","Dietary Supplement Use 30-Day - Total Dietary Supplements","Dietary",2013,2014
+"DR1IFF_I","Dietary Interview - Individual Foods, First Day","Dietary",2015,2016
+"DR1TOT_I","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2015,2016
+"DR2IFF_I","Dietary Interview - Individual Foods, Second Day","Dietary",2015,2016
+"DR2TOT_I","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2015,2016
+"DRXFCD_I","Dietary Interview Technical Support File - Food Codes","Dietary",2015,2016
+"DS1IDS_I","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day","Dietary",2015,2016
+"DS1TOT_I","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day","Dietary",2015,2016
+"DS2IDS_I","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day","Dietary",2015,2016
+"DS2TOT_I","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day","Dietary",2015,2016
+"DSQIDS_I","Dietary Supplement Use 30-Day - Individual Dietary Supplements","Dietary",2015,2016
+"DSQTOT_I","Dietary Supplement Use 30-Day - Total Dietary Supplements","Dietary",2015,2016
+"DR1IFF_J","Dietary Interview - Individual Foods, First Day","Dietary",2017,2018
+"DR1TOT_J","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2017,2018
+"DR2IFF_J","Dietary Interview - Individual Foods, Second Day","Dietary",2017,2018
+"DR2TOT_J","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2017,2018
+"DRXFCD_J","Dietary Interview Technical Support File - Food Codes","Dietary",2017,2018
+"DS1IDS_J","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day","Dietary",2017,2018
+"DS1TOT_J","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day","Dietary",2017,2018
+"DS2IDS_J","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day","Dietary",2017,2018
+"DS2TOT_J","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day","Dietary",2017,2018
+"DSQIDS_J","Dietary Supplement Use 30-Day - Individual Dietary Supplements","Dietary",2017,2018
+"DSQTOT_J","Dietary Supplement Use 30-Day - Total Dietary Supplements","Dietary",2017,2018
+"P_DR1IFF","Dietary Interview - Individual Foods, First Day","Dietary",2017,2020
+"P_DR1TOT","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2017,2020
+"P_DR2IFF","Dietary Interview - Individual Foods, Second Day","Dietary",2017,2020
+"P_DR2TOT","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2017,2020
+"P_DRXFCD","Dietary Interview Technical Support File - Food Codes","Dietary",2017,2020
+"P_DS1IDS","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day","Dietary",2017,2020
+"P_DS1TOT","Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day","Dietary",2017,2020
+"P_DS2IDS","Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day","Dietary",2017,2020
+"P_DS2TOT","Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day","Dietary",2017,2020
+"P_DSQIDS","Dietary Supplement Use 30-Day - Individual Dietary Supplements","Dietary",2017,2020
+"P_DSQTOT","Dietary Supplement Use 30-Day - Total Dietary Supplements","Dietary",2017,2020
+"DR1IFF_L","Dietary Interview - Individual Foods, First Day","Dietary",2021,2023
+"DR1TOT_L","Dietary Interview - Total Nutrient Intakes, First Day","Dietary",2021,2023
+"DR2IFF_L","Dietary Interview - Individual Foods, Second Day","Dietary",2021,2023
+"DR2TOT_L","Dietary Interview - Total Nutrient Intakes, Second Day","Dietary",2021,2023
+"DRXFCD_L","Dietary Interview Technical Support File - Food Codes","Dietary",2021,2023
