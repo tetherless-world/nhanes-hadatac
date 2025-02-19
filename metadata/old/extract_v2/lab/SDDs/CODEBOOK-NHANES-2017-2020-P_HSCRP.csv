@@ -1,0 +1,7 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,LBDHRPLC,0,At Or Above Detection Limit,High-Sensitivity C-Reactive Protein (hs-CRP) Comment Code,Both males and females 1 YEARS - 150 YEARS,nan,,
+1,LBDHRPLC,1,Below Lower Detection Limit,High-Sensitivity C-Reactive Protein (hs-CRP) Comment Code,Both males and females 1 YEARS - 150 YEARS,nan,,
+2,LBDHRPLC,.,Missing,High-Sensitivity C-Reactive Protein (hs-CRP) Comment Code,Both males and females 1 YEARS - 150 YEARS,nan,,
+3,LBXHSCRP,0.11 To 246.86,Range Of Values,High-Sensitivity C-Reactive Protein (hs-CRP) (mg/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+4,LBXHSCRP,.,Missing,High-Sensitivity C-Reactive Protein (hs-CRP) (mg/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+5,SEQN,,,Respondent Sequence Number,Both males and females 1 YEARS - 150 YEARS,nan,,

@@ -1,0 +1,3 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"HIV_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 49 YEARS",NA,NA
+"HIV_E","LBDHI","LBDHI","HIV Result (western blot)","HIV Result (western blot)","Both males and females 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""12"", ""2792"", ""2"", ""253""]; Cumulative=[""12"", ""2804"", ""2806"", ""3059""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

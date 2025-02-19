@@ -1,0 +1,13 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 20 YEARS - 150 YEARS,nan,,
+1,ELISA,1,Positive,ELISA result interpretation,Both males and females 20 YEARS - 150 YEARS,nan,,
+2,ELISA,2,Negative,ELISA result interpretation,Both males and females 20 YEARS - 150 YEARS,nan,,
+3,ELISA,3,Equivocal,ELISA result interpretation,Both males and females 20 YEARS - 150 YEARS,nan,,
+4,ELISA,.,Missing,ELISA result interpretation,Both males and females 20 YEARS - 150 YEARS,nan,,
+5,PHASE1,8 To 2048,Range Of Values,Phase I IFA Titer IgG,Both males and females 20 YEARS - 150 YEARS,nan,,
+6,PHASE1,.,Missing,Phase I IFA Titer IgG,Both males and females 20 YEARS - 150 YEARS,nan,,
+7,PHASE2,8 To 4096,Range Of Values,Phase II IFA Titer IgG,Both males and females 20 YEARS - 150 YEARS,nan,,
+8,PHASE2,.,Missing,Phase II IFA Titer IgG,Both males and females 20 YEARS - 150 YEARS,nan,,
+9,SSQFEVER,1,Positive,Antibody to Q fever,Both males and females 20 YEARS - 150 YEARS,nan,,
+10,SSQFEVER,2,Negative,Antibody to Q fever,Both males and females 20 YEARS - 150 YEARS,nan,,
+11,SSQFEVER,.,Missing,Antibody to Q fever,Both males and females 20 YEARS - 150 YEARS,nan,,

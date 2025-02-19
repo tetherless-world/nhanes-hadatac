@@ -1,0 +1,3 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"L02HPA_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 2 YEARS - 150 YEARS",NA,NA
+"L02HPA_B","LBXHA","LBXHA","Hepatitis A Antibody (Anti-HAV)","Hepatitis A Antibody (Anti-HAV)","Both males and females 2 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""3356"", ""5245"", ""997""]; Cumulative=[""3356"", ""8601"", ""9598""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

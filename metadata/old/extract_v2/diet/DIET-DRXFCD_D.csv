@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"DRXFCD_D","DRXFDCD","DRXFDCD","Food Code","Food Code",NA,NA,"Code.or.Value=[""11000000 to 94210200"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6921"", ""0""]; Cumulative=[""6921"", ""6921""]; Skip.to.Item=[""NA"", ""NA""]"
+"DRXFCD_D","DRXFCSD","DRXFCSD","Short Food Code Description","Short Food Code Description",NA,NA,"Code.or.Value=[""Short Food Code Description"", """"]; Value.Description=[""Value was recorded"", """"]; Count=[""6921"", ""0""]; Cumulative=[""6921"", ""6921""]; Skip.to.Item=[""NA"", ""NA""]"
+"DRXFCD_D","DRXFCLD","DRXFCLD","Long Food Code Description","Long Food Code Description",NA,NA,"Code.or.Value=[""Long Food Code Description"", """"]; Value.Description=[""Value was recorded"", """"]; Count=[""6921"", ""0""]; Cumulative=[""6921"", ""6921""]; Skip.to.Item=[""NA"", ""NA""]"

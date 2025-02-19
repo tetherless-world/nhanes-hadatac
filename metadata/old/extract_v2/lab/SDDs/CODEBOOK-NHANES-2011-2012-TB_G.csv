@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,LBXTBA,0 To 11,Range Of Values,TB Antigen result,Both males and females 6 YEARS - 150 YEARS,nan,,
+2,LBXTBA,.,Missing,TB Antigen result,Both males and females 6 YEARS - 150 YEARS,nan,,
+3,LBXTBN,0 To 5.06,Range Of Values,TB Nil control result,Both males and females 6 YEARS - 150 YEARS,nan,,
+4,LBXTBN,.,Missing,TB Nil control result,Both males and females 6 YEARS - 150 YEARS,nan,,
+5,LBXTBIN,1,Positive,TB coded result,Both males and females 6 YEARS - 150 YEARS,nan,,
+6,LBXTBIN,2,Negative,TB coded result,Both males and females 6 YEARS - 150 YEARS,nan,,
+7,LBXTBIN,3,Indeterminate,TB coded result,Both males and females 6 YEARS - 150 YEARS,nan,,
+8,LBXTBIN,.,Missing,TB coded result,Both males and females 6 YEARS - 150 YEARS,nan,,
+9,LBXTBM,0.02 To 11,Range Of Values,TB Mitogen control result,Both males and females 6 YEARS - 150 YEARS,nan,,
+10,LBXTBM,.,Missing,TB Mitogen control result,Both males and females 6 YEARS - 150 YEARS,nan,,

@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,nan,,
+1,LBXEPP,0 To 1480,Range Of Values,Protoporphyrin(ug/dL RBC),Both males and females 1 YEARS - 150 YEARS,nan,,
+2,LBXEPP,.,Missing,Protoporphyrin(ug/dL RBC),Both males and females 1 YEARS - 150 YEARS,nan,,
+3,LBDEPPSI,0 To 26.2,Range Of Values,Protoporphyrin(µmol/L RBC),Both males and females 1 YEARS - 150 YEARS,nan,,
+4,LBDEPPSI,.,Missing,Protoporphyrin(µmol/L RBC),Both males and females 1 YEARS - 150 YEARS,nan,,

@@ -1,0 +1,13 @@
+,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,,,,,,,,,,,,
+1,OHDEXSTS,,,,,,,,,,,,
+2,OHDRCSTS,,,,,,,,,,,,
+3,OHAREC,,,,,,,,,,,,
+4,OHAROCDT,,,,,,,,,,,,
+5,OHAROCGP,,,,,,,,,,,,
+6,OHAROCOH,,,,,,,,,,,,
+7,OHAROCCI,,,,,,,,,,,,
+8,OHAROCDE,,,,,,,,,,,,
+9,OHARNF,,,,,,,,,,,,
+10,OHAROTH,,,,,,,,,,,,
+11,OHAPOS,,,,,,,,,,,,

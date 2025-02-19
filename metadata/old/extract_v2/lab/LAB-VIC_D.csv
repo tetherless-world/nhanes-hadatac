@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"VIC_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"VIC_D","LBXVIC","LBXVIC","Vitamin C (mg/dL)","Vitamin C (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.01 to 4.72"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7302"", ""784""]; Cumulative=[""7302"", ""8086""]; Skip.to.Item=[""NA"", ""NA""]"
+"VIC_D","LBDVICSI","LBDVICSI","Vitamin C (umol/L)","Vitamin C (umol/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.6 to 268"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7302"", ""784""]; Cumulative=[""7302"", ""8086""]; Skip.to.Item=[""NA"", ""NA""]"

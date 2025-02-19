@@ -1,0 +1,9 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number,Both males and females 12 YEARS - 150 YEARS,nan,,
+1,WTSAF2YR,11459.183689 To 561922.42956,Range Of Values,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+2,WTSAF2YR,0,No Lab Result Or Not Fasting For 8 To <24 Hours,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+3,WTSAF2YR,.,Missing,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+4,LBXGLU,59 To 561,Range Of Values,Fasting Glucose (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+5,LBXGLU,.,Missing,Fasting Glucose (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+6,LBDGLUSI,3.28 To 31.1,Range Of Values,Fasting Glucose (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+7,LBDGLUSI,.,Missing,Fasting Glucose (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,

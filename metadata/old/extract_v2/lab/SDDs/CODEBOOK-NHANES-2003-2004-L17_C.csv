@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,nan,,
+1,LBXTO1,0 To 240,Range Of Values,Toxoplasma (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+2,LBXTO1,.,Missing,Toxoplasma (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+3,LBXTO2,0 To 3,Range Of Values,Toxoplasma (IgM),Both males and females 6 YEARS - 49 YEARS,nan,,
+4,LBXTO2,.,Missing,Toxoplasma (IgM),Both males and females 6 YEARS - 49 YEARS,nan,,

@@ -1,0 +1,7 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,SSTCAMFI,-9 To 20830.5,Range Of Values,Toxocara mean florescent intensity,Both males and females 6 YEARS - 150 YEARS,nan,,
+2,SSTCAMFI,.,Missing,Toxocara mean florescent intensity,Both males and females 6 YEARS - 150 YEARS,nan,,
+3,SSTCAR,1,Positive,Toxocara antibody result,Both males and females 6 YEARS - 150 YEARS,nan,,
+4,SSTCAR,2,Negative,Toxocara antibody result,Both males and females 6 YEARS - 150 YEARS,nan,,
+5,SSTCAR,.,Missing,Toxocara antibody result,Both males and females 6 YEARS - 150 YEARS,nan,,

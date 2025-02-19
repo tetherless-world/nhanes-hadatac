@@ -1,0 +1,3 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"UCPREG_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 8 YEARS - 59 YEARS",NA,NA
+"UCPREG_D","URXPREG","URXPREG","Pregnancy test result","Pregnancy test result","Females only 8 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", ""4"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Not done"", ""Invalid"", ""Missing""]; Count=[""367"", ""2485"", ""58"", ""0"", ""1""]; Cumulative=[""367"", ""2852"", ""2910"", ""2910"", ""2911""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

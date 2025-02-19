@@ -1,0 +1,3 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"TFR_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 5 YEARS",NA,NA
+"TFR_E","LBXTFR","LBXTFR","Transferrin Receptor (mg/L)","Transferrin Receptor (mg/L)","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""1.3 to 23.6"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2486"", ""692""]; Cumulative=[""2486"", ""3178""]; Skip.to.Item=[""NA"", ""NA""]"

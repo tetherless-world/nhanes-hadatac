@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,nan,,
+1,LBXCRP,0.02 To 25.4,Range Of Values,C-reactive protein (mg/dL),Both males and females 1 YEARS - 150 YEARS,nan,,
+2,LBXCRP,0.01,Below Limit Of Detection,C-reactive protein (mg/dL),Both males and females 1 YEARS - 150 YEARS,nan,,
+3,LBXCRP,.,Missing,C-reactive protein (mg/dL),Both males and females 1 YEARS - 150 YEARS,nan,,
+4,LBXBAP,2.8 To 445,Range Of Values,Bone alkaline phosphotase (ug/L),Both males and females 8 YEARS - 49 YEARS,nan,,
+5,LBXBAP,.,Missing,Bone alkaline phosphotase (ug/L),Both males and females 8 YEARS - 49 YEARS,nan,,
+6,LBXPT21,9 To 1491,Range Of Values,Parathyroid Hormone(Elecys method) pg/mL,Both males and females 6 YEARS - 150 YEARS,nan,,
+7,LBXPT21,6,Below Limit Of Detection,Parathyroid Hormone(Elecys method) pg/mL,Both males and females 6 YEARS - 150 YEARS,nan,,
+8,LBXPT21,.,Missing,Parathyroid Hormone(Elecys method) pg/mL,Both males and females 6 YEARS - 150 YEARS,nan,,

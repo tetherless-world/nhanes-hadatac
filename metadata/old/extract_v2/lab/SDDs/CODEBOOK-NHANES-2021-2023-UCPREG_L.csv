@@ -1,0 +1,7 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Females only 20 YEARS - 44 YEARS,nan,,
+1,URXPREG,1,Positive,Urine Pregnancy Result,Females only 20 YEARS - 44 YEARS,nan,,
+2,URXPREG,2,Negative,Urine Pregnancy Result,Females only 20 YEARS - 44 YEARS,nan,,
+3,URXPREG,3,Not Done,Urine Pregnancy Result,Females only 20 YEARS - 44 YEARS,nan,,
+4,URXPREG,4,Invalid,Urine Pregnancy Result,Females only 20 YEARS - 44 YEARS,nan,,
+5,URXPREG,.,Missing,Urine Pregnancy Result,Females only 20 YEARS - 44 YEARS,nan,,

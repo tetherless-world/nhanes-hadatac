@@ -1,0 +1,11 @@
+,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,,,,,,,,,,,,
+1,LBXBCD,,,,,,,,,,,,
+2,LBDBCDSI,,,,,,,,,,,,
+3,LBDBCDLC,,,,,,,,,,,,
+4,LBXBPB,,,,,,,,,,,,
+5,LBDBPBSI,,,,,,,,,,,,
+6,LBDBPBLC,,,,,,,,,,,,
+7,LBXTHG,,,,,,,,,,,,
+8,LBDTHGSI,,,,,,,,,,,,
+9,LBDTHGLC,,,,,,,,,,,,

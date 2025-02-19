@@ -1,0 +1,5 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"L19_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
+"L19_C","LBXME","LBXME","Measles","Measles","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 29.58"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5138"", ""517""]; Cumulative=[""5138"", ""5655""]; Skip.to.Item=[""NA"", ""NA""]"
+"L19_C","LBDRUIU","LBDRUIU","Rubella international units","Rubella units","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""1 to 320"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5138"", ""517""]; Cumulative=[""5138"", ""5655""]; Skip.to.Item=[""NA"", ""NA""]"
+"L19_C","LBXVAR","LBXVAR","Varicella","Varicella","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 29.65"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5138"", ""517""]; Cumulative=[""5138"", ""5655""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,nan,,
+1,LBXACR,2.12 To 910,Range Of Values,Acrylamide (pmoL/G Hb),Both males and females 3 YEARS - 150 YEARS,nan,,
+2,LBXACR,.,Missing,Acrylamide (pmoL/G Hb),Both males and females 3 YEARS - 150 YEARS,nan,,
+3,LBDACRLC,0,At Or Above The Detection Limit,Acrylamide comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+4,LBDACRLC,1,Below Lower Detection Limit,Acrylamide comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+5,LBDACRLC,.,Missing,Acrylamide comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+6,LBXGLY,2.83 To 756,Range Of Values,Glycidamide (pmoL/G Hb),Both males and females 3 YEARS - 150 YEARS,nan,,
+7,LBXGLY,.,Missing,Glycidamide (pmoL/G Hb),Both males and females 3 YEARS - 150 YEARS,nan,,
+8,LBDGLYLC,0,At Or Above The Detection Limit,Glycidamide comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+9,LBDGLYLC,1,Below Lower Detection Limit,Glycidamide comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+10,LBDGLYLC,.,Missing,Glycidamide comment code,Both males and females 3 YEARS - 150 YEARS,nan,,

@@ -1,0 +1,7 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,DRXFDCD,11000000 To 94210100,Range Of Values,USDA food code to be matched with individual foods file.,nan,nan,,
+1,DRXFDCD,.,Missing,USDA food code to be matched with individual foods file.,nan,nan,,
+2,DRXFCSD,Food Code Short Description,Value Was Recorded,Food Code Short Description,nan,nan,,
+3,DRXFCSD,,,Food Code Short Description,nan,nan,,
+4,DRXFCLD,Food Code Long Description,Value Was Recorded,Food Code Long Description,nan,nan,,
+5,DRXFCLD,,,Food Code Long Description,nan,nan,,

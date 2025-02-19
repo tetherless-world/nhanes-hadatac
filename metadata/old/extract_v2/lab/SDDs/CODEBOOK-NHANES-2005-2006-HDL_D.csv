@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,LBDHDD,15 To 188,Range Of Values,Direct HDL-Cholesterol (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
+2,LBDHDD,.,Missing,Direct HDL-Cholesterol (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
+3,LBDHDDSI,0.39 To 4.86,Range Of Values,Direct HDL-Cholesterol (mmol/L),Both males and females 6 YEARS - 150 YEARS,nan,,
+4,LBDHDDSI,.,Missing,Direct HDL-Cholesterol (mmol/L),Both males and females 6 YEARS - 150 YEARS,nan,,

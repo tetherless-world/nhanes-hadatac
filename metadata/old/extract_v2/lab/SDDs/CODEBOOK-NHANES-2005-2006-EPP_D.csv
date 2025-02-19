@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 5 YEARS,nan,,
+1,LBXEPP,12 To 582,Range Of Values,Protoporphyrin(ug/dL RBC),Both males and females 3 YEARS - 5 YEARS,nan,,
+2,LBXEPP,.,Missing,Protoporphyrin(ug/dL RBC),Both males and females 3 YEARS - 5 YEARS,nan,,
+3,LBDEPPSI,0.21 To 10.36,Range Of Values,Protoporphyrin (umol/L RBC),Both males and females 3 YEARS - 5 YEARS,nan,,
+4,LBDEPPSI,.,Missing,Protoporphyrin (umol/L RBC),Both males and females 3 YEARS - 5 YEARS,nan,,

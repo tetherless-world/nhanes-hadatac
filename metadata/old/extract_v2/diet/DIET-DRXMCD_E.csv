@@ -1,0 +1,3 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"DRXMCD_E","DRXMC","DRXMC","Modification Code","Modification Code",NA,NA,"Code.or.Value=[""100000 to 207215"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1605"", ""0""]; Cumulative=[""1605"", ""1605""]; Skip.to.Item=[""NA"", ""NA""]"
+"DRXMCD_E","DRXMCD","DRXMCD","Modification Code Description","Modification Code Description ",NA,NA,"Code.or.Value=[""Modification Code Description"", """"]; Value.Description=[""Value was recorded"", """"]; Count=[""1605"", ""0""]; Cumulative=[""1605"", ""1605""]; Skip.to.Item=[""NA"", ""NA""]"

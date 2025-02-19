@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"SSTOCA_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"SSTOCA_H","SSTCAMFI","SSTCAMFI","Toxocara mean florescent intensity","Toxocara mean florescent intensity","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""-9 to 20830.5"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6578"", ""0""]; Cumulative=[""6578"", ""6578""]; Skip.to.Item=[""NA"", ""NA""]"
+"SSTOCA_H","SSTCAR","SSTCAR","Toxocara antibody result","Toxocara antibody result","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""371"", ""6207"", ""0""]; Cumulative=[""371"", ""6578"", ""6578""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

@@ -1,0 +1,8 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,nan,,
+1,SSUCYSH,1,Positive,Cytomegalovirus shedding,Both males and females 6 YEARS - 49 YEARS,nan,,
+2,SSUCYSH,2,Negative,Cytomegalovirus shedding,Both males and females 6 YEARS - 49 YEARS,nan,,
+3,SSUCYSH,3,Equivocal,Cytomegalovirus shedding,Both males and females 6 YEARS - 49 YEARS,nan,,
+4,SSUCYSH,.,Missing,Cytomegalovirus shedding,Both males and females 6 YEARS - 49 YEARS,nan,,
+5,SSUCTVL,68 To 707687,Range Of Values,Cytomegalovirus viral load Copies/mL,Both males and females 6 YEARS - 49 YEARS,nan,,
+6,SSUCTVL,.,Missing,Cytomegalovirus viral load Copies/mL,Both males and females 6 YEARS - 49 YEARS,nan,,

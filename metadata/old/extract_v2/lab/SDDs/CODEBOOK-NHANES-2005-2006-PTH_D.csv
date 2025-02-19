@@ -1,0 +1,5 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,LBXPT21,9 To 491,Range Of Values,Parathyroid Hormone(Elecys method) pg/mL,Both males and females 6 YEARS - 150 YEARS,nan,,
+2,LBXPT21,6.36,At Or Below Detection Limit Fill Value,Parathyroid Hormone(Elecys method) pg/mL,Both males and females 6 YEARS - 150 YEARS,nan,,
+3,LBXPT21,.,Missing,Parathyroid Hormone(Elecys method) pg/mL,Both males and females 6 YEARS - 150 YEARS,nan,,

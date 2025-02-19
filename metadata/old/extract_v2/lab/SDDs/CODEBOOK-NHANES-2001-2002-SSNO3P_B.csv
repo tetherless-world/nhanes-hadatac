@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,SSXNO3,495 To 810000,Range Of Values,Continuous variable describing urinary concentration of nitrate (NO3) (ug/L). Limit of detection: 700 ug/L.,Both males and females 6 YEARS - 150 YEARS,nan,,
+2,SSXNO3,.,Missing,Continuous variable describing urinary concentration of nitrate (NO3) (ug/L). Limit of detection: 700 ug/L.,Both males and females 6 YEARS - 150 YEARS,nan,,
+3,SSXSCN,14 To 39000,Range Of Values,Continuous variable describing urinary concentration of Thiocyanate (SCN) (ug/L). Limit of detection: 20 ug/L.,Both males and females 6 YEARS - 150 YEARS,nan,,
+4,SSXSCN,.,Missing,Continuous variable describing urinary concentration of Thiocyanate (SCN) (ug/L). Limit of detection: 20 ug/L.,Both males and females 6 YEARS - 150 YEARS,nan,,
+5,SSXUP8,0.2 To 170,Range Of Values,Urinary Perchlorate (ug/L),Both males and females 6 YEARS - 150 YEARS,nan,,
+6,SSXUP8,.,Missing,Urinary Perchlorate (ug/L),Both males and females 6 YEARS - 150 YEARS,nan,,
+7,URXUCR,9 To 774,Range Of Values,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
+8,URXUCR,.,Missing,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
+9,WTUIO2YR,0 To 663502.48,Range Of Values,Subsample 2 year Mec Weight,Both males and females 6 YEARS - 150 YEARS,nan,,
+10,WTUIO2YR,.,Missing,Subsample 2 year Mec Weight,Both males and females 6 YEARS - 150 YEARS,nan,,

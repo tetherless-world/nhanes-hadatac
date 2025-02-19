@@ -1,0 +1,7 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"ALB_CR_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"ALB_CR_G","URXUMA","URXUMA","Albumin urine (ug/mL)","Albumin urine (ug/mL)","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"ALB_CR_G","URXUMS","URXUMS","Albumin urine (mg/L)","Albumin urine (mg/L)","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"ALB_CR_G","URXUCR","URXUCR","Creatinine urine (mg/dL)","Creatinine urine (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"ALB_CR_G","URXCRS","URXCRS","Creatinine urine (umol/L)","Creatinine urine (umol/L)","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"ALB_CR_G","URDACT","URDACT","Albumin creatinine ratio (mg/g)","Albumin creatinine ratio (mg/g)","Both males and females 6 YEARS - 150 YEARS",NA,NA

@@ -1,0 +1,7 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Females only 20 YEARS - 44 YEARS,nan,,
+1,URXPREG,1,Positive,Pregnancy test result,Females only 20 YEARS - 44 YEARS,nan,,
+2,URXPREG,2,Negative,Pregnancy test result,Females only 20 YEARS - 44 YEARS,nan,,
+3,URXPREG,3,Not Done,Pregnancy test result,Females only 20 YEARS - 44 YEARS,nan,,
+4,URXPREG,4,Invalid,Pregnancy test result,Females only 20 YEARS - 44 YEARS,nan,,
+5,URXPREG,.,Missing,Pregnancy test result,Females only 20 YEARS - 44 YEARS,nan,,

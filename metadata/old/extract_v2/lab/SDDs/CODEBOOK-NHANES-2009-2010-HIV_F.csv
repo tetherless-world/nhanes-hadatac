@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 18 YEARS - 59 YEARS,nan,,
+1,LBDHI,1,Positive,HIV antibody test result,Both males and females 18 YEARS - 59 YEARS,nan,,
+2,LBDHI,2,Negative,HIV antibody test result,Both males and females 18 YEARS - 59 YEARS,nan,,
+3,LBDHI,3,Indeterminate,HIV antibody test result,Both males and females 18 YEARS - 59 YEARS,nan,,
+4,LBDHI,.,Missing,HIV antibody test result,Both males and females 18 YEARS - 59 YEARS,nan,,

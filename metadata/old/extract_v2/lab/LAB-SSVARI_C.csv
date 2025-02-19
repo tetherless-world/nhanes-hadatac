@@ -1,0 +1,3 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"SSVARI_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 19 YEARS",NA,NA
+"SSVARI_C","VARICELL","VARICELL","Varicella antibody","Varicella antibody","Both males and females 6 YEARS - 19 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Yes"", ""No"", ""Equivocal"", ""Missing""]; Count=[""160"", ""119"", ""54"", ""0""]; Cumulative=[""160"", ""279"", ""333"", ""333""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

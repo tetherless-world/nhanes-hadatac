@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 5 YEARS,nan,,
+1,LBXIRN,7 To 380,Range Of Values,Iron Frozen Serum (ug/dL),Both males and females 3 YEARS - 5 YEARS,nan,,
+2,LBXIRN,.,Missing,Iron Frozen Serum (ug/dL),Both males and females 3 YEARS - 5 YEARS,nan,,
+3,LBDIRNSI,1.25 To 68.02,Range Of Values,Iron Frozen Serum (umol/L),Both males and females 3 YEARS - 5 YEARS,nan,,
+4,LBDIRNSI,.,Missing,Iron Frozen Serum (umol/L),Both males and females 3 YEARS - 5 YEARS,nan,,
+5,LBXTIB,190 To 721,Range Of Values,TIBC Frozen Serum (ug/dL),Both males and females 3 YEARS - 5 YEARS,nan,,
+6,LBXTIB,.,Missing,TIBC Frozen Serum (ug/dL),Both males and females 3 YEARS - 5 YEARS,nan,,
+7,LBDTIBSI,34.01 To 129.06,Range Of Values,TIBC Frozen Serum (umol/L),Both males and females 3 YEARS - 5 YEARS,nan,,
+8,LBDTIBSI,.,Missing,TIBC Frozen Serum (umol/L),Both males and females 3 YEARS - 5 YEARS,nan,,
+9,LBDPCT,1.4 To 95,Range Of Values,Transferrin saturation (%),Both males and females 3 YEARS - 5 YEARS,nan,,
+10,LBDPCT,.,Missing,Transferrin saturation (%),Both males and females 3 YEARS - 5 YEARS,nan,,

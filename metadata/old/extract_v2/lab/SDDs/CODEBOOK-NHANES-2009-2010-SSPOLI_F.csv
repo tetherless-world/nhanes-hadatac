@@ -1,0 +1,11 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,nan,,
+1,WTSSPO2Y,8827.298071 To 182929.05598,Range Of Values,Surplus specimen SSPOLI_F 2 year weights,Both males and females 6 YEARS - 49 YEARS,nan,,
+2,WTSSPO2Y,0,No Lab Specimen,Surplus specimen SSPOLI_F 2 year weights,Both males and females 6 YEARS - 49 YEARS,nan,,
+3,WTSSPO2Y,.,Missing,Surplus specimen SSPOLI_F 2 year weights,Both males and females 6 YEARS - 49 YEARS,nan,,
+4,SSPV1,2.5 To 10.5,Range Of Values,Antibody against wild type polio virus 1,Both males and females 6 YEARS - 49 YEARS,nan,,
+5,SSPV1,.,Missing,Antibody against wild type polio virus 1,Both males and females 6 YEARS - 49 YEARS,nan,,
+6,SSPV2,2.5 To 10.5,Range Of Values,Antibody against wild type polio virus 2,Both males and females 6 YEARS - 49 YEARS,nan,,
+7,SSPV2,.,Missing,Antibody against wild type polio virus 2,Both males and females 6 YEARS - 49 YEARS,nan,,
+8,SSPV3,2.5 To 10.5,Range Of Values,Antibody against wild type polio virus 3,Both males and females 6 YEARS - 49 YEARS,nan,,
+9,SSPV3,.,Missing,Antibody against wild type polio virus 3,Both males and females 6 YEARS - 49 YEARS,nan,,

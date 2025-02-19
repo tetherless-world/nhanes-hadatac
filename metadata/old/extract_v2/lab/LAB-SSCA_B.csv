@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"SSCA_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 20 YEARS - 150 YEARS",NA,NA
+"SSCA_B","SSCA125","SSCA125","Cancer antigen 125 (U/mL)","Cancer antigen 125 (U/mL)","Females only 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.73 to 569.37"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2391"", ""0""]; Cumulative=[""2391"", ""2391""]; Skip.to.Item=[""NA"", ""NA""]"
+"SSCA_B","SSCA153","SSCA153","Cancer antigen 15.3 (mU/mL)","Cancer antigen 15.3 (mU/mL)","Females only 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""95.83 to 704915.87"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2391"", ""0""]; Cumulative=[""2391"", ""2391""]; Skip.to.Item=[""NA"", ""NA""]"

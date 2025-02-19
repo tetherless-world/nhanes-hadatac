@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,WTSA2YR,16284.37488 To 530325.34726,Range Of Values,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,nan,,
+2,WTSA2YR,0,No Lab Result,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,nan,,
+3,WTSA2YR,.,Missing,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,nan,,
+4,LBXFOR,12.3 To 236,Range Of Values,Formaldehyde (nmol/g HB),Both males and females 6 YEARS - 150 YEARS,nan,,
+5,LBXFOR,.,Missing,Formaldehyde (nmol/g HB),Both males and females 6 YEARS - 150 YEARS,nan,,
+6,LBDFORLC,0,At Or Above The Limit Of Detection,Formaldehyde comment code,Both males and females 6 YEARS - 150 YEARS,nan,,
+7,LBDFORLC,1,Below Limit Of Detection,Formaldehyde comment code,Both males and females 6 YEARS - 150 YEARS,nan,,
+8,LBDFORLC,.,Missing,Formaldehyde comment code,Both males and females 6 YEARS - 150 YEARS,nan,,

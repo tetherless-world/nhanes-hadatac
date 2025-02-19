@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Females only 20 YEARS - 150 YEARS,nan,,
+1,SSCA125,0.73 To 569.37,Range Of Values,Cancer antigen 125 (U/mL),Females only 20 YEARS - 150 YEARS,nan,,
+2,SSCA125,.,Missing,Cancer antigen 125 (U/mL),Females only 20 YEARS - 150 YEARS,nan,,
+3,SSCA153,95.83 To 704915.87,Range Of Values,Cancer antigen 15.3 (mU/mL),Females only 20 YEARS - 150 YEARS,nan,,
+4,SSCA153,.,Missing,Cancer antigen 15.3 (mU/mL),Females only 20 YEARS - 150 YEARS,nan,,

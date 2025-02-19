@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"FERTIN_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 5 YEARS",NA,NA
+"FERTIN_F","LBXFER","LBXFER","Ferritin (ng/mL)","Ferritin (ng/mL)","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""2 to 1090"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2909"", ""612""]; Cumulative=[""2909"", ""3521""]; Skip.to.Item=[""NA"", ""NA""]"
+"FERTIN_F","LBDFERSI","LBDFERSI","Ferritin (ug/L)","Ferritin (ug/L)","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""2 to 1090"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2909"", ""612""]; Cumulative=[""2909"", ""3521""]; Skip.to.Item=[""NA"", ""NA""]"

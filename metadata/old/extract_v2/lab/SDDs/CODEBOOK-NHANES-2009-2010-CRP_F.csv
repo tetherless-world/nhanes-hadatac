@@ -1,0 +1,4 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,nan,,
+1,LBXCRP,0.01 To 18.01,Range Of Values,C-reactive protein(mg/dL),Both males and females 3 YEARS - 150 YEARS,nan,,
+2,LBXCRP,.,Missing,C-reactive protein(mg/dL),Both males and females 3 YEARS - 150 YEARS,nan,,

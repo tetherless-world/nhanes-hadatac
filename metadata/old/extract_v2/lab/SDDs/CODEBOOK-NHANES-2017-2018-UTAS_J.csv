@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,nan,,
+1,WTSA2YR,3829.845402 To 1502431.3423,Range Of Values,Subsample A weights,Both males and females 3 YEARS - 150 YEARS,nan,,
+2,WTSA2YR,0,No Lab Specimen,Subsample A weights,Both males and females 3 YEARS - 150 YEARS,nan,,
+3,WTSA2YR,.,Missing,Subsample A weights,Both males and females 3 YEARS - 150 YEARS,nan,,
+4,URXUAS,0.16 To 2802.29,Range Of Values,Arsenic Total - Urine (ug/L),Both males and females 3 YEARS - 150 YEARS,nan,,
+5,URXUAS,.,Missing,Arsenic Total - Urine (ug/L),Both males and females 3 YEARS - 150 YEARS,nan,,
+6,URDUASLC,0,At Or Above Detection Limit,Arsenic Total - Urine Comment Code,Both males and females 3 YEARS - 150 YEARS,nan,,
+7,URDUASLC,1,Below Lower Detection Limit,Arsenic Total - Urine Comment Code,Both males and females 3 YEARS - 150 YEARS,nan,,
+8,URDUASLC,.,Missing,Arsenic Total - Urine Comment Code,Both males and females 3 YEARS - 150 YEARS,nan,,

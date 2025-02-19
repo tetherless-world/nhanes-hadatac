@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,nan,,
+1,WTSOG2YR,0 To 389074.997,Range Of Values,OGTT Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+2,WTSOG2YR,.,Missing,OGTT Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+3,LBXGLT,31 To 490,Range Of Values,Two hour oral glucose tolerance (OGTT) (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+4,LBXGLT,.,Missing,Two hour oral glucose tolerance (OGTT) (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+5,LBDGLTSI,1.721 To 27.2,Range Of Values,Two Hour Glucose(OGTT) (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+6,LBDGLTSI,.,Missing,Two Hour Glucose(OGTT) (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+7,PHAFSTHR,0 To 64,Range Of Values,Total length of food fast hours,Both males and females 12 YEARS - 150 YEARS,nan,,
+8,PHAFSTHR,.,Missing,Total length of food fast hours,Both males and females 12 YEARS - 150 YEARS,nan,,
+9,PHAFSTMN,0 To 59,Range Of Values,Total length of food fast minutes,Both males and females 12 YEARS - 150 YEARS,nan,,
+10,PHAFSTMN,.,Missing,Total length of food fast minutes,Both males and females 12 YEARS - 150 YEARS,nan,,

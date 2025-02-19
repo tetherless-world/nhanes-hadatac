@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 18 YEARS - 39 YEARS,nan,,
+1,URXUCL,1,Positive,Chlamydia urine,Both males and females 18 YEARS - 39 YEARS,nan,,
+2,URXUCL,2,Negative,Chlamydia urine,Both males and females 18 YEARS - 39 YEARS,nan,,
+3,URXUCL,3,Indeterminate,Chlamydia urine,Both males and females 18 YEARS - 39 YEARS,nan,,
+4,URXUCL,.,Missing,Chlamydia urine,Both males and females 18 YEARS - 39 YEARS,nan,,

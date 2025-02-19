@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 59 YEARS,nan,,
+1,LBXLA,0.34 To 93.76,Range Of Values,Latex (IU/mL),Both males and females 12 YEARS - 59 YEARS,nan,,
+2,LBXLA,.,Missing,Latex (IU/mL),Both males and females 12 YEARS - 59 YEARS,nan,,
+3,LBXLACL,0 To 5,Range Of Values,Latex class,Both males and females 12 YEARS - 59 YEARS,nan,,
+4,LBXLACL,.,Missing,Latex class,Both males and females 12 YEARS - 59 YEARS,nan,,

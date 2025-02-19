@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,nan,,
+1,LBX4PA,3.2 To 15500,Range Of Values,4-pyridoxic acid (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+2,LBX4PA,.,Missing,4-pyridoxic acid (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+3,LBXPLP,2.1 To 2330,Range Of Values,Pyridoxal 5-phosphate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+4,LBXPLP,.,Missing,Pyridoxal 5-phosphate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,

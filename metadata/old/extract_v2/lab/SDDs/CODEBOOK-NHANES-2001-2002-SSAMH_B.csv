@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Males only 12 YEARS - 150 YEARS,nan,,
+1,SSAMH,0.044 To 157.638,Range Of Values,Anti-Mullerian Hormone (ng/ml),Males only 12 YEARS - 150 YEARS,nan,,
+2,SSAMH,.,Missing,Anti-Mullerian Hormone (ng/ml),Males only 12 YEARS - 150 YEARS,nan,,
+3,SSINHBIN,11.228 To 505.221,Range Of Values,Inhibin B (pg/ml),Males only 12 YEARS - 150 YEARS,nan,,
+4,SSINHBIN,.,Missing,Inhibin B (pg/ml),Males only 12 YEARS - 150 YEARS,nan,,

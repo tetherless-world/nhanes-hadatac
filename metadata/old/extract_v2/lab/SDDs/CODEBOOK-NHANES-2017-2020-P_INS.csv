@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,LBDINLC,0,At Or Above The Detection Limit,Insulin Comment Code,Both males and females 12 YEARS - 150 YEARS,nan,,
+1,LBDINLC,1,Below Lower Detection Limit,Insulin Comment Code,Both males and females 12 YEARS - 150 YEARS,nan,,
+2,LBDINLC,.,Missing,Insulin Comment Code,Both males and females 12 YEARS - 150 YEARS,nan,,
+3,LBDINSI,4.26 To 3075,Range Of Values,Insulin (pmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+4,LBDINSI,.,Missing,Insulin (pmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+5,LBXIN,0.71 To 512.5,Range Of Values,Insulin (μU/mL),Both males and females 12 YEARS - 150 YEARS,nan,,
+6,LBXIN,.,Missing,Insulin (μU/mL),Both males and females 12 YEARS - 150 YEARS,nan,,
+7,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,nan,,
+8,WTSAFPRP,4808.069916 To 741259.18875,Range Of Values,Fasting Subsample Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+9,WTSAFPRP,0,No Lab Result Or Not Fasting For 8 To <24 Hours,Fasting Subsample Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+10,WTSAFPRP,.,Missing,Fasting Subsample Weight,Both males and females 12 YEARS - 150 YEARS,nan,,

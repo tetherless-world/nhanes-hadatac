@@ -1,0 +1,10 @@
+,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,,,,,,,,,,,,
+1,PAXSTS,,,,,,,,,,,,
+2,PAXSENID,,,,,,,,,,,,
+3,PAXFDAY,,,,,,,,,,,,
+4,PAXLDAY,,,,,,,,,,,,
+5,PAXFTIME,,,,,,,,,,,,
+6,PAXETLDY,,,,,,,,,,,,
+7,PAXHAND,,,,,,,,,,,,
+8,PAXORENT,,,,,,,,,,,,

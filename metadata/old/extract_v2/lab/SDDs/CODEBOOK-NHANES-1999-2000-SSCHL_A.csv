@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Males only 12 YEARS - 150 YEARS,nan,,
+1,SSTESTO,0.06 To 17.48,Range Of Values,Testostosterone(ng/mL),Males only 12 YEARS - 150 YEARS,nan,,
+2,SSTESTO,.,Missing,Testostosterone(ng/mL),Males only 12 YEARS - 150 YEARS,nan,,
+3,SSSHBG,4.94 To 234.3,Range Of Values,Sex Hormone Binding Globulin (nmol/L),Males only 12 YEARS - 150 YEARS,nan,,
+4,SSSHBG,.,Missing,Sex Hormone Binding Globulin (nmol/L),Males only 12 YEARS - 150 YEARS,nan,,
+5,SSSE2,-5 To 360,Range Of Values,estradiol (pg/mL),Males only 12 YEARS - 150 YEARS,nan,,
+6,SSSE2,.,Missing,estradiol (pg/mL),Males only 12 YEARS - 150 YEARS,nan,,
+7,SS3adlG,0.592 To 55.173,Range Of Values,androstanedione glucuronide (ng/mL),Males only 12 YEARS - 150 YEARS,nan,,
+8,SS3adlG,.,Missing,androstanedione glucuronide (ng/mL),Males only 12 YEARS - 150 YEARS,nan,,

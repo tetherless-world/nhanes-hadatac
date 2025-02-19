@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 18 YEARS - 59 YEARS,nan,,
+1,URXUTRI,1,Positive,Trichomonas urine,Both males and females 18 YEARS - 59 YEARS,nan,,
+2,URXUTRI,2,Negative,Trichomonas urine,Both males and females 18 YEARS - 59 YEARS,nan,,
+3,URXUTRI,3,Indeterminate,Trichomonas urine,Both males and females 18 YEARS - 59 YEARS,nan,,
+4,URXUTRI,.,Missing,Trichomonas urine,Both males and females 18 YEARS - 59 YEARS,nan,,

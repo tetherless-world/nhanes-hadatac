@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,nan,,
+1,WTSSGL2Y,11617.110763 To 931491.77436,Range Of Values,Surplus specimen glyphosate 15-16 2 year weights,Both males and females 3 YEARS - 150 YEARS,nan,,
+2,WTSSGL2Y,0,No Lab Specimen,Surplus specimen glyphosate 15-16 2 year weights,Both males and females 3 YEARS - 150 YEARS,nan,,
+3,WTSSGL2Y,.,Missing,Surplus specimen glyphosate 15-16 2 year weights,Both males and females 3 YEARS - 150 YEARS,nan,,
+4,SSGLYP,0.141 To 8.21,Range Of Values,Glyphosate (ng/mL),Both males and females 3 YEARS - 150 YEARS,nan,,
+5,SSGLYP,.,Missing,Glyphosate (ng/mL),Both males and females 3 YEARS - 150 YEARS,nan,,
+6,SSGLYPL,0,At Or Above The Detection Limit,Glyphosate comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+7,SSGLYPL,1,Below Lower Detection Limit,Glyphosate comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+8,SSGLYPL,.,Missing,Glyphosate comment code,Both males and females 3 YEARS - 150 YEARS,nan,,

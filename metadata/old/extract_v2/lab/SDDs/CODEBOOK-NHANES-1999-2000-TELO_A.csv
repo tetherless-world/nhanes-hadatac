@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 20 YEARS - 150 YEARS,nan,,
+1,TeloMean,0.3893365284 To 9.420414986,Range Of Values,Mean T/S ratio,Both males and females 20 YEARS - 150 YEARS,nan,,
+2,TeloMean,.,Missing,Mean T/S ratio,Both males and females 20 YEARS - 150 YEARS,nan,,
+3,TeloStd,0.0019335235 To 12.174328148,Range Of Values,Asso. Std. Dev. of Mean T/S ratio,Both males and females 20 YEARS - 150 YEARS,nan,,
+4,TeloStd,.,Missing,Asso. Std. Dev. of Mean T/S ratio,Both males and females 20 YEARS - 150 YEARS,nan,,

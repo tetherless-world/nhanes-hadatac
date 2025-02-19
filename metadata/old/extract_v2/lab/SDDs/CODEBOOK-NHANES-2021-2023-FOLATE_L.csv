@@ -1,0 +1,9 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number,Both males and females 1 YEARS - 150 YEARS,nan,,
+1,WTPH2YR,4391.8220579 To 253478.77765,Range Of Values,Phlebotomy 2 Year Weight,Both males and females 1 YEARS - 150 YEARS,nan,,
+2,WTPH2YR,0,No Blood Sample Provided,Phlebotomy 2 Year Weight,Both males and females 1 YEARS - 150 YEARS,nan,,
+3,WTPH2YR,.,Missing,Phlebotomy 2 Year Weight,Both males and females 1 YEARS - 150 YEARS,nan,,
+4,LBDRFO,63.6 To 3240,Range Of Values,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
+5,LBDRFO,.,Missing,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
+6,LBDRFOSI,144 To 7330,Range Of Values,RBC folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+7,LBDRFOSI,.,Missing,RBC folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,

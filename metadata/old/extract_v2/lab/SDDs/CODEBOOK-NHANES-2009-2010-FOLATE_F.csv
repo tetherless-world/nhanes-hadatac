@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,nan,,
+1,LBDRBF,87.4 To 3125.8,Range Of Values,RBC Folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
+2,LBDRBF,.,Missing,RBC Folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
+3,LBXRBFSI,198 To 7080,Range Of Values,RBC folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+4,LBXRBFSI,.,Missing,RBC folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+5,LBDFOL,1.9 To 253.9,Range Of Values,Serum folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
+6,LBDFOL,.,Missing,Serum folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
+7,LBXFOLSI,4.2 To 575,Range Of Values,Serum folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
+8,LBXFOLSI,.,Missing,Serum folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,

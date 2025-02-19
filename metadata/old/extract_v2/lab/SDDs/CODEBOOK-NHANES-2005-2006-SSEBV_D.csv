@@ -1,0 +1,9 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 19 YEARS,nan,,
+1,SSEBV,1,Positive,Epstein Barr Virus result,Both males and females 6 YEARS - 19 YEARS,nan,,
+2,SSEBV,2,Negative,Epstein Barr Virus result,Both males and females 6 YEARS - 19 YEARS,nan,,
+3,SSEBV,3,Equivocal,Epstein Barr Virus result,Both males and females 6 YEARS - 19 YEARS,nan,,
+4,SSEBV,4,Quantity Not Sufficient,Epstein Barr Virus result,Both males and females 6 YEARS - 19 YEARS,nan,,
+5,SSEBV,.,Missing,Epstein Barr Virus result,Both males and females 6 YEARS - 19 YEARS,nan,,
+6,SSEBVIND,0 To 6.69,Range Of Values,Epstein Barr Virus index,Both males and females 6 YEARS - 19 YEARS,nan,,
+7,SSEBVIND,.,Missing,Epstein Barr Virus index,Both males and females 6 YEARS - 19 YEARS,nan,,

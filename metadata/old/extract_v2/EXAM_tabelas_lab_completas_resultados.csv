@@ -1,0 +1,183 @@
+"Data.File.Name","Data.File.Description","Component","Begin.Year","EndYear"
+"AUX1","Audiometry","Examination",1999,2000
+"AUXAR","Audiometry - Acoustic Reflex","Examination",1999,2000
+"AUXTYM","Audiometry - Tympanometry","Examination",1999,2000
+"BAX","Balance","Examination",1999,2000
+"BIX","Bioelectrical Impedance Analysis","Examination",1999,2000
+"BMX","Body Measures","Examination",1999,2000
+"BPX","Blood Pressure","Examination",1999,2000
+"CVX","Cardiovascular Fitness","Examination",1999,2000
+"LEXABPI","Lower Extremity Disease - Ankle Brachial Blood Pressure Index","Examination",1999,2000
+"LEXPN","Lower Extremity Disease - Peripheral Neuropathy","Examination",1999,2000
+"MSX","Muscle Strength","Examination",1999,2000
+"OHXDENT","Oral Health - Dentition","Examination",1999,2000
+"OHXPERIO","Oral Health - Periodontal","Examination",1999,2000
+"OHXREF","Oral Health - Recommendation of Care","Examination",1999,2000
+"SEQ","Shared Exclusion Questions","Examination",1999,2000
+"TB","Tuberculosis","Examination",1999,2000
+"VIX","Vision","Examination",1999,2000
+"AUX_B","Audiometry","Examination",2001,2002
+"AUXAR_B","Audiometry - Acoustic Reflex","Examination",2001,2002
+"AUXTYM_B","Audiometry - Tympanometry","Examination",2001,2002
+"BAX_B","Balance","Examination",2001,2002
+"BIX_B","Bioelectrical Impedance Analysis","Examination",2001,2002
+"BMX_B","Body Measures","Examination",2001,2002
+"BPX_B","Blood Pressure","Examination",2001,2002
+"CVX_B","Cardiovascular Fitness","Examination",2001,2002
+"DXX_2_B","Dual-Energy X-ray Absorptiometry - Whole Body, Second Exam","Examination",2001,2002
+"LEXAB_B","Lower Extremity Disease - Ankle Brachial Blood Pressure Index","Examination",2001,2002
+"LEXPN_B","Lower Extremity Disease - Peripheral Neuropathy","Examination",2001,2002
+"MSX_B","Muscle Strength","Examination",2001,2002
+"OHXDEN_B","Oral Health - Dentition","Examination",2001,2002
+"OHXPRL_B","Oral Health - Periodontal/Lower","Examination",2001,2002
+"OHXPRU_B","Oral Health - Periodontal/Upper","Examination",2001,2002
+"OHXREF_B","Oral Health - Recommendation of Care","Examination",2001,2002
+"VIX_B","Vision","Examination",2001,2002
+"AUX_C","Audiometry","Examination",2003,2004
+"AUXAR_C","Audiometry - Acoustic Reflex","Examination",2003,2004
+"AUXTYM_C","Audiometry - Tympanometry","Examination",2003,2004
+"BAX_C","Balance","Examination",2003,2004
+"BIX_C","Bioelectrical Impedance Analysis","Examination",2003,2004
+"BMX_C","Body Measures","Examination",2003,2004
+"BPX_C","Blood Pressure","Examination",2003,2004
+"CVX_C","Cardiovascular Fitness","Examination",2003,2004
+"DEX_C","Dermatology","Examination",2003,2004
+"DXXAG_C","Dual Energy X-ray Absorptiometry - Android/Gynoid","Examination",2003,2004
+"LEXAB_C","Lower Extremity Disease - Ankle Brachial Blood Pressure Index","Examination",2003,2004
+"LEXPN_C","Lower Extremity Disease - Peripheral Neuropathy","Examination",2003,2004
+"OHXADD_C","Oral Health - Addendum","Examination",2003,2004
+"OHXDEN_C","Oral Health - Dentition","Examination",2003,2004
+"OHXPRL_C","Oral Health - Periodontal/Lower","Examination",2003,2004
+"OHXPRU_C","Oral Health - Periodontal/Upper","Examination",2003,2004
+"OHXREF_C","Oral Health - Recommendation of Care","Examination",2003,2004
+"VIX_C","Vision","Examination",2003,2004
+"AUX_D","Audiometry","Examination",2005,2006
+"AUXAR_D","Audiometry - Acoustic Reflex","Examination",2005,2006
+"AUXTYM_D","Audiometry - Tympanometry","Examination",2005,2006
+"BMX_D","Body Measures","Examination",2005,2006
+"BPX_D","Blood Pressure","Examination",2005,2006
+"DXXAG_D","Dual Energy X-ray Absorptiometry - Android/Gynoid","Examination",2005,2006
+"DXXFEM_D","Dual Energy X-ray Absorptiometry - Femur","Examination",2005,2006
+"DXXSPN_D","Dual Energy X-ray Absorptiometry - Spine","Examination",2005,2006
+"OHX_D","Oral Health","Examination",2005,2006
+"OPXFDT_D","Ophthalmology - Frequency Doubling Technology","Examination",2005,2006
+"OPXRET_D","Ophthalmology - Retinal Imaging","Examination",2005,2006
+"VIX_D","Vision","Examination",2005,2006
+"AUX_E","Audiometry","Examination",2007,2008
+"AUXAR_E","Audiometry - Acoustic Reflex","Examination",2007,2008
+"AUXTYM_E","Audiometry - Tympanometry","Examination",2007,2008
+"BMX_E","Body Measures","Examination",2007,2008
+"BPX_E","Blood Pressure","Examination",2007,2008
+"DXXFEM_E","Dual Energy X-ray Absorptiometry - Femur","Examination",2007,2008
+"DXXSPN_E","Dual Energy X-ray Absorptiometry - Spine","Examination",2007,2008
+"ENX_E","Exhaled Nitric Oxide","Examination",2007,2008
+"OHX_E","Oral Health","Examination",2007,2008
+"OPXFDT_E","Ophthalmology - Frequency Doubling Technology","Examination",2007,2008
+"OPXRET_E","Ophthalmology - Retinal Imaging","Examination",2007,2008
+"SPX_E","Spirometry - Pre and Post-Bronchodilator","Examination",2007,2008
+"VIX_E","Vision","Examination",2007,2008
+"ARX_F","Arthritis Body Measures","Examination",2009,2010
+"AUX_F","Audiometry","Examination",2009,2010
+"AUXAR_F","Audiometry - Acoustic Reflex","Examination",2009,2010
+"AUXTYM_F","Audiometry - Tympanometry","Examination",2009,2010
+"BMX_F","Body Measures","Examination",2009,2010
+"BPX_F","Blood Pressure","Examination",2009,2010
+"DXXFEM_F","Dual Energy X-ray Absorptiometry - Femur","Examination",2009,2010
+"DXXSPN_F","Dual Energy X-ray Absorptiometry - Spine","Examination",2009,2010
+"ENX_F","Exhaled Nitric Oxide","Examination",2009,2010
+"FLXCLN_F","Fluorosis - Clinical","Examination",2009,2010
+"OHXDEN_F","Oral Health - Dentition","Examination",2009,2010
+"OHXPER_F","Oral Health - Periodontal","Examination",2009,2010
+"OHXREF_F","Oral Health - Recommendation of Care","Examination",2009,2010
+"SPX_F","Spirometry - Pre and Post-Bronchodilator","Examination",2009,2010
+"AUX_G","Audiometry","Examination",2011,2012
+"AUXAR_G","Audiometry - Acoustic Reflex","Examination",2011,2012
+"AUXTYM_G","Audiometry - Tympanometry","Examination",2011,2012
+"BMX_G","Body Measures","Examination",2011,2012
+"BPX_G","Blood Pressure","Examination",2011,2012
+"DXX_G","Dual-Energy X-ray Absorptiometry - Whole Body","Examination",2011,2012
+"DXXAG_G","Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements","Examination",2011,2012
+"ENX_G","Exhaled Nitric Oxide","Examination",2011,2012
+"FLXCLN_G","Fluorosis - Clinical","Examination",2011,2012
+"MGX_G","Muscle Strength - Grip Test","Examination",2011,2012
+"OHXDEN_G","Oral Health - Dentition","Examination",2011,2012
+"OHXPER_G","Oral Health - Periodontal","Examination",2011,2012
+"OHXREF_G","Oral Health - Recommendation of Care","Examination",2011,2012
+"PAXDAY_G","Physical Activity Monitor - Day","Examination",2011,2012
+"PAXHD_G","Physical Activity Monitor - Header","Examination",2011,2012
+"PAXHR_G","Physical Activity Monitor - Hour","Examination",2011,2012
+"PAXMIN_G","Physical Activity Monitor - Minute","Examination",2011,2012
+"SPX_G","Spirometry - Pre and Post-Bronchodilator","Examination",2011,2012
+"TBX_G","Tuberculosis","Examination",2011,2012
+"BMX_H","Body Measures","Examination",2013,2014
+"BPX_H","Blood Pressure","Examination",2013,2014
+"CSX_H","Taste & Smell","Examination",2013,2014
+"DXX_H","Dual-Energy X-ray Absorptiometry - Whole Body","Examination",2013,2014
+"DXXAAC_H","Dual-Energy X-ray Absorptiometry - Abdominal Aortic Calcification","Examination",2013,2014
+"DXXAG_H","Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements","Examination",2013,2014
+"DXXFEM_H","Dual-Energy X-ray Absorptiometry - Femur","Examination",2013,2014
+"DXXFRX_H","Dual-Energy X-ray Absorptiometry - FRAX Score","Examination",2013,2014
+"DXXL1_H","Dual-Energy X-ray Absorptiometry - L1 Vertebrae Morphology","Examination",2013,2014
+"DXXL2_H","Dual-Energy X-ray Absorptiometry - L2 Vertebrae Morphology","Examination",2013,2014
+"DXXL3_H","Dual-Energy X-ray Absorptiometry - L3 Vertebrae Morphology","Examination",2013,2014
+"DXXL4_H","Dual-Energy X-ray Absorptiometry - L4 Vertebrae Morphology","Examination",2013,2014
+"DXXSPN_H","Dual-Energy X-ray Absorptiometry - Spine","Examination",2013,2014
+"DXXT10_H","Dual-Energy X-ray Absorptiometry - T10 Vertebrae Morphology","Examination",2013,2014
+"DXXT11_H","Dual-Energy X-ray Absorptiometry - T11 Vertebrae Morphology","Examination",2013,2014
+"DXXT12_H","Dual-Energy X-ray Absorptiometry - T12 Vertebrae Morphology","Examination",2013,2014
+"DXXT4_H","Dual-Energy X-ray Absorptiometry - T4 Vertebrae Morphology","Examination",2013,2014
+"DXXT5_H","Dual-Energy X-ray Absorptiometry - T5 Vertebrae Morphology","Examination",2013,2014
+"DXXT6_H","Dual-Energy X-ray Absorptiometry - T6 Vertebrae Morphology","Examination",2013,2014
+"DXXT7_H","Dual-Energy X-ray Absorptiometry - T7 Vertebrae Morphology","Examination",2013,2014
+"DXXT8_H","Dual-Energy X-ray Absorptiometry - T8 Vertebrae Morphology","Examination",2013,2014
+"DXXT9_H","Dual-Energy X-ray Absorptiometry - T9 Vertebrae Morphology","Examination",2013,2014
+"DXXVFA_H","Dual-Energy X-ray Absorptiometry - Vertebral Fracture Assessment","Examination",2013,2014
+"FLXCLN_H","Fluorosis - Clinical","Examination",2013,2014
+"MGX_H","Muscle Strength - Grip Test","Examination",2013,2014
+"OHXDEN_H","Oral Health - Dentition","Examination",2013,2014
+"OHXPER_H","Oral Health - Periodontal","Examination",2013,2014
+"OHXREF_H","Oral Health - Recommendation of Care","Examination",2013,2014
+"PAXDAY_H","Physical Activity Monitor - Day","Examination",2013,2014
+"PAXHD_H","Physical Activity Monitor - Header","Examination",2013,2014
+"PAXHR_H","Physical Activity Monitor - Hour","Examination",2013,2014
+"PAXMIN_H","Physical Activity Monitor - Minute","Examination",2013,2014
+"AUX_I","Audiometry","Examination",2015,2016
+"AUXAR_I","Audiometry - Acoustic Reflex","Examination",2015,2016
+"AUXTYM_I","Audiometry - Tympanometry","Examination",2015,2016
+"AUXWBR_I","Audiometry – Wideband Reflectance","Examination",2015,2016
+"BMX_I","Body Measures","Examination",2015,2016
+"BPX_I","Blood Pressure","Examination",2015,2016
+"DXX_I","Dual-Energy X-ray Absorptiometry - Whole Body","Examination",2015,2016
+"DXXAG_I","Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements","Examination",2015,2016
+"FLXCLN_I","Fluorosis - Clinical","Examination",2015,2016
+"OHXDEN_I","Oral Health - Dentition","Examination",2015,2016
+"OHXREF_I","Oral Health - Recommendation of Care","Examination",2015,2016
+"AUX_J","Audiometry","Examination",2017,2018
+"AUXAR_J","Audiometry - Acoustic Reflex","Examination",2017,2018
+"AUXTYM_J","Audiometry - Tympanometry","Examination",2017,2018
+"AUXWBR_J","Audiometry - Wideband Reflectance","Examination",2017,2018
+"BMX_J","Body Measures","Examination",2017,2018
+"BPX_J","Blood Pressure","Examination",2017,2018
+"BPXO_J","Blood Pressure - Oscillometric Measurements","Examination",2017,2018
+"DXX_J","Dual-Energy X-ray Absorptiometry - Whole Body","Examination",2017,2018
+"DXXAG_J","Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements","Examination",2017,2018
+"DXXFEM_J","Dual-Energy X-ray Absorptiometry - Femur","Examination",2017,2018
+"DXXSPN_J","Dual-Energy X-ray Absorptiometry - Spine","Examination",2017,2018
+"LUX_J","Liver Ultrasound Transient Elastography","Examination",2017,2018
+"OHXDEN_J","Oral Health - Dentition","Examination",2017,2018
+"OHXREF_J","Oral Health - Recommendation of Care","Examination",2017,2018
+"P_AUX","Audiometry","Examination",2017,2020
+"P_AUXAR","Audiometry - Acoustic Reflex","Examination",2017,2020
+"P_AUXTYM","Audiometry - Tympanometry","Examination",2017,2020
+"P_AUXWBR","Audiometry - Wideband Reflectance","Examination",2017,2020
+"P_BMX","Body Measures","Examination",2017,2020
+"P_BPXO","Blood Pressure - Oscillometric Measurement","Examination",2017,2020
+"P_DXXFEM","Dual-Energy X-ray Absorptiometry - Femur","Examination",2017,2020
+"P_DXXSPN","Dual-Energy X-ray Absorptiometry - Spine","Examination",2017,2020
+"P_LUX","Liver Ultrasound Transient Elastography","Examination",2017,2020
+"P_OHXDEN","Oral Health - Dentition","Examination",2017,2020
+"P_OHXREF","Oral Health - Recommendation of Care","Examination",2017,2020
+"BAX_L","Balance","Examination",2021,2023
+"BMX_L","Body Measures","Examination",2021,2023
+"BPXO_L","Blood Pressure - Oscillometric Measurements","Examination",2021,2023
+"LUX_L","Liver Ultrasound Transient Elastography","Examination",2021,2023

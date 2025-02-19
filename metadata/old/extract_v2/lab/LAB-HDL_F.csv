@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"HDL_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"HDL_F","LBDHDD","LBDHDD","Direct HDL-Cholesterol (mg/dL)","Direct HDL-Cholesterol (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""11 to 179"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7846"", ""745""]; Cumulative=[""7846"", ""8591""]; Skip.to.Item=[""NA"", ""NA""]"
+"HDL_F","LBDHDDSI","LBDHDDSI","Direct HDL-Cholesterol (mmol/L)","Direct HDL-Cholesterol (mmol/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.28 to 4.63"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7846"", ""745""]; Cumulative=[""7846"", ""8591""]; Skip.to.Item=[""NA"", ""NA""]"

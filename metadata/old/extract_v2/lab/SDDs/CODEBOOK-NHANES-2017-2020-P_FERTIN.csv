@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,LBDFERSI,1.04 To 5190,Range Of Values,Ferritin (ug/L),Both males and females 1 YEARS - 5 YEARS,nan,,
+1,LBDFERSI,.,Missing,Ferritin (ug/L),Both males and females 1 YEARS - 5 YEARS,nan,,
+2,LBXFER,1.04 To 5190,Range Of Values,Ferritin (ng/mL),Both males and females 1 YEARS - 5 YEARS,nan,,
+3,LBXFER,.,Missing,Ferritin (ng/mL),Both males and females 1 YEARS - 5 YEARS,nan,,
+4,SEQN,,,Respondent sequence number,Both males and females 1 YEARS - 5 YEARS,nan,,

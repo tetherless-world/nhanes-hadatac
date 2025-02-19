@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,LBXTTG,1,Positive,Tissue transglutaminase(IgA-TTG),Both males and females 6 YEARS - 150 YEARS,nan,,
+2,LBXTTG,2,Negative,Tissue transglutaminase(IgA-TTG),Both males and females 6 YEARS - 150 YEARS,nan,,
+3,LBXTTG,3,Weakly Positive,Tissue transglutaminase(IgA-TTG),Both males and females 6 YEARS - 150 YEARS,nan,,
+4,LBXTTG,.,Missing,Tissue transglutaminase(IgA-TTG),Both males and females 6 YEARS - 150 YEARS,nan,,
+5,LBXEMA,1,Positive,Endomyseal antibody (IgA EMA),Both males and females 6 YEARS - 150 YEARS,nan,,
+6,LBXEMA,2,Negative,Endomyseal antibody (IgA EMA),Both males and females 6 YEARS - 150 YEARS,nan,,
+7,LBXEMA,3,Weakly Positive,Endomyseal antibody (IgA EMA),Both males and females 6 YEARS - 150 YEARS,nan,,
+8,LBXEMA,.,Missing,Endomyseal antibody (IgA EMA),Both males and females 6 YEARS - 150 YEARS,nan,,

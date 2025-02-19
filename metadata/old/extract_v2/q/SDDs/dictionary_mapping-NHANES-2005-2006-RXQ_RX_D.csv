@@ -1,0 +1,8 @@
+,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,,,,,,,,,,,,
+1,RXDUSE,,,,,,,,,,,,
+2,RXDDRUG,,,,,,,,,,,,
+3,RXDDRGID,,,,,,,,,,,,
+4,RXQSEEN,,,,,,,,,,,,
+5,RXDDAYS,,,,,,,,,,,,
+6,RXDCOUNT,,,,,,,,,,,,

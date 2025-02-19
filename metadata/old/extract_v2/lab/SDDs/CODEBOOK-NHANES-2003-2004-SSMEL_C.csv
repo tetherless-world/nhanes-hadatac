@@ -1,0 +1,8 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,WTSBMEL,46314.077999 To 2597028.8803,Range Of Values,Melamine Subsample Weight,Both males and females 6 YEARS - 150 YEARS,nan,,
+2,WTSBMEL,.,Missing,Melamine Subsample Weight,Both males and females 6 YEARS - 150 YEARS,nan,,
+3,SSMEL,0.04 To 160.47,Range Of Values,Melamine,Both males and females 6 YEARS - 150 YEARS,nan,,
+4,SSMEL,.,Missing,Melamine,Both males and females 6 YEARS - 150 YEARS,nan,,
+5,SSCYA,0.067034 To 294.910882,Range Of Values,Cyanuric acid,Both males and females 6 YEARS - 150 YEARS,nan,,
+6,SSCYA,.,Missing,Cyanuric acid,Both males and females 6 YEARS - 150 YEARS,nan,,

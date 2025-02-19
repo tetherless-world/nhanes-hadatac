@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,nan,,
+1,WTSAF2YR,0 To 337218.92,Range Of Values,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+2,WTSAF2YR,.,Missing,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+3,LBXTR,18 To 2742,Range Of Values,Triglyceride (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+4,LBXTR,.,Missing,Triglyceride (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+5,LBDTRSI,0.203 To 30.957,Range Of Values,Triglyceride (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+6,LBDTRSI,.,Missing,Triglyceride (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+7,LBDLDL,13 To 266,Range Of Values,LDL-cholesterol (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+8,LBDLDL,.,Missing,LDL-cholesterol (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
+9,LBDLDLSI,0.336 To 6.879,Range Of Values,LDL-cholesterol (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+10,LBDLDLSI,.,Missing,LDL-cholesterol (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,

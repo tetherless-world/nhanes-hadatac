@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"LAB09","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 14 YEARS - 49 YEARS",NA,NA
+"LAB09","LBXHE1","LBXHE1","Herpes I","Herpes I","Both males and females 14 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""2305"", ""1313"", ""10"", ""333""]; Cumulative=[""2305"", ""3618"", ""3628"", ""3961""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
+"LAB09","LBXHE2","LBXHE2","Herpes II","Herpes II","Both males and females 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""515"", ""2068"", ""19"", ""1359""]; Cumulative=[""515"", ""2583"", ""2602"", ""3961""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

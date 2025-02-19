@@ -1,0 +1,13 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 40 YEARS - 150 YEARS,nan,,
+1,DXXPRVFX,1,Yes,Previous self-reported fracture after age 20,Both males and females 40 YEARS - 150 YEARS,nan,,
+2,DXXPRVFX,2,No,Previous self-reported fracture after age 20,Both males and females 40 YEARS - 150 YEARS,nan,,
+3,DXXPRVFX,.,Missing,Previous self-reported fracture after age 20,Both males and females 40 YEARS - 150 YEARS,nan,,
+4,DXXFRAX1,0 To 53.08,Range Of Values,10-year hip fracture risk score assuming previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,
+5,DXXFRAX1,.,Missing,10-year hip fracture risk score assuming previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,
+6,DXXFRAX2,1.32 To 64.78,Range Of Values,10-year major osteoporotic fracture risk score assuming previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,
+7,DXXFRAX2,.,Missing,10-year major osteoporotic fracture risk score assuming previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,
+8,DXXFRAX3,0 To 29.03,Range Of Values,10-year hip fracture risk score assuming no previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,
+9,DXXFRAX3,.,Missing,10-year hip fracture risk score assuming no previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,
+10,DXXFRAX4,0.67 To 39.82,Range Of Values,10-year major osteoporotic fracture risk score assuming no previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,
+11,DXXFRAX4,.,Missing,10-year major osteoporotic fracture risk score assuming no previous fracture,Both males and females 40 YEARS - 150 YEARS,nan,,

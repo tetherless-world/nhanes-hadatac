@@ -1,0 +1,8 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,LBDHEG,1,Positive,Hepatitis E IgG antibody (IgG anti-HEV),Both males and females 6 YEARS - 150 YEARS,nan,,
+2,LBDHEG,2,Negative,Hepatitis E IgG antibody (IgG anti-HEV),Both males and females 6 YEARS - 150 YEARS,nan,,
+3,LBDHEG,.,Missing,Hepatitis E IgG antibody (IgG anti-HEV),Both males and females 6 YEARS - 150 YEARS,nan,,
+4,LBDHEM,1,Positive,Hepatitis E IgM antibody (IgM anti-HEV),Both males and females 6 YEARS - 150 YEARS,nan,,
+5,LBDHEM,2,Negative,Hepatitis E IgM antibody (IgM anti-HEV),Both males and females 6 YEARS - 150 YEARS,nan,,
+6,LBDHEM,.,Missing,Hepatitis E IgM antibody (IgM anti-HEV),Both males and females 6 YEARS - 150 YEARS,nan,,

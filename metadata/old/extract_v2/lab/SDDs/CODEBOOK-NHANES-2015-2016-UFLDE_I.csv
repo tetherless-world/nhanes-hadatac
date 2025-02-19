@@ -1,0 +1,7 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 19 YEARS,nan,,
+1,URXUFL,0.102 To 10.986,Range Of Values,Fluoride urine (mg/L),Both males and females 6 YEARS - 19 YEARS,nan,,
+2,URXUFL,.,Missing,Fluoride urine (mg/L),Both males and females 6 YEARS - 19 YEARS,nan,,
+3,URDUFLLC,0,At Or Above The Detection Limit,Fluoride urine comment code,Both males and females 6 YEARS - 19 YEARS,nan,,
+4,URDUFLLC,1,Below Lower Detection Limit,Fluoride urine comment code,Both males and females 6 YEARS - 19 YEARS,nan,,
+5,URDUFLLC,.,Missing,Fluoride urine comment code,Both males and females 6 YEARS - 19 YEARS,nan,,

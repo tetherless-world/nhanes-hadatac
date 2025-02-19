@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Females only 18 YEARS - 39 YEARS,nan,,
+1,SSCTEIA,0,Negative,Chlamydia Pgp3 ELISA,Females only 18 YEARS - 39 YEARS,nan,,
+2,SSCTEIA,1,Positive,Chlamydia Pgp3 ELISA,Females only 18 YEARS - 39 YEARS,nan,,
+3,SSCTEIA,.,Missing,Chlamydia Pgp3 ELISA,Females only 18 YEARS - 39 YEARS,nan,,
+4,SSCTMBA,0,Negative,Chlamydia Pgp3 MBA,Females only 18 YEARS - 39 YEARS,nan,,
+5,SSCTMBA,1,Positive,Chlamydia Pgp3 MBA,Females only 18 YEARS - 39 YEARS,nan,,
+6,SSCTMBA,.,Missing,Chlamydia Pgp3 MBA,Females only 18 YEARS - 39 YEARS,nan,,
+7,SSCTEIOD,-0.300607287 To 6.9448818898,Range Of Values,Chlamydia Pgp3 EIA Optical Density,Females only 18 YEARS - 39 YEARS,nan,,
+8,SSCTEIOD,.,Missing,Chlamydia Pgp3 EIA Optical Density,Females only 18 YEARS - 39 YEARS,nan,,
+9,SSCTMBFI,9 To 61120,Range Of Values,Chlamydia Ppg3 MBA medium fluorescence intensity,Females only 18 YEARS - 39 YEARS,nan,,
+10,SSCTMBFI,.,Missing,Chlamydia Ppg3 MBA medium fluorescence intensity,Females only 18 YEARS - 39 YEARS,nan,,

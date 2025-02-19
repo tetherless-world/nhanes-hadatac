@@ -1,0 +1,3 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"VID_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
+"VID_C","LBDVIDMS","LBDVIDMS","Vitamin D (nmol/L)","Vitamin D (nmol/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""9.1 to 198"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8294"", ""885""]; Cumulative=[""8294"", ""9179""]; Skip.to.Item=[""NA"", ""NA""]"

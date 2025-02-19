@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 18 YEARS - 150 YEARS,nan,,
+1,WTFSM,6426.907677 To 456840.9815,Range Of Values,Smoking weights,Both males and females 18 YEARS - 150 YEARS,nan,,
+2,WTFSM,0,No Lab Result,Smoking weights,Both males and females 18 YEARS - 150 YEARS,nan,,
+3,WTFSM,.,Missing,Smoking weights,Both males and females 18 YEARS - 150 YEARS,nan,,
+4,LBXFOR,12.3 To 236,Range Of Values,Formaldehyde (nmol/g HB),Both males and females 18 YEARS - 150 YEARS,nan,,
+5,LBXFOR,.,Missing,Formaldehyde (nmol/g HB),Both males and females 18 YEARS - 150 YEARS,nan,,
+6,LBDFORLC,0,At Or Above The Limit Of Detection,Formaldehyde comment code,Both males and females 18 YEARS - 150 YEARS,nan,,
+7,LBDFORLC,1,Below Limit Of Detection,Formaldehyde comment code,Both males and females 18 YEARS - 150 YEARS,nan,,
+8,LBDFORLC,.,Missing,Formaldehyde comment code,Both males and females 18 YEARS - 150 YEARS,nan,,

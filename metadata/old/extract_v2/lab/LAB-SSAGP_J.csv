@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"SSAGP_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 5 YEARS",NA,NA
+"SSAGP_J","WTSSGP2Y","WTSSGP2Y","Surplus specimen AGP 2 year weights","Surplus specimen Alpha-1-Acid Glycoprotein 2 year weights","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""0 to 352907.89666"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2750"", ""0""]; Cumulative=[""2750"", ""2750""]; Skip.to.Item=[""NA"", ""NA""]"
+"SSAGP_J","SSAGP","SSAGP","Alpha-1-Acid Glycoprotein (g/L)","Alpha-1-Acid Glycoprotein (g/L)","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""0.23 to 2.07"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1848"", ""902""]; Cumulative=[""1848"", ""2750""]; Skip.to.Item=[""NA"", ""NA""]"

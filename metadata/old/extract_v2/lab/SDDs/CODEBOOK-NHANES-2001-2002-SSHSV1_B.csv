@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 13 YEARS,nan,,
+1,WTSSHS2Y,3208.811958 To 181162.91641,Range Of Values,Surplus specimen SSHSV1 2 year weights,Both males and females 6 YEARS - 13 YEARS,nan,,
+2,WTSSHS2Y,0,No Lab Specimen,Surplus specimen SSHSV1 2 year weights,Both males and females 6 YEARS - 13 YEARS,nan,,
+3,WTSSHS2Y,.,Missing,Surplus specimen SSHSV1 2 year weights,Both males and females 6 YEARS - 13 YEARS,nan,,
+4,WTSSHS4Y,1424.99242 To 101997.91607,Range Of Values,Surplus specimen SSHSV1 4 year weights 99-02,Both males and females 6 YEARS - 13 YEARS,nan,,
+5,WTSSHS4Y,0,No Lab Specimen,Surplus specimen SSHSV1 4 year weights 99-02,Both males and females 6 YEARS - 13 YEARS,nan,,
+6,WTSSHS4Y,.,Missing,Surplus specimen SSHSV1 4 year weights 99-02,Both males and females 6 YEARS - 13 YEARS,nan,,
+7,SSXHE1,1,Positive,Herpes I antibody,Both males and females 6 YEARS - 13 YEARS,nan,,
+8,SSXHE1,2,Negative,Herpes I antibody,Both males and females 6 YEARS - 13 YEARS,nan,,
+9,SSXHE1,3,Indeterminate,Herpes I antibody,Both males and females 6 YEARS - 13 YEARS,nan,,
+10,SSXHE1,.,Missing,Herpes I antibody,Both males and females 6 YEARS - 13 YEARS,nan,,

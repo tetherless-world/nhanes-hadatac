@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 18 YEARS - 69 YEARS,nan,,
+1,SSHPTYPE,16 To 82,Range Of Values,Oral HPV type,Both males and females 18 YEARS - 69 YEARS,nan,,
+2,SSHPTYPE,.,Missing,Oral HPV type,Both males and females 18 YEARS - 69 YEARS,nan,,
+3,SSHPVLD,.,Missing,Oral HPV viral load,Both males and females 18 YEARS - 69 YEARS,nan,,
+4,SSHPVLD,0 To 1658424,Range Of Values,Oral HPV viral load,Both males and females 18 YEARS - 69 YEARS,nan,,
+5,SSHPVCEL,1133 To 3355392,Range Of Values,Oral HPV Cell Number,Both males and females 18 YEARS - 69 YEARS,nan,,
+6,SSHPVCEL,.,Missing,Oral HPV Cell Number,Both males and females 18 YEARS - 69 YEARS,nan,,
+7,SSHPVNLD,0 To 1842092,Range Of Values,Oral HPV normal viral load,Both males and females 18 YEARS - 69 YEARS,nan,,
+8,SSHPVNLD,.,Missing,Oral HPV normal viral load,Both males and females 18 YEARS - 69 YEARS,nan,,

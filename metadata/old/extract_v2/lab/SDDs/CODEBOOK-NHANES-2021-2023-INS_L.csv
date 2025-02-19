@@ -1,0 +1,12 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,nan,,
+1,WTSAF2YR,11459.183689 To 561922.42956,Range Of Values,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+2,WTSAF2YR,0,No Lab Result Or Not Fasting For 8 To <24 Hours,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+3,WTSAF2YR,.,Missing,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+4,LBXIN,0.35 To 699.9,Range Of Values,Insulin (uU/mL),Both males and females 12 YEARS - 150 YEARS,nan,,
+5,LBXIN,.,Missing,Insulin (uU/mL),Both males and females 12 YEARS - 150 YEARS,nan,,
+6,LBDINSI,2.1 To 4199.4,Range Of Values,Insulin (pmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+7,LBDINSI,.,Missing,Insulin (pmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+8,LBDINLC,0,Detectable Result,Insulin Comment Code,Both males and females 12 YEARS - 150 YEARS,nan,,
+9,LBDINLC,1,Below Detectable Limit,Insulin Comment Code,Both males and females 12 YEARS - 150 YEARS,nan,,
+10,LBDINLC,.,Missing,Insulin Comment Code,Both males and females 12 YEARS - 150 YEARS,nan,,

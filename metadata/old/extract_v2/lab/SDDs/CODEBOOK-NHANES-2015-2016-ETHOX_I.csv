@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,nan,,
+1,WTSA2YR,16357.767797 To 708844.24678,Range Of Values,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,nan,,
+2,WTSA2YR,0,No Lab Result,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,nan,,
+3,WTSA2YR,.,Missing,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,nan,,
+4,LBXEOA,5.8 To 1113.8,Range Of Values,Ethylene Oxide (pmol/g Hb),Both males and females 6 YEARS - 150 YEARS,nan,,
+5,LBXEOA,.,Missing,Ethylene Oxide (pmol/g Hb),Both males and females 6 YEARS - 150 YEARS,nan,,
+6,LBDEOALC,0,Detectable Result,Ethylene Oxide comment code,Both males and females 6 YEARS - 150 YEARS,nan,,
+7,LBDEOALC,1,Below Detectable Limit,Ethylene Oxide comment code,Both males and females 6 YEARS - 150 YEARS,nan,,
+8,LBDEOALC,.,Missing,Ethylene Oxide comment code,Both males and females 6 YEARS - 150 YEARS,nan,,

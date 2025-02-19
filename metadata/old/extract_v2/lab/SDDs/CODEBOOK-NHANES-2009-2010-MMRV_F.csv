@@ -1,0 +1,11 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,nan,,
+1,LBXMEA,0.028 To 9.71,Range Of Values,Measles antibody (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+2,LBXMEA,.,Missing,Measles antibody (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+3,LBXMUM,0.09 To 8.091,Range Of Values,Mumps antibody (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+4,LBXMUM,.,Missing,Mumps antibody (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+5,LBXRUB,0.007 To 6.82,Range Of Values,Rubella antibody (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+6,LBXRUB,.,Missing,Rubella antibody (IgG),Both males and females 6 YEARS - 49 YEARS,nan,,
+7,LBDVWCGP,1,Positive,Varicella antibody confirmed,Both males and females 6 YEARS - 49 YEARS,nan,,
+8,LBDVWCGP,2,Negative,Varicella antibody confirmed,Both males and females 6 YEARS - 49 YEARS,nan,,
+9,LBDVWCGP,.,Missing,Varicella antibody confirmed,Both males and females 6 YEARS - 49 YEARS,nan,,

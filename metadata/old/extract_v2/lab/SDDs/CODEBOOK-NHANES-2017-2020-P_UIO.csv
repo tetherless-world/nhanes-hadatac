@@ -1,0 +1,10 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number,Both males and females 3 YEARS - 150 YEARS,nan,,
+1,URDUIOLC,0,At Or Above Detection Limit,Iodine urine comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+2,URDUIOLC,1,Below Lower Detection Limit,Iodine urine comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+3,URDUIOLC,.,Missing,Iodine urine comment code,Both males and females 3 YEARS - 150 YEARS,nan,,
+4,URXUIO,2.6 To 24623.7,Range Of Values,Iodine urine (ug/L),Both males and females 3 YEARS - 150 YEARS,nan,,
+5,URXUIO,.,Missing,Iodine urine (ug/L),Both males and females 3 YEARS - 150 YEARS,nan,,
+6,WTSAPRP,2395.195359 To 955677.30961,Range Of Values,Subsample A Weights Pre-Pandemic,Both males and females 3 YEARS - 150 YEARS,nan,,
+7,WTSAPRP,0,No Lab Specimen,Subsample A Weights Pre-Pandemic,Both males and females 3 YEARS - 150 YEARS,nan,,
+8,WTSAPRP,.,Missing,Subsample A Weights Pre-Pandemic,Both males and females 3 YEARS - 150 YEARS,nan,,

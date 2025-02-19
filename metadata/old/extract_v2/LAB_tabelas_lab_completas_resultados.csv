@@ -1,0 +1,750 @@
+"Data.File.Name","Data.File.Description","Component","Begin.Year","EndYear"
+"L02HBS","Hepatitis B Surface Antibody","Laboratory",1999,2000
+"L02HPA_A","Hepatitis A Antibody","Laboratory",1999,2000
+"LAB02","Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody","Laboratory",1999,2000
+"LAB03","HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells","Laboratory",1999,2000
+"LAB04","Volatile Organic Compounds - Blood & Water","Laboratory",1999,2000
+"LAB05","Chlamydia & Gonorrhea - Urine","Laboratory",1999,2000
+"LAB06","Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries","Laboratory",1999,2000
+"LAB06HM","Metals - Urine","Laboratory",1999,2000
+"LAB07","Latex","Laboratory",1999,2000
+"LAB09","Herpes Simplex Virus Type-1 & Type-2","Laboratory",1999,2000
+"LAB10","Glycohemoglobin","Laboratory",1999,2000
+"LAB10AM","Plasma Fasting Glucose, Serum C-peptide & Insulin","Laboratory",1999,2000
+"LAB11","C-Reactive Protein (CRP)","Laboratory",1999,2000
+"LAB13","Cholesterol - Total & HDL","Laboratory",1999,2000
+"LAB13AM","Cholesterol - LDL & Triglycerides","Laboratory",1999,2000
+"LAB16","Albumin & Creatinine - Urine","Laboratory",1999,2000
+"LAB17","Cryptosporidum & Toxoplasma","Laboratory",1999,2000
+"LAB18","Standard Biochemistry Profile & Hormones","Laboratory",1999,2000
+"LAB18T4","Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)","Laboratory",1999,2000
+"LAB19","Measles, Rubella, & Varicella","Laboratory",1999,2000
+"LAB20","Lead - Dust","Laboratory",1999,2000
+"LAB21","Volatile Organic Compounds (VOC) - Personal Exposure Badge","Laboratory",1999,2000
+"LAB22","Mercury - Hair","Laboratory",1999,2000
+"LAB25","Complete Blood Count with 5-part Differential - Whole Blood","Laboratory",1999,2000
+"LAB26PP","Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)","Laboratory",1999,2000
+"LAB28POC","Dioxins, Furans, & Coplanar PCBs","Laboratory",1999,2000
+"PH","Fasting Questionnaire","Laboratory",1999,2000
+"PHPYPA","Phthalates, Phytoestrogens & PAHs - Urine PHPYPA Urinary Phthalates","Laboratory",1999,2000
+"SSAFB_A","Aflatoxin B1-lysine - Serum (Surplus)","Laboratory",1999,2000
+"SSAMH_A","Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)","Laboratory",1999,2000
+"SSANA_A","Autoantibodies - Immunofluorescence & Immunoprecipitation Analyses (Surplus)","Laboratory",1999,2004
+"SSANA2_A","Autoantibodies - Immunofluorescence Analyses (Surplus)","Laboratory",1999,2004
+"SSBNP_A","N-terminal Pro-BNP (Surplus)","Laboratory",1999,2004
+"SSCARD_A","Glycated albumin, Beta-2 Microglobulin, Cystatin C (Surplus)","Laboratory",1999,2004
+"SSCHL_A","Sex Steroid Hormone - Men (Surplus)","Laboratory",1999,2000
+"SSCMV_A","Cytomegalovirus Antibodies - Serum (Surplus)","Laboratory",1999,2000
+"SSCMVG_A","Cytomegalovirus Genotypes - Urine (Surplus)","Laboratory",1999,2004
+"SSCYST_A","Cystatin C - Serum (Surplus)","Laboratory",1999,2000
+"SSDFS_A","Autoantibodies - Anti-DFS70 Autoantibody Analyses (Surplus)","Laboratory",1999,2004
+"SSFOL_A","Folic Acid - Unmetabolized (Surplus)","Laboratory",1999,2000
+"SSHSV1_A","Herpes Simplex Virus Type-1 (Surplus)","Laboratory",1999,2000
+"SSMUMP_A","Mumps Antibody - Serum (Surplus)","Laboratory",1999,2000
+"SSNORO_A","Norovirus antibody - Serum","Laboratory",1999,2000
+"SSOL_A","Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)","Laboratory",1999,2000
+"SSPFC_A","Perfluoroalkyl Chemicals - Serum (Surplus)","Laboratory",1999,2000
+"SSTFR_A","Transferrin Receptor - Pregnant Women (Surplus)","Laboratory",1999,2000
+"SSTROP_A","High-sensitivity cardiac troponins (Surplus)","Laboratory",1999,2004
+"SSUCSH_A","Cytomegalovirus shedding - Urine (Surplus)","Laboratory",1999,2004
+"SSVARI_A","Varicella-Zoster Virus Antibody (Surplus)","Laboratory",1999,2000
+"TELO_A","Telomere Mean and Standard Deviation (Surplus)","Laboratory",1999,2000
+"TFA_A","Trans Fatty Acids","Laboratory",1999,2000
+"UC","Pregnancy Test - Urine","Laboratory",1999,2000
+"L02_B","Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody","Laboratory",2001,2002
+"L02HBS_B","Hepatitis B Surface Antibody","Laboratory",2001,2002
+"L02HPA_B","Hepatitis A Antibody","Laboratory",2001,2002
+"L03_B","HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells","Laboratory",2001,2002
+"L04VOC_B","Volatile Organic Compounds - Blood & Water","Laboratory",2001,2002
+"L05_B","Chlamydia & Gonorrhea - Urine","Laboratory",2001,2002
+"L06_2_B","Cadmium, Lead, Total Mercury, Ferritin, Serum Folate, RBC Folate, Vitamin B12, Homocysteine, Methylmalonic acid, Cotinine - Blood, Second Exam","Laboratory",2001,2002
+"L06_B","Cadmium, Lead, Mercury, Cotinine & Nutritional Biochemistries","Laboratory",2001,2002
+"L06HM_B","Metals - Urine","Laboratory",2001,2002
+"L06UIO_B","Iodine - Urine","Laboratory",2001,2002
+"L06VIT_B","Vitamin A, Vitamin E & Carotenoids","Laboratory",2001,2002
+"L09_B","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2001,2002
+"L10_2_B","Glycohemoglobin, Plasma Glucose, Serum C-peptide, & Insulin, Second Exam","Laboratory",2001,2002
+"L10_B","Glycohemoglobin","Laboratory",2001,2002
+"L10AM_B","Plasma Fasting Glucose, Serum C-peptide & Insulin","Laboratory",2001,2002
+"L11_2_B","C-Reactive Protein & Others, Second Exam","Laboratory",2001,2002
+"L11_B","C-Reactive protein (CRP), Fibrinogen, Bone Alkaline Phosphatase & Urinary N-telopeptides","Laboratory",2001,2002
+"L11P_2_B","Prostate-specific Antigen (PSA), Second Exam","Laboratory",2001,2002
+"L11PSA_B","Prostate specific antigen (PSA)","Laboratory",2001,2002
+"L13_2_B","Cholesterol - Total, HDL, LDL  & Triglycerides, Second Exam","Laboratory",2001,2002
+"L13_B","Cholesterol - Total & HDL","Laboratory",2001,2002
+"L13AM_B","Cholesterol - LDL & Triglycerides","Laboratory",2001,2002
+"L16_2_B","Creatinine & Albumin - Urine, Second Exam","Laboratory",2001,2002
+"L16_B","Albumin & Creatinine - Urine","Laboratory",2001,2002
+"L17_B","Toxoplasma (IgG), Toxoplasma (IgM),Toxoplasma (Dye),Toxoplasma Differential Agglutination, & Toxoplasma (Avidity)","Laboratory",2001,2002
+"L19_2_B","Measles, Rubella, & Varicella, Second Exam","Laboratory",2001,2002
+"L19_B","Measles, Rubella, & Varicella","Laboratory",2001,2002
+"L20_B","Lead - Dust","Laboratory",2001,2002
+"L25_2_B","Complete Blood Count with 5-part Differential - Whole Blood, Second Exam","Laboratory",2001,2002
+"L25_B","Complete Blood Count with 5-part Differential - Whole Blood","Laboratory",2001,2002
+"L26PP_B","Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)","Laboratory",2001,2002
+"L28POC_B","Dioxins, Furans, & Coplanar PCBs","Laboratory",2001,2002
+"L34_B","Bacterial vaginosis (BV) & Trichomonas vaginalis","Laboratory",2001,2002
+"L35_B","Methicillin - Resistant Staphylococcus aureus (MRSA)","Laboratory",2001,2002
+"L36_B","Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)","Laboratory",2001,2002
+"L39_2_B","Erythrocyte Protoporphyrin","Laboratory",2001,2002
+"L39_B","Erythrocyte Protoporphyrin","Laboratory",2001,2002
+"L40_2_B","Standard Biochemistry Profile, Follicle Stimulating Hormone & Luteinizing Hormone, Second Exam","Laboratory",2001,2002
+"L40_B","Standard Biochemistry Profile","Laboratory",2001,2002
+"L40FE_B","Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation","Laboratory",2001,2002
+"L40T4_B","Thyroid - Stimulating Hormone & Thyroxine (TSH & T4)","Laboratory",2001,2002
+"PFC_POOL","Polyfluoroalkyl Chemicals - Pooled Samples (Surplus)","Laboratory",2001,2002
+"PH_B","Fasting Questionnaire","Laboratory",2001,2002
+"PHPYPA_B","Phthalates, Phytoestrogens & PAHs - Urine","Laboratory",2001,2002
+"SSAMH_B","Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)","Laboratory",2001,2002
+"SSBFR_B","Brominated Flame Retardants (BFRs) - Pooled Samples (Surplus)","Laboratory",2001,2002
+"SSCA_B","Cancer antigen CA125 and CA15.3 - Serum (Surplus)","Laboratory",2001,2002
+"SSCGA_B","Cancer antigen CA125, CA15.3 and HE4 IgG antibodies - Serum (Surplus)","Laboratory",2001,2002
+"SSCHL_B","Sex Steroid Hormone - Men (Surplus)","Laboratory",2001,2002
+"SSCMV_B","Cytomegalovirus Antibodies - Serum (Surplus)","Laboratory",2001,2002
+"SSCYST_B","Cystatin C (Surplus)","Laboratory",2001,2002
+"SSHE4_B","Human epididymal secretory protein E4 (HE4) - Serum (Surplus)","Laboratory",2001,2002
+"SSHSV1_B","Herpes Simplex Virus Type-1 (Surplus)","Laboratory",2001,2002
+"SSMUMP_B","Mumps Antibody - Serum (Surplus)","Laboratory",2001,2002
+"SSNH4THY","Thyroid Profile (Surplus)","Laboratory",2001,2002
+"SSNO3P_B","Perchlorate, Nitrate & Thiocyanate - Urine (Surplus)","Laboratory",2001,2002
+"SSOL_B","Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)","Laboratory",2001,2002
+"SSPCB_B","Non-dioxin-like Polychlorinated Biphenyls - Pooled Samples (Surplus Sera)","Laboratory",2001,2002
+"SSPST_B","Pesticides - Organochlorine Metabolites - Serum - Pooled Samples (Surplus)","Laboratory",2001,2002
+"SSTFR_B","Transferrin Receptor - Pregnant Women (Surplus)","Laboratory",2001,2002
+"SSVARI_B","Varicella-Zoster Virus Antibody (Surplus)","Laboratory",2001,2002
+"TELO_B","Telomere Mean and Standard Deviation (Surplus)","Laboratory",2001,2002
+"UC_B","Pregnancy Test - Urine","Laboratory",2001,2002
+"VID_B","Vitamin D","Laboratory",2001,2002
+"VIT_2_B","Vitamin A, Vitamin E, & Carotenoids, Second Exam","Laboratory",2001,2002
+"L02_C","Hepatitis B: Core Antibody & Surface Antigen; Hepatitis C: Confirmed Antibody & RNA (HCV-RNA); Hepatitis D Antibody","Laboratory",2003,2004
+"L02HBS_C","Hepatitis B Surface Antibody","Laboratory",2003,2004
+"L02HPA_C","Hepatitis A Antibody","Laboratory",2003,2004
+"L03_C","HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells","Laboratory",2003,2004
+"L04PER_C","Perchlorate - Urine","Laboratory",2003,2004
+"L04VOC_C","Volatile Organic Compounds - Blood, Water, & Related Questionnaire Items","Laboratory",2003,2004
+"L05_C","Chlamydia & Gonorrhea - Urine","Laboratory",2003,2004
+"L06AGE_C","Acrylamide & Glycidamide","Laboratory",2003,2004
+"L06BMT_C","Cadmium, Lead, & Total Mercury - Blood","Laboratory",2003,2004
+"L06COT_C","Cotinine - Serum","Laboratory",2003,2004
+"L06HM_C","Metals - Urine","Laboratory",2003,2004
+"L06MH_C","Methylmalonic acid & Homocysteine","Laboratory",2003,2004
+"L06NB_C","Folate - RBC & Serum, and Vitamin B12","Laboratory",2003,2004
+"L06PHY_C","Phytoestrogens - Urine","Laboratory",2003,2004
+"L06TFR_C","Ferritin & Transferrin Receptor","Laboratory",2003,2004
+"L06UAS_C","Arsenics - Total & Speciated - Urine","Laboratory",2003,2004
+"L06UHG_C","Mercury: Inorganic - Urine","Laboratory",2003,2004
+"L06UIO_C","Iodine - Urine","Laboratory",2003,2004
+"L06VIT_C","Vitamin C","Laboratory",2003,2004
+"L09_C","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2003,2004
+"L10_C","Glycohemoglobin","Laboratory",2003,2004
+"L10AM_C","Plasma Fasting Glucose, Serum C-peptide & Insulin","Laboratory",2003,2004
+"L11_C","C-Reactive Protein (CRP), Bone Alkaline Phosphatase (BAP) & Parathyroid Hormone (PTH)","Laboratory",2003,2004
+"L11PSA_C","Prostate Specific Antigen (PSA)","Laboratory",2003,2004
+"L13_C","Cholesterol - Total & HDL","Laboratory",2003,2004
+"L13AM_C","Cholesterol - LDL & Triglycerides","Laboratory",2003,2004
+"L16_C","Albumin & Creatinine - Urine","Laboratory",2003,2004
+"L17_C","Toxoplasma (IgG) & Toxoplasma (IgM)","Laboratory",2003,2004
+"L19_C","Measles, Rubella, & Varicella","Laboratory",2003,2004
+"L20_C","Lead - Dust","Laboratory",2003,2004
+"L24EPH_C","Environmental Phenols","Laboratory",2003,2004
+"L24PFC_C","Polyfluoroalkyl Chemicals","Laboratory",2003,2004
+"L24PH_C","Phthalates - Urine","Laboratory",2003,2004
+"L24PP_C","Pesticides - Environmental - Urine","Laboratory",2003,2004
+"L25_C","Complete Blood Count with 5-part Differential - Whole Blood","Laboratory",2003,2004
+"L26OPD_C","Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine","Laboratory",2003,2004
+"L26UPP_C","Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)","Laboratory",2003,2004
+"L28DFP_C","Dioxins, Furans, & Coplanar PCBs","Laboratory",2003,2004
+"L28NPB_C","Non-dioxin-like Polychlorinated Biphenyls","Laboratory",2003,2004
+"L28OCP_C","Pesticides - Organochlorine Metabolites - Serum (Surplus)","Laboratory",2003,2004
+"L28PBE_C","Brominated Flame Retardants (BFRs)","Laboratory",2003,2004
+"L31PAH_C","Polyaromatic Hydrocarbons (PAHs) - Urine","Laboratory",2003,2004
+"L34_C","Bacterial vaginosis (BV) & Trichomonas vaginalis","Laboratory",2003,2004
+"L35_C","Methicillin - Resistant Staphylococcus aureus (MRSA)","Laboratory",2003,2004
+"L36_C","Syphilis-IgG, Syphilis Rapid Plasma Reagin (RPR) & Treponema pallidum Particle Agglutination (TP-PA)","Laboratory",2003,2004
+"L37SWA_C","Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Prototype Line Blot Assay","Laboratory",2003,2004
+"L37SWR_C","Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array","Laboratory",2003,2004
+"L39EPP_C","Erythrocyte Protoporphyrin & Selenium","Laboratory",2003,2004
+"L40_C","Standard Biochemistry Profile","Laboratory",2003,2004
+"L40FE_C","Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation","Laboratory",2003,2004
+"L43_C","Vitamin B6","Laboratory",2003,2004
+"L45VIT_C","Vitamin A, Vitamin E & Carotenoids","Laboratory",2003,2004
+"L52SER_C","Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum: 4-plex CLIA","Laboratory",2003,2004
+"PH_C","Fasting Questionnaire","Laboratory",2003,2004
+"SSAMH_C","Anti-Mullerian Hormone (AMH) & Inhibin-B (Surplus)","Laboratory",2003,2004
+"SSCHL_C","Sex Steroid Hormone - Men (Surplus)","Laboratory",2003,2004
+"SSCMV_C","Cytomegalovirus Antibodies - Serum (Surplus)","Laboratory",2003,2004
+"SSEBV_C","Epstein-Barr Virus (VCA IgG) - Serum (Surplus)","Laboratory",2003,2004
+"SSFA_C","Fatty Acids - Plasma (Surplus)","Laboratory",2003,2004
+"SSHCVR_C","Hepatitis C RNA (HCV-RNA) & HCV Genotype (Surplus)","Laboratory",2003,2004
+"SSMEL_C","Melamine - Urine (Surplus)","Laboratory",2003,2004
+"SSMUMP_C","Mumps Antibody - Serum (Surplus)","Laboratory",2003,2004
+"SSNORO_C","Norovirus antibody - Serum","Laboratory",2003,2004
+"SSOL_C","Monoclonal gammopathy of undetermined significance (MGUS) (Surplus)","Laboratory",2003,2004
+"SSQFEV_C","Coxiella Burnetii (Q Fever) Antibodies - Serum (Surplus)","Laboratory",2003,2004
+"SSVARI_C","Varicella-Zoster Virus Antibody (Surplus)","Laboratory",2003,2004
+"UC_C","Pregnancy Test - Urine","Laboratory",2003,2004
+"VID_C","Vitamin D","Laboratory",2003,2004
+"AL_IGE_D","Allergen Specific IgE(s) & Total IgE - Serum","Laboratory",2005,2006
+"ALB_CR_D","Albumin & Creatinine - Urine","Laboratory",2005,2006
+"ALDUST_D","Allergens - Household Dust","Laboratory",2005,2006
+"AMDGYD_D","Acrylamide & Glycidamide","Laboratory",2005,2006
+"B12_D","Vitamin B12","Laboratory",2005,2006
+"BFRPOL_D","Brominated Flame Retardants (BFRs) - Pooled Samples","Laboratory",2005,2006
+"BIOPRO_D","Standard Biochemistry Profile","Laboratory",2005,2006
+"CARB_D","Pesticides - Carbamates & Organophosphorus Metabolites - Urine","Laboratory",2005,2006
+"CBC_D","Complete Blood Count with 5-Part Differential - Whole Blood","Laboratory",2005,2006
+"CHLMDA_D","Chlamydia & Gonorrhea - Urine","Laboratory",2005,2006
+"COT_D","Cotinine - Serum","Laboratory",2005,2006
+"CRP_D","C-Reactive Protein (CRP)","Laboratory",2005,2006
+"DOXPOL_D","Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs)  - Pooled Samples","Laboratory",2005,2006
+"EPH_D","Environmental Phenols & Parabens","Laboratory",2005,2006
+"EPP_D","Erythrocyte Protoporphyrin","Laboratory",2005,2006
+"FASTQX_D","Fasting Questionnaire","Laboratory",2005,2006
+"FERTIN_D","Ferritin","Laboratory",2005,2006
+"FETIB_D","Iron, Total Iron Binding Capacity (TIBC), & Transferrin Saturation","Laboratory",2005,2006
+"FOLATE_D","Folate - RBC & Serum","Laboratory",2005,2006
+"GHB_D","Glycohemoglobin","Laboratory",2005,2006
+"GLU_D","Plasma Fasting Glucose & Insulin","Laboratory",2005,2006
+"HCY_D","Homocysteine","Laboratory",2005,2006
+"HDL_D","Cholesterol - HDL","Laboratory",2005,2006
+"HEPA_D","Hepatitis A Antibody","Laboratory",2005,2006
+"HEPB_S_D","Hepatitis B Surface Antibody","Laboratory",2005,2006
+"HEPBD_D","Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody","Laboratory",2005,2006
+"HEPC_D","Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype","Laboratory",2005,2006
+"HIV_D","HIV Antibody Test, CD4+ T Lymphocytes & CD8+ T Cells","Laboratory",2005,2006
+"HPVSER_D","Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA","Laboratory",2005,2006
+"HPVSRM_D","Human Papillomavirus (HPV) - Multiplexed 6, 11, 16, 18, 31, 33, 45, 52 & 58 Antibody – Serum: 9-plex CLIA","Laboratory",2005,2006
+"HPVSWR_D","Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array","Laboratory",2005,2006
+"HSV_D","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2005,2006
+"IHG_D","Mercury: Inorganic - Blood","Laboratory",2005,2006
+"OGTT_D","Oral Glucose Tolerance Test","Laboratory",2005,2006
+"OPD_D","Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine","Laboratory",2005,2006
+"PAH_D","Polyaromatic Hydrocarbons (PAHs) - Urine","Laboratory",2005,2006
+"PBCD_D","Cadmium, Lead, & Total Mercury - Blood","Laboratory",2005,2006
+"PCBPOL_D","Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples","Laboratory",2005,2006
+"PERNT_D","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2005,2006
+"PFC_D","Polyfluoroalkyl Chemicals","Laboratory",2005,2006
+"PHTHTE_D","Phthalates - Urine","Laboratory",2005,2006
+"PHYTO_D","Phytoestrogens - Urine","Laboratory",2005,2006
+"POOLTF_D","Pooled-Sample Technical Support File","Laboratory",2005,2006
+"PP_D","Pesticides - Environmental - Urine","Laboratory",2005,2006
+"PSA_D","Prostate Specific Antigen (PSA)","Laboratory",2005,2006
+"PSTPOL_D","Pesticides - Organochlorine Pesticides - Pooled Samples","Laboratory",2005,2006
+"PTH_D","Parathyroid Hormone","Laboratory",2005,2006
+"SSEBV_D","Epstein-Barr Virus (VCA IgG) - Serum (Surplus)","Laboratory",2005,2006
+"SSSAL_D","Salmonella & Campylobacter Antibodies (Surplus)","Laboratory",2005,2006
+"SSUVOC_D","Volatile Organic Compound (VOC) Metabolites - Urine (Surplus)","Laboratory",2005,2006
+"TCHOL_D","Cholesterol - Total","Laboratory",2005,2006
+"TFR_D","Transferrin Receptor","Laboratory",2005,2006
+"TRIGLY_D","Cholesterol - LDL, Triglyceride & Apoliprotein (ApoB)","Laboratory",2005,2006
+"UAS_D","Arsenics - Total & Speciated - Urine","Laboratory",2005,2006
+"UCPREG_D","Pregnancy Test - Urine","Laboratory",2005,2006
+"UHG_D","Mercury: Inorganic - Urine","Laboratory",2005,2006
+"UHM_D","Metals - Urine","Laboratory",2005,2006
+"UIO_D","Iodine - Urine","Laboratory",2005,2006
+"UPP_D","Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)","Laboratory",2005,2006
+"VIC_D","Vitamin C","Laboratory",2005,2006
+"VID_D","Vitamin D","Laboratory",2005,2006
+"VIT_B6_D","Vitamin B6","Laboratory",2005,2006
+"VITAEC_D","Vitamin A, Vitamin E & Carotenoids","Laboratory",2005,2006
+"VOC_D","Volatile Organic Compounds - Water & Related Questionnaire Items","Laboratory",2005,2006
+"VOCWB_D","Volatile Organic Compounds - Blood & Related Questionnaire Items","Laboratory",2005,2006
+"WPIN_D","Perchlorate, Nitrate & Iodide - Tap Water","Laboratory",2005,2006
+"ALB_CR_E","Albumin & Creatinine - Urine","Laboratory",2007,2008
+"APOB_E","Apolipoprotein B","Laboratory",2007,2008
+"BFRPOL_E","Brominated Flame Retardants (BFRs) - Pooled Samples","Laboratory",2007,2008
+"BIOPRO_E","Standard Biochemistry Profile","Laboratory",2007,2008
+"CARB_E","Pesticides - Carbamates & Organophosphorus Metabolites - Urine","Laboratory",2007,2008
+"CBC_E","Complete Blood Count with 5-part Differential - Whole Blood","Laboratory",2007,2008
+"CHLMDA_E","Chlamydia & Gonorrhea - Urine","Laboratory",2007,2008
+"COTNAL_E","Cotinine - Serum & Total NNAL - Urine","Laboratory",2007,2008
+"CRP_E","C-Reactive Protein (CRP)","Laboratory",2007,2008
+"DEET_E","DEET and Metabolites","Laboratory",2007,2008
+"DOXPOL_E","Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples","Laboratory",2007,2008
+"EPH_E","Environmental Phenols","Laboratory",2007,2008
+"FASTQX_E","Fasting Questionnaire","Laboratory",2007,2008
+"FERTIN_E","Ferritin","Laboratory",2007,2008
+"FOLATE_E","Folate - RBC & Serum","Laboratory",2007,2008
+"FOLFMS_E","Folate Forms - Individual - Serum","Laboratory",2007,2008
+"GHB_E","Glycohemoglobin","Laboratory",2007,2008
+"GLU_E","Plasma Fasting Glucose & Insulin","Laboratory",2007,2008
+"HDL_E","Cholesterol - HDL","Laboratory",2007,2008
+"HEPA_E","Hepatitis A Antibody","Laboratory",2007,2008
+"HEPB_S_E","Hepatitis B Surface Antibody","Laboratory",2007,2008
+"HEPBD_E","Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody","Laboratory",2007,2008
+"HEPC_E","Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype","Laboratory",2007,2008
+"HIV_E","HIV Antibody Test","Laboratory",2007,2008
+"HPVSER_E","Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody – Serum: 4-plex CLIA","Laboratory",2007,2008
+"HPVSWR_E","Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array","Laboratory",2007,2008
+"HSV_E","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2007,2008
+"IHG_E","Mercury: Inorganic - Blood","Laboratory",2007,2008
+"OGTT_E","Oral Glucose Tolerance Test","Laboratory",2007,2008
+"OPD_E","Organophosphate Insecticides - Diakyl Phosphate Metabolites - Urine","Laboratory",2007,2008
+"PAH_E","Polyaromatic Hydrocarbons (PAHs) - Urine","Laboratory",2007,2008
+"PBCD_E","Cadmium, Lead, & Total Mercury - Blood","Laboratory",2007,2008
+"PCBPOL_E","Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples","Laboratory",2007,2008
+"PERNT_E","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2007,2008
+"PFC_E","Polyfluoroalkyl Chemicals","Laboratory",2007,2008
+"PHTHTE_E","Phthalates - Urine","Laboratory",2007,2008
+"PHYTO_E","Phytoestrogens - Urine","Laboratory",2007,2008
+"POOLTF_E","Pooled-Sample Technical Support File","Laboratory",2007,2008
+"PP_E","Pesticides - Environmental - Urine","Laboratory",2007,2008
+"PSA_E","Prostate Specific Antigen (PSA)","Laboratory",2007,2008
+"PSTPOL_E","Pesticides - Organochlorine Pesticides - Pooled Samples","Laboratory",2007,2008
+"SSEBV_E","Epstein-Barr Virus (VCA IgG) - Serum (Surplus)","Laboratory",2007,2008
+"SSHCV_E","Hepatitis C Antibody Reflex Testing - Serum (Surplus)","Laboratory",2007,2012
+"SSKL_E","Klotho - Serum (Surplus)","Laboratory",2007,2008
+"SSUSG_E","Urine Specific Gravity Measurement (Surplus)","Laboratory",2007,2008
+"TCHOL_E","Cholesterol - Total","Laboratory",2007,2008
+"TFR_E","Transferrin Receptor","Laboratory",2007,2008
+"THYROD_E","Thyroid Profile","Laboratory",2007,2008
+"TRIGLY_E","Cholesterol - LDL & Triglycerides","Laboratory",2007,2008
+"UAM_E","Atrazine and Metabolites","Laboratory",2007,2008
+"UAS_E","Arsenics - Total & Speciated - Urine","Laboratory",2007,2008
+"UCPREG_E","Pregnancy Test - Urine","Laboratory",2007,2008
+"UHG_E","Mercury: Inorganic - Urine","Laboratory",2007,2008
+"UHM_E","Metals - Urine","Laboratory",2007,2008
+"UIO_E","Iodine - Urine","Laboratory",2007,2008
+"UPHOPM_E","Pyrethroids, Herbicides, & OP Metabolites - Urine","Laboratory",2007,2008
+"UPP_E","Pesticides - Current Use - Urine (Formerly Priority Pesticides, Non-persistent Pesticide Metabolites)","Laboratory",2007,2008
+"VID_E","Vitamin D","Laboratory",2007,2008
+"VIT_B6_E","Vitamin B6","Laboratory",2007,2008
+"VOC_E","Volatile Organic Compounds - Water & Related Questionnaire Items","Laboratory",2007,2008
+"VOCMWB_E","Volatile Organic Compounds - Trihalomethanes/MTBE/Nitromethane - Blood","Laboratory",2007,2008
+"VOCWB_E","Volatile Organic Compounds - Blood & Related Questionnaire Items","Laboratory",2007,2008
+"ALB_CR_F","Albumin & Creatinine - Urine","Laboratory",2009,2010
+"APOB_F","Apolipoprotein B","Laboratory",2009,2010
+"BFRPOL_F","Brominated Flame Retardants (BFRs) - Pooled Samples","Laboratory",2009,2010
+"BIOPRO_F","Standard Biochemistry Profile","Laboratory",2009,2010
+"CAFE_F","Caffeine & Caffeine Metabolites - Urine","Laboratory",2009,2010
+"CBC_F","Complete Blood Count with 5-part Differential - Whole Blood","Laboratory",2009,2010
+"CHLMDA_F","Chlamydia - Urine","Laboratory",2009,2010
+"COTNAL_F","Cotinine - Serum & Total NNAL - Urine","Laboratory",2009,2010
+"CRP_F","C-Reactive Protein (CRP)","Laboratory",2009,2010
+"DEET_F","DEET and Metabolites","Laboratory",2009,2010
+"DOXPOL_F","Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples","Laboratory",2009,2010
+"EPH_F","Environmental Phenols","Laboratory",2009,2010
+"FASTQX_F","Fasting Questionnaire","Laboratory",2009,2010
+"FERTIN_F","Ferritin","Laboratory",2009,2010
+"FOLATE_F","Folate - RBC & Serum","Laboratory",2009,2010
+"GHB_F","Glycohemoglobin","Laboratory",2009,2010
+"GLU_F","Plasma Fasting Glucose & Insulin","Laboratory",2009,2010
+"HDL_F","Cholesterol - HDL","Laboratory",2009,2010
+"HEPA_F","Hepatitis A Antibody","Laboratory",2009,2010
+"HEPB_S_F","Hepatitis B Surface Antibody","Laboratory",2009,2010
+"HEPBD_F","Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody","Laboratory",2009,2010
+"HEPC_F","Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype","Laboratory",2009,2010
+"HEPE_F","Hepatitis E : IgG & IgM Antibodies","Laboratory",2009,2010
+"HIV_F","HIV Antibody Test","Laboratory",2009,2010
+"HPVSER_F","Human Papillomavirus (HPV) - 6, 11, 16 & 18 Antibody - Serum","Laboratory",2009,2010
+"HPVSWR_F","Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array","Laboratory",2009,2010
+"HSV_F","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2009,2010
+"IHG_F","Mercury: Inorganic - Blood","Laboratory",2009,2010
+"MMRV_F","Measles, Mumps, Rubella & Varicella","Laboratory",2009,2010
+"OGTT_F","Oral Glucose Tolerance Test","Laboratory",2009,2010
+"ORHPV_F","Human Papillomavirus (HPV) - Oral Rinse","Laboratory",2009,2010
+"PAH_F","Polyaromatic Hydrocarbons -Urine","Laboratory",2009,2010
+"PBCD_F","Cadmium, Lead, & Total Mercury - Blood","Laboratory",2009,2010
+"PCBPOL_F","Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples","Laboratory",2009,2010
+"PERNT_F","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2009,2010
+"PFC_F","Polyfluoroalkyl Chemicals","Laboratory",2009,2010
+"PHTHTE_F","Phthalates - Urine","Laboratory",2009,2010
+"PHYTO_F","Phytoestrogens - Urine","Laboratory",2009,2010
+"POOLTF_F","Pooled-Sample Technical Support File","Laboratory",2009,2010
+"PP_F","Pesticides - Environmental - Urine","Laboratory",2009,2010
+"PSA_F","Prostate Specific Antigen (PSA)","Laboratory",2009,2010
+"PSTPOL_F","Pesticides - Organochlorine Pesticides - Pooled Samples","Laboratory",2009,2010
+"SSEBV_F","Epstein-Barr Virus (VCA IgG) - Serum (Surplus)","Laboratory",2009,2010
+"SSHPV_F","Human Papillomavirus (HPV) Viral Load - Oral Rinse - Oral High-Risk HPV Infections (Surplus)","Laboratory",2009,2010
+"SSKL_F","Klotho - Serum (Surplus)","Laboratory",2009,2010
+"SSPOLI_F","Poliovirus Serotypes 1, 2, & 3 Antibodies - Serum (Surplus)","Laboratory",2009,2010
+"SSTOXO_F","Toxoplasma Gondii Antibody - Serum (Surplus)","Laboratory",2009,2010
+"TCHOL_F","Cholesterol - Total","Laboratory",2009,2010
+"TFA_F","Trans Fatty Acids","Laboratory",2009,2010
+"TFR_F","Transferrin Receptor","Laboratory",2009,2010
+"TGEMA_F","Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)","Laboratory",2009,2010
+"THYROD_F","Thyroid Profile","Laboratory",2009,2010
+"TRIGLY_F","Cholesterol - LDL & Triglycerides","Laboratory",2009,2010
+"UAS_F","Arsenics - Total & Speciated - Urine","Laboratory",2009,2010
+"UCFLOW_F","Urine Flow Rate","Laboratory",2009,2010
+"UCOSMO_F","Osmolality - Urine","Laboratory",2009,2010
+"UCPREG_F","Pregnancy Test - Urine","Laboratory",2009,2010
+"UHG_F","Mercury: Inorganic - Urine","Laboratory",2009,2010
+"UHM_F","Metals - Urine","Laboratory",2009,2010
+"UIO_F","Iodine - Urine","Laboratory",2009,2010
+"UPHOPM_F","Pyrethroids, Herbicides, & OP Metabolites - Urine","Laboratory",2009,2010
+"VID_F","Vitamin D","Laboratory",2009,2010
+"VIT_B6_F","Vitamin B6","Laboratory",2009,2010
+"VOC_F","Volatile Organic Compounds (VOCs) - Water","Laboratory",2009,2010
+"VOCMWB_F","Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood","Laboratory",2009,2010
+"VOCWB_F","Volatile Organic Compounds (VOCs) - Blood","Laboratory",2009,2010
+"ALB_CR_G","Albumin & Creatinine - Urine","Laboratory",2011,2012
+"APOB_G","Apolipoprotein B","Laboratory",2011,2012
+"BFRPOL_G","Brominated Flame Retardants (BFRs) - Pooled Samples","Laboratory",2011,2012
+"BIOPRO_G","Standard Biochemistry Profile","Laboratory",2011,2012
+"CAFE_G","Caffeine & Caffeine Metabolites - Urine","Laboratory",2011,2012
+"CBC_G","Complete Blood Count with 5-part Differential - Whole Blood","Laboratory",2011,2012
+"CHLMDA_G","Chlamydia - Urine","Laboratory",2011,2012
+"CMV_G","Cytomegalovirus IgG & IgM Antibodies - Serum","Laboratory",2011,2012
+"COTNAL_G","Cotinine - Serum & Total NNAL - Urine","Laboratory",2011,2012
+"CUSEZN_G","Copper, Selenium & Zinc - Serum","Laboratory",2011,2012
+"DEET_G","DEET and Metabolites","Laboratory",2011,2012
+"DOXPOL_G","Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples","Laboratory",2011,2012
+"EPH_G","Environmental Phenols & Parabens","Laboratory",2011,2012
+"FAS_G","Fatty Acids - Serum","Laboratory",2011,2012
+"FASTQX_G","Fasting Questionnaire","Laboratory",2011,2012
+"FOLATE_G","Folate - RBC","Laboratory",2011,2012
+"FOLFMS_G","Folate Forms - Total & Individual - Serum","Laboratory",2011,2012
+"GHB_G","Glycohemoglobin","Laboratory",2011,2012
+"GLU_G","Plasma Fasting Glucose & Insulin","Laboratory",2011,2012
+"HDL_G","Cholesterol - HDL","Laboratory",2011,2012
+"HEPA_G","Hepatitis A Antibody","Laboratory",2011,2012
+"HEPB_S_G","Hepatitis B Surface Antibody","Laboratory",2011,2012
+"HEPBD_G","Hepatitis B: Core Antibody, Surface Antigen; Hepatitis D Antibody","Laboratory",2011,2012
+"HEPC_G","Hepatitis C: Confirmed Antibody, RNA (HCV-RNA), & Genotype","Laboratory",2011,2012
+"HEPE_G","Hepatitis E : IgG & IgM Antibodies","Laboratory",2011,2012
+"HIV_G","HIV Antibody Test","Laboratory",2011,2012
+"HPVSWR_G","Human Papillomavirus (HPV) DNA - Vaginal Swab: Digene Hybrid Capture & Roche Linear Array","Laboratory",2011,2012
+"HSV_G","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2011,2012
+"IHGEM_G","Mercury: Inorganic, Ethyl and Methyl - Blood","Laboratory",2011,2012
+"MMA_G","Methylmalonic Acid","Laboratory",2011,2012
+"OGTT_G","Oral Glucose Tolerance Test","Laboratory",2011,2012
+"OPD_G","Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine","Laboratory",2011,2012
+"ORHPV_G","Human Papillomavirus (HPV) - Oral Rinse","Laboratory",2011,2012
+"PAH_G","Polyaromatic Hydrocarbons (PAHs) - Urine","Laboratory",2011,2012
+"PAHS_G","Polyaromatic Hydrocarbons (PAHs)- Urine - Special Sample","Laboratory",2011,2012
+"PBCD_G","Cadmium, Lead, Total Mercury, Selenium, & Manganese - Blood","Laboratory",2011,2012
+"PCBPOL_G","Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples","Laboratory",2011,2012
+"PERNT_G","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2011,2012
+"PERNTS_G","Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample","Laboratory",2011,2012
+"PFC_G","Polyfluoroalkyl Chemicals","Laboratory",2011,2012
+"PHTHTE_G","Phthalates & Plasticizers Metabolites - Urine","Laboratory",2011,2012
+"POOLTF_G","Pooled-Sample Technical Support File","Laboratory",2011,2012
+"PP_G","Pesticides - Environmental - Urine","Laboratory",2011,2012
+"PSTPOL_G","Pesticides - Organochlorine Pesticides - Pooled Samples","Laboratory",2011,2012
+"SSANA2_G","Autoantibodies - Immunofluorescence Analyses (Surplus)","Laboratory",2011,2012
+"SSDFS_G","Autoantibodies - Anti-DFS70 Autoantibody Analyses (Surplus)","Laboratory",2011,2012
+"SSFR_G","Flame Retardants - Urine  (Surplus)","Laboratory",2011,2012
+"SSKL_G","Klotho - Serum (Surplus)","Laboratory",2011,2012
+"SSTOCA_G","Antibody to Toxocara spp. (Surplus)","Laboratory",2011,2012
+"SSTOXO_G","Toxoplasma gondii Antibody - Serum (Surplus)","Laboratory",2011,2012
+"TB_G","Tuberculosis - Quantiferon_In_Gold","Laboratory",2011,2012
+"TCHOL_G","Cholesterol - Total","Laboratory",2011,2012
+"TGEMA_G","Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)","Laboratory",2011,2012
+"THYROD_G","Thyroid Profile","Laboratory",2011,2012
+"TRIGLY_G","Cholesterol - LDL & Triglycerides","Laboratory",2011,2012
+"TST_G","Total Testosterone","Laboratory",2011,2012
+"UAS_G","Arsenics - Total & Speciated - Urine","Laboratory",2011,2012
+"UASS_G","Arsenics - Total & Speciated - Urine - Special Sample","Laboratory",2011,2012
+"UCFLOW_G","Urine Flow Rate","Laboratory",2011,2012
+"UCOSMO_G","Osmolality - Urine","Laboratory",2011,2012
+"UCPREG_G","Pregnancy Test - Urine","Laboratory",2011,2012
+"UHG_G","Mercury: Inorganic - Urine","Laboratory",2011,2012
+"UHM_G","Metals - Urine","Laboratory",2011,2012
+"UHMS_G","Metals - Urine - Special Sample","Laboratory",2011,2012
+"UIO_G","Iodine - Urine","Laboratory",2011,2012
+"UPHOPM_G","Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine","Laboratory",2011,2012
+"UVOC_G","Volatile Organic Compound (VOC) Metabolites - Urine","Laboratory",2011,2012
+"UVOCS_G","Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample","Laboratory",2011,2012
+"VID_G","Vitamin D","Laboratory",2011,2012
+"VITB12_G","Vitamin B12","Laboratory",2011,2012
+"VOCMWB_G","Volatile Organic Compounds (VOCs) - Trihalomethanes/MTBE/Nitromethane - Blood","Laboratory",2011,2012
+"VOCWB_G","Volatile Organic Compounds (VOCs) - Blood","Laboratory",2011,2012
+"AA_H","Aromatic Amines - Urine","Laboratory",2013,2014
+"AAS_H","Aromatic Amines - Urine - Special Sample","Laboratory",2013,2014
+"ALB_CR_H","Albumin & Creatinine - Urine","Laboratory",2013,2014
+"ALD_H","Aldehydes - Serum","Laboratory",2013,2014
+"ALDS_H","Aldehydes - Serum - Special Sample","Laboratory",2013,2014
+"AMDGDS_H","Acrylamide & Glycidamide - Special Sample","Laboratory",2013,2014
+"AMDGYD_H","Acrylamide & Glycidamide","Laboratory",2013,2014
+"APOB_H","Apolipoprotein B","Laboratory",2013,2014
+"BFRPOL_H","Brominated Flame Retardants (BFRs) - Pooled Samples","Laboratory",2013,2014
+"BIOPRO_H","Standard Biochemistry Profile","Laboratory",2013,2014
+"CAFE_H","Caffeine & Caffeine Metabolites - Urine","Laboratory",2013,2014
+"CBC_H","Complete Blood Count with 5-part Differential - Whole Blood","Laboratory",2013,2014
+"CHLMDA_H","Chlamydia - Urine","Laboratory",2013,2014
+"COT_H","Cotinine and Hydroxycotinine - Serum","Laboratory",2013,2014
+"CUSEZN_H","Copper, Selenium & Zinc - Serum","Laboratory",2013,2014
+"DEET_H","DEET and Metabolites","Laboratory",2013,2014
+"EPHPP_H","Personal Care and Consumer Product Chemicals and Metabolites","Laboratory",2013,2014
+"ETHOX_H","Ethylene Oxide","Laboratory",2013,2014
+"ETHOXS_H","Ethylene Oxide - Special Sample","Laboratory",2013,2014
+"FAS_H","Fatty Acids - Serum","Laboratory",2013,2014
+"FASTQX_H","Fasting Questionnaire","Laboratory",2013,2014
+"FLDEP_H","Fluoride - Plasma","Laboratory",2013,2014
+"FLDEW_H","Fluoride - Water","Laboratory",2013,2014
+"FOLATE_H","Folate - RBC","Laboratory",2013,2014
+"FOLFMS_H","Folate Forms - Total & Individual - Serum","Laboratory",2013,2014
+"FORMAL_H","Formaldehyde","Laboratory",2013,2014
+"FORMAS_H","Formaldehyde - Special Sample","Laboratory",2013,2014
+"GHB_H","Glycohemoglobin","Laboratory",2013,2014
+"GLU_H","Plasma Fasting Glucose","Laboratory",2013,2014
+"HCAA_H","Heterocyclic Aromatic Amines - Urine","Laboratory",2013,2014
+"HCAAS_H","Heterocyclic Aromatic Amines (HCAA) - Urine - Special Sample","Laboratory",2013,2014
+"HDL_H","Cholesterol - HDL","Laboratory",2013,2014
+"HEPA_H","Hepatitis A","Laboratory",2013,2014
+"HEPB_S_H","Hepatitis B: Surface Antibody","Laboratory",2013,2014
+"HEPBD_H","Hepatitis B: core antibody, surface antigen, and Hepatitis D antibody","Laboratory",2013,2014
+"HEPC_H","Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype","Laboratory",2013,2014
+"HEPE_H","Hepatitis E: IgG & IgM Antibodies","Laboratory",2013,2014
+"HIV_H","HIV Antibody Test","Laboratory",2013,2014
+"HPVP_H","Human Papillomavirus (HPV) DNA Results from Penile Swab Samples: Roche Linear Array","Laboratory",2013,2014
+"HPVSWR_H","Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas & Roche Linear Array","Laboratory",2013,2014
+"HSV_H","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2013,2014
+"IHGEM_H","Mercury: Inorganic, Ethyl and Methyl - Blood","Laboratory",2013,2014
+"INS_H","Insulin","Laboratory",2013,2014
+"MMA_H","Methylmalonic Acid","Laboratory",2013,2014
+"OGTT_H","Oral Glucose Tolerance Test","Laboratory",2013,2014
+"ORHPV_H","Human Papillomavirus (HPV) - Oral Rinse","Laboratory",2013,2014
+"PAH_H","Polycyclic Aromatic Hydrocarbons (PAH) - Urine","Laboratory",2013,2014
+"PBCD_H","Lead, Cadmium, Total Mercury, Selenium, and Manganese - Blood","Laboratory",2013,2014
+"PCBPOL_H","Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Serum - Pooled Samples","Laboratory",2013,2014
+"PERNT_H","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2013,2014
+"PERNTS_H","Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample","Laboratory",2013,2014
+"PFAS_H","Perfluoroalkyl and Polyfluoroalkyl Substances (formerly Polyfluoroalkyl Chemicals - PFC)","Laboratory",2013,2014
+"PHTHTE_H","Phthalates and Plasticizers Metabolites - Urine","Laboratory",2013,2014
+"POOLTF_H","Pooled-Sample Technical Support File","Laboratory",2013,2014
+"PSTPOL_H","Pesticides - Organochlorine Pesticides - Serum - Pooled Samples","Laboratory",2013,2014
+"SSCT_H","Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results","Laboratory",2013,2014
+"SSFLRT_H","Flame Retardant Metabolites - Urine (Surplus)","Laboratory",2013,2014
+"SSGLYP_H","Glyphosate (GLYP) - Urine","Laboratory",2013,2014
+"SSHEPC_H","Hepatitis C: Confirmed Antibody (INNO-LIA)","Laboratory",2013,2014
+"SSKL_H","Klotho - Serum (Surplus)","Laboratory",2013,2014
+"SSPFAC_H","Perfluoroalkyl and Polyfluoroalkyl Substances in US children 3-11 Years of Age","Laboratory",2013,2014
+"SSPFAS_H","Perfluoroalkyl and Polyfluoroalkyl Substances - Linear and Branched PFOS and PFOA Isomers (Surplus)","Laboratory",2013,2014
+"SSPFSU_H","Perfluoroalkyl and Polyfluoroalkyl Substances","Laboratory",2013,2014
+"SSPHTE_H","Phthalates and Plasticizers Metabolites - Urine (Surplus)","Laboratory",2013,2014
+"SSSNFL_H","Serum Neurofilament Light Chain - Serum","Laboratory",2013,2014
+"SSTERP_H","Terpenes – Serum (Surplus)","Laboratory",2013,2014
+"SSTOCA_H","Antibody to Toxocara spp. (Surplus)","Laboratory",2013,2014
+"SSTOXO_H","Toxoplasma gondii Antibody - Serum (Surplus)","Laboratory",2013,2014
+"TCHOL_H","Cholesterol - Total","Laboratory",2013,2014
+"TGEMA_H","Tissue Transglutaminase Assay (IgA-TTG) & IgA Endomyseal Antibody Assay (IgA EMA)","Laboratory",2013,2014
+"TRICH_H","Trichomonas - Urine","Laboratory",2013,2014
+"TRIGLY_H","Cholesterol - LDL & Triglycerides","Laboratory",2013,2014
+"TSNA_H","Tobacco-specific Nitrosamines (TSNAs) - Urine","Laboratory",2013,2014
+"TST_H","Sex Steroid Hormone - Serum","Laboratory",2013,2014
+"UAS_H","Arsenics - Speciated - Urine","Laboratory",2013,2014
+"UASS_H","Arsenics - Speciated - Urine - Special Sample","Laboratory",2013,2014
+"UCFLOW_H","Urine Flow Rate","Laboratory",2013,2014
+"UCOT_H","Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine","Laboratory",2013,2014
+"UCOTS_H","Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample","Laboratory",2013,2014
+"UCPREG_H","Pregnancy Test - Urine","Laboratory",2013,2014
+"UHG_H","Mercury: Inorganic - Urine","Laboratory",2013,2014
+"UIO_H","Iodine - Urine","Laboratory",2013,2014
+"UM_H","Metals - Urine","Laboratory",2013,2014
+"UMS_H","Metals - Urine - Special Sample","Laboratory",2013,2014
+"UPHOPM_H","Pyrethroids, Herbicides, & Organophosphorus Metabolites - Urine","Laboratory",2013,2014
+"UTAS_H","Arsenic - Total - Urine","Laboratory",2013,2014
+"UTASS_H","Arsenic - Total - Urine - Special Sample","Laboratory",2013,2014
+"UVOC_H","Volatile Organic Compound (VOC) Metabolites - Urine","Laboratory",2013,2014
+"UVOCS_H","Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample","Laboratory",2013,2014
+"VID_H","Vitamin D","Laboratory",2013,2014
+"VITB12_H","Vitamin B12","Laboratory",2013,2014
+"VNA_H","Volatile N-Nitrosamine Compounds (VNAs) - Urine","Laboratory",2013,2014
+"VNAS_H","Volatile N-Nitrosamine Compounds (VNAs) - Urine - Special Sample","Laboratory",2013,2014
+"VOCWB_H","Volatile Organic Compounds and Trihalomethanes/MTBE - Blood","Laboratory",2013,2014
+"VOCWBS_H","Volatile Organic Compounds (VOCs) and Trihalomethanes/MTBE - Blood - Special Sample","Laboratory",2013,2014
+"ALB_CR_I","Albumin & Creatinine - Urine","Laboratory",2015,2016
+"AMDGYD_I","Acrylamide & Glycidamide","Laboratory",2015,2016
+"APOB_I","Apolipoprotein B","Laboratory",2015,2016
+"BFRPOL_I","Brominated Flame Retardants (BFRs) - Pooled Samples","Laboratory",2015,2016
+"BIOPRO_I","Standard Biochemistry Profile","Laboratory",2015,2016
+"CBC_I","Complete Blood Count with 5-Part Differential - Whole Blood","Laboratory",2015,2016
+"CHLMDA_I","Chlamydia - Urine","Laboratory",2015,2016
+"COT_I","Cotinine and Hydroxycotinine - Serum","Laboratory",2015,2016
+"CRCO_I","Chromium & Cobalt","Laboratory",2015,2016
+"CUSEZN_I","Copper, Selenium & Zinc - Serum","Laboratory",2015,2016
+"DEET_I","DEET Metabolite - Urine","Laboratory",2015,2016
+"DOXPOL_I","Polychlorinated dibenzo-p-dioxins (PCDDs), Dibenzofurans (PCDFs) & Coplanar Polychlorinated Biphenyls (cPCBs) - Pooled Samples","Laboratory",2015,2016
+"EPHPP_I","Personal Care and Consumer Product Chemicals and Metabolites","Laboratory",2015,2016
+"ETHOX_I","Ethylene Oxide","Laboratory",2015,2016
+"FASTQX_I","Fasting Questionnaire","Laboratory",2015,2016
+"FERTIN_I","Ferritin","Laboratory",2015,2016
+"FLDEP_I","Fluoride - Plasma","Laboratory",2015,2016
+"FLDEW_I","Fluoride - Water","Laboratory",2015,2016
+"FOLATE_I","Folate - RBC","Laboratory",2015,2016
+"FOLFMS_I","Folate Forms - Total & Individual - Serum","Laboratory",2015,2016
+"FORMAL_I","Formaldehyde","Laboratory",2015,2016
+"GHB_I","Glycohemoglobin","Laboratory",2015,2016
+"GLU_I","Plasma Fasting Glucose","Laboratory",2015,2016
+"HDL_I","Cholesterol - High-Density Lipoprotein (HDL)","Laboratory",2015,2016
+"HEPA_I","Hepatitis A","Laboratory",2015,2016
+"HEPB_S_I","Hepatitis B: Surface Antibody","Laboratory",2015,2016
+"HEPBD_I","Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody","Laboratory",2015,2016
+"HEPC_I","Hepatitis C: RNA (HCV-RNA) and Hepatitis C Genotype","Laboratory",2015,2016
+"HEPE_I","Hepatitis E: IgG & IgM Antibodies","Laboratory",2015,2016
+"HIV_I","HIV Antibody Test","Laboratory",2015,2016
+"HPVP_I","Human Papillomavirus (HPV) DNA - Penile Swabs: Roche Linear Array","Laboratory",2015,2016
+"HPVSWC_I","Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Cobas High-Risk","Laboratory",2015,2016
+"HPVSWR_I","Human Papillomavirus (HPV) DNA - Vaginal Swab: Roche Linear Array","Laboratory",2015,2016
+"HSCRP_I","High-Sensitivity C-Reactive Protein (hs-CRP)","Laboratory",2015,2016
+"HSV_I","Herpes Simplex Virus Type-1 & Type-2","Laboratory",2015,2016
+"IHGEM_I","Mercury: Inorganic, Ethyl and Methyl - Blood","Laboratory",2015,2016
+"INS_I","Insulin","Laboratory",2015,2016
+"OGTT_I","Oral Glucose Tolerance Test","Laboratory",2015,2016
+"OPD_I","Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine","Laboratory",2015,2016
+"ORHPV_I","Human Papillomavirus (HPV) - Oral Rinse","Laboratory",2015,2016
+"PAH_I","Polycyclic Aromatic Hydrocarbons (PAH) - Urine","Laboratory",2015,2016
+"PAHS_I","Polycyclic Aromatic Hydrocarbons (PAH) - Urine - Special Sample","Laboratory",2015,2016
+"PBCD_I","Lead, Cadmium, Total Mercury, Selenium & Manganese - Blood","Laboratory",2015,2016
+"PCBPOL_I","Non-dioxin-like Polychlorinated Biphenyls & Mono-ortho-substituted Polychlorinated Biphenyls - Pooled Samples","Laboratory",2015,2016
+"PERNT_I","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2015,2016
+"PERNTS_I","Perchlorate, Nitrate & Thiocyanate - Urine - Special Sample","Laboratory",2015,2016
+"PFAS_I","Perfluoroalkyl and Polyfluoroalkyl","Laboratory",2015,2016
+"PHTHTE_I","Phthalates and Plasticizers Metabolites - Urine","Laboratory",2015,2016
+"POOLTF_I","Pooled-Sample Technical Support File","Laboratory",2015,2016
+"PSTPOL_I","Pesticides - Organochlorine Pesticides - Pooled Samples","Laboratory",2015,2016
+"SSAGP_I","Alpha-1-Acid Glycoprotein - Serum (Surplus)","Laboratory",2015,2016
+"SSCLTY_I","Chlorinated Tyrosine – Serum (Surplus)","Laboratory",2015,2016
+"SSCT_I","Chlamydia Pgp3 (plasmid gene product 3) ELISA (enzyme linked immunosorbent assay) and multiplex bead array (MBA) results","Laboratory",2015,2016
+"SSDEET_I","DEET Metabolites - Urine - Surplus","Laboratory",2015,2016
+"SSFR_I","Flame Retardants - Urine (Surplus)","Laboratory",2015,2016
+"SSGLYP_I","Glyphosate (GLYP) - Urine (Surplus)","Laboratory",2015,2016
+"SSKL_I","Klotho - Serum (Surplus)","Laboratory",2015,2016
+"SSMHHT_I","Mono-2-ethyl-5-hydroxyhexyl terephthalate, mono-2-ethyl-5-carboxypentyl terephthalate, and monooxoisononyl phthalate - Urine (Surplus)","Laboratory",2015,2016
+"SSNEON_I","Neonicotinoids - Urine - Surplus","Laboratory",2015,2016
+"SSPT_I","Pertussis and tetanus – Serum (Surplus)","Laboratory",2015,2016
+"TCHOL_I","Cholesterol - Total","Laboratory",2015,2016
+"TFR_I","Transferrin Receptor","Laboratory",2015,2016
+"TRICH_I","Trichomonas - Urine","Laboratory",2015,2016
+"TRIGLY_I","Cholesterol - Low - Density Lipoprotein (LDL) & Triglycerides","Laboratory",2015,2016
+"TST_I","Sex Steroid Hormone - Serum","Laboratory",2015,2016
+"UADM_I","Aromatic Diamines - Urine","Laboratory",2015,2016
+"UAS_I","Speciated Arsenics - Urine","Laboratory",2015,2016
+"UASS_I","Speciated Arsenics - Urine - Special Sample","Laboratory",2015,2016
+"UCFLOW_I","Urine Flow Rate","Laboratory",2015,2016
+"UCOT_I","Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine","Laboratory",2015,2016
+"UCOTS_I","Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine - Special Sample","Laboratory",2015,2016
+"UCPREG_I","Pregnancy Test - Urine","Laboratory",2015,2016
+"UFLDE_I","Fluoride - Urine","Laboratory",2015,2016
+"UHG_I","Mercury: Inorganic - Urine","Laboratory",2015,2016
+"UIO_I","Iodine - Urine","Laboratory",2015,2016
+"UM_I","Metals - Urine","Laboratory",2015,2016
+"UMS_I","Metals - Urine - Special Sample","Laboratory",2015,2016
+"UPHOPM_I","Pyrethroids, Herbicides, & Organophosphorus Metabolites","Laboratory",2015,2016
+"UTAS_I","Arsenic - Total - Urine","Laboratory",2015,2016
+"UTASS_I","Arsenic - Total - Urine - Special Sample","Laboratory",2015,2016
+"UVOC_I","Volatile Organic Compound (VOC) Metabolites - Urine","Laboratory",2015,2016
+"UVOCS_I","Volatile Organic Compound (VOC) Metabolites - Urine - Special Sample","Laboratory",2015,2016
+"VID_I","Vitamin D","Laboratory",2015,2016
+"VOCWB_I","Volatile Organic Compounds and Trihalomethanes/MTBE - Blood","Laboratory",2015,2016
+"VOCWBS_I","Volatile Organic Compounds and Trihalomethanes/MTBE – Blood – Special Sample","Laboratory",2015,2016
+"ALB_CR_J","Albumin & Creatinine - Urine","Laboratory",2017,2018
+"BIOPRO_J","Standard Biochemistry Profile","Laboratory",2017,2018
+"CBC_J","Complete Blood Count with 5-Part Differential","Laboratory",2017,2018
+"CMV_J","Cytomegalovirus IgG & IgM Antibodies - Serum","Laboratory",2017,2018
+"COT_J","Cotinine and Hydroxycotinine - Serum","Laboratory",2017,2018
+"CRCO_J","Chromium & Cobalt","Laboratory",2017,2018
+"ETHOX_J","Ethylene Oxide","Laboratory",2017,2018
+"FASTQX_J","Fasting Questionnaire","Laboratory",2017,2018
+"FERTIN_J","Ferritin","Laboratory",2017,2018
+"FETIB_J","Iron Status - Serum","Laboratory",2017,2018
+"FOLATE_J","Folate - RBC","Laboratory",2017,2018
+"FOLFMS_J","Folate Forms - Total & Individual - Serum","Laboratory",2017,2018
+"FR_J","Flame Retardants - Urine","Laboratory",2017,2018
+"GHB_J","Glycohemoglobin","Laboratory",2017,2018
+"GLU_J","Plasma Fasting Glucose","Laboratory",2017,2018
+"HDL_J","Cholesterol - High - Density Lipoprotein (HDL)","Laboratory",2017,2018
+"HEPA_J","Hepatitis A","Laboratory",2017,2018
+"HEPB_S_J","Hepatitis B: Surface Antibody","Laboratory",2017,2018
+"HEPBD_J","Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody","Laboratory",2017,2018
+"HEPC_J","Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype","Laboratory",2017,2018
+"HEPE_J","Hepatitis E: IgG & IgM Antibodies","Laboratory",2017,2018
+"HIV_J","HIV Antibody Test","Laboratory",2017,2018
+"HSCRP_J","High-Sensitivity C-Reactive Protein","Laboratory",2017,2018
+"IHGEM_J","Mercury: Inorganic, Ethyl and Methyl - Blood","Laboratory",2017,2018
+"INS_J","Insulin","Laboratory",2017,2018
+"OPD_J","Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine","Laboratory",2017,2018
+"P_ALB_CR","Albumin & Creatinine - Urine","Laboratory",2017,2020
+"P_BIOPRO","Standard Biochemistry Profile","Laboratory",2017,2020
+"P_CBC","Complete Blood Count with 5-Part Differential in Whole Blood","Laboratory",2017,2020
+"P_CMV","Cytomegalovirus IgG & IgM Antibodies - Serum","Laboratory",2017,2020
+"P_COT","Cotinine and Hydroxycotinine - Serum","Laboratory",2017,2020
+"P_CRCO","Chromium & Cobalt","Laboratory",2017,2020
+"P_ETHOX","Ethylene Oxide","Laboratory",2017,2020
+"P_FASTQX","Fasting Questionnaire","Laboratory",2017,2020
+"P_FERTIN","Ferritin","Laboratory",2017,2020
+"P_FETIB","Iron Status - Serum","Laboratory",2017,2020
+"P_FOLATE","Folate - RBC","Laboratory",2017,2020
+"P_FOLFMS","Folate Forms - Total & Individual - Serum","Laboratory",2017,2020
+"P_FR","Flame Retardants - Urine","Laboratory",2017,2020
+"P_GHB","Glycohemoglobin","Laboratory",2017,2020
+"P_GLU","Plasma Fasting Glucose","Laboratory",2017,2020
+"P_HDL","Cholesterol - High - Density Lipoprotein (HDL)","Laboratory",2017,2020
+"P_HEPA","Hepatitis A","Laboratory",2017,2020
+"P_HEPB_S","Hepatitis B Surface Antibody","Laboratory",2017,2020
+"P_HEPBD","Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody","Laboratory",2017,2020
+"P_HEPC","Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype","Laboratory",2017,2020
+"P_HEPE","Hepatitis E: IgG & IgM Antibodies","Laboratory",2017,2020
+"P_HSCRP","High-Sensitivity C-Reactive Protein","Laboratory",2017,2020
+"P_IHGEM","Inorganic, Ethyl and Methyl - Blood","Laboratory",2017,2020
+"P_INS","Insulin","Laboratory",2017,2020
+"P_OPD","Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine","Laboratory",2017,2020
+"P_PBCD","Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood","Laboratory",2017,2020
+"P_PERNT","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2017,2020
+"P_PFAS","Perfluoroalkyl and Polyfluoroalkyl Substances","Laboratory",2017,2020
+"P_SSAGP","Alpha-1-Acid Glycoprotein - Serum (Surplus)","Laboratory",2017,2020
+"P_SSFR","Flame Retardants - Urine (Surplus)","Laboratory",2017,2020
+"P_TCHOL","Cholesterol - Total","Laboratory",2017,2020
+"P_TFR","Transferrin Receptor","Laboratory",2017,2020
+"P_TRIGLY","Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides","Laboratory",2017,2020
+"P_UAS","Arsenics - Speciated - Urine","Laboratory",2017,2020
+"P_UCFLOW","Urine Flow Rate","Laboratory",2017,2020
+"P_UCM","Chromium - Urine","Laboratory",2017,2020
+"P_UCPREG","Urine Pregnancy Test","Laboratory",2017,2020
+"P_UHG","Mercury: Inorganic - Urine","Laboratory",2017,2020
+"P_UIO","Iodine - Urine","Laboratory",2017,2020
+"P_UM","Metals - Urine","Laboratory",2017,2020
+"P_UNI","Nickel - Urine","Laboratory",2017,2020
+"P_UTAS","Arsenic - Total - Urine","Laboratory",2017,2020
+"P_UVOC","Volatile Organic Compound (VOC) Metabolites - Urine","Laboratory",2017,2020
+"P_UVOC2","Volatile Organic Compound (VOC) Metabolites II - Urine","Laboratory",2017,2020
+"P_VOCWB","Volatile Organic Compounds and Trihalomethanes/MTBE - Blood","Laboratory",2017,2020
+"PBCD_J","Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood","Laboratory",2017,2018
+"PERNT_J","Perchlorate, Nitrate & Thiocyanate - Urine","Laboratory",2017,2018
+"PFAS_J","Perfluoroalkyl and Polyfluoroalkyl Substances","Laboratory",2017,2018
+"PHTHTE_J","Phthalates and Plasticizers Metabolites - Urine","Laboratory",2017,2018
+"SSAGP_J","Alpha-1-Acid Glycoprotein - Serum (Surplus)","Laboratory",2017,2018
+"SSFR_J","Flame Retardants - Urine (Surplus)","Laboratory",2017,2018
+"SSGLYP_J","Glyphosate (GLYP) - Urine (Surplus)","Laboratory",2017,2018
+"SSPFAS_J","Perfluoroalkyl and Polyfluoroalkyl Substances (Surplus)","Laboratory",2017,2018
+"SSUVOC_J","Volatile Organic Compound (VOC) Metabolites II - Urine (Surplus)","Laboratory",2017,2018
+"TCHOL_J","Cholesterol - Total","Laboratory",2017,2018
+"TFR_J","Transferrin Receptor","Laboratory",2017,2018
+"TRIGLY_J","Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides","Laboratory",2017,2018
+"UAS_J","Arsenics - Speciated - Urine","Laboratory",2017,2018
+"UCFLOW_J","Urine Flow Rate","Laboratory",2017,2018
+"UCM_J","Chromium - Urine","Laboratory",2017,2018
+"UCOT_J","Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine","Laboratory",2017,2018
+"UCPREG_J","Urine Pregnancy Test","Laboratory",2017,2018
+"UHG_J","Mercury: Inorganic - Urine","Laboratory",2017,2018
+"UIO_J","Iodine - Urine","Laboratory",2017,2018
+"UM_J","Metals - Urine","Laboratory",2017,2018
+"UNI_J","Nickel - Urine","Laboratory",2017,2018
+"UTAS_J","Arsenic - Total - Urine","Laboratory",2017,2018
+"UVOC_J","Volatile Organic Compound (VOC) Metabolites - Urine","Laboratory",2017,2018
+"VIC_J","Vitamin C","Laboratory",2017,2018
+"VID_J","Vitamin D","Laboratory",2017,2018
+"VITAEC_J","Vitamin A, Vitamin E & Carotenoids","Laboratory",2017,2018
+"VOCWB_J","Volatile Organic Compounds and Trihalomethanes/MTBE - Blood","Laboratory",2017,2018
+"AGP_L","alpha-1-Acid Glycoprotein","Laboratory",2021,2023
+"CBC_L","Complete Blood Count with 5-Part Differential in Whole Blood","Laboratory",2021,2023
+"FASTQX_L","Fasting Questionnaire","Laboratory",2021,2023
+"FERTIN_L","Ferritin","Laboratory",2021,2023
+"FOLATE_L","Folate - RBC","Laboratory",2021,2023
+"FOLFMS_L","Serum Folate Forms - Total & Individual - Serum","Laboratory",2021,2023
+"GHB_L","Glycohemoglobin","Laboratory",2021,2023
+"GLU_L","Plasma Fasting Glucose","Laboratory",2021,2023
+"HDL_L","Cholesterol – High-Density Lipoprotein","Laboratory",2021,2023
+"HEPA_L","Hepatitis A","Laboratory",2021,2023
+"HEPB_S_L","Hepatitis B Surface Antibody","Laboratory",2021,2023
+"HSCRP_L","High-Sensitivity C-Reactive Protein","Laboratory",2021,2023
+"IHGEM_L","Mercury:  Inorganic, Ethyl, and Methyl - Blood","Laboratory",2021,2023
+"INS_L","Insulin","Laboratory",2021,2023
+"PBCD_L","Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood","Laboratory",2021,2023
+"TCHOL_L","Cholesterol - Total","Laboratory",2021,2023
+"TFR_L","Transferrin Receptor","Laboratory",2021,2023
+"TST_L","Sex Steroid Hormone Panel - Serum","Laboratory",2021,2023
+"UCPREG_L","Urine Pregnancy Test","Laboratory",2021,2023
+"VID_L","Vitamin D","Laboratory",2021,2023

@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"TELO_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 150 YEARS",NA,NA
+"TELO_A","TeloMean","TeloMean","Mean T/S ratio","Mean T/S ratio","Both males and females 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.3893365284 to 9.420414986"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3567"", ""3""]; Cumulative=[""3567"", ""3570""]; Skip.to.Item=[""NA"", ""NA""]"
+"TELO_A","TeloStd","TeloStd","Asso. Std. Dev. of Mean T/S ratio","Asso. Std. Dev. of Mean T/S ratio","Both males and females 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0019335235 to 12.174328148"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3567"", ""3""]; Cumulative=[""3567"", ""3570""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,0 +1,8 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,nan,,
+1,LBXME,0 To 29.26,Range Of Values,Measles,Both males and females 6 YEARS - 49 YEARS,nan,,
+2,LBXME,.,Missing,Measles,Both males and females 6 YEARS - 49 YEARS,nan,,
+3,LBDRUIU,1 To 327,Range Of Values,Rubella units,Both males and females 6 YEARS - 49 YEARS,nan,,
+4,LBDRUIU,.,Missing,Rubella units,Both males and females 6 YEARS - 49 YEARS,nan,,
+5,LBXVAR,0 To 29.43,Range Of Values,Varicella,Both males and females 6 YEARS - 49 YEARS,nan,,
+6,LBXVAR,.,Missing,Varicella,Both males and females 6 YEARS - 49 YEARS,nan,,

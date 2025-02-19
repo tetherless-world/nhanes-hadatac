@@ -1,0 +1,11 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,INDFMMPC,1,Monthly Poverty Level Index :1.30,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,nan,,
+1,INDFMMPC,2,1.30 < Monthly Poverty Level Index : 1.85,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,nan,,
+2,INDFMMPC,3,Monthly Poverty Level Index >1.85,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,nan,,
+3,INDFMMPC,7,Refused,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,nan,,
+4,INDFMMPC,9,Don'T Know,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,nan,,
+5,INDFMMPC,.,Missing,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,nan,,
+6,INDFMMPI,0 To 4.99,Range Of Values,Family monthly poverty level index a ratio of monthly family income to the HHS poverty guidelines specific to family size.,Both males and females 0 YEARS - 150 YEARS,nan,,
+7,INDFMMPI,5,Value Greater Than Or Equal To 5.00,Family monthly poverty level index a ratio of monthly family income to the HHS poverty guidelines specific to family size.,Both males and females 0 YEARS - 150 YEARS,nan,,
+8,INDFMMPI,.,Missing,Family monthly poverty level index a ratio of monthly family income to the HHS poverty guidelines specific to family size.,Both males and females 0 YEARS - 150 YEARS,nan,,
+9,SEQN,,,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,nan,,

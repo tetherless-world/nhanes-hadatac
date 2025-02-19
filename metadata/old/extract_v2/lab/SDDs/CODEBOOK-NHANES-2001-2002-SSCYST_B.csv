@@ -1,0 +1,6 @@
+,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
+0,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,nan,,
+1,SSCYPC,0.43 To 10.7,Range Of Values,Cystatin C (mg/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+2,SSCYPC,.,Missing,Cystatin C (mg/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+3,WTSCY4YR,0 To 376844.2148,Range Of Values,Surplus sera cystatin 99-02 weights,Both males and females 12 YEARS - 150 YEARS,nan,,
+4,WTSCY4YR,.,Missing,Surplus sera cystatin 99-02 weights,Both males and females 12 YEARS - 150 YEARS,nan,,

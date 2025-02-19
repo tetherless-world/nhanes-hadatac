@@ -1,0 +1,4 @@
+"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"TCHOL_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA
+"TCHOL_I","LBXTC","LBXTC","Total Cholesterol (mg/dL)","Total Cholesterol (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""77 to 545"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7256"", ""765""]; Cumulative=[""7256"", ""8021""]; Skip.to.Item=[""NA"", ""NA""]"
+"TCHOL_I","LBDTCSI","LBDTCSI","Total Cholesterol (mmol/L)","Total Cholesterol (mmol/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.99 to 14.09"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7256"", ""765""]; Cumulative=[""7256"", ""8021""]; Skip.to.Item=[""NA"", ""NA""]"
