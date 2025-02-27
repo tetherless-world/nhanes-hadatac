@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ACQ_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "ACQ_B","ACQ005","ACQ005",NA,NA,"Both males and females 12 YEARS - 150 YEARS",NA,NA
 "ACQ_B","ACD010A","ACD010A","English usually spoken at home","What language(s) {do you/does SP} usually speak at home?","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""7"", ""9"", "".""]; Value.Description=[""English"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""5447"", ""4"", ""0"", ""2447""]; Cumulative=[""5447"", ""5451"", ""5451"", ""7898""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

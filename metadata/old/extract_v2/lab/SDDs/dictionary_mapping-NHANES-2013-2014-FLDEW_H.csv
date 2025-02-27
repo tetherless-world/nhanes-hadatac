@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBDWFL,,,,,,,,,,,,
-2,LBDWFLLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 19 YEARS,,,,,,,,,,,,,
+1,LBDWFL,Fluoride water (mg/L) average 2 values,Both males and females 0 YEARS - 19 YEARS,,,,,,,,,,,,,
+2,LBDWFLLC,Fluoride water comment code,Both males and females 0 YEARS - 19 YEARS,,,,,,,,,,,,,

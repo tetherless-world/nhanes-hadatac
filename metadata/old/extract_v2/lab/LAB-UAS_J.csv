@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UAS_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "UAS_J","WTSA2YR","WTSA2YR","Subsample A weights","Subsample A weights","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""3829.845402 to 1502431.3423"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Specimen"", ""Missing""]; Count=[""2871"", ""108"", ""0""]; Cumulative=[""2871"", ""2979"", ""2979""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UAS_J","URXUAS3","URXUAS3","Urinary Arsenous acid (ug/L)","Urinary Arsenous acid (ug/L)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.08 to 4.84"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2825"", ""154""]; Cumulative=[""2825"", ""2979""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSPO2Y,,,,,,,,,,,,
-2,SSPV1,,,,,,,,,,,,
-3,SSPV2,,,,,,,,,,,,
-4,SSPV3,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,WTSSPO2Y,Surplus specimen SSPOLI_F 2 year weights,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,SSPV1,Antibody against wild type polio virus 1,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,SSPV2,Antibody against wild type polio virus 2,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+4,SSPV3,Antibody against wild type polio virus 3,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,

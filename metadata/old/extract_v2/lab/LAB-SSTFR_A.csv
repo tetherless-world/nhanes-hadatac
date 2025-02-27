@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSTFR_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 13 YEARS - 56 YEARS",NA,NA
 "SSTFR_A","SSTFR","SSTFR","Serum transferrin receptor (mg/l)","Serum transferrin receptor (mg/l)","Females only 13 YEARS - 56 YEARS",NA,"Code.or.Value=[""1.4 to 9"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""248"", ""0""]; Cumulative=[""248"", ""248""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSTFR_A","SSFER","SSFER","Serum ferritin (ng/ml)","Serum ferritin (ng/ml)","Females only 13 YEARS - 56 YEARS",NA,"Code.or.Value=[""4 to 245"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""247"", ""1""]; Cumulative=[""247"", ""248""]; Skip.to.Item=[""NA"", ""NA""]"

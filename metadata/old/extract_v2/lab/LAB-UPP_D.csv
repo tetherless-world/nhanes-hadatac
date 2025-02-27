@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UPP_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UPP_D","WTSC2YR","WTSC2YR","Environmental C 2 year weights","Environmental C 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 475173.70936"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2756"", ""0""]; Cumulative=[""2756"", ""2756""]; Skip.to.Item=[""NA"", ""NA""]"
 "UPP_D","URXBSM","URXBSM","Bensulfuron methyl (ug/L)","Bensulfuron methyl (ug/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0354 to 0.0354"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2634"", ""122""]; Cumulative=[""2634"", ""2756""]; Skip.to.Item=[""NA"", ""NA""]"

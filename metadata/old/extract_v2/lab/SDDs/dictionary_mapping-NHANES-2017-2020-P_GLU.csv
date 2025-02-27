@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,LBDGLUSI,,,,,,,,,,,,
-1,LBXGLU,,,,,,,,,,,,
-2,SEQN,,,,,,,,,,,,
-3,WTSAFPRP,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,LBDGLUSI,Fasting Glucose (mmol/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXGLU,Fasting Glucose (mg/dL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SEQN,Respondent sequence number,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,WTSAFPRP,Fasting Subsample Weight,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

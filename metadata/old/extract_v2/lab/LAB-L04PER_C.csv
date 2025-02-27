@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L04PER_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "L04PER_C","WTSC2YR","WTSC2YR","Environmental C 2 year weights","Environmental C 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 456851.11941"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2544"", ""68""]; Cumulative=[""2544"", ""2612""]; Skip.to.Item=[""NA"", ""NA""]"
 "L04PER_C","URXUP8","URXUP8","Perchlorate urine (ng/mL)","Urinary Perchlorate","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.052 to 290"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2522"", ""90""]; Cumulative=[""2522"", ""2612""]; Skip.to.Item=[""NA"", ""NA""]"

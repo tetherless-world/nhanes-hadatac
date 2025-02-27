@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L31PAH_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "L31PAH_C","WTSB2YR","WTSB2YR","Two-year MEC weights of subsample B","Two-year MEC weights of subsample B","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 435025.30254"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2697"", ""0""]; Cumulative=[""2697"", ""2697""]; Skip.to.Item=[""NA"", ""NA""]"
 "L31PAH_C","URXP01","URXP01","1-napthol (ng/L)","1-napthol (ng/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""33 to 733192.9"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2595"", ""102""]; Cumulative=[""2595"", ""2697""]; Skip.to.Item=[""NA"", ""NA""]"

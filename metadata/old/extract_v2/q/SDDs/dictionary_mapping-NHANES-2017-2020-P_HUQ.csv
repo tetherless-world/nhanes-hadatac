@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,HUD062,,,,,,,,,,,,
-1,HUQ010,,,,,,,,,,,,
-2,HUQ030,,,,,,,,,,,,
-3,HUQ051,,,,,,,,,,,,
-4,HUQ071,,,,,,,,,,,,
-5,HUQ090,,,,,,,,,,,,
-6,SEQN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,HUD062,About how long has it been since {you/SP} last saw a doctor or other health care professional about {your/his/her} health for any reason? READ IF NECESSARY: Include doctors seen while a patient in a hospital. READ IF NECESSARY: Do not include dental care.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,HUQ010,{First/Next} I have some general questions about {your/SPs} health. Would you say {your/SPs} health in general is . . .,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,HUQ030,Is there a place that {you/SP} usually {go/goes} when {you are/he/she is} sick or {you/s/he} need{s} advice about {your/his/her} health?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,HUQ051,{During the past 12 months how/How} many times {have you/has SP} seen a doctor or other health care professional about {your/his/her} health at a doctors office a clinic or some other place? Do not include times {you were/s/he was} hospitalized overnight visits to hospital emergency rooms home visits or telephone calls.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,HUQ071,{During the past 12 months were you/{was} SP} a patient in a hospital overnight? Do not include an overnight stay in the emergency room.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,HUQ090,During the past 12 months that is since {DISPLAY CURRENT MONTH} of {DISPLAY LAST YEAR} {have you/has SP} seen or talked to a mental health professional such as a psychologist psychiatrist psychiatric nurse or clinical social worker about {your/his/her} health?,Both males and females 4 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

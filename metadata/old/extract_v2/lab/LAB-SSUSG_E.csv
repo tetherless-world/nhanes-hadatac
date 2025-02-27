@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSUSG_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSUSG_E","WTSSUG2Y","WTSSUG2Y","SSUSG_E 2 year weights","Surplus specimen SSUSG_E 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""3444.330495 to 232685.69973"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""6540"", ""15"", ""4""]; Cumulative=[""6540"", ""6555"", ""6559""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSUSG_E","SSUSG","SSUSG","Urine specific gravity","Urine specific gravity","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.001 to 1.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6544"", ""15""]; Cumulative=[""6544"", ""6559""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L34_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 18 YEARS - 49 YEARS",NA,NA
 "L34_B","LBXBVPH","LBXBVPH","PH of Bacterial Vaginosis Specimen","PH of Bacterial Vaginosis Specimen","Females only 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""PH of Bacterial Vaginosis Specimen"", ""< blank >""]; Value.Description=[""Value was recorded"", ""Missing""]; Count=[""1495"", ""265""]; Cumulative=[""1495"", ""1760""]; Skip.to.Item=[""NA"", ""NA""]"
 "L34_B","LBXTV","LBXTV","Trichomonas Vaginalis","Trichomonas Vaginalis","Females only 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Uninterpretable"", ""Missing""]; Count=[""71"", ""1396"", ""37"", ""256""]; Cumulative=[""71"", ""1467"", ""1504"", ""1760""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

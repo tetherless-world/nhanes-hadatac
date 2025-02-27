@@ -1,5 +1,5 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 2 YEARS - 150 YEARS,nan,,
-1,LBXHA,1,Positive,Hepatitis A Antibody (Anti-HAV),Both males and females 2 YEARS - 150 YEARS,nan,,
-2,LBXHA,2,Negative,Hepatitis A Antibody (Anti-HAV),Both males and females 2 YEARS - 150 YEARS,nan,,
-3,LBXHA,.,Missing,Hepatitis A Antibody (Anti-HAV),Both males and females 2 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXHA,1,Positive,,
+2,LBXHA,2,Negative,,
+3,LBXHA,.,Missing,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UVOC_I","SEQN","SEQN","Respondent Sequence Number","Respondent Sequence Number","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "UVOC_I","WTSA2YR","WTSA2YR","Subsample A Weights","Subsample A Weights","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""6552.119284 to 708844.24678"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Participants 6+ years with no lab specimen"", ""Missing""]; Count=[""3231"", ""48"", ""0""]; Cumulative=[""3231"", ""3279"", ""3279""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UVOC_I","URX1DC","URX1DC","N-acel-S-(12-dichlorovinl)-L-cys(ng/mL)","N-acetyl-S-(12-dichlorovinyl)-L-cysteine (ng/mL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""8.9"", "".""]; Value.Description=[""8.9"", ""Missing""]; Count=[""2886"", ""393""]; Cumulative=[""2886"", ""3279""]; Skip.to.Item=[""NA"", ""NA""]"

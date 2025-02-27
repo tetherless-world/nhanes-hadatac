@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "RDQ_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "RDQ_G","RDQ005A","RDQ005A",NA,NA,"Both males and females 1 YEARS - 150 YEARS",NA,NA
 "RDQ_G","RDQ031","RDQ031","Coughing most days - over 3 mo period","{Do you/Does SP} usually cough on most days for 3 consecutive months or more during the year?","Both males and females 40 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""7"", ""9"", "".""]; Value.Description=[""Yes"", ""No"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""376"", ""3225"", ""1"", ""1"", ""5761""]; Cumulative=[""376"", ""3601"", ""3602"", ""3603"", ""9364""]; Skip.to.Item=["""", ""RDQ050"", ""RDQ050"", ""RDQ050"", """"]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSMEL_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSMEL_C","WTSBMEL","WTSBMEL","Melamine Subsample Weight","Melamine Subsample Weight","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""46314.077999 to 2597028.8803"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""484"", ""0""]; Cumulative=[""484"", ""484""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSMEL_C","SSMEL","SSMEL","Melamine","Melamine","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.04 to 160.47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""484"", ""0""]; Cumulative=[""484"", ""484""]; Skip.to.Item=[""NA"", ""NA""]"

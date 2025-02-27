@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HEPE_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "HEPE_H","LBDHEG","LBDHEG","Hepatitis E IgG (anti-HEV)","Hepatitis E IgG (anti-HEV)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""344"", ""7312"", ""635""]; Cumulative=[""344"", ""7656"", ""8291""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "HEPE_H","LBDHEM","LBDHEM","Hepatitis E IgM (anti-HEV)","Hepatitis E IgM (anti-HEV)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""47"", ""7609"", ""635""]; Cumulative=[""47"", ""7656"", ""8291""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

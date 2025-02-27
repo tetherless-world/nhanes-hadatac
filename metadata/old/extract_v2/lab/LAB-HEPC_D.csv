@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HEPC_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "HEPC_D","LBDHCV","LBDHCV","Hepatitis C antibody (confirmed)","Hepatitis C antibody (confirmed)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""5"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""78"", ""7278"", ""37"", ""693""]; Cumulative=[""78"", ""7356"", ""7393"", ""8086""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "HEPC_D","LBXHCR","LBXHCR","Hepatitis C RNA (HCV-RNA)","Hepatitis C RNA (HCV-RNA)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""54"", ""58"", ""7974""]; Cumulative=[""54"", ""112"", ""8086""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

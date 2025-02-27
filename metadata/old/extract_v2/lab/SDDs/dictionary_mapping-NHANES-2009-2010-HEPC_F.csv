@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBDHCV,,,,,,,,,,,,
-2,LBXHCR,,,,,,,,,,,,
-3,LBXHCG,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBDHCV,Hepatitis C antibody (confirmed),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXHCR,Hepatitis C RNA (HCV-RNA),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXHCG,Hepatitis C genotype,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

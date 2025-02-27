@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VOCWB_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "VOCWB_D","WTSVOC2Y","WTSVOC2Y","VOC subsample 2 yr MEC Weight","VOC subsample 2 yr MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 325216.78843"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3545"", ""0""]; Cumulative=[""3545"", ""3545""]; Skip.to.Item=[""NA"", ""NA""]"
 "VOCWB_D","LBXV1A","LBXV1A","Blood 11-Dichloroethane (ng/mL)","Blood 11-Dichloroethane (ng/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0071 to 0.0071"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3193"", ""352""]; Cumulative=[""3193"", ""3545""]; Skip.to.Item=[""NA"", ""NA""]"

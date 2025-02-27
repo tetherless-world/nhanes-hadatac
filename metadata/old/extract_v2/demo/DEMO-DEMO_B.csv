@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DEMO_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "DEMO_B","SDDSRVYR","SDDSRVYR","Data Release Number","Data Release Number.","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""2"", "".""]; Value.Description=[""NHANES 2001-2002 Public Release"", ""Missing""]; Count=[""11039"", ""0""]; Cumulative=[""11039"", ""11039""]; Skip.to.Item=[""NA"", ""NA""]"
 "DEMO_B","RIDSTATR","RIDSTATR","Interview/Examination Status","Interview and Examination Status of the Sample Person.","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Interviewed Only"", ""Both Interviewed and MEC examined"", ""Missing""]; Count=[""562"", ""10477"", ""0""]; Cumulative=[""562"", ""11039"", ""11039""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

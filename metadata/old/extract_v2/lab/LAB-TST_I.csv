@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TST_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "TST_I","LBXTST","LBXTST","Testosterone total (ng/dL)","Testosterone total (ng/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.53 to 2000"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7207"", ""814""]; Cumulative=[""7207"", ""8021""]; Skip.to.Item=[""NA"", ""NA""]"
 "TST_I","LBDTSTLC","LBDTSTLC","Testosterone comment code","Testosterone comment code","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""7181"", ""26"", ""814""]; Cumulative=[""7181"", ""7207"", ""8021""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

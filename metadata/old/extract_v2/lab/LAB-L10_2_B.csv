@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L10_2_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 16 YEARS - 69 YEARS",NA,NA
 "L10_2_B","LB2DAY","LB2DAY","Days between the 1st and 2nd exams","Days between the 1st and 2nd exams","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""3 to 47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""557"", ""0""]; Cumulative=[""557"", ""557""]; Skip.to.Item=[""NA"", ""NA""]"
 "L10_2_B","LB2GH","LB2GH","Glycohemoglobin (%)","Glycohemoglobin (%)","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""3.6 to 14"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""550"", ""7""]; Cumulative=[""550"", ""557""]; Skip.to.Item=[""NA"", ""NA""]"

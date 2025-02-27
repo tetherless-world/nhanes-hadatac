@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VIC_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "VIC_J","LBXVIC","LBXVIC","Vitamin C (mg/dL)","Vitamin C (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0212 to 14.6"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6740"", ""695""]; Cumulative=[""6740"", ""7435""]; Skip.to.Item=[""NA"", ""NA""]"
 "VIC_J","LBDVICSI","LBDVICSI","Vitamin C (umol/L)","Vitamin C (umol/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.2 to 829"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6740"", ""695""]; Cumulative=[""6740"", ""7435""]; Skip.to.Item=[""NA"", ""NA""]"

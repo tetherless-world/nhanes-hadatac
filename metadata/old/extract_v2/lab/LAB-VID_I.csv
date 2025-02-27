@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VID_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "VID_I","LBXVIDMS","LBXVIDMS","25OHD2+25OHD3 (nmol/L)","25-hydroxyvitamin D2 + D3","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""7.04 to 253"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8039"", ""1126""]; Cumulative=[""8039"", ""9165""]; Skip.to.Item=[""NA"", ""NA""]"
 "VID_I","LBDVIDLC","LBDVIDLC","25OHD2+25OHD3 comment code","25-hydroxyvitamin D2 + D3 comment code","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""8039"", ""0"", ""1126""]; Cumulative=[""8039"", ""8039"", ""9165""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,DSDIID,,,,,,,,,,,,
-1,DSDINGR,,,,,,,,,,,,
-2,DSDBID,,,,,,,,,,,,
-3,DSDBCNAM,,,,,,,,,,,,
-4,DSDBCCAT,,,,,,,,,,,,
-5,DSDBCID,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,DSDIID,Ingredient ID number,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,DSDINGR,Ingredient Name,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,DSDBID,Blend Component ID,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,DSDBCNAM,Blend component name,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,DSDBCCAT,Blend component category,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,DSDBCID,Blend Component ID-old version,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

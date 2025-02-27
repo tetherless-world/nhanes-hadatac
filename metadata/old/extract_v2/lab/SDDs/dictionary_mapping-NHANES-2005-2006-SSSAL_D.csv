@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSSalIgA,,,,,,,,,,,,
-2,SSSalIgG,,,,,,,,,,,,
-3,SSSalIgM,,,,,,,,,,,,
-4,SSCamIgA,,,,,,,,,,,,
-5,SSCamIgG,,,,,,,,,,,,
-6,SSCamIgM,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 20 YEARS - 64 YEARS,,,,,,,,,,,,,
+1,SSSalIgA,Salmonella IgA,Both males and females 20 YEARS - 64 YEARS,,,,,,,,,,,,,
+2,SSSalIgG,Salmonella IgG,Both males and females 20 YEARS - 64 YEARS,,,,,,,,,,,,,
+3,SSSalIgM,Salmonella IgM,Both males and females 20 YEARS - 64 YEARS,,,,,,,,,,,,,
+4,SSCamIgA,Campylobacter IgA,Both males and females 20 YEARS - 64 YEARS,,,,,,,,,,,,,
+5,SSCamIgG,Campylobacter IgG,Both males and females 20 YEARS - 64 YEARS,,,,,,,,,,,,,
+6,SSCamIgM,Campylobacter IgM,Both males and females 20 YEARS - 64 YEARS,,,,,,,,,,,,,

@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXBVPH,,,,,,,,,,,,
-2,LBXTV,,,,,,,,,,,,
-3,LBXBV,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Females only 18 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,LBXBVPH,PH of Bacterial Vaginosis Specimen,Females only 18 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,LBXTV,Trichomonas Vaginalis,Females only 18 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,LBXBV,Bacterial Vaginosis,Females only 18 YEARS - 49 YEARS,,,,,,,,,,,,,

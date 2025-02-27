@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LB2DAY,,,,,,,,,,,,
-2,LB2ME,,,,,,,,,,,,
-3,LB2RU,,,,,,,,,,,,
-4,LB2RUIU,,,,,,,,,,,,
-5,LB2VAR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 16 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,LB2DAY,The number of days between the collection of the first and second exam,Both males and females 16 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,LB2ME,Measles,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,LB2RU,Rubella,Both males and females 16 YEARS - 49 YEARS,,,,,,,,,,,,,
+4,LB2RUIU,Rubella antibody (international units),Both males and females 16 YEARS - 49 YEARS,,,,,,,,,,,,,
+5,LB2VAR,Varicella,Both males and females 16 YEARS - 49 YEARS,,,,,,,,,,,,,

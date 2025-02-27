@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSPFSU_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSPFSU_H","WTSSBH2Y","WTSSBH2Y","Surplus specimen B 13-14 2 year weights","Surplus specimen 2 year weights B for 2013-2014","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""18617.10368 to 503724.60594"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""2328"", ""0"", ""0""]; Cumulative=[""2328"", ""2328"", ""2328""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSPFSU_H","SSCLPF","SSCLPF","9-chlorohexadecafluoro3oxanonane (ng/mL)","9-chlorohexadecafluoro-3-oxanonane-1-sulfonate (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.07 to 0.07"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2328"", ""0""]; Cumulative=[""2328"", ""2328""]; Skip.to.Item=[""NA"", ""NA""]"

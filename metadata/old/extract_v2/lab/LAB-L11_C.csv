@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L11_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "L11_C","LBXCRP","LBXCRP","C-reactive protein(mg/dL)","C-reactive protein (mg/dL)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.02 to 25.4"", ""0.01"", "".""]; Value.Description=[""Range of Values"", ""Below Limit of Detection"", ""Missing""]; Count=[""7200"", ""1054"", ""925""]; Cumulative=[""7200"", ""8254"", ""9179""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "L11_C","LBXBAP","LBXBAP","Bone alkaline phosphotase (ug/L)","Bone alkaline phosphotase (ug/L)","Both males and females 8 YEARS - 49 YEARS",NA,"Code.or.Value=[""2.8 to 445"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4877"", ""4302""]; Cumulative=[""4877"", ""9179""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "OHXDEN_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 19 YEARS",NA,NA
 "OHXDEN_F","OHDEXSTS","OHDEXSTS","Overall Oral Health Exam Status","Overall Oral Health Exam Status","Both males and females 3 YEARS - 19 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not Done"", ""Missing""]; Count=[""7145"", ""44"", ""1000"", ""0""]; Cumulative=[""7145"", ""7189"", ""8189"", ""8189""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "OHXDEN_F","OHDDESTS","OHDDESTS","Dentition Status Code","Dentition Status Code","Both males and females 3 YEARS - 19 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not Done"", ""Missing""]; Count=[""7187"", ""1"", ""1001"", ""0""]; Cumulative=[""7187"", ""7188"", ""8189"", ""8189""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

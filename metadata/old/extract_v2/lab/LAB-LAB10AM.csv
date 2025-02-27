@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB10AM","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "LAB10AM","WTSAF2YR","WTSAF2YR","Fasting Subsample 2 Year Mec Weight","Fasting Subsample 2 Year Mec Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 548458.78807"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3267"", ""0""]; Cumulative=[""3267"", ""3267""]; Skip.to.Item=[""NA"", ""NA""]"
 "LAB10AM","WTSAF4YR","WTSAF4YR","Fasting Subsample 4 Year Mec Weight","Fasting Subsample 4 Year Mec Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 225451.11774"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3267"", ""0""]; Cumulative=[""3267"", ""3267""]; Skip.to.Item=[""NA"", ""NA""]"

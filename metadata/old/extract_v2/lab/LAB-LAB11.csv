@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB11","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "LAB11","LBXCRP","LBXCRP","C-reactive protein(mg/dL)","C-reactive protein (mg/dL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.01 to 29.6"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7493"", ""851""]; Cumulative=[""7493"", ""8344""]; Skip.to.Item=[""NA"", ""NA""]"
 "LAB11","LBXHP1","LBXHP1","Helicobacter pylori (ISR)","Helicobacter pylori (ISR)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 5.73"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7493"", ""851""]; Cumulative=[""7493"", ""8344""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXTFR,,,,,,,,,,,,
-2,LBDFER,,,,,,,,,,,,
-3,LBDFERSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+1,LBXTFR,Transferrin receptor (mg/L),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+2,LBDFER,Ferritin(ng/mL),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+3,LBDFERSI,Ferritin in SI unit (ug/L),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,

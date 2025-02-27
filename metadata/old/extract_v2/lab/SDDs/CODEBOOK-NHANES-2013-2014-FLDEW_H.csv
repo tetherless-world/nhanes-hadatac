@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 0 YEARS - 19 YEARS,nan,,
-1,LBDWFL,0.07 To 7.32,Range Of Values,Fluoride water (mg/L) average 2 values,Both males and females 0 YEARS - 19 YEARS,nan,,
-2,LBDWFL,.,Missing,Fluoride water (mg/L) average 2 values,Both males and females 0 YEARS - 19 YEARS,nan,,
-3,LBDWFLLC,0,At Or Above The Detection Limit,Fluoride water comment code,Both males and females 0 YEARS - 19 YEARS,nan,,
-4,LBDWFLLC,1,Below Lower Detection Limit,Fluoride water comment code,Both males and females 0 YEARS - 19 YEARS,nan,,
-5,LBDWFLLC,.,Missing,Fluoride water comment code,Both males and females 0 YEARS - 19 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBDWFL,0.07 To 7.32,Range Of Values,,
+2,LBDWFL,.,Missing,,
+3,LBDWFLLC,0,At Or Above The Detection Limit,,
+4,LBDWFLLC,1,Below Lower Detection Limit,,
+5,LBDWFLLC,.,Missing,,

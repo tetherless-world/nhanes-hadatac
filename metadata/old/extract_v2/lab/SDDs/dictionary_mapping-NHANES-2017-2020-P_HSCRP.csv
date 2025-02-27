@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,LBDHRPLC,,,,,,,,,,,,
-1,LBXHSCRP,,,,,,,,,,,,
-2,SEQN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,LBDHRPLC,High-Sensitivity C-Reactive Protein (hs-CRP) Comment Code,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXHSCRP,High-Sensitivity C-Reactive Protein (hs-CRP) (mg/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SEQN,Respondent Sequence Number,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

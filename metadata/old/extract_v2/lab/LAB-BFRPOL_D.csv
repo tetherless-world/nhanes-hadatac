@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BFRPOL_D","SAMPLEID","SAMPLEID","Pool identification number","Pool identification number","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "BFRPOL_D","RIAGENDR","RIAGENDR","Gender","Gender","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Male"", ""Female"", ""Missing""]; Count=[""114"", ""133"", ""0""]; Cumulative=[""114"", ""247"", ""247""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "BFRPOL_D","ETHNICTY","ETHNICTY","Ethnicity - Recode","Ethnicity - Recode","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", ""4"", "".""]; Value.Description=[""Non-Hispanic White"", ""Non-Hispanic Black"", ""Mexican American"", ""Other"", ""Missing""]; Count=[""104"", ""62"", ""62"", ""19"", ""0""]; Cumulative=[""104"", ""166"", ""228"", ""247"", ""247""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

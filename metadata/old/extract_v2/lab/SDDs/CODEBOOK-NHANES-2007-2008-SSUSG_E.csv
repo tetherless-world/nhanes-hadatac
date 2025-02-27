@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,WTSSUG2Y,3444.330495 To 232685.69973,Range Of Values,Surplus specimen SSUSG_E 2 year weights,Both males and females 6 YEARS - 150 YEARS,nan,,
-2,WTSSUG2Y,0,No Lab Specimen,Surplus specimen SSUSG_E 2 year weights,Both males and females 6 YEARS - 150 YEARS,nan,,
-3,WTSSUG2Y,.,Missing,Surplus specimen SSUSG_E 2 year weights,Both males and females 6 YEARS - 150 YEARS,nan,,
-4,SSUSG,1.001 To 1.2,Range Of Values,Urine specific gravity,Both males and females 6 YEARS - 150 YEARS,nan,,
-5,SSUSG,.,Missing,Urine specific gravity,Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,WTSSUG2Y,3444.330495 To 232685.69973,Range Of Values,,
+2,WTSSUG2Y,0,No Lab Specimen,,
+3,WTSSUG2Y,.,Missing,,
+4,SSUSG,1.001 To 1.2,Range Of Values,,
+5,SSUSG,.,Missing,,

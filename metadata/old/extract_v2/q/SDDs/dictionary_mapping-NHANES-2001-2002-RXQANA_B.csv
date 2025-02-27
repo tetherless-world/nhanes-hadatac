@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,RXD300,,,,,,,,,,,,
-2,RXD310,,,,,,,,,,,,
-3,RXD320,,,,,,,,,,,,
-4,RXD330,,,,,,,,,,,,
-5,RXD331Q,,,,,,,,,,,,
-6,RXD331U,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,RXD300,The next questions are about certain prescription and over the counter pain relievers that  {you/SP} may be using now or may have used in the past on a regular basis. You may have told me about  some of these pain relievers earlier. I have some different questions specifically about pain relievers. {Have  you/has SP} ever taken any of these prescription or over-the-counter pain relievers nearly every day for as  long as a month?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,RXD310,Which products {have you/has SP} taken?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,RXD320,Please think about {your/SPs} use of pain reliever products during {your/his/her} lifetime.  For how many years did {you/s/he} use {PRODUCT NAME} nearly every day? Please do not count the  months or years when {you were/s/he was} not taking the medicine.,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,RXD330,{Do you/Does SP} currently use or take {PRODUCT NAME} daily or nearly every day?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,RXD331Q,On average how many pills or doses of {PRODUCT NAME} {do you/does SP} take in a  single day?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,RXD331U,UNIT OF MEASURE,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,

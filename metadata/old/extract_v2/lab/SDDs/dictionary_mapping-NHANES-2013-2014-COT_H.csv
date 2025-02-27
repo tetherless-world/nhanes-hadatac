@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXCOT,,,,,,,,,,,,
-2,LBDCOTLC,,,,,,,,,,,,
-3,LBXHCT,,,,,,,,,,,,
-4,LBDHCTLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXCOT,Cotinine Serum (ng/mL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDCOTLC,Cotinine Serum Comment Code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXHCT,Hydroxycotinine Serum (ng/mL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDHCTLC,Hydroxycotinine Serum Comment Code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,

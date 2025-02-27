@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DRXMCD_C","DRXMC","DRXMC","Modification code","Food Modification code",NA,NA,"Code.or.Value=[""100000 to 206659"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1373"", ""0""]; Cumulative=[""1373"", ""1373""]; Skip.to.Item=[""NA"", ""NA""]"
 "DRXMCD_C","DRXMCD","DRXMCD","Modification Code Description","Modification Code Description",NA,NA,"Code.or.Value=[""Modification Code Description"", """"]; Value.Description=[""Value was recorded"", """"]; Count=[""1373"", ""0""]; Cumulative=[""1373"", ""1373""]; Skip.to.Item=[""NA"", ""NA""]"

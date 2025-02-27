@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "FAS_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "FAS_H","WTFAS2YR","WTFAS2YR","Fatty Acid Subsample 2 Year Weight","Fatty Acid Subsample 2 Year Weight","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""4533.45942 to 395978.46579"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Participants 12+ years with no lab specimen"", ""Missing""]; Count=[""4861"", ""402"", ""0""]; Cumulative=[""4861"", ""5263"", ""5263""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "FAS_H","LBXCAP","LBXCAP","Capric acid (C10:0) (umol/L)","Capric acid (C10:0) (umol/L)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.12 to 59.5"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3931"", ""1332""]; Cumulative=[""3931"", ""5263""]; Skip.to.Item=[""NA"", ""NA""]"

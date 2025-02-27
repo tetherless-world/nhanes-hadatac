@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WHD010,,,,,,,,,,,,
-2,WHD020,,,,,,,,,,,,
-3,WHD050,,,,,,,,,,,,
-4,WHQ070,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WHD010,These next questions ask about {your/SPs} height and weight at different times in {your/his/her} life. How tall {are you/is SP} without shoes?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,WHD020,How much {do you/does SP} weigh without clothes or shoes?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,WHD050,How much did {you/SP} weigh a year ago?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,WHQ070,During the past 12 months {have you/has SP} tried to lose weight?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,

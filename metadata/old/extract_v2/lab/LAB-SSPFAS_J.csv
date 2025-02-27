@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSPFAS_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "SSPFAS_J","WTSSBJ2Y","WTSSBJ2Y","Surplus specimen B 17-18 2 year weights","Surplus specimen 2 year weights B for 2017-2018","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""16608.133384 to 1490958.0724"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""1672"", ""0"", ""0""]; Cumulative=[""1672"", ""1672"", ""1672""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSPFAS_J","SSDONA","SSDONA","Dodecafluoro-3H-48-dioxanoate","Dodecafluoro-3H-48-dioxanoate","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.071 to 0.071"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1672"", ""0""]; Cumulative=[""1672"", ""1672""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BIOPRO_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "BIOPRO_F","LBXSAL","LBXSAL","Albumin (g/dL)","Albumin (g/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""2.5 to 5.3"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6860"", ""509""]; Cumulative=[""6860"", ""7369""]; Skip.to.Item=[""NA"", ""NA""]"
 "BIOPRO_F","LBDSALSI","LBDSALSI","Albumin (g/L)","Albumin (g/L)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""25 to 53"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6860"", ""509""]; Cumulative=[""6860"", ""7369""]; Skip.to.Item=[""NA"", ""NA""]"

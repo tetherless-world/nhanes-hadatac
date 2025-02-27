@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TST_L","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "TST_L","WTPH2YR","WTPH2YR","Phlebotomy 2 Year Weight","Phlebotomy 2 Year Weight","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""4391.8220579 to 253478.77765"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No blood sample provided"", ""Missing""]; Count=[""7532"", ""961"", ""0""]; Cumulative=[""7532"", ""8493"", ""8493""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "TST_L","LBX17H","LBX17H","17α-hydroxyprogesterone (ng/dL)","17α-hydroxyprogesterone (ng/dL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.29 to 1840"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7120"", ""1373""]; Cumulative=[""7120"", ""8493""]; Skip.to.Item=[""NA"", ""NA""]"

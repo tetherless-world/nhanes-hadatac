@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,TBQ010,,,,,,,,,,,,
-2,TBQ020,,,,,,,,,,,,
-3,TBQ030,,,,,,,,,,,,
-4,TBQ040,,,,,,,,,,,,
-5,TBQ050,,,,,,,,,,,,
-6,TBQ060,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 120 YEARS,,,,,,,,,,,,,
+1,TBQ010,{Have you/Has SP} ever been given a TB or tuberculosis skin test? PROBE: For one version of this test a doctor or nurse presses a plastic button with little metal prongs down on your arm. That kind is called a tine test. For another version of this t est they use a small shot needle to stick a few drops of tuberculin or PPD just under the skin.,Both males and females 1 YEARS - 120 YEARS,,,,,,,,,,,,,
+2,TBQ020,{Have you/Has SP} ever been told that {you/s/he/SP} had a positive TB skin test?,Both males and females 1 YEARS - 120 YEARS,,,,,,,,,,,,,
+3,TBQ030,After getting a positive TB skin test {were you/was SP} prescribed any medicine to keep {you/him/her} from getting sick with TB?,Both males and females 1 YEARS - 120 YEARS,,,,,,,,,,,,,
+4,TBQ040,{Were you/Was SP} ever told that {you/s/he/SP} had active tuberculosis or TB?,Both males and females 1 YEARS - 120 YEARS,,,,,,,,,,,,,
+5,TBQ050,{Were you/Was SP} ever prescribed any medicine to treat active tuberculosis or TB?,Both males and females 1 YEARS - 120 YEARS,,,,,,,,,,,,,
+6,TBQ060,{Have you/Has SP} ever lived in the same household with someone while that person was sick with tuberculosis or TB?,Both males and females 1 YEARS - 120 YEARS,,,,,,,,,,,,,

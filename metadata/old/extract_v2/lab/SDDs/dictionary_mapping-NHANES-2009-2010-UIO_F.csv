@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,URXUIO,,,,,,,,,,,,
-2,URXUCR,,,,,,,,,,,,
-3,WTSA2YR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,URXUIO,Iodine urine (ug/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,URXUCR,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,WTSA2YR,Environmental A 2 year weights,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

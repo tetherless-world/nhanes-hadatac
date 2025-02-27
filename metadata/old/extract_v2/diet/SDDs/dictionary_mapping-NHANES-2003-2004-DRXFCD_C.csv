@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,DRXFDCD,,,,,,,,,,,,
-1,DRXFCSD,,,,,,,,,,,,
-2,DRXFCLD,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,DRXFDCD,USDA food code to be matched with individual foods file.,,,,,,,,,,,,,,
+1,DRXFCSD,Food Code Short Description,,,,,,,,,,,,,,
+2,DRXFCLD,Food Code Long Description,,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTANA2YR,,,,,,,,,,,,
-2,SSDFSS,,,,,,,,,,,,
-3,SSDFSE,,,,,,,,,,,,
-4,SSDFSR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTANA2YR,ANA Subsample 2 year Weight,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSDFSS,Dense fine speckled signal,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSDFSE,Dense fine speckled EIS unit,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSDFSR,Dense fine speckled result,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

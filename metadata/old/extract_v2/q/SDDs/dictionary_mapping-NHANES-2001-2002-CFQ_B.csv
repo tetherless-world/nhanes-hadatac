@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,CFD010,,,,,,,,,,,,
-2,CFQ020,,,,,,,,,,,,
-3,CFD030,,,,,,,,,,,,
-4,CFD040,,,,,,,,,,,,
-5,CFD050,,,,,,,,,,,,
-6,CFDFINSH,,,,,,,,,,,,
-7,CFDRIGHT,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,CFD010,,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,CFQ020,Now I am going to ask you to copy some symbols. Do you usually wear glasses to read (other than the glasses you are currently wearing)? Please put on your reading glasses.,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,CFD030,,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,CFD040,,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,CFD050,,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,CFDFINSH,,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,CFDRIGHT,,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,

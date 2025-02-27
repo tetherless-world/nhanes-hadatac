@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB21","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 59 YEARS",NA,NA
 "LAB21","WTSVOC2Y","WTSVOC2Y","VOC subsample 2 yr MEC Weight","","Both males and females 20 YEARS - 59 YEARS",NA,"Code.or.Value=[""0 to 992877.35227"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""851"", ""0""]; Cumulative=[""851"", ""851""]; Skip.to.Item=[""NA"", ""NA""]"
 "LAB21","LBXZBZ","LBXZBZ","Benzene (ug/cubic meter)","Benzene (ug/cubic meter)","Both males and females 20 YEARS - 59 YEARS",NA,"Code.or.Value=[""0.7294215727 to 119.47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""647"", ""204""]; Cumulative=[""647"", ""851""]; Skip.to.Item=[""NA"", ""NA""]"

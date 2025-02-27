@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,INDFMMPC,,,,,,,,,,,,
-1,INDFMMPI,,,,,,,,,,,,
-2,SEQN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,INDFMMPC,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,INDFMMPI,Family monthly poverty level index a ratio of monthly family income to the HHS poverty guidelines specific to family size.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

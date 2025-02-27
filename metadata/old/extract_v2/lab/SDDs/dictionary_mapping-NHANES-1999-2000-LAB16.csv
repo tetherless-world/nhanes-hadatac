@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,URXUMA,,,,,,,,,,,,
-2,URXUMASI,,,,,,,,,,,,
-3,URXUCR,,,,,,,,,,,,
-4,URXUCRSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,URXUMA,Albumin urine (ug/mL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,URXUMASI,Albumin urine (mg/L) SI,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,URXUCR,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,URXUCRSI,Creatinine urine (umol/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

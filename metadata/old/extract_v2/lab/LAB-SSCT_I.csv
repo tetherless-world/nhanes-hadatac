@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSCT_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 18 YEARS - 39 YEARS",NA,NA
 "SSCT_I","SSCTEIA","SSCTEIA","Chlamydia Pgp3 ELISA","Chlamydia Pgp3 ELISA","Females only 18 YEARS - 39 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""Negative"", ""Positive"", ""Missing""]; Count=[""503"", ""304"", ""0""]; Cumulative=[""503"", ""807"", ""807""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSCT_I","SSCTMBA","SSCTMBA","Chlamydia Pgp3 MBA","Chlamydia Pgp3 MBA","Females only 18 YEARS - 39 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""Negative"", ""Positive"", ""Missing""]; Count=[""530"", ""277"", ""0""]; Cumulative=[""530"", ""807"", ""807""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "AUXAR_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 69 YEARS",NA,NA
 "AUXAR_B","WTSAU2YR","WTSAU2YR","Audiometry Subsample 2 Year Mec Weight","Audiometry Subsample 2 Year Mec Weight","Both males and females 20 YEARS - 69 YEARS",NA,"Code.or.Value=[""3358.5324887 to 411457.26869"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1914"", ""132""]; Cumulative=[""1914"", ""2046""]; Skip.to.Item=[""NA"", ""NA""]"
 "AUXAR_B","WTSAU4YR","WTSAU4YR","Audiometry Subsample 4 Year Mec Weight","Audiometry Subsample 4 Year Mec Weight","Both males and females 20 YEARS - 69 YEARS",NA,"Code.or.Value=[""1717.538914 to 212637.94244"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1914"", ""132""]; Cumulative=[""1914"", ""2046""]; Skip.to.Item=[""NA"", ""NA""]"

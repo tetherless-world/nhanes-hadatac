@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L17_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
 "L17_B","LBDTO1","LBDTO1","Toxoplasma (IgG)","Toxoplasma (IgG)","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 240"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5751"", ""603""]; Cumulative=[""5751"", ""6354""]; Skip.to.Item=[""NA"", ""NA""]"
 "L17_B","LBXTO2","LBXTO2","Toxoplasma (IgM)","Toxoplasma (IgM)","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 10.7"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""527"", ""5827""]; Cumulative=[""527"", ""6354""]; Skip.to.Item=[""NA"", ""NA""]"

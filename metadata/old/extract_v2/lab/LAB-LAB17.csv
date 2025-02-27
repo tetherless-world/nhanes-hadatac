@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB17","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
 "LAB17","LBDC1","LBDC1","Cryptosporidium (17kDA)","Cryptosporidium (17kDA)","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""1199"", ""3891"", ""573""]; Cumulative=[""1199"", ""5090"", ""5663""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "LAB17","LBDC2","LBDC2","Cryptosporidium (27kDA)","Cryptosporidium (27kDA)","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""3458"", ""1632"", ""573""]; Cumulative=[""3458"", ""5090"", ""5663""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "CFQ_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 60 YEARS - 150 YEARS",NA,NA
 "CFQ_B","CFD010","CFD010","Can do exercise without distraction?","","Both males and females 60 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""1733"", ""74"", ""65""]; Cumulative=[""1733"", ""1807"", ""1872""]; Skip.to.Item=["""", ""End of Section"", """"]"
 "CFQ_B","CFQ020","CFQ020","Usually wear glasses to read?","Now I am going to ask you to copy some symbols. Do you usually wear glasses to read (other than the glasses you are currently wearing)? Please put on your reading glasses.","Both males and females 60 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""1209"", ""524"", ""139""]; Cumulative=[""1209"", ""1733"", ""1872""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

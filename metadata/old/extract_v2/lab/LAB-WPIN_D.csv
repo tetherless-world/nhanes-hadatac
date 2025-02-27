@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "WPIN_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "WPIN_D","WTSPC2YR","WTSPC2YR","Two-year MEC weight of water perchlorate","Two-year MEC weights of water perchlorate","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 386575.00873"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3435"", ""0""]; Cumulative=[""3435"", ""3435""]; Skip.to.Item=[""NA"", ""NA""]"
 "WPIN_D","LBXWIO","LBXWIO","Iodide water (ng/mL)","Iodide water (ng/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.14 to 904"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3262"", ""173""]; Cumulative=[""3262"", ""3435""]; Skip.to.Item=[""NA"", ""NA""]"

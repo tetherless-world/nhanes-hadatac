@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UFLDE_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 19 YEARS",NA,NA
 "UFLDE_I","URXUFL","URXUFL","Fluoride urine (mg/L)","Fluoride urine (mg/L)","Both males and females 6 YEARS - 19 YEARS",NA,"Code.or.Value=[""0.102 to 10.986"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2408"", ""139""]; Cumulative=[""2408"", ""2547""]; Skip.to.Item=[""NA"", ""NA""]"
 "UFLDE_I","URDUFLLC","URDUFLLC","Fluoride urine comment code","Fluoride urine comment code","Both males and females 6 YEARS - 19 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""2270"", ""138"", ""139""]; Cumulative=[""2270"", ""2408"", ""2547""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

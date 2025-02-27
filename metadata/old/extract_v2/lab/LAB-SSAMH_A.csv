@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSAMH_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Males only 12 YEARS - 150 YEARS",NA,NA
 "SSAMH_A","SSAMH","SSAMH","Anti-Mullerian Hormone (ng/ml)","Anti-Mullerian Hormone (ng/ml)","Males only 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.002 to 112.684"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""370"", ""37""]; Cumulative=[""370"", ""407""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSAMH_A","SSINHBIN","SSINHBIN","Inhibin B (pg/ml)","Inhibin B (pg/ml)","Males only 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""12.422 to 395.505"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""376"", ""31""]; Cumulative=[""376"", ""407""]; Skip.to.Item=[""NA"", ""NA""]"

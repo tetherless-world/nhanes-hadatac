@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,ALQ010,,,,,,,,,,,,
-2,ALD020,,,,,,,,,,,,
-3,ALD030,,,,,,,,,,,,
-4,ALD040,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 18 YEARS - 19 YEARS,,,,,,,,,,,,,
+1,ALQ010,English Text: The following questions ask about alcohol use. This includes beer wine wine coolers and liquor such as rum gin vodka or whiskey. This does not include drinking a few sips of wine for religious purposes. How old were you when you had your first drink of alcohol other than a few sips?,Both males and females 18 YEARS - 19 YEARS,,,,,,,,,,,,,
+2,ALD020,During your life on how many days have you had at least one drink of alcohol?,Both males and females 18 YEARS - 19 YEARS,,,,,,,,,,,,,
+3,ALD030,During the past 30 days on how many days did you have at least one drink of alcohol?,Both males and females 18 YEARS - 19 YEARS,,,,,,,,,,,,,
+4,ALD040,During the past 30 days on how many days did you have 5 or more drinks of alcohol in a row that is within a couple of hours?,Both males and females 18 YEARS - 19 YEARS,,,,,,,,,,,,,

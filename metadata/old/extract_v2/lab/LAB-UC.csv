@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UC","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 18 YEARS - 59 YEARS",NA,NA
 "UC","URXPREG","URXPREG","Pregnancy test result","Pregnancy test result","Females only 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""0"", ""1"", ""2"", ""3"", ""4"", "".""]; Value.Description=[""None"", ""Positive"", ""Negative"", ""Not done"", ""Invalid"", ""Missing""]; Count=[""0"", ""281"", ""1519"", ""0"", ""0"", ""36""]; Cumulative=[""0"", ""281"", ""1800"", ""1800"", ""1800"", ""1836""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

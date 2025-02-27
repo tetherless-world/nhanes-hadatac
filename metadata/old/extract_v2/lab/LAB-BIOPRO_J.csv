@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BIOPRO_J","SEQN","SEQN","Respondent Sequence Number","Respondent Sequence Number","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "BIOPRO_J","LBXSATSI","LBXSATSI","Alanine Aminotransferase (ALT) (U/L)","Alanine Aminotransferase (ALT) (U/L)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""2 to 420"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5902"", ""499""]; Cumulative=[""5902"", ""6401""]; Skip.to.Item=[""NA"", ""NA""]"
 "BIOPRO_J","LBDSATLC","LBDSATLC","ALT Comment Code","Alanine Aminotransferase (ALT) Comment Code","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""5901"", ""1"", ""499""]; Cumulative=[""5901"", ""5902"", ""6401""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

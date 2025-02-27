@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HIV_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 18 YEARS - 59 YEARS",NA,NA
 "HIV_J","LBXHIVC","LBXHIVC","HIV-1 2 Combo Test","HIV-1 2 Combo Test","Both males and females 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""HIV-1/2 Reactive"", ""HIV-1/2 Non-reactive"", ""Missing""]; Count=[""17"", ""3230"", ""268""]; Cumulative=[""17"", ""3247"", ""3515""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "HIV_J","LBXHIV1","LBXHIV1","HIV-1","HIV-1 antibody","Both males and females 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Reactive"", ""Non-reactive"", ""Indeterminate"", ""Missing""]; Count=[""15"", ""2"", ""0"", ""3498""]; Cumulative=[""15"", ""17"", ""17"", ""3515""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

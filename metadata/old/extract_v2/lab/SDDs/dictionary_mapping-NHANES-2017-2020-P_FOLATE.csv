@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,LBDRFO,,,,,,,,,,,,
-1,LBDRFOSI,,,,,,,,,,,,
-2,SEQN,,,,,,,,,,,,
-3,WTFOLPRP,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,LBDRFO,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBDRFOSI,RBC folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SEQN,Respondent sequence number,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,WTFOLPRP,Folate & Folate Form Weight Pre-Pandemic,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

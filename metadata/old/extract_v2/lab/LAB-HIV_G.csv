@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HIV_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 18 YEARS - 59 YEARS",NA,NA
 "HIV_G","LBDHI","LBDHI","HIV antibody test result","HIV antibody test result","Both males and females 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""19"", ""3587"", ""0"", ""322""]; Cumulative=[""19"", ""3606"", ""3606"", ""3928""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

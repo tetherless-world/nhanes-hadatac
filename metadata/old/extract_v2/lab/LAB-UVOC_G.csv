@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UVOC_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UVOC_G","WTSA2YR","WTSA2YR","Subsample A weights","Subsample A weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""12199.652219 to 643202.3505"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2551"", ""0"", ""0""]; Cumulative=[""2551"", ""2551"", ""2551""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UVOC_G","URXUCR","URXUCR","Creatinine urine (mg/dL)","Creatinine urine (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""4 to 800"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2523"", ""28""]; Cumulative=[""2523"", ""2551""]; Skip.to.Item=[""NA"", ""NA""]"

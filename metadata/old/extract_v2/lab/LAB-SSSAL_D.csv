@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSSAL_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 64 YEARS",NA,NA
 "SSSAL_D","SSSalIgA","SSSalIgA","Salmonella IgA","Salmonella IgA","Both males and females 20 YEARS - 64 YEARS",NA,"Code.or.Value=[""0.004 to 2.471"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1113"", ""14""]; Cumulative=[""1113"", ""1127""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSSAL_D","SSSalIgG","SSSalIgG","Salmonella IgG","Salmonella IgG","Both males and females 20 YEARS - 64 YEARS",NA,"Code.or.Value=[""0 to 2.212"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1114"", ""13""]; Cumulative=[""1114"", ""1127""]; Skip.to.Item=[""NA"", ""NA""]"

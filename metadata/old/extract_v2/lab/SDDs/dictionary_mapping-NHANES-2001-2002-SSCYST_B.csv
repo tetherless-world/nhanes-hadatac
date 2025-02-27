@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSCYPC,,,,,,,,,,,,
-2,WTSCY4YR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSCYPC,Cystatin C (mg/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,WTSCY4YR,Surplus sera cystatin 99-02 weights,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

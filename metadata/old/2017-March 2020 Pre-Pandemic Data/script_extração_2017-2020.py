@@ -104,11 +104,11 @@ for url in urls:
                             break  # Para na primeira ocorrência de link válido
 
                     dados.append({
-                        'Titulo': titulo,
-                        'Descricao': descricao,
-                        'Nome_Modulo': nome_modulo,
+                        'Title': titulo,
+                        'Description': descricao,
+                        'Module_Name': nome_modulo,
                         'Inline Description': inline_desc,
-                        'Documento': documento,
+                        'Document': documento,
                         'Link': link
                     })
 

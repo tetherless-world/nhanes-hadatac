@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXMEA,,,,,,,,,,,,
-2,LBXMUM,,,,,,,,,,,,
-3,LBXRUB,,,,,,,,,,,,
-4,LBDVWCGP,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,LBXMEA,Measles antibody (IgG),Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,LBXMUM,Mumps antibody (IgG),Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,LBXRUB,Rubella antibody (IgG),Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+4,LBDVWCGP,Varicella antibody confirmed,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,

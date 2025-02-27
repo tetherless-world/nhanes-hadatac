@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "GHB_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "GHB_J","LBXGH","LBXGH","Glycohemoglobin (%)","Glycohemoglobin (%)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""3.8 to 16.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6045"", ""356""]; Cumulative=[""6045"", ""6401""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BMX_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "BMX_B","BMXWT","BMXWT","Weight (kg)","Weight (kg)","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""3.3 to 196.8"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""9825"", ""652""]; Cumulative=[""9825"", ""10477""]; Skip.to.Item=[""NA"", ""NA""]"
 "BMX_B","BMIWT","BMIWT","Weight Comment","Weight Comment","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", ""4"", "".""]; Value.Description=[""Could not obtain"", ""Exceeds capacity"", ""Clothing"", ""Medical appliance"", ""Missing""]; Count=[""35"", ""0"", ""531"", ""21"", ""9890""]; Cumulative=[""35"", ""35"", ""566"", ""587"", ""10477""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBDTO1,,,,,,,,,,,,
-2,LBXTO2,,,,,,,,,,,,
-3,LBXTO3,,,,,,,,,,,,
-4,LBXTO4,,,,,,,,,,,,
-5,LBXTO4IN,,,,,,,,,,,,
-6,LBXTO5,,,,,,,,,,,,
-7,LBXTO5IN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,LBDTO1,Toxoplasma (IgG),Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,LBXTO2,Toxoplasma (IgM),Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,LBXTO3,Toxoplasma (Dye) Positive => 1:8,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+4,LBXTO4,Toxoplasma Differential Agglutination,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+5,LBXTO4IN,Toxoplasma Agglutin Interpretation,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+6,LBXTO5,Toxoplasma (Avidity) IgG,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+7,LBXTO5IN,Toxoplasma (Avidity) IgG Interpretation,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,

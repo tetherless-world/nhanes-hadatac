@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TFR_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 5 YEARS",NA,NA
 "TFR_I","LBXTFR","LBXTFR","Transferrin receptor (mg/L)","Transferrin receptor (mg/L)","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""1 to 34.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2638"", ""614""]; Cumulative=[""2638"", ""3252""]; Skip.to.Item=[""NA"", ""NA""]"
 "TFR_I","LBDTFRSI","LBDTFRSI","Transferrin receptor (nmol/L)","Transferrin receptor (nmol/L)","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""11.8 to 404"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2638"", ""614""]; Cumulative=[""2638"", ""3252""]; Skip.to.Item=[""NA"", ""NA""]"

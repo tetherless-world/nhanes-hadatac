@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,DRXFDCD,,,,,,,,,,,,
-1,DRXFCSD,,,,,,,,,,,,
-2,DRXFCLD,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,DRXFDCD,Food Code,,,,,,,,,,,,,,
+1,DRXFCSD,Short Food Code Description,,,,,,,,,,,,,,
+2,DRXFCLD,Long Food Code Description,,,,,,,,,,,,,,

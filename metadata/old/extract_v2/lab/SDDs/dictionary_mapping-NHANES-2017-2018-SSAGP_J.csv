@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSGP2Y,,,,,,,,,,,,
-2,SSAGP,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+1,WTSSGP2Y,Surplus specimen Alpha-1-Acid Glycoprotein 2 year weights,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+2,SSAGP,Alpha-1-Acid Glycoprotein (g/L),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,

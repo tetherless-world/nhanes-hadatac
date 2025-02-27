@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "POOLTF_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "POOLTF_H","SAMPLEID","SAMPLEID","Pool identification number","Pool identification number","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1 to 284"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2157"", ""161""]; Cumulative=[""2157"", ""2318""]; Skip.to.Item=[""NA"", ""NA""]"
 "POOLTF_H","WTSB2YRA","WTSB2YRA","Adjusted subsample weight","Adjusted subsample weight for the individual participant in pooled sample","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""."", ""0 to 507800.72923""]; Value.Description=[""Missing"", ""Range of Values""]; Count=[""0"", ""2318""]; Cumulative=[""2318"", ""2318""]; Skip.to.Item=[""NA"", ""NA""]"

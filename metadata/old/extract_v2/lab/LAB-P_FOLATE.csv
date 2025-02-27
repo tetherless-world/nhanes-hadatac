@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "P_FOLATE","LBDRFO","LBDRFO","RBC folate (ng/mL)","RBC folate (ng/mL)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""50.3 to 2590"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7420"", ""966""]; Cumulative=[""7420"", ""8386""]; Skip.to.Item=[""NA"", ""NA""]"
 "P_FOLATE","LBDRFOSI","LBDRFOSI","RBC folate (nmol/L)","RBC folate (nmol/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""114 to 5870"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7420"", ""966""]; Cumulative=[""7420"", ""8386""]; Skip.to.Item=[""NA"", ""NA""]"
 "P_FOLATE","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 1 YEARS - 150 YEARS",NA,NA

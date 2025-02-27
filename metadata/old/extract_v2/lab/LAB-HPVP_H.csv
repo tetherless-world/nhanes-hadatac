@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HPVP_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Males only 18 YEARS - 59 YEARS",NA,NA
 "HPVP_H","LBDRPCR","LBDRPCR","Roche HPV linear array summary result","Roche HPV linear array (LA) summary result","Males only 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Inadequate"", ""Missing""]; Count=[""795"", ""962"", ""111"", ""107""]; Cumulative=[""795"", ""1757"", ""1868"", ""1975""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "HPVP_H","LBDRHP","LBDRHP","Roche LA high positive globin control","Roche LA high positive globin control","Males only 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""1710"", ""47"", ""218""]; Cumulative=[""1710"", ""1757"", ""1975""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

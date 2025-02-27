@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PFC_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "PFC_F","WTSC2YR","WTSC2YR","Two-year MEC weights of subsample C","Two-year MEC weights of subsample C ","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 413068.05064"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2432"", ""0""]; Cumulative=[""2432"", ""2432""]; Skip.to.Item=[""NA"", ""NA""]"
 "PFC_F","LBXEPAH","LBXEPAH","2-(N-ethyl-PFOSA) acetate","2-(N-Ethyl-perfluorooctane sulfonamido) acetic acid","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.07 to 1"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2233"", ""199""]; Cumulative=[""2233"", ""2432""]; Skip.to.Item=[""NA"", ""NA""]"

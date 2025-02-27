@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PAH_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "PAH_F","WTSB2YR","WTSB2YR","Subsample B Weights","Subsample B Weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 426061.06902"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2819"", ""0""]; Cumulative=[""2819"", ""2819""]; Skip.to.Item=[""NA"", ""NA""]"
 "PAH_F","URXP01","URXP01","1-hydroxynaphthalene (ng/L)","1-hydroxynaphthalene (ng/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""55 to 11664396"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2747"", ""72""]; Cumulative=[""2747"", ""2819""]; Skip.to.Item=[""NA"", ""NA""]"

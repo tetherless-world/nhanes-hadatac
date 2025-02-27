@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSOG2YR,,,,,,,,,,,,
-2,LBXGLT,,,,,,,,,,,,
-3,LBDGLTSI,,,,,,,,,,,,
-4,PHAFSTHR,,,,,,,,,,,,
-5,PHAFSTMN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSOG2YR,OGTT Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXGLT,Two hour oral glucose tolerance (OGTT) (mg/dL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDGLTSI,Two Hour Glucose(OGTT) (mmol/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,PHAFSTHR,Total length of food fast hours,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,PHAFSTMN,Total length of food fast minutes,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "CMV_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 5 YEARS",NA,NA
 "CMV_G","LBXIGG","LBXIGG","Cytomegalovirus (IgG)","Cytomegalovirus (IgG)","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""positive"", ""negative"", ""indeterminate"", ""Missing""]; Count=[""192"", ""506"", ""1"", ""436""]; Cumulative=[""192"", ""698"", ""699"", ""1135""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "CMV_G","LBXIGGA","LBXIGGA","Cytomegalovirus (IgG) avidity","Cytomegalovirus (IgG) avidity","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""low"", ""high"", ""indeterminate"", ""Missing""]; Count=[""24"", ""160"", ""8"", ""943""]; Cumulative=[""24"", ""184"", ""192"", ""1135""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

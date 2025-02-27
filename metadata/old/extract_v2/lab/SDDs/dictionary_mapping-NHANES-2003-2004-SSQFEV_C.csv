@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,ELISA,,,,,,,,,,,,
-2,PHASE1,,,,,,,,,,,,
-3,PHASE2,,,,,,,,,,,,
-4,SSQFEVER,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,ELISA,ELISA result interpretation,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,PHASE1,Phase I IFA Titer IgG,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,PHASE2,Phase II IFA Titer IgG,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSQFEVER,Antibody to Q fever,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,

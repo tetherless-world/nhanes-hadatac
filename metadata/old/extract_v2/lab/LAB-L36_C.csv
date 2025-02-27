@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L36_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 49 YEARS",NA,NA
 "L36_C","LBXSY1","LBXSY1","Syphilis IgG EIA","Syphilis IgG EIA","Both males and females 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""53"", ""2676"", ""10"", ""237""]; Cumulative=[""53"", ""2729"", ""2739"", ""2976""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "L36_C","LBDSY3","LBDSY3","Syphilis RPR Titer Level","Syphilis RPR (rapid plasmin test) titer level","Both males and females 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 32"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""63"", ""2913""]; Cumulative=[""63"", ""2976""]; Skip.to.Item=[""NA"", ""NA""]"

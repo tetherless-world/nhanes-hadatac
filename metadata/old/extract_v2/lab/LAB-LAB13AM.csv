@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB13AM","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "LAB13AM","WTSAF2YR","WTSAF2YR","2Yr AM(3-11) & fasting (12+) weights","2Yr AM(3-11) & fasting (12+) weights","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.000000000000 to 548458.788065636000"", ""0"", "".""]; Value.Description=[""Range of Values"", ""0"", ""Missing""]; Count=[""0"", ""3915"", ""0""]; Cumulative=[""0"", ""3915"", ""3915""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "LAB13AM","WTSAF4YR","WTSAF4YR","4Yr AM(3-11) & fasting (12+) weights","4Yr AM(3-11) & fasting (12+) weights","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.000000000000 to 232307.266244386000"", ""0"", "".""]; Value.Description=[""Range of Values"", ""0"", ""Missing""]; Count=[""0"", ""3915"", ""0""]; Cumulative=[""0"", ""3915"", ""3915""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,nan,,
-1,WTSAF2YR,0 To 337218.92,Range Of Values,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
-2,WTSAF2YR,.,Missing,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
-3,LBXAPB,16 To 229,Range Of Values,Apolipoprotein (B) (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
-4,LBXAPB,.,Missing,Apolipoprotein (B) (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
-5,LBDAPBSI,0.16 To 2.29,Range Of Values,Apolipoprotein (B) (g/L),Both males and females 12 YEARS - 150 YEARS,nan,,
-6,LBDAPBSI,.,Missing,Apolipoprotein (B) (g/L),Both males and females 12 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,WTSAF2YR,0 To 337218.92,Range Of Values,,
+2,WTSAF2YR,.,Missing,,
+3,LBXAPB,16 To 229,Range Of Values,,
+4,LBXAPB,.,Missing,,
+5,LBDAPBSI,0.16 To 2.29,Range Of Values,,
+6,LBDAPBSI,.,Missing,,

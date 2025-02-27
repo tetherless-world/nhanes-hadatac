@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L10_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "L10_C","LBXGH","LBXGH","Glycohemoglobin (%)","Glycohemoglobin (%)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""3.3 to 18"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6601"", ""389""]; Cumulative=[""6601"", ""6990""]; Skip.to.Item=[""NA"", ""NA""]"

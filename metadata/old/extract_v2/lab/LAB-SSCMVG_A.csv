@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSCMVG_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
 "SSCMVG_A","SSgB1","SSgB1","CMV gB1 variant","CMV gB1 variant","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Insufficient DNA"", ""Missing""]; Count=[""105"", ""183"", ""249"", ""0""]; Cumulative=[""105"", ""288"", ""537"", ""537""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "SSCMVG_A","SSgB2","SSgB2","CMV gB2 variant","CMV gB2 variant","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Insufficient DNA"", ""Missing""]; Count=[""57"", ""231"", ""249"", ""0""]; Cumulative=[""57"", ""288"", ""537"", ""537""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

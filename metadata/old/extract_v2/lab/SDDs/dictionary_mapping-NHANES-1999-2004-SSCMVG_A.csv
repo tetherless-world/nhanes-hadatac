@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSgB1,,,,,,,,,,,,
-2,SSgB2,,,,,,,,,,,,
-3,SSgB3,,,,,,,,,,,,
-4,SSgB4,,,,,,,,,,,,
-5,SSgH1,,,,,,,,,,,,
-6,SSgH2,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,SSgB1,CMV gB1 variant,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,SSgB2,CMV gB2 variant,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,SSgB3,CMV gB3 variant,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+4,SSgB4,CMV gB4 variant,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+5,SSgH1,CMV gH1 variant,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+6,SSgH2,CMV gH2 variant,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,

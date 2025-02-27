@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSMC2Y,,,,,,,,,,,,
-2,SSISR,,,,,,,,,,,,
-3,SSMUMPS,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,WTSSMC2Y,Surplus specimen SSMUMP and SSCMV 2 year weights,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,SSISR,Specimen Index ratio,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,SSMUMPS,Antibody to mumps,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,

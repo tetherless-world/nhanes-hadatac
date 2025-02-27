@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXBCD,,,,,,,,,,,,
-2,LBDBCDSI,,,,,,,,,,,,
-3,LBXBPB,,,,,,,,,,,,
-4,LBDBPBSI,,,,,,,,,,,,
-5,LBXTHG,,,,,,,,,,,,
-6,LBDTHGSI,,,,,,,,,,,,
-7,LBDTHGLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXBCD,Cadmium (ug/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDBCDSI,Cadmium (nmol/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXBPB,Lead (ug/dL),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDBPBSI,Lead (umol/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBXTHG,Mercury total (ug/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,LBDTHGSI,,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,LBDTHGLC,Mercury total comment code,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

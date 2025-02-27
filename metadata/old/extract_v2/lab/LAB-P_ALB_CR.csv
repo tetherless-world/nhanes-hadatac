@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "P_ALB_CR","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "P_ALB_CR","URDACT","URDACT","Albumin creatinine ratio (mg/g)","Albumin creatinine ratio (mg/g)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.27 to 11676.92"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""12509"", ""518""]; Cumulative=[""12509"", ""13027""]; Skip.to.Item=[""NA"", ""NA""]"
 "P_ALB_CR","URDUCRLC","URDUCRLC","Creatinine urine comment code","Creatinine urine comment code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""12507"", ""2"", ""518""]; Cumulative=[""12507"", ""12509"", ""13027""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

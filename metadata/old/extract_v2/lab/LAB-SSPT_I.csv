@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSPT_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSPT_I","SSFHA","SSFHA","Pertussis Filamentous hemagglutinin ab","Pertussis Filamentous hemagglutinin antibody IU/mL","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.19 to 3549.45"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5911"", ""0""]; Cumulative=[""5911"", ""5911""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSPT_I","SSFHAL","SSFHAL","Pertussis Filamentous hemag ab cmt code","Pertussis Filamentous hemag ab comment code","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above LLOQ"", ""Below LLOQ"", ""Missing""]; Count=[""5911"", ""0"", ""0""]; Cumulative=[""5911"", ""5911"", ""5911""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

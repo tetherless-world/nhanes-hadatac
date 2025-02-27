@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXHBC,,,,,,,,,,,,
-2,LBDHBG,,,,,,,,,,,,
-3,LBDHCV,,,,,,,,,,,,
-4,LBXHCR,,,,,,,,,,,,
-5,LBDHD,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXHBC,Hepatitis B core antibody,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDHBG,Hepatitis B surface antigen,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDHCV,Hepatitis C antibody (confirmed),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBXHCR,Hepatitis C RNA (HCV-RNA),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBDHD,Hepatitis D (anti-HDV),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

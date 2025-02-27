@@ -1,9 +1,9 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 5 YEARS,nan,,
-1,WTPH2YR,6213.3002375 To 253478.77765,Range Of Values,Phlebotomy 2 MEC Weight,Both males and females 1 YEARS - 5 YEARS,nan,,
-2,WTPH2YR,0,No Blood Sample Provided,Phlebotomy 2 MEC Weight,Both males and females 1 YEARS - 5 YEARS,nan,,
-3,WTPH2YR,.,Missing,Phlebotomy 2 MEC Weight,Both males and females 1 YEARS - 5 YEARS,nan,,
-4,LBXTFR,1.41 To 29.4,Range Of Values,Transferrin receptor (mg/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-5,LBXTFR,.,Missing,Transferrin receptor (mg/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-6,LBDTFRSI,16.6 To 347,Range Of Values,Transferrin receptor (nmol/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-7,LBDTFRSI,.,Missing,Transferrin receptor (nmol/L),Both males and females 1 YEARS - 5 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,WTPH2YR,6213.3002375 To 253478.77765,Range Of Values,,
+2,WTPH2YR,0,No Blood Sample Provided,,
+3,WTPH2YR,.,Missing,,
+4,LBXTFR,1.41 To 29.4,Range Of Values,,
+5,LBXTFR,.,Missing,,
+6,LBDTFRSI,16.6 To 347,Range Of Values,,
+7,LBDTFRSI,.,Missing,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PERNTS_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "PERNTS_H","WTFSM","WTFSM","Two year smoking weights","Two year smoking weights","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 456840.9815"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2605"", ""0""]; Cumulative=[""2605"", ""2605""]; Skip.to.Item=[""NA"", ""NA""]"
 "PERNTS_H","URXUP8","URXUP8","Urinary perchlorate (ng/mL)","Urinary perchlorate (ng/mL)","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""."", ""0.0354 to 583""]; Value.Description=[""Missing"", ""Range of Values""]; Count=[""97"", ""2508""]; Cumulative=[""2605"", ""2508""]; Skip.to.Item=[""NA"", ""NA""]"

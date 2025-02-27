@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXSY1,,,,,,,,,,,,
-2,LBDSY3,,,,,,,,,,,,
-3,LBDSY4,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 18 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,LBXSY1,Syphilis IgG EIA,Both males and females 18 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,LBDSY3,Syphilis RPR (rapid plasmin test) titer level,Both males and females 18 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,LBDSY4,Syphilis treponemal pallidum agglutin (TPA),Both males and females 18 YEARS - 49 YEARS,,,,,,,,,,,,,

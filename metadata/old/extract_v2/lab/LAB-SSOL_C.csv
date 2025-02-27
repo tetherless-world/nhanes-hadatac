@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSOL_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "SSOL_C","SSIMP","SSIMP","PEL_Impression","PEL_Impression","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""PEL_Impression"", ""< blank >""]; Value.Description=[""Value was recorded"", ""Missing""]; Count=[""2089"", ""0""]; Cumulative=[""2089"", ""2089""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSOL_C","SSRES","SSRES","IF_Result","IF_Result","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""IF_Result"", ""< blank >""]; Value.Description=[""Value was recorded"", ""Missing""]; Count=[""211"", ""1878""]; Cumulative=[""211"", ""2089""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSMHHT_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "SSMHHT_I","WTSSBI2Y","WTSSBI2Y","Surplus specimen B 15-16 2 year weights","Surplus specimen 2 year weights B for 2015-2016","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""11617.110763 to 931491.77436"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""2393"", ""0"", ""0""]; Cumulative=[""2393"", ""2393"", ""2393""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSMHHT_I","SSMHHT","SSMHHT","Mono2ethyl5hydroxyhexyl terephth (ug/L)","Mono2ethyl5hydroxyhexyl terephth (ug/L)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.3 to 876.6"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2393"", ""0""]; Cumulative=[""2393"", ""2393""]; Skip.to.Item=[""NA"", ""NA""]"

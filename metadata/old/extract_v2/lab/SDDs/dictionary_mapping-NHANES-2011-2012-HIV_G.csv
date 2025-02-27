@@ -1,3 +1,3 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBDHI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+1,LBDHI,HIV antibody test result,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,

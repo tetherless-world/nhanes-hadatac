@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSFR_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "SSFR_J","WTSSBJ2Y","WTSSBJ2Y","Surplus specimen B 17-18 2 yr weights","Surplus specimen 2 year weights B for 2017-2018","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""5978.513209 to 1489188.6434"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""2331"", ""655"", ""0""]; Cumulative=[""2331"", ""2986"", ""2986""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSFR_J","SSIPPP","SSIPPP","2(isopropyl)phenyl)phenyl phosphateug/L","2-((isopropyl)phenyl)phenyl phosphate (µg/L)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.035 to 4.19"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2321"", ""665""]; Cumulative=[""2321"", ""2986""]; Skip.to.Item=[""NA"", ""NA""]"

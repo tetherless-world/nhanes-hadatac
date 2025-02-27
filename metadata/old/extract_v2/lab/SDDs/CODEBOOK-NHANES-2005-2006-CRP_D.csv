@@ -1,5 +1,5 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,nan,,
-1,LBXCRP,0.02 To 17.5,Range Of Values,C-reactive protein (mg/dL),Both males and females 1 YEARS - 150 YEARS,nan,,
-2,LBXCRP,0.01,At Or Below Detection Limit Fill Value,C-reactive protein (mg/dL),Both males and females 1 YEARS - 150 YEARS,nan,,
-3,LBXCRP,.,Missing,C-reactive protein (mg/dL),Both males and females 1 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXCRP,0.02 To 17.5,Range Of Values,,
+2,LBXCRP,0.01,At Or Below Detection Limit Fill Value,,
+3,LBXCRP,.,Missing,,

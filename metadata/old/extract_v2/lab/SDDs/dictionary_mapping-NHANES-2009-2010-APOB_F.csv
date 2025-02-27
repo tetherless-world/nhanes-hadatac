@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSAF2YR,,,,,,,,,,,,
-2,LBXAPB,,,,,,,,,,,,
-3,LBDAPBSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSAF2YR,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXAPB,Apolipoprotein (B) (mg/dL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDAPBSI,Apolipoprotein (B) (g/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

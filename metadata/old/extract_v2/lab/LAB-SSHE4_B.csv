@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSHE4_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 20 YEARS - 150 YEARS",NA,NA
 "SSHE4_B","SSHE4","SSHE4","Human epididymal. secretory protein pM","Human epididymal. secretory protein pM","Females only 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.38 to 466.9"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2388"", ""0""]; Cumulative=[""2388"", ""2388""]; Skip.to.Item=[""NA"", ""NA""]"

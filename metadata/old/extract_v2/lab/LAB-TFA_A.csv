@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TFA_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "TFA_A","WTTFA2YR","WTTFA2YR","Trans Fatty Acid Subsample 2 Year Weight","Trans Fatty Acid Subsample 2 Year Weight","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 548458.78807"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4328"", ""0""]; Cumulative=[""4328"", ""4328""]; Skip.to.Item=[""NA"", ""NA""]"
 "TFA_A","LBXHDT","LBXHDT","trans-9-Hexadecenoic acid (umol/L)","Trans 9-Hexadecenoic acid concentrt (umol/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.1 to 33.1"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2804"", ""1524""]; Cumulative=[""2804"", ""4328""]; Skip.to.Item=[""NA"", ""NA""]"

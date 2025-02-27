@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,HUQ010,,,,,,,,,,,,
-2,HUQ030,,,,,,,,,,,,
-3,HUQ042,,,,,,,,,,,,
-4,HUQ055,,,,,,,,,,,,
-5,HUQ085,,,,,,,,,,,,
-6,HUQ090,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,HUQ010,{First/Next} I have some general questions about {your/SPs} health. Would you say {your/SPs} health in general is . . .,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,HUQ030,Is there a place that {you/SP} usually {go/goes} when {you are/he/she is} sick or {you/s/he} need{s} advice about {your/his/her} health?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,HUQ042,{What kind of place is it/ What kind of place {do you/does SP} go to most often} - a doctors office or health center; an urgent care center or clinic in a drug store or grocery store; an emergency room; a VA Medical Center or VA outpatient clinic; or some other place? READ IF NECESSARY: A doctors office or health center is a place where you see the same doctor or same group of doctors every visit where you usually need to make an appointment ahead of time and where your medical records are on file. READ IF NECESSARY: Urgent care centers and clinics in a drug store or grocery store are places where you do not need to make an appointment ahead of time and do not usually see the same health care provider.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,HUQ055,In past 12 months {have you/has SP} had an appointment with a doctor nurse or other health professional by video conference or by phone?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,HUQ085,,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,HUQ090,During the past 12 months that is since {DISPLAY CURRENT MONTH} of {DISPLAY LAST YEAR} {have you/has SP} seen or talked to a mental health professional such as a psychologist psychiatrist psychiatric nurse or clinical social worker about {your/his/her} health?,Both males and females 4 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSPFAS_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "SSPFAS_H","WTSSBH2Y","WTSSBH2Y","Surplus specimen B 13-14 2 year weights","Surplus specimen 2 year weights B for 2013-2014","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""18617.10368 to 503724.60594"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""1954"", ""0"", ""0""]; Cumulative=[""1954"", ""1954"", ""1954""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSPFAS_H","SSNPFOA","SSNPFOA","Linear perfluorooctanoate (ug/L)","Linear perfluorooctanoate (ug/L)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.07 to 85.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1954"", ""0""]; Cumulative=[""1954"", ""1954""]; Skip.to.Item=[""NA"", ""NA""]"

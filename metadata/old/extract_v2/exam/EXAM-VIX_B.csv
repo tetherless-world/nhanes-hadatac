@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VIX_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "VIX_B","VIQ110","VIQ110","SP has a severe eye infection?","Does SP appear to have a severe eye infection in one or both eyes?","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""3"", ""7045"", ""397""]; Cumulative=[""3"", ""7048"", ""7445""]; Skip.to.Item=["""", ""VIQ130"", """"]"
 "VIX_B","VIQ121","VIQ121","Which eye(s) infected?","if VIQ110 = Yes record which eye(s) is/are affected.","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Right"", ""Left"", ""Both"", ""Missing""]; Count=[""0"", ""2"", ""1"", ""7442""]; Cumulative=[""0"", ""2"", ""3"", ""7445""]; Skip.to.Item=[""End of Section"", ""End of Section"", ""End of Section"", """"]"

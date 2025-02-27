@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,PADACTIV,,,,,,,,,,,,
-2,PADLEVEL,,,,,,,,,,,,
-3,PADTIMES,,,,,,,,,,,,
-4,PADDURAT,,,,,,,,,,,,
-5,PADMETS,,,,,,,,,,,,
-6,PAAQUEX,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,PADACTIV,[Over the past 30 days] what {vigorous/moderate} activities did {you/SP} do?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,PADLEVEL,Reported intensity level of activity,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,PADTIMES,[Over the past 30 day] how often did {you/SP} do {activity}?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,PADDURAT,[Over the past 30 days] on average about how long did {you/SP} do {activity} each time?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,PADMETS,Metabolic equivalent(MET) intensity level for activity.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,PAAQUEX,Questionnaire source flag for weighting,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

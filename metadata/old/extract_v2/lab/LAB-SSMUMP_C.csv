@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSMUMP_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
 "SSMUMP_C","WTSSMC2Y","WTSSMC2Y","SSMUMP and SSCMV 2 year weights","Surplus specimen SSMUMP and SSCMV 2 year weights","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 173091.17897"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4876"", ""0""]; Cumulative=[""4876"", ""4876""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSMUMP_C","SSISR","SSISR","Specimen Index ratio","Specimen Index ratio","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0.138 to 12.459"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4872"", ""4""]; Cumulative=[""4872"", ""4876""]; Skip.to.Item=[""NA"", ""NA""]"

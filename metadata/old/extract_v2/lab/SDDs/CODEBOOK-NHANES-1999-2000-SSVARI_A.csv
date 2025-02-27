@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 19 YEARS,nan,,
-1,VARICELL,1,Positive,Varicella antibody,Both males and females 6 YEARS - 19 YEARS,nan,,
-2,VARICELL,2,Negative,Varicella antibody,Both males and females 6 YEARS - 19 YEARS,nan,,
-3,VARICELL,3,Equivocal,Varicella antibody,Both males and females 6 YEARS - 19 YEARS,nan,,
-4,VARICELL,.,Missing,Varicella antibody,Both males and females 6 YEARS - 19 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,VARICELL,1,Positive,,
+2,VARICELL,2,Negative,,
+3,VARICELL,3,Equivocal,,
+4,VARICELL,.,Missing,,

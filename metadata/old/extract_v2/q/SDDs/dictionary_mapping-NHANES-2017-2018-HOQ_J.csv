@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,HOD050,,,,,,,,,,,,
-2,HOQ065,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,HOD050,How many rooms are in this home? Count the kitchen but not the bathroom.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,HOQ065,Is this {mobile home/house/apartment} owned being bought rented or occupied by some other arrangement by {you/you or someone else in your family}?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

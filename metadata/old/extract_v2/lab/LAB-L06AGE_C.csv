@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L06AGE_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "L06AGE_C","LBXACR","LBXACR","Acrylamide (pmoL/G Hb)","Acrylamide (pmoL/G Hb)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""2.12 to 910"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7101"", ""1455""]; Cumulative=[""7101"", ""8556""]; Skip.to.Item=[""NA"", ""NA""]"
 "L06AGE_C","LBDACRLC","LBDACRLC","Acrylamide comment code","Acrylamide comment code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""7096"", ""5"", ""1455""]; Cumulative=[""7096"", ""7101"", ""8556""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

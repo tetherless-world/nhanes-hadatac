@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXHE1,,,,,,,,,,,,
-2,LBXHE2,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 14 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,LBXHE1,Herpes Simplex Virus I,Both males and females 14 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,LBXHE2,Herpes Simplex Virus II,Both males and females 18 YEARS - 49 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "P_GLU","LBDGLUSI","LBDGLUSI","Fasting Glucose (mmol/L)","Fasting Glucose (mmol/L)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""2.61 to 29.1"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4744"", ""346""]; Cumulative=[""4744"", ""5090""]; Skip.to.Item=[""NA"", ""NA""]"
 "P_GLU","LBXGLU","LBXGLU","Fasting Glucose (mg/dL)","Fasting Glucose (mg/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""47 to 524"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4744"", ""346""]; Cumulative=[""4744"", ""5090""]; Skip.to.Item=[""NA"", ""NA""]"
 "P_GLU","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 12 YEARS - 150 YEARS",NA,NA

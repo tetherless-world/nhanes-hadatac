@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSA2YR,,,,,,,,,,,,
-2,URXUHG,,,,,,,,,,,,
-3,URDUHGLC,,,,,,,,,,,,
-4,URXUCR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSA2YR,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,URXUHG,Mercury urine (ug/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,URDUHGLC,Mercury urine comment code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,URXUCR,Creatinine urine (mg/dL) ,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

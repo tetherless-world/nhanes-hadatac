@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "CRCO_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 40 YEARS - 150 YEARS",NA,NA
 "CRCO_J","LBXBCR","LBXBCR","Chromium (ug/L)","Chromium (ug/L)","Both males and females 40 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.29 to 8.62"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3518"", ""158""]; Cumulative=[""3518"", ""3676""]; Skip.to.Item=[""NA"", ""NA""]"
 "CRCO_J","LBDBCRSI","LBDBCRSI","Chromium (nmol/L)","Chromium (nmol/L)","Both males and females 40 YEARS - 150 YEARS",NA,"Code.or.Value=[""5.58 to 165.76"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3518"", ""158""]; Cumulative=[""3518"", ""3676""]; Skip.to.Item=[""NA"", ""NA""]"

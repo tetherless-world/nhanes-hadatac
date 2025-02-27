@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSAF2YR,,,,,,,,,,,,
-2,LBXIN,,,,,,,,,,,,
-3,LBDINSI,,,,,,,,,,,,
-4,PHAFSTHR,,,,,,,,,,,,
-5,PHAFSTMN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSAF2YR,Fasting Subsample MEC Weight,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXIN,Insulin (uU/mL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDINSI,Insulin (pmol/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,PHAFSTHR,Total length of food fast hours,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,PHAFSTMN,Total length of food fast minutes,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,HOQ040,,,,,,,,,,,,
-2,HOD050,,,,,,,,,,,,
-3,HOD060,,,,,,,,,,,,
-4,HOQ065,,,,,,,,,,,,
-5,HOQ070,,,,,,,,,,,,
-6,HOQ080,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,HOQ040,When was this {mobile home/house/building} originally built?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,HOD050,How many rooms are in this home? Count the kitchen but not the bathroom.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,HOD060,How many years {have you/has your family} lived at this address?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,HOQ065,Is this {mobile home/house/apartment} owned being bought rented or occupied by some other arrangement by {you/you or someone else in your family}?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,HOQ070,What is the source of tap water in this home? Is it a private or public water company a private or public well or something else?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,HOQ080,Are any of the water treatment devices listed on this card used in your home?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

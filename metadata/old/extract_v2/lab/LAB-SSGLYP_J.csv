@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSGLYP_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "SSGLYP_J","WTSSBJ2Y","WTSSBJ2Y","Surplus specimen B 17-18 2 yr weights","Surplus specimen 2 year weights B for 2017-2018","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""5978.513209 to 1489188.6434"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""2331"", ""655"", ""0""]; Cumulative=[""2331"", ""2986"", ""2986""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSGLYP_J","SSGLYP","SSGLYP","Glyphosate (ng/mL)","Glyphosate (ng/mL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.071 to 7.69"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2329"", ""657""]; Cumulative=[""2329"", ""2986""]; Skip.to.Item=[""NA"", ""NA""]"

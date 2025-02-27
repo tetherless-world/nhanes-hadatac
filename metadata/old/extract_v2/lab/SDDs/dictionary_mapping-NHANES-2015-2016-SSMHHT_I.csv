@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSBI2Y,,,,,,,,,,,,
-2,SSMHHT,,,,,,,,,,,,
-3,SSMHHTL,,,,,,,,,,,,
-4,SSECPT,,,,,,,,,,,,
-5,SSECPTL,,,,,,,,,,,,
-6,SSMONP,,,,,,,,,,,,
-7,SSMONPL,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSSBI2Y,Surplus specimen 2 year weights B for 2015-2016,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSMHHT,Mono2ethyl5hydroxyhexyl terephth (ug/L),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSMHHTL,Mono2ethy-5hydroxyhexyl terephth cmt cd,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSECPT,Mono2ethyl5carboxypentyl terephth (ug/L),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SSECPTL,Mono2ethyl5carboxypentyl terephth cmt cd,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,SSMONP,Monooxoisononyl phthalate (ug/L),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,SSMONPL,Monooxoisononyl phthalate cmt cd,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,

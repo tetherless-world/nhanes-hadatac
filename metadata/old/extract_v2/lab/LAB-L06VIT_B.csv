@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L06VIT_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "L06VIT_B","LBXALC","LBXALC","a-carotene(ug/dL)","a-carotene(ug/dL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.7 to 190.6"", ""0.49"", "".""]; Value.Description=[""Range of Values"", ""Fill Value of Limit of Detection"", ""Missing""]; Count=[""7614"", ""745"", ""903""]; Cumulative=[""7614"", ""8359"", ""9262""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "L06VIT_B","LBDALCSI","LBDALCSI","a-carotene(umol/L)","a-carotene(umol/L)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.013 to 3.551"", ""0.009"", "".""]; Value.Description=[""Range of Values"", ""Fill Value of Limit of Detection"", ""Missing""]; Count=[""7614"", ""745"", ""903""]; Cumulative=[""7614"", ""8359"", ""9262""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

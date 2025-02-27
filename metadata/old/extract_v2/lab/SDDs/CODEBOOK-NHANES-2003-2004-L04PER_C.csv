@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,WTSC2YR,0 To 456851.11941,Range Of Values,Environmental C 2 year weights,Both males and females 6 YEARS - 150 YEARS,nan,,
-2,WTSC2YR,.,Missing,Environmental C 2 year weights,Both males and females 6 YEARS - 150 YEARS,nan,,
-3,URXUP8,0.052 To 290,Range Of Values,Urinary Perchlorate,Both males and females 6 YEARS - 150 YEARS,nan,,
-4,URXUP8,.,Missing,Urinary Perchlorate,Both males and females 6 YEARS - 150 YEARS,nan,,
-5,URXUCR,7 To 648,Range Of Values,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-6,URXUCR,.,Missing,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,WTSC2YR,0 To 456851.11941,Range Of Values,,
+2,WTSC2YR,.,Missing,,
+3,URXUP8,0.052 To 290,Range Of Values,,
+4,URXUP8,.,Missing,,
+5,URXUCR,7 To 648,Range Of Values,,
+6,URXUCR,.,Missing,,

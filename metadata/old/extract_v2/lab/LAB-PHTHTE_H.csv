@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PHTHTE_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "PHTHTE_H","WTSB2YR","WTSB2YR","Environmental B 2-year weights","Environmental B 2-year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""14988.396826 to 482310.7883"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab Result"", ""Missing""]; Count=[""2727"", ""50"", ""0""]; Cumulative=[""2727"", ""2777"", ""2777""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "PHTHTE_H","URXUCR","URXUCR","Creatinine urine (mg/dL)","Creatinine urine (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""8 to 659"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2690"", ""87""]; Cumulative=[""2690"", ""2777""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXIHG,,,,,,,,,,,,
-2,LBDIHGSI,,,,,,,,,,,,
-3,LBDIHGLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXIHG,Mercury inorganic (ug/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDIHGSI,Mercury inorganic (umol/L ),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDIHGLC,Mercury inorganic comment code,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DPQ_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "DPQ_E","DPQ001","DPQ001",NA,NA,"Both males and females 18 YEARS - 150 YEARS",NA,NA
 "DPQ_E","DPQ010","DPQ010","Little interest in doing things","Over the last 2 weeks how often have you been bothered by the following problems: little interest or pleasure in doing things? Would you say...","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", ""2"", ""3"", ""7"", ""9"", "".""]; Value.Description=[""Not at all"", ""Several days"", ""More than half the days"", ""Nearly every day"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""4094"", ""939"", ""239"", ""163"", ""0"", ""14"", ""546""]; Cumulative=[""4094"", ""5033"", ""5272"", ""5435"", ""5435"", ""5449"", ""5995""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

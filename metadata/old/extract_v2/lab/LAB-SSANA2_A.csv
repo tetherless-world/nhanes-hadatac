@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSANA2_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "SSANA2_A","WTANA6YR","WTANA6YR","Six-year SSANA subsample weights","Six-year SSANA subsample weights","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1715.213371 to 262789.6562"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""4532"", ""0"", ""0""]; Cumulative=[""4532"", ""4532"", ""4532""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSANA2_A","SSCYT","SSCYT","total cytoplasm intensity","total cytoplasm intensity","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 4"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4527"", ""5""]; Cumulative=[""4527"", ""4532""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSTERP_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSTERP_H","WTSSTP2Y","WTSSTP2Y","Surplus specimen terpenes 2 yr weights","Surplus specimen terpenes 2 year weights for 2013-2014","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""22973.238936 to 573739.59863"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""2213"", ""542"", ""0""]; Cumulative=[""2213"", ""2755"", ""2755""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSTERP_H","SSSAPN","SSSAPN","α-Pinene (ng/mL)","α-Pinene (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0354 to 1.03"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2178"", ""577""]; Cumulative=[""2178"", ""2755""]; Skip.to.Item=[""NA"", ""NA""]"

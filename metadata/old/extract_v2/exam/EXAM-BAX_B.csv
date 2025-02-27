@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BAX_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 40 YEARS - 150 YEARS",NA,NA
 "BAX_B","WTSBA4YR","WTSBA4YR","Balance Subsample 4 Year Mec Weight","Balance Subsample 4 Year Mec Weight","Both males and females 40 YEARS - 69 YEARS",NA,"Code.or.Value=[""1556.3775566 to 90972.569512"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2059"", ""1125""]; Cumulative=[""2059"", ""3184""]; Skip.to.Item=[""NA"", ""NA""]"
 "BAX_B","BAAEXSTS","BAAEXSTS","Status of a MEC exam","Status of a MEC exam","Both males and females 40 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not done"", ""Missing""]; Count=[""2498"", ""85"", ""601"", ""0""]; Cumulative=[""2498"", ""2583"", ""3184"", ""3184""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L39_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "L39_B","LBXEPP","LBXEPP","Protoporphyrin(ug/dL RBC)","Protoporphyrin(ug/dL RBC)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 1480"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8927"", ""1002""]; Cumulative=[""8927"", ""9929""]; Skip.to.Item=[""NA"", ""NA""]"
 "L39_B","LBDEPPSI","LBDEPPSI","Protoporphyrin(µmol/L RBC)","Protoporphyrin(µmol/L RBC)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 26.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8927"", ""1002""]; Cumulative=[""8927"", ""9929""]; Skip.to.Item=[""NA"", ""NA""]"

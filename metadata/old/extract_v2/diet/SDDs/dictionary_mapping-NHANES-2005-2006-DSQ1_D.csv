@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,DSD010,,,,,,,,,,,,
-2,DSD010AN,,,,,,,,,,,,
-3,DSDCOUNT,,,,,,,,,,,,
-4,DSDANCNT,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,DSD010,The next questions are about {your/SPs} use of dietary supplements and medications during the past month. {Have you/Has SP} used or taken any vitamins minerals or other dietary supplements in the past month? Include those products prescribed by a health professional such as a doctor or dentist and those that do not require a prescription. This card lists some examples of different types of dietary supplements.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,DSD010AN,,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,DSDCOUNT,Includes all supplements and the antacids reported with supplements but not antacids reported with medications.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,DSDANCNT,Includes all antacids reported with medications.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSBFR_B","POOLID","POOLID","Pool ID number","Pool ID number","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=["".""]; Value.Description=[""Missing""]; Count=[""0""]; Cumulative=[""0""]; Skip.to.Item=[""NA""]"
 "SSBFR_B","RIAGENDR","RIAGENDR","Gender","Gender","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Male"", ""Female"", ""Missing""]; Count=[""38"", ""40"", ""0""]; Cumulative=[""38"", ""78"", ""78""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSBFR_B","RIDRAETN","RIDRAETN","Ethnicity","Ethnicity","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Non-Hispanic White"", ""Non-Hispanic Black"", ""Mexican American"", ""Missing""]; Count=[""35"", ""20"", ""23"", ""0""]; Cumulative=[""35"", ""55"", ""78"", ""78""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

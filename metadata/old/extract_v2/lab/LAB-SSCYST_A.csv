@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSCYST_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "SSCYST_A","SSCYPC","SSCYPC","Cystatin C (mg/L)","Cystatin C (mg/L)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.47 to 7.15"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2471"", ""37""]; Cumulative=[""2471"", ""2508""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSCYST_A","WTSCY4YR","WTSCY4YR","Surplus sera cystatin 99-02 weights","Surplus sera cystatin 99-02 weights","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 418199.9809"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2508"", ""0""]; Cumulative=[""2508"", ""2508""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "OGTT_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "OGTT_D","WTSOG2YR","WTSOG2YR","OGTT Subsample 2 Year MEC Weight","OGTT Subsample 2 Year MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 389074.997"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2723"", ""629""]; Cumulative=[""2723"", ""3352""]; Skip.to.Item=[""NA"", ""NA""]"
 "OGTT_D","LBXGLT","LBXGLT","Two Hour Glucose(OGTT) (mg/dL)","Two hour oral glucose tolerance (OGTT) (mg/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""31 to 490"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2319"", ""1033""]; Cumulative=[""2319"", ""3352""]; Skip.to.Item=[""NA"", ""NA""]"

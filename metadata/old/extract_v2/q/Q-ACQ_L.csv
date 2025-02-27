@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ACQ_L","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "ACQ_L","ACD010A","ACD010A","Speak English at home-Non-Hispanics","What language(s) {do you/does SP} usually speak at home?","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""77"", ""99"", "".""]; Value.Description=[""English"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""8597"", ""0"", ""2"", ""2773""]; Cumulative=[""8597"", ""8597"", ""8599"", ""11372""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "ACQ_L","ACD010B","ACD010B","Speak Spanish at home-Non-Hispanics","What language(s) {do you/does SP} usually speak at home?","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""8"", "".""]; Value.Description=[""Spanish"", ""Missing""]; Count=[""26"", ""11346""]; Cumulative=[""26"", ""11372""]; Skip.to.Item=[""NA"", ""NA""]"

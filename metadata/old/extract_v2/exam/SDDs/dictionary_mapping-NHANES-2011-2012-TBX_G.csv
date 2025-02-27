@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,TBQ070,,,,,,,,,,,,
-2,TBDRUIND,,,,,,,,,,,,
-3,TBXRUVES,,,,,,,,,,,,
-4,TBXRUULC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,TBQ070,Have you ever had a severe reaction to a tuberculosis (TB) skin test?,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,TBDRUIND,Induration in mm,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,TBXRUVES,PPDS vesiculation,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,TBXRUULC,PPDS ulceration,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

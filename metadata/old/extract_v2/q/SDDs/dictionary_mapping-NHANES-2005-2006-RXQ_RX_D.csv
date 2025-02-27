@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,RXDUSE,,,,,,,,,,,,
-2,RXDDRUG,,,,,,,,,,,,
-3,RXDDRGID,,,,,,,,,,,,
-4,RXQSEEN,,,,,,,,,,,,
-5,RXDDAYS,,,,,,,,,,,,
-6,RXDCOUNT,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,RXDUSE,In the past month have you used or taken medication for which a prescription is needed? Do not include prescription vitamins or minerals you may have already told me about.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,RXDDRUG,Generic drug name,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,RXDDRGID,Generic drug code,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,RXQSEEN,Was prescription container seen by interviewer?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,RXDDAYS,For how long have you been using or taking {PRODUCT NAME}?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,RXDCOUNT,The number of prescription medicines reported,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

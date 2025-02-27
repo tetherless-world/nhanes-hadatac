@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,RXQ033,,,,,,,,,,,,
-2,RXQ050,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,RXQ033,In the past 30 days {have you/has SP} used or taken medication for which a prescription is needed? Include only those products prescribed by a health professional such as a doctor or dentist. {Please remember to include any prescription birth control products that you are taking or using such as pills or patches.} Do not include prescription vitamins or minerals.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,RXQ050,How many prescription medications {have you/has SP} taken in the past 30 days? Would you say {you have/SP has} taken…,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

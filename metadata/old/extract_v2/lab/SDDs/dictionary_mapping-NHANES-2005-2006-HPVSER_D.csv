@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXS06MK,,,,,,,,,,,,
-2,LBXS11MK,,,,,,,,,,,,
-3,LBXS16MK,,,,,,,,,,,,
-4,LBXS18MK,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+1,LBXS06MK,HPV 06 (Merck competitive Luminex assay),Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+2,LBXS11MK,HPV 11(Merck competitive Luminex assay),Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+3,LBXS16MK,HPV 16 (Merck competitive Luminex assay),Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+4,LBXS18MK,HPV 18 (Merck competitive Luminex assay),Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,

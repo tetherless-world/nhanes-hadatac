@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 16 YEARS - 69 YEARS,nan,,
-1,LB2DAY,3 To 47,Range Of Values,Days between 1st and 2nd exam,Both males and females 16 YEARS - 69 YEARS,nan,,
-2,LB2DAY,.,Missing,Days between 1st and 2nd exam,Both males and females 16 YEARS - 69 YEARS,nan,,
-3,LB2EPP,17 To 312,Range Of Values,Erythrocyte protoporphyrin (ug/dL RBC),Both males and females 16 YEARS - 69 YEARS,nan,,
-4,LB2EPP,.,Missing,Erythrocyte protoporphyrin (ug/dL RBC),Both males and females 16 YEARS - 69 YEARS,nan,,
-5,LB2EPPSI,0.3 To 5.52,Range Of Values,Erythrocyte protoporphyrin (umol/L RBC),Both males and females 16 YEARS - 69 YEARS,nan,,
-6,LB2EPPSI,.,Missing,Erythrocyte protoporphyrin (umol/L RBC),Both males and females 16 YEARS - 69 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LB2DAY,3 To 47,Range Of Values,,
+2,LB2DAY,.,Missing,,
+3,LB2EPP,17 To 312,Range Of Values,,
+4,LB2EPP,.,Missing,,
+5,LB2EPPSI,0.3 To 5.52,Range Of Values,,
+6,LB2EPPSI,.,Missing,,

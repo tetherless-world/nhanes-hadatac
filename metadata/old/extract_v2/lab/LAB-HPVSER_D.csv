@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HPVSER_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 59 YEARS",NA,NA
 "HPVSER_D","LBXS06MK","LBXS06MK","HPV 06 (Merck competitive Luminex assay)","HPV 06 (Merck competitive Luminex assay)","Both males and females 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1 to 2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3523"", ""323""]; Cumulative=[""3523"", ""3846""]; Skip.to.Item=[""NA"", ""NA""]"
 "HPVSER_D","LBXS11MK","LBXS11MK","HPV 11 (Merck competitive Luminex assay)","HPV 11(Merck competitive Luminex assay)","Both males and females 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1 to 2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3523"", ""323""]; Cumulative=[""3523"", ""3846""]; Skip.to.Item=[""NA"", ""NA""]"

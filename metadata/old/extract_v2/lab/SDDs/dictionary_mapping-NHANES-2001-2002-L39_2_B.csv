@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LB2DAY,,,,,,,,,,,,
-2,LB2EPP,,,,,,,,,,,,
-3,LB2EPPSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,
+1,LB2DAY,Days between 1st and 2nd exam,Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,
+2,LB2EPP,Erythrocyte protoporphyrin (ug/dL RBC),Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,
+3,LB2EPPSI,Erythrocyte protoporphyrin (umol/L RBC),Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,

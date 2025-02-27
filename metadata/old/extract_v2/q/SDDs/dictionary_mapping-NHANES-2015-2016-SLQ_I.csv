@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SLQ300,,,,,,,,,,,,
-2,SLQ310,,,,,,,,,,,,
-3,SLD012,,,,,,,,,,,,
-4,SLQ030,,,,,,,,,,,,
-5,SLQ040,,,,,,,,,,,,
-6,SLQ050,,,,,,,,,,,,
-7,SLQ120,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SLQ300,The next set of questions is about {your/SPs} sleeping habits. The first two questions refer to the times {you get/SP gets} in and out of bed in order to sleep not including naps. What time {do you/does SP} usually go to sleep on weekdays or workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SLQ310,What time {do you/does SP} usually wake up on weekdays or workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SLD012,How much sleep {do you/does SP} usually get at night on weekdays or workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SLQ030,In the past 12 months how often did {you/SP} snore while {you were/s/he was} sleeping?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SLQ040,In the past 12 months how often did {you/SP} snort gasp or stop breathing while {you were/s/he was} asleep?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,SLQ050,{Have you/Has SP} ever told a doctor or other health professional that {you have/s/he has} trouble sleeping?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,SLQ120,In the past month how often did {you/SP} feel excessively or overly sleepy during the day?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,

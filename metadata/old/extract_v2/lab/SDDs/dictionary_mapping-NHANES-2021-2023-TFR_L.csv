@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTPH2YR,,,,,,,,,,,,
-2,LBXTFR,,,,,,,,,,,,
-3,LBDTFRSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+1,WTPH2YR,Phlebotomy 2 MEC Weight,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+2,LBXTFR,Transferrin receptor (mg/L),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+3,LBDTFRSI,Transferrin receptor (nmol/L),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,

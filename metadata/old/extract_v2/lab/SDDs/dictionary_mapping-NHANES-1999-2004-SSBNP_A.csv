@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSCB2Y,,,,,,,,,,,,
-2,WTSSCB4Y,,,,,,,,,,,,
-3,SSBNP,,,,,,,,,,,,
-4,SSBNPL,,,,,,,,,,,,
-5,SSPRIS,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSSCB2Y,Surplus specimen cardiac biomarkers 2 year weights,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,WTSSCB4Y,Surplus specimen cardiac biomarker 4 yr weights 1999-2002,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSBNP,NT-proBNP pg/ml,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSBNPL,NT-proBNP comment code,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SSPRIS,Pristine sample,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

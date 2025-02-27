@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UHM_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UHM_D","WTSA2YR","WTSA2YR","Two-year MEC weights of subsample A","Two-year MEC weights of subsample A","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 412940.77909"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2692"", ""0""]; Cumulative=[""2692"", ""2692""]; Skip.to.Item=[""NA"", ""NA""]"
 "UHM_D","URXUCR","URXUCR","Creatinine urine (mg/dL)","Creatinine urine (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""7 to 534"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2608"", ""84""]; Cumulative=[""2608"", ""2692""]; Skip.to.Item=[""NA"", ""NA""]"

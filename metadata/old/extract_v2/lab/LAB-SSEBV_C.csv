@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSEBV_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 19 YEARS",NA,NA
 "SSEBV_C","SSEBV","SSEBV","Epstein Barr Virus result","Epstein Barr Virus result","Both males and females 6 YEARS - 19 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", ""4"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Equivocal"", ""Quantity not sufficient"", ""Missing""]; Count=[""2151"", ""529"", ""21"", ""0"", ""0""]; Cumulative=[""2151"", ""2680"", ""2701"", ""2701"", ""2701""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"
 "SSEBV_C","SSEBVIND","SSEBVIND","Epstein Barr Virus index","Epstein Barr Virus index","Both males and females 6 YEARS - 19 YEARS",NA,"Code.or.Value=[""0 to 6.72"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2701"", ""0""]; Cumulative=[""2701"", ""2701""]; Skip.to.Item=[""NA"", ""NA""]"

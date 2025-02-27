@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "MMRV_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
 "MMRV_F","LBXMEA","LBXMEA","Measles antibody (IgG)","Measles antibody (IgG)","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0.028 to 9.71"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5054"", ""598""]; Cumulative=[""5054"", ""5652""]; Skip.to.Item=[""NA"", ""NA""]"
 "MMRV_F","LBXMUM","LBXMUM","Mumps antibody (IgG)","Mumps antibody (IgG)","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0.09 to 8.091"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5054"", ""598""]; Cumulative=[""5054"", ""5652""]; Skip.to.Item=[""NA"", ""NA""]"

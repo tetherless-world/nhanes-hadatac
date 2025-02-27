@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HSQ_L","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 16 YEARS - 150 YEARS",NA,NA
 "HSQ_L","HSQ590","HSQ590","Blood ever tested for HIV virus?","Except for tests {you/SP} may have had as part of blood donations {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?","Both males and females 16 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""7"", ""9"", "".""]; Value.Description=[""Yes"", ""No"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""1654"", ""4087"", ""1"", ""9"", ""864""]; Cumulative=[""1654"", ""5741"", ""5742"", ""5751"", ""6615""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

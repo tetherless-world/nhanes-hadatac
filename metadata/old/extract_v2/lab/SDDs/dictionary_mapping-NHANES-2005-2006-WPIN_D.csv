@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSPC2YR,,,,,,,,,,,,
-2,LBXWIO,,,,,,,,,,,,
-3,LBDWIOLC,,,,,,,,,,,,
-4,LBXWNO,,,,,,,,,,,,
-5,LBDWNOLC,,,,,,,,,,,,
-6,LBXWP8,,,,,,,,,,,,
-7,LBDWP8LC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSPC2YR,Two-year MEC weights of water perchlorate,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXWIO,Iodide water (ng/mL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDWIOLC,Iodide water comment code,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBXWNO,Nitrate water (ng/mL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBDWNOLC,Nitrate water comment code,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,LBXWP8,Perchlorate water (ng/mL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,LBDWP8LC,Perchlorate water comment code,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

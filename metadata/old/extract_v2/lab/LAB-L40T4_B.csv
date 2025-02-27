@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L40T4_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "L40T4_B","WTSTH2YR","WTSTH2YR","Thyroid hormones Subsample 2 yr Mec Wgt","Thyroid hormones Subsample 2 yr Mec Wgt","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 663502.47832"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2547"", ""0""]; Cumulative=[""2547"", ""2547""]; Skip.to.Item=[""NA"", ""NA""]"
 "L40T4_B","WTSTH4YR","WTSTH4YR","Thyroid hormones Subsample 4 yr Mec Wgt","Thyroid hormones Subsample 4 yr Mec Wgt","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 345844.28659"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2547"", ""0""]; Cumulative=[""2547"", ""2547""]; Skip.to.Item=[""NA"", ""NA""]"

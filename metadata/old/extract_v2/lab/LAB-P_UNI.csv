@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "P_UNI","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "P_UNI","URDUNILC","URDUNILC","Nickel Urine Comment Code","Nickel Urine Comment Code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above detection limit"", ""below lower detection limit"", ""Missing""]; Count=[""4267"", ""302"", ""321""]; Cumulative=[""4267"", ""4569"", ""4890""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "P_UNI","URXUNI","URXUNI","Nickel Urine (ug/L)","Nickel Urine (ug/L)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.22 to 64.12"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4569"", ""321""]; Cumulative=[""4569"", ""4890""]; Skip.to.Item=[""NA"", ""NA""]"

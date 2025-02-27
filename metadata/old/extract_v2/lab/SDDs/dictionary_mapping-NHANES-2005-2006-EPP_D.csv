@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXEPP,,,,,,,,,,,,
-2,LBDEPPSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 5 YEARS,,,,,,,,,,,,,
+1,LBXEPP,Protoporphyrin(ug/dL RBC),Both males and females 3 YEARS - 5 YEARS,,,,,,,,,,,,,
+2,LBDEPPSI,Protoporphyrin (umol/L RBC),Both males and females 3 YEARS - 5 YEARS,,,,,,,,,,,,,

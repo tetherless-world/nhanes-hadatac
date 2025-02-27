@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "IHGEM_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "IHGEM_H","WTSH2YR","WTSH2YR","Blood metal weights","Blood metal weights","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""4533.45942 to 322113.58855"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Participants 12+ years with no lab specimen"", ""Missing""]; Count=[""5766"", ""166"", ""0""]; Cumulative=[""5766"", ""5932"", ""5932""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "IHGEM_H","LBXIHG","LBXIHG","Mercury inorganic (ug/L)","Inorganic mercury blood (ug/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.19 to 13"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5175"", ""757""]; Cumulative=[""5175"", ""5932""]; Skip.to.Item=[""NA"", ""NA""]"

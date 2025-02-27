@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PHPYPA_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "PHPYPA_B","WTSPH2YR","WTSPH2YR","Phthalate Subsample 2 year Mec Weight","Phthalate Subsample 2 year Mec Weight","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 604129.28044"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2901"", ""0""]; Cumulative=[""2901"", ""2901""]; Skip.to.Item=[""NA"", ""NA""]"
 "PHPYPA_B","WTSPH4YR","WTSPH4YR","Phthalate Subsample 4 year Mec Weight","Phthalate Subsample 4 year Mec","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 303669.30938"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2901"", ""0""]; Cumulative=[""2901"", ""2901""]; Skip.to.Item=[""NA"", ""NA""]"

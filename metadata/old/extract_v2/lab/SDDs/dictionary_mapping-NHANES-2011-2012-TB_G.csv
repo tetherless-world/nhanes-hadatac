@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXTBA,,,,,,,,,,,,
-2,LBXTBN,,,,,,,,,,,,
-3,LBXTBIN,,,,,,,,,,,,
-4,LBXTBM,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXTBA,TB Antigen result,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXTBN,TB Nil control result,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXTBIN,TB coded result,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBXTBM,TB Mitogen control result,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

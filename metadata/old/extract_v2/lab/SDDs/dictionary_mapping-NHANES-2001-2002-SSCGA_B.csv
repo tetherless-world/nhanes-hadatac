@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSCA125L,,,,,,,,,,,,
-2,SSCA125I,,,,,,,,,,,,
-3,SSCA153L,,,,,,,,,,,,
-4,SSCA153I,,,,,,,,,,,,
-5,SSHE4L,,,,,,,,,,,,
-6,SSHE4I,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSCA125L,Cancer antigen 125 IgG luminescent units,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSCA125I,Cancer antigen 125 IgG index,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSCA153L,Cancer antigen15.3 IgG luminescent unit,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSCA153I,Cancer antigen 15.3 IgG index,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SSHE4L,HE4 IgG luminescent units,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,SSHE4I,HE4 IgG index,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,

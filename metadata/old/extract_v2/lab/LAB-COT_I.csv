@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "COT_I","SEQN","SEQN","Respondent Sequence Number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "COT_I","LBXCOT","LBXCOT","Cotinine Serum (ng/mL)","Cotinine Serum (ng/mL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.011 to 1370"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7666"", ""942""]; Cumulative=[""7666"", ""8608""]; Skip.to.Item=[""NA"", ""NA""]"
 "COT_I","LBDCOTLC","LBDCOTLC","Cotinine Serum Comment Code","Cotinine Serum Comment Code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", ""2"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Detectable result and exceeds the calibrated range of assay"", ""Missing""]; Count=[""5115"", ""2551"", ""0"", ""942""]; Cumulative=[""5115"", ""7666"", ""7666"", ""8608""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

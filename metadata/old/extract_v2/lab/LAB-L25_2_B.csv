@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L25_2_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 16 YEARS - 69 YEARS",NA,NA
 "L25_2_B","LB2DAY","LB2DAY","Days between first and second exam","Days between first and second exam","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""3 to 47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""551"", ""6""]; Cumulative=[""551"", ""557""]; Skip.to.Item=[""NA"", ""NA""]"
 "L25_2_B","LB2WBCSI","LB2WBCSI","White blood cell count (1000 cells/uL)","White blood cell count (1000 cells/uL)","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""2.6 to 15.9"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""551"", ""6""]; Cumulative=[""551"", ""557""]; Skip.to.Item=[""NA"", ""NA""]"

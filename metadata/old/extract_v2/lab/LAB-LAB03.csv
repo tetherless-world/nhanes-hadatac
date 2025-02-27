@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB03","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 49 YEARS",NA,NA
 "LAB03","LBDHI","LBDHI","HIV antibody test result","HIV antibody test result","Both males and females 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""18"", ""2707"", ""2"", ""93""]; Cumulative=[""18"", ""2725"", ""2727"", ""2820""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "LAB03","LBXCD4","LBXCD4","CD4 counts (cells/mm3)","CD4 counts (cells/mm3)","Both males and females 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""5 to 1640"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""41"", ""2779""]; Cumulative=[""41"", ""2820""]; Skip.to.Item=[""NA"", ""NA""]"

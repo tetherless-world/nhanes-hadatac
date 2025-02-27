@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSA2YR,,,,,,,,,,,,
-2,URX14D,,,,,,,,,,,,
-3,URD14DLC,,,,,,,,,,,,
-4,URXDCB,,,,,,,,,,,,
-5,URDDCBLC,,,,,,,,,,,,
-6,URXUCR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSA2YR,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,URX14D,25-dichlorophenol (ug/L) result,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,URD14DLC,25-dichlorophenol comment,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,URXDCB,24-dichlorophenol (ug/L) result,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,URDDCBLC,24-dichlorophenol comment,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,URXUCR,Urinary creatinine (mg/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

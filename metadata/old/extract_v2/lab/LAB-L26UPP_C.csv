@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L26UPP_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "L26UPP_C","WTSC2YR","WTSC2YR","Environmental C 2 year weights","Environmental C 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 456851.11941"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2612"", ""0""]; Cumulative=[""2612"", ""2612""]; Skip.to.Item=[""NA"", ""NA""]"
 "L26UPP_C","URX24D","URX24D","24-D (ug/L)","24-D result (ug/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.07 to 43.08"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2488"", ""124""]; Cumulative=[""2488"", ""2612""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSA2YR,,,,,,,,,,,,
-2,LBXFOR,,,,,,,,,,,,
-3,LBDFORLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSA2YR,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXFOR,Formaldehyde (nmol/g HB),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDFORLC,Formaldehyde comment code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

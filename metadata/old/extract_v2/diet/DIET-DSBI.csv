@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DSBI","DSDIID","DSDIID","INGREDIENT ID NUMBER","Ingredient ID number","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""88 to 14305"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""32646"", ""0""]; Cumulative=[""32646"", ""32646""]; Skip.to.Item=[""NA"", ""NA""]"
 "DSBI","DSDINGR","DSDINGR","INGREDIENT NAME","Ingredient Name","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""INGREDIENT NAME"", ""< blank >""]; Value.Description=[""Value was recorded"", ""Missing""]; Count=[""32646"", ""0""]; Cumulative=[""32646"", ""32646""]; Skip.to.Item=[""NA"", ""NA""]"
 "DSBI","DSDBID","DSDBID","BLEND COMPONENT ID","Blend Component ID","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""3 to 14308"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""32646"", ""0""]; Cumulative=[""32646"", ""32646""]; Skip.to.Item=[""NA"", ""NA""]"

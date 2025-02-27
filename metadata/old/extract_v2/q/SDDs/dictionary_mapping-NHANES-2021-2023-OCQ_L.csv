@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,OCD150,,,,,,,,,,,,
-2,OCQ180,,,,,,,,,,,,
-3,OCQ200,,,,,,,,,,,,
-4,OCQ210,,,,,,,,,,,,
-5,OCQ215,,,,,,,,,,,,
-6,OCQ383,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,OCD150,In this part of the survey I will ask you questions about {your/SPs} work experience. Which of the following {were you/was SP} doing last week?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,OCQ180,How many hours did {you/SP} work last week at all jobs or businesses?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,OCQ200,,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,OCQ210,{Do you/Does SP} usually work 35 hours or more per week in total at all jobs or businesses?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,OCQ215,How many days per week {do you/does SP} usually work?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,OCQ383,(SP Interview Version) What is the main reason {you/SP} did not work last week? (Family Interview Version) What is the main reason {you/NON-SP HEAD/NON-SP SPOUSE} did not work last week?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,

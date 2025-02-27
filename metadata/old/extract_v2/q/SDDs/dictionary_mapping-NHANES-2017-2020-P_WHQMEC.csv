@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WHQ030M,,,,,,,,,,,,
-2,WHQ500,,,,,,,,,,,,
-3,WHQ520,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 8 YEARS - 15 YEARS,,,,,,,,,,,,,
+1,WHQ030M,Do you consider yourself now to be . . .,Both males and females 8 YEARS - 15 YEARS,,,,,,,,,,,,,
+2,WHQ500,Which of the following are you trying to do about your weight:,Both males and females 8 YEARS - 15 YEARS,,,,,,,,,,,,,
+3,WHQ520,In the past year how often have you tried to lose weight? Would you say . . .,Both males and females 8 YEARS - 15 YEARS,,,,,,,,,,,,,

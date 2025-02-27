@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PFC_POOL","PFCANA","PFCANA","Analyte Abbreviated Name","Analyte Abbreviated Name","Both males and females 3 YEARS - 11 YEARS",NA,"Code.or.Value=[""< blank >""]; Value.Description=[""Missing""]; Count=[""0""]; Cumulative=[""0""]; Skip.to.Item=[""NA""]"
 "PFC_POOL","PFCRACE","PFCRACE","Race","Race","Both males and females 3 YEARS - 11 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""non-Hispanic white"", ""non-Hispanic black"", ""Hispanic"", ""Missing""]; Count=[""88"", ""88"", ""88"", ""0""]; Cumulative=[""88"", ""176"", ""264"", ""264""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "PFC_POOL","PFCGENDR","PFCGENDR","Gender","Gender","Both males and females 3 YEARS - 11 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""male"", ""female"", ""Missing""]; Count=[""132"", ""132"", ""0""]; Cumulative=[""132"", ""264"", ""264""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

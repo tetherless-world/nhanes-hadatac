@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB07","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 59 YEARS",NA,NA
 "LAB07","LBXLA","LBXLA","Latex (IU/mL)","Latex (IU/mL)","Both males and females 12 YEARS - 59 YEARS",NA,"Code.or.Value=[""0.34 to 93.76"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4724"", ""428""]; Cumulative=[""4724"", ""5152""]; Skip.to.Item=[""NA"", ""NA""]"
 "LAB07","LBXLACL","LBXLACL","Latex class","Latex class","Both males and females 12 YEARS - 59 YEARS",NA,"Code.or.Value=[""0 to 5"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4724"", ""428""]; Cumulative=[""4724"", ""5152""]; Skip.to.Item=[""NA"", ""NA""]"

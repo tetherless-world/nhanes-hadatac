@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,BPQ020,,,,,,,,,,,,
-2,BPQ030,,,,,,,,,,,,
-3,BPQ150,,,,,,,,,,,,
-4,BPQ080,,,,,,,,,,,,
-5,BPQ101D,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,BPQ020,{Have you/Has SP} ever been told by a doctor or other health professional that {you/s/he} had hypertension also called high blood pressure?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,BPQ030,{Were you/Was SP} told on 2 or more different visits that {you/s/he} had hypertension also called high blood pressure?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,BPQ150,{Are you/Is SP} now taking any medication prescribed by a doctor for {your/his/her/SPs} high blood pressure?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,BPQ080,{Have you/Has SP} ever been told by a doctor or other health professional that {your/his/her} blood cholesterol level was high?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,BPQ101D,{Are you/Is SP} now taking any medication prescribed by a doctor lower {your/his/her/SPs} blood cholesterol?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,

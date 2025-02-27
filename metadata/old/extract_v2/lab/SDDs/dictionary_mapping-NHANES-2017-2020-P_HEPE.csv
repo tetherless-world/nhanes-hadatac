@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,LBDHEG,,,,,,,,,,,,
-1,LBDHEM,,,,,,,,,,,,
-2,SEQN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,LBDHEG,Hepatitis E IgG (anti-HEV),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBDHEM,Hepatitis E IgM (anti-HEV),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SEQN,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

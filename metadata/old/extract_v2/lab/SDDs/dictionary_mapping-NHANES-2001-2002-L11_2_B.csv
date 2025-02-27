@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LB2DAY,,,,,,,,,,,,
-2,LB2BAP,,,,,,,,,,,,
-3,LB2CRP,,,,,,,,,,,,
-4,LB2FB,,,,,,,,,,,,
-5,LB2FBSI,,,,,,,,,,,,
-6,UR2NT,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,
+1,LB2DAY,number of days between the collection of the first and second exam,Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,
+2,LB2BAP,Bone alkaline phosphotase (ug/L),Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,
+3,LB2CRP,C-reactive protein (mg/dL),Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,
+4,LB2FB,Fibrinogen (mg/dL),Both males and females 40 YEARS - 69 YEARS,,,,,,,,,,,,,
+5,LB2FBSI,Fibrinogen (g/L),Both males and females 40 YEARS - 69 YEARS,,,,,,,,,,,,,
+6,UR2NT,N-telopeptides (nmol BCE),Both males and females 16 YEARS - 69 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "OPD_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "OPD_D","WTSC2YR","WTSC2YR","Environmental C 2 year weights","Environmental C 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 475173.70936"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2756"", ""0""]; Cumulative=[""2756"", ""2756""]; Skip.to.Item=[""NA"", ""NA""]"
 "OPD_D","URXOP1","URXOP1","Dimethylphosphate result (ug/L)","Dimethylphosphate result (ug/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.33 to 673.42"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2635"", ""121""]; Cumulative=[""2635"", ""2756""]; Skip.to.Item=[""NA"", ""NA""]"

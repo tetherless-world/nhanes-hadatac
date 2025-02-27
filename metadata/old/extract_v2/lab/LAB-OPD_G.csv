@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "OPD_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "OPD_G","WTSC2YR","WTSC2YR","Environmental Subsample C Weights","Environmental Subsample C Weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""14032.338381 to 649694.78163"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Participants 6+ years with no lab specimen."", ""Missing""]; Count=[""2441"", ""64"", ""0""]; Cumulative=[""2441"", ""2505"", ""2505""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "OPD_G","URXOP1","URXOP1","Dimethylphosphate (ng/mL)","Dimethylphosphate (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.07 to 245"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2393"", ""112""]; Cumulative=[""2393"", ""2505""]; Skip.to.Item=[""NA"", ""NA""]"

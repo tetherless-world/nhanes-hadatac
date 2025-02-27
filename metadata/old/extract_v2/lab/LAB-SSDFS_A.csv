@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSDFS_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "SSDFS_A","WTANA6YR","WTANA6YR","ANA Subsample 6 year Weight","ANA Subsample 6 year Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""3914.879143 to 179906.04825"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""148"", ""0""]; Cumulative=[""148"", ""148""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSDFS_A","SSDFSS","SSDFSS","Dense fine speckled signal","Dense fine speckled signal","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1 to 4"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""148"", ""0""]; Cumulative=[""148"", ""148""]; Skip.to.Item=[""NA"", ""NA""]"

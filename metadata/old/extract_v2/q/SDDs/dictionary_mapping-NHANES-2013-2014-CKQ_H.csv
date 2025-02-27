@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,CKQ010,,,,,,,,,,,,
-2,CKQ020,,,,,,,,,,,,
-3,CKQ030,,,,,,,,,,,,
-4,CKQ040,,,,,,,,,,,,
-5,CKD060,,,,,,,,,,,,
-6,CKQ070Q,,,,,,,,,,,,
-7,CKQ070U,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,CKQ010,In the past 3 days did {you/SP} do any strenuous exercise or heavy physical work?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,CKQ020,Did it make {your/SPs} muscles sore or painful?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,CKQ030,In the past 3 days {have you/has SP} had a muscle injury bruise or injection? (Do not include insulin or allergy injections.),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,CKQ040,Did it make {your/SPs} muscles sore or painful?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,CKD060,In the last 3 days have {you/SP} had any muscle pain or soreness?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,CKQ070Q,For how many days weeks months or years long {have you/has SP} had this pain aching or soreness?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,CKQ070U,For how many days weeks months or years long {have you/has SP} had this pain aching or soreness?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

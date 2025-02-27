@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 5 YEARS,nan,,
-1,SSAGP,0.23 To 2.07,Range Of Values,Alpha-1-Acid Glycoprotein (g/L),Both males and females 3 YEARS - 5 YEARS,nan,,
-2,SSAGP,.,Missing,Alpha-1-Acid Glycoprotein (g/L),Both males and females 3 YEARS - 5 YEARS,nan,,
-3,WTSSAGPP,0 To 297408.07273,Range Of Values,Surplus specimen AGP weights pre-pandemic,Both males and females 3 YEARS - 5 YEARS,nan,,
-4,WTSSAGPP,.,Missing,Surplus specimen AGP weights pre-pandemic,Both males and females 3 YEARS - 5 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,SSAGP,0.23 To 2.07,Range Of Values,,
+2,SSAGP,.,Missing,,
+3,WTSSAGPP,0 To 297408.07273,Range Of Values,,
+4,WTSSAGPP,.,Missing,,

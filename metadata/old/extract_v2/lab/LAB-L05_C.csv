@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L05_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 39 YEARS",NA,NA
 "L05_C","URXUCL","URXUCL","Urinary Chlamydia","Chlamydia urine","Both males and females 18 YEARS - 39 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""67"", ""2061"", ""0"", ""89""]; Cumulative=[""67"", ""2128"", ""2128"", ""2217""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "L05_C","URXUGC","URXUGC","Urinary Gonorrhea","Urinary Gonorrhea","Both males and females 18 YEARS - 39 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""16"", ""2112"", ""0"", ""89""]; Cumulative=[""16"", ""2128"", ""2128"", ""2217""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

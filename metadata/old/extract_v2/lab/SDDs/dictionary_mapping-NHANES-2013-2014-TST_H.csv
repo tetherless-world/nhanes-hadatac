@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXTST,,,,,,,,,,,,
-2,LBDTSTLC,,,,,,,,,,,,
-3,LBXEST,,,,,,,,,,,,
-4,LBDESTLC,,,,,,,,,,,,
-5,LBXSHBG,,,,,,,,,,,,
-6,LBDSHGLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXTST,Testosterone total (ng/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDTSTLC,Testosterone comment code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXEST,Estradiol (pg/mL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDESTLC,Estradiol Comment Code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBXSHBG,Sex Hormone Binding Globulin (SHBG nmol/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,LBDSHGLC,SHBG Comment Code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

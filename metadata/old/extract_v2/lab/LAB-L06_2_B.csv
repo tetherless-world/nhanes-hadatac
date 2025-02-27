@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L06_2_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 16 YEARS - 69 YEARS",NA,NA
 "L06_2_B","LB2DAY","LB2DAY","Days between first and second exams","The number of days between the collections of first and second exams","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""3 to 47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""551"", ""0""]; Cumulative=[""551"", ""551""]; Skip.to.Item=[""NA"", ""NA""]"
 "L06_2_B","LB2BCD","LB2BCD","Cadmium (ug/L)","Cadmium (ug/L)","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""0.2 to 7"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""551"", ""0""]; Cumulative=[""551"", ""551""]; Skip.to.Item=[""NA"", ""NA""]"

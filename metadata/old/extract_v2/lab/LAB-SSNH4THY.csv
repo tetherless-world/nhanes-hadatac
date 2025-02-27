@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSNH4THY","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "SSNH4THY","SSATG","SSATG","Thyroglobulin antibody","Thyroglobulin antibody","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.6 to 1930.6"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2004"", ""6""]; Cumulative=[""2004"", ""2010""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSNH4THY","SST3F","SST3F","Free T3","Free T3","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.6 to 21.8"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2009"", ""1""]; Cumulative=[""2009"", ""2010""]; Skip.to.Item=[""NA"", ""NA""]"

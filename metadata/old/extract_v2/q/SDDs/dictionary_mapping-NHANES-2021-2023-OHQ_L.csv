@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,OHQ845,,,,,,,,,,,,
-2,OHQ620,,,,,,,,,,,,
-3,OHQ630,,,,,,,,,,,,
-4,OHQ640,,,,,,,,,,,,
-5,OHQ660,,,,,,,,,,,,
-6,OHQ670,,,,,,,,,,,,
-7,OHQ680,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,OHQ845,The next questions are about {your/SPs} teeth and gums. Overall how would {you/SP} rate the health of {your/his/her/SPs} teeth and gums? Would you say . . .,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,OHQ620,How often during the last year (have you/ has SP) had painful aching anywhere in (your/his/her/SPs) mouth? Would you say....,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,OHQ630,How often during the last year (have you/ has SP) felt that life in general was less satisfying because of problems with (your/his/her/SPs) teeth mouth or dentures? Would you say . . .,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,OHQ640,How often during the last year {have you/has SP} had difficulty doing {your/his/her/SPs} usual jobs or attending school because of problems with {your/his/her/SPs} teeth mouth or dentures? Would you say. . .,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,OHQ660,How often during the last year (have you/has SP) avoided particular foods because of problems with (your/his/her/SPs) teeth mouth or dentures? Would you say . . .,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,OHQ670,How often during last year {have you/has SP} found it uncomfortable to eat food because of problems with {your/his/her/SPs} teeth mouth or dentures? Would you say . . .,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,OHQ680,How often during the last year {have you/has SP} been self-conscious or embarrassed because of {your/his/her/SPs} teeth mouth or dentures? Would you say . ..,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,

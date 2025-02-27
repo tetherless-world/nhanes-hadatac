@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HCY_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 20 YEARS - 150 YEARS",NA,NA
 "HCY_D","LBXHCY","LBXHCY","Homocysteine (umol/L)","Homocysteine (umol/L)","Both males and females 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""2.13 to 145.00"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4490"", ""283""]; Cumulative=[""4490"", ""4773""]; Skip.to.Item=[""NA"", ""NA""]"

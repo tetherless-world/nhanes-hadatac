@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,HSQ590,1,Yes,Except for tests {you/SP} may have had as part of blood donations {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?,Both males and females 16 YEARS - 150 YEARS,nan,,
-1,HSQ590,2,No,Except for tests {you/SP} may have had as part of blood donations {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?,Both males and females 16 YEARS - 150 YEARS,nan,,
-2,HSQ590,7,Refused,Except for tests {you/SP} may have had as part of blood donations {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?,Both males and females 16 YEARS - 150 YEARS,nan,,
-3,HSQ590,9,Don'T Know,Except for tests {you/SP} may have had as part of blood donations {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?,Both males and females 16 YEARS - 150 YEARS,nan,,
-4,HSQ590,.,Missing,Except for tests {you/SP} may have had as part of blood donations {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?,Both males and females 16 YEARS - 150 YEARS,nan,,
-5,SEQN,,,Respondent sequence number.,Both males and females 16 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,HSQ590,1,Yes,,
+1,HSQ590,2,No,,
+2,HSQ590,7,Refused,,
+3,HSQ590,9,Don'T Know,,
+4,HSQ590,.,Missing,,
+5,SEQN,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSNO3P_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSNO3P_B","SSXNO3","SSXNO3","Nitrate (ug/L)","Continuous variable describing urinary concentration of nitrate (NO3) (ug/L). Limit of detection: 700 ug/L.","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""495 to 810000"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2637"", ""83""]; Cumulative=[""2637"", ""2720""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSNO3P_B","SSXSCN","SSXSCN","Thiocyanate (ug/L)","Continuous variable describing urinary concentration of Thiocyanate (SCN) (ug/L). Limit of detection: 20 ug/L.","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""14 to 39000"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2636"", ""84""]; Cumulative=[""2636"", ""2720""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXTC,,,,,,,,,,,,
-2,LBDTCSI,,,,,,,,,,,,
-3,LBDHDL,,,,,,,,,,,,
-4,LBDHDLSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXTC,Total cholesterol (mg/dL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDTCSI,Total cholesterol (mmol/L),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDHDL,HDL-cholesterol (mg/dL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDHDLSI,HDL-cholesterol (mmol/L),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,

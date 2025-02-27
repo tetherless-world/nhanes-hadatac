@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "OHXDEN_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 2 YEARS - 150 YEARS",NA,NA
 "OHXDEN_B","OHAEXSTS","OHAEXSTS","Overall Oral Health Exam Status","Overall Oral Health Exam Status","Both males and females 2 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Completed"", ""Partial"", ""Not Done"", ""Missing""]; Count=[""7853"", ""1157"", ""588"", ""0""]; Cumulative=[""7853"", ""9010"", ""9598"", ""9598""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "OHXDEN_B","OHASCST3","OHASCST3","Dentition Status Code","Dentition Status Code","Both males and females 2 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not done"", ""Missing""]; Count=[""8371"", ""637"", ""590"", ""0""]; Cumulative=[""8371"", ""9008"", ""9598"", ""9598""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

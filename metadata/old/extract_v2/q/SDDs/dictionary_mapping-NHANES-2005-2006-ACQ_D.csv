@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,ACQ005,,,,,,,,,,,,
-2,ACD010A,,,,,,,,,,,,
-3,ACD010B,,,,,,,,,,,,
-4,ACD010C,,,,,,,,,,,,
-5,ACD040,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,ACQ005,,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,ACD010A,What language(s) {do you/does SP} usually speak at home?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,ACD010B,What language(s) {do you/does SP} usually speak at home?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,ACD010C,What language(s) {do you/does SP} usually speak at home?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,ACD040,Now Im going to ask you about language use. What language(s) {do you/does SP} usually speak at home?,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

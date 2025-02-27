@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,HSQ500,,,,,,,,,,,,
-2,HSQ510,,,,,,,,,,,,
-3,HSQ520,,,,,,,,,,,,
-4,HSQ570,,,,,,,,,,,,
-5,HSQ580,,,,,,,,,,,,
-6,HSQ590,,,,,,,,,,,,
-7,HSAQUEX,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,HSQ500,Did {you/SP} have a head cold or chest cold that started during those 30 days?,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,HSQ510,Did {you/SP} have a stomach or intestinal illness with vomiting or diarrhea that started during those 30 days?,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,HSQ520,Did {you/SP} have flu pneumonia or ear infections that started during those 30 days?,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,HSQ570,During the past 12 months that is since (DISPLAY CURRENT MONTH DISPLAY LAST YEAR) a year ago (have you/has SP) donated blood?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,HSQ580,How long ago was {your/SPs} last blood donation?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,HSQ590,Except for tests {you/SP} may have had as part of blood donations {have you/has he/has she} ever had {your/his/her} blood tested for the AIDS virus infection?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,HSAQUEX,Source of Health Status Data,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

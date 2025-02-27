@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSMETSI,,,,,,,,,,,,
-2,SSFOLSI,,,,,,,,,,,,
-3,SSFOLTSI,,,,,,,,,,,,
-4,SSMET,,,,,,,,,,,,
-5,SSFOL,,,,,,,,,,,,
-6,SSFOLTOT,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSMETSI,Methyltetrahydrofolate pmol/ml,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSFOLSI,Folic Acid pmol/ml,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSFOLTSI,Total Folate pmol/ml,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSMET,Methyltetrahydrofolate ng/ml,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SSFOL,Folic Acid ng/ml,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,SSFOLTOT,Total Folate ng/ml,Both males and females 60 YEARS - 150 YEARS,,,,,,,,,,,,,

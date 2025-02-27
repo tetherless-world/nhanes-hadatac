@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "FOLATE_L","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "FOLATE_L","WTPH2YR","WTPH2YR","Phlebotomy 2 Year Weight","Phlebotomy 2 Year Weight","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""4391.8220579 to 253478.77765"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No blood sample provided"", ""Missing""]; Count=[""7626"", ""1101"", ""0""]; Cumulative=[""7626"", ""8727"", ""8727""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "FOLATE_L","LBDRFO","LBDRFO","RBC folate (ng/mL)","RBC folate (ng/mL)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""63.6 to 3240"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7506"", ""1221""]; Cumulative=[""7506"", ""8727""]; Skip.to.Item=[""NA"", ""NA""]"

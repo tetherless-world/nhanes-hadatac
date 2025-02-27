@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UPHOPM_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UPHOPM_E","WTSC2YR","WTSC2YR","Two-year MEC weights of subsample C","Two-year MEC weights of subsample C","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 520135.04901"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2694"", ""0""]; Cumulative=[""2694"", ""2694""]; Skip.to.Item=[""NA"", ""NA""]"
 "UPHOPM_E","URX24D","URX24D","24-D (ug/L) result","24-D (ug/L) result","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.28 to 349.72"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2587"", ""107""]; Cumulative=[""2587"", ""2694""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "OGTT_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "OGTT_F","WTSOG2YR","WTSOG2YR","OGTT Subsample 2 Year MEC Weight","OGTT Subsample 2 Year MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 406363.419"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3163"", ""0""]; Cumulative=[""3163"", ""3163""]; Skip.to.Item=[""NA"", ""NA""]"
 "OGTT_F","GTDSCMMN","GTDSCMMN","Glucose challenge Administer Time in min","Glucose challenge Administer Time in minutes","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 10"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2638"", ""525""]; Cumulative=[""2638"", ""3163""]; Skip.to.Item=[""NA"", ""NA""]"

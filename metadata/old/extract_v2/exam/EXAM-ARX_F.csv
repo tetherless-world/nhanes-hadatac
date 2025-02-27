@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ARX_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 69 YEARS",NA,NA
 "ARX_F","ARDEXSTS","ARDEXSTS","Arthritis body measures exam status","ARTHRITIS BODY MEASURES EXAMINATION STATUS","Both males and females 20 YEARS - 69 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not done"", ""Missing""]; Count=[""4566"", ""385"", ""50"", ""0""]; Cumulative=[""4566"", ""4951"", ""5001"", ""5001""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "ARX_F","ARXO2WD","ARXO2WD","Occiput-to-wall distance (cm)","OCCIPUT-TO-WALL DISTANCE IN CENTIMETERS","Both males and females 20 YEARS - 69 YEARS",NA,"Code.or.Value=[""0 to 16.5"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4938"", ""63""]; Cumulative=[""4938"", ""5001""]; Skip.to.Item=[""NA"", ""NA""]"

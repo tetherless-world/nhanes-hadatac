@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSNEON_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "SSNEON_I","WTSSBI2Y","WTSSBI2Y","Surplus specimen B 15-16 2 year weights","Surplus specimen 2 year weights B for 2015-2016","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""11617.110763 to 931491.77436"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""2438"", ""0"", ""0""]; Cumulative=[""2438"", ""2438"", ""2438""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSNEON_I","SSIMID","SSIMID","Imidacloprid (ug/L)","Imidacloprid (ug/L)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.28 to 4.94"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2405"", ""33""]; Cumulative=[""2405"", ""2438""]; Skip.to.Item=[""NA"", ""NA""]"

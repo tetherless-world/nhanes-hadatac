@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSCL2Y,,,,,,,,,,,,
-2,SSCL1Y,,,,,,,,,,,,
-3,SSCL1YL,,,,,,,,,,,,
-4,SSCL2Y,,,,,,,,,,,,
-5,SSCL2YL,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSSCL2Y,Surplus specimen chlorinated tyrosine 2 year weights for 2015-2016,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSCL1Y,3-chlorotyrosine (Cl-Tyr) (ng/mL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSCL1YL,3-chlorotyrosine (Cl-Tyr) Comment Code,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSCL2Y,35-dichlorotyrosine (Cl2-Tyr) (ng/mL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SSCL2YL,35-dichlorotyrosine (Cl2-Tyr) Comment Code,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

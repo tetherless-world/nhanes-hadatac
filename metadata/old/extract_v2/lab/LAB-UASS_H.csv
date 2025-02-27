@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UASS_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "UASS_H","WTFSM","WTFSM","Two year smoking weights","Two year smoking weights","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""6426.907677 to 456840.9815"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2546"", ""59"", ""0""]; Cumulative=[""2546"", ""2605"", ""2605""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UASS_H","URXUCR","URXUCR","Urinary creatinine (mg/dL)","Urinary creatinine (mg/dL)","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""5 to 546"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2551"", ""54""]; Cumulative=[""2551"", ""2605""]; Skip.to.Item=[""NA"", ""NA""]"

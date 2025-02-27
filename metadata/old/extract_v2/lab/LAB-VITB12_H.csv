@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VITB12_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 19 YEARS - 150 YEARS",NA,NA
 "VITB12_H","LBDB12","LBDB12","Vitamin B12(pg/mL)","Vitamin B12(pg/mL)","Both males and females 19 YEARS - 150 YEARS",NA,"Code.or.Value=[""18 to 26801"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5447"", ""289""]; Cumulative=[""5447"", ""5736""]; Skip.to.Item=[""NA"", ""NA""]"
 "VITB12_H","LBDB12SI","LBDB12SI","Vitamin B12 (pmol/L)","Vitamin B12 (pmol/L)","Both males and females 19 YEARS - 150 YEARS",NA,"Code.or.Value=[""13.3 to 19779.1"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5447"", ""289""]; Cumulative=[""5447"", ""5736""]; Skip.to.Item=[""NA"", ""NA""]"

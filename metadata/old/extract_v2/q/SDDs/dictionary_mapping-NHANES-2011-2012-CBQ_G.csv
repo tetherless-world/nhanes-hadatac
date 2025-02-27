@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,CBD070,,,,,,,,,,,,
-2,CBD090,,,,,,,,,,,,
-3,CBD110,,,,,,,,,,,,
-4,CBD120,,,,,,,,,,,,
-5,CBD130,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,CBD070,The next questions are about how much money {your family spends/you spend} on food. First Ill ask you about money spent at supermarkets or grocery stores. Then we will talk about money spent at other types of stores. During the past 30 days how much money {did your family/did you} spend at supermarkets or grocery stores? Please include purchases made with food stamps.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,CBD090,About how much money was spent on nonfood items?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,CBD110,About how much money {did your family/did you} spend on food at these types of stores? (Please do not include any stores you have already told me about.),Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,CBD120,During the past 30 days how much money {did your family/did you} spend on eating out? Please include money spent in cafeterias at work or at school or on vending machines for all family members.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,CBD130,During the past 30 days how much money {did your family/did you} spend on food carried out or delivered? Please do not include money you have already told me about.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

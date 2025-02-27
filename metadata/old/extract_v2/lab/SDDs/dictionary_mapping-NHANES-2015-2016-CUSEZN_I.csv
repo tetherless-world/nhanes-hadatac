@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSA2YR,,,,,,,,,,,,
-2,LBXSCU,,,,,,,,,,,,
-3,LBDSCUSI,,,,,,,,,,,,
-4,LBXSSE,,,,,,,,,,,,
-5,LBDSSESI,,,,,,,,,,,,
-6,LBXSZN,,,,,,,,,,,,
-7,LBDSZNSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSA2YR,Subsample A weights,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXSCU,Serum Copper (ug/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDSCUSI,Serum Copper (umol/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBXSSE,Serum Selenium (ug/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBDSSESI,Serum Selenium (umol/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,LBXSZN,Serum Zinc (ug/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,LBDSZNSI,Serum Zinc (umol/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

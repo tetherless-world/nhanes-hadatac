@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HUQ_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "HUQ_H","HUQ010","HUQ010","General health condition","{First/Next} I have some general questions about {your/SPs} health. Would you say {your/SPs} health in general is . . .","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", ""4"", ""5"", ""7"", ""9"", "".""]; Value.Description=[""Excellent,"", ""Very good,"", ""Good,"", ""Fair, or"", ""Poor?"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""2615"", ""2716"", ""3235"", ""1330"", ""274"", ""2"", ""3"", ""0""]; Cumulative=[""2615"", ""5331"", ""8566"", ""9896"", ""10170"", ""10172"", ""10175"", ""10175""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"
 "HUQ_H","HUQ015","HUQ015",NA,NA,"Both males and females 0 YEARS - 150 YEARS",NA,NA

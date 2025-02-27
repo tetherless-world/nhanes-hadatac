@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXBCR,,,,,,,,,,,,
-2,LBDBCRSI,,,,,,,,,,,,
-3,LBDBCRLC,,,,,,,,,,,,
-4,LBXBCO,,,,,,,,,,,,
-5,LBDBCOSI,,,,,,,,,,,,
-6,LBDBCOLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXBCR,Chromium (ug/L),Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDBCRSI,Chromium (nmol/L),Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDBCRLC,Chromium comment code,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBXBCO,Cobalt (ug/L),Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBDBCOSI,Cobalt (nmol/L),Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,LBDBCOLC,Cobalt comment code,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,

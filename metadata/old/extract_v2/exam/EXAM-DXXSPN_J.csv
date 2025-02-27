@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DXXSPN_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 50 YEARS - 150 YEARS",NA,NA
 "DXXSPN_J","DXASPNST","DXASPNST","Spine scan status","Spine scan status","Both males and females 50 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""4"", ""5"", "".""]; Value.Description=[""Spine scan completed, all vertebrae are valid"", ""Spine scan completed, but one or more vertebrae are 
       invalid"", ""Spine not scanned, weight > 450 lbs"", ""Spine not scanned, other reason"", ""Missing""]; Count=[""1274"", ""1199"", ""2"", ""423"", ""0""]; Cumulative=[""1274"", ""2473"", ""2475"", ""2898"", ""2898""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,LBXVIC,0.02 To 4.83,Range Of Values,Vitamin C (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-2,LBXVIC,0.01,Below Limit Of Detection,Vitamin C (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-3,LBXVIC,.,Missing,Vitamin C (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-4,LBDVICSI,1.1 To 274.2,Range Of Values,Vitamin C (umol/L),Both males and females 6 YEARS - 150 YEARS,nan,,
-5,LBDVICSI,0.6,Below Limit Of Detection,Vitamin C (umol/L),Both males and females 6 YEARS - 150 YEARS,nan,,
-6,LBDVICSI,.,Missing,Vitamin C (umol/L),Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXVIC,0.02 To 4.83,Range Of Values,,
+2,LBXVIC,0.01,Below Limit Of Detection,,
+3,LBXVIC,.,Missing,,
+4,LBDVICSI,1.1 To 274.2,Range Of Values,,
+5,LBDVICSI,0.6,Below Limit Of Detection,,
+6,LBDVICSI,.,Missing,,

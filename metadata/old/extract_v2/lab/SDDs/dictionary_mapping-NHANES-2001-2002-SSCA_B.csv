@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSCA125,,,,,,,,,,,,
-2,SSCA153,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSCA125,Cancer antigen 125 (U/mL),Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSCA153,Cancer antigen 15.3 (mU/mL),Females only 20 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "GLU_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "GLU_H","WTSAF2YR","WTSAF2YR","Fasting Subsample 2 Year MEC Weight","Fasting Subsample 2 Year MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""12937.987305 to 395978.46579"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2927"", ""402"", ""0""]; Cumulative=[""2927"", ""3329"", ""3329""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "GLU_H","LBXGLU","LBXGLU","Fasting Glucose (mg/dL)","Fasting Glucose (mg/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""51 to 421"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3172"", ""157""]; Cumulative=[""3172"", ""3329""]; Skip.to.Item=[""NA"", ""NA""]"

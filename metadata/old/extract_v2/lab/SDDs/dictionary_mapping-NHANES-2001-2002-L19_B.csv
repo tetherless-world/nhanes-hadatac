@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXME,,,,,,,,,,,,
-2,LBDRUIU,,,,,,,,,,,,
-3,LBXVAR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,LBXME,Measles,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,LBDRUIU,Rubella units,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,LBXVAR,Varicella,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,

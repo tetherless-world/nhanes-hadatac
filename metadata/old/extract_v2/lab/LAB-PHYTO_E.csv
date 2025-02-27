@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PHYTO_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "PHYTO_E","WTSB2YR","WTSB2YR","Environmental B 2 year weights","Environmental B 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 533131.16757"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2718"", ""0""]; Cumulative=[""2718"", ""2718""]; Skip.to.Item=[""NA"", ""NA""]"
 "PHYTO_E","URXDAZ","URXDAZ","Daidzein (ng/mL)","Daidzein (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.3 to 33000"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2424"", ""294""]; Cumulative=[""2424"", ""2718""]; Skip.to.Item=[""NA"", ""NA""]"

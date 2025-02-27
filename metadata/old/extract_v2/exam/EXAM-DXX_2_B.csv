@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DXX_2_B","SEQN","SEQN","Respondent sequence number","","Both males and females 8 YEARS - 150 YEARS",NA,NA
 "DXX_2_B","DX2EXSTS","DX2EXSTS","Exam Status","","Both males and females 8 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Scan completed"", ""Scan completed, but invalid"", ""Missing""]; Count=[""479"", ""6"", ""0""]; Cumulative=[""479"", ""485"", ""485""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "DXX_2_B","DX2TOBMC","DX2TOBMC","Total Bone Mineral Content (g)","Total Bone Mineral Content (grams)","Both males and females 8 YEARS - 150 YEARS",NA,"Code.or.Value=[""1335.67 to 4261.05"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""414"", ""71""]; Cumulative=[""414"", ""485""]; Skip.to.Item=[""NA"", ""NA""]"

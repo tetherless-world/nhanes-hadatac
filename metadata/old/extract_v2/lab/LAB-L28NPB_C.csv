@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L28NPB_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "L28NPB_C","WTSC2YR","WTSC2YR","Two-year MEC weights of subsample C","Two-year MEC weights of subsample C","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 456851.11941"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2285"", ""0""]; Cumulative=[""2285"", ""2285""]; Skip.to.Item=[""NA"", ""NA""]"
 "L28NPB_C","LBX044","LBX044","PCB44 (ng/g)","PCB44 (ng/g)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0004 to 0.4912"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1890"", ""395""]; Cumulative=[""1890"", ""2285""]; Skip.to.Item=[""NA"", ""NA""]"

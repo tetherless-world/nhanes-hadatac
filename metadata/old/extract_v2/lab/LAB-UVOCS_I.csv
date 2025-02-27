@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UVOCS_I","SEQN","SEQN","Respondent Sequence Number","Respondent Sequence Number.","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "UVOCS_I","WTFSM","WTFSM","Two Year Smoking Weights","Two Year Smoking Weights","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""5682.8332946 to 708016.13026"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2389"", ""73"", ""0""]; Cumulative=[""2389"", ""2462"", ""2462""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UVOCS_I","URX1DC","URX1DC","N-acel-S-(12-dichlorovinl)-L-cys(ng/mL)","N-acetyl-S-(12-dichlorovinyl)-L-cysteine (ng/mL)","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""8.9"", "".""]; Value.Description=[""8.9"", ""Missing""]; Count=[""2261"", ""201""]; Cumulative=[""2261"", ""2462""]; Skip.to.Item=[""NA"", ""NA""]"

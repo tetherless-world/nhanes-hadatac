@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L24PH_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "L24PH_C","WTSB2YR","WTSB2YR","Two-year MEC weights of subsample B","Two-year MEC weights of subsample B","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 435025.30254"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2697"", ""0""]; Cumulative=[""2697"", ""2697""]; Skip.to.Item=[""NA"", ""NA""]"
 "L24PH_C","URXMBP","URXMBP","Mono-n-butyl phthalate","Mono-n-butyl phthalate (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.3 to 5143.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2605"", ""92""]; Cumulative=[""2605"", ""2697""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ALB_CR_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "ALB_CR_H","URXUMA","URXUMA","Albumin urine (ug/mL)","Albumin urine (ug/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.21 to 9600"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8052"", ""239""]; Cumulative=[""8052"", ""8291""]; Skip.to.Item=[""NA"", ""NA""]"
 "ALB_CR_H","URXUMS","URXUMS","Albumin urine (mg/L)","Albumin urine (mg/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.21 to 9600"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8052"", ""239""]; Cumulative=[""8052"", ""8291""]; Skip.to.Item=[""NA"", ""NA""]"

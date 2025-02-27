@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number,Both males and females 1 YEARS - 150 YEARS,nan,,
-1,LBDRFO,50.3 To 2980,Range Of Values,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
-2,LBDRFO,.,Missing,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
-3,LBDRFOSI,114 To 6750,Range Of Values,LBDRFOSI= {WBF-[LBDFOTSI * (1.0 - LBXHCT/100)]}/(LBXHCT/100),Both males and females 1 YEARS - 150 YEARS,nan,,
-4,LBDRFOSI,.,Missing,LBDRFOSI= {WBF-[LBDFOTSI * (1.0 - LBXHCT/100)]}/(LBXHCT/100),Both males and females 1 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBDRFO,50.3 To 2980,Range Of Values,,
+2,LBDRFO,.,Missing,,
+3,LBDRFOSI,114 To 6750,Range Of Values,,
+4,LBDRFOSI,.,Missing,,

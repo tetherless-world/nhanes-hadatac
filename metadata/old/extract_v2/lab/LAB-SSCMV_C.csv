@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSCMV_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
 "SSCMV_C","WTSSMC2Y","WTSSMC2Y","SSMUMP and SSCMV 2 year weights","Surplus specimen SSMUMP and SSCMV 2 year weights","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""1954.697978 to 173091.17897"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""4832"", ""0"", ""0""]; Cumulative=[""4832"", ""4832"", ""4832""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSCMV_C","SSCMVOD","SSCMVOD","CMV optical density from ELISA","CMV optical density from ELISA","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0.048 to 3.001"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4832"", ""0""]; Cumulative=[""4832"", ""4832""]; Skip.to.Item=[""NA"", ""NA""]"

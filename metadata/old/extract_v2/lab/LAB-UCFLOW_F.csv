@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UCFLOW_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UCFLOW_F","URXVOL1","URXVOL1","The volume of urine collection #1 (mL)","The volume of urine collection #1 (mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 524"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8433"", ""158""]; Cumulative=[""8433"", ""8591""]; Skip.to.Item=[""NA"", ""NA""]"
 "UCFLOW_F","URDFLOW1","URDFLOW1","Urine #1 Flow Rate (mL/min)","Urine #1 Flow Rate (mL/min)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 39.8"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7727"", ""864""]; Cumulative=[""7727"", ""8591""]; Skip.to.Item=[""NA"", ""NA""]"

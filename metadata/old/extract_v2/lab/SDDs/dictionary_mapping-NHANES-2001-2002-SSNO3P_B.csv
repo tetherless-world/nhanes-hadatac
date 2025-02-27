@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSXNO3,,,,,,,,,,,,
-2,SSXSCN,,,,,,,,,,,,
-3,SSXUP8,,,,,,,,,,,,
-4,URXUCR,,,,,,,,,,,,
-5,WTUIO2YR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSXNO3,Continuous variable describing urinary concentration of nitrate (NO3) (ug/L). Limit of detection: 700 ug/L.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSXSCN,Continuous variable describing urinary concentration of Thiocyanate (SCN) (ug/L). Limit of detection: 20 ug/L.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSXUP8,Urinary Perchlorate (ug/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,URXUCR,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,WTUIO2YR,Subsample 2 year Mec Weight,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L11P_2_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Males only 40 YEARS - 69 YEARS",NA,NA
 "L11P_2_B","LB2DAY","LB2DAY","Days betwen first and second exams","","Both males and females 40 YEARS - 69 YEARS",NA,"Code.or.Value=[""7 to 47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""105"", ""32""]; Cumulative=[""105"", ""137""]; Skip.to.Item=[""NA"", ""NA""]"
 "L11P_2_B","LB2P1","LB2P1","PSA. total (ng/mL)","Prostate specific antigen total (ng/mL)","Males only 40 YEARS - 69 YEARS",NA,"Code.or.Value=[""0.1 to 14.4"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""105"", ""32""]; Cumulative=[""105"", ""137""]; Skip.to.Item=[""NA"", ""NA""]"

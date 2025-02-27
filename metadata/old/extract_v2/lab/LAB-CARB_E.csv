@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "CARB_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "CARB_E","WTSC2YR","WTSC2YR","Environmental C 2 year weights","Environmental C 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 520135.04901"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2694"", ""0""]; Cumulative=[""2694"", ""2694""]; Skip.to.Item=[""NA"", ""NA""]"
 "CARB_E","URXAPE","URXAPE","Acephate (ug/L)","Acephate (ug/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.19 to 21.47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2505"", ""189""]; Cumulative=[""2505"", ""2694""]; Skip.to.Item=[""NA"", ""NA""]"

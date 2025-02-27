@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "CBC_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "CBC_G","LBXWBCSI","LBXWBCSI","White blood cell count (1000 cells/uL)","White blood cell count (1000 cells/uL)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.7 to 54.7"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7953"", ""1003""]; Cumulative=[""7953"", ""8956""]; Skip.to.Item=[""NA"", ""NA""]"
 "CBC_G","LBXLYPCT","LBXLYPCT","Lymphocyte percent (%)","Lymphocyte percent (%)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""2.7 to 83.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7944"", ""1012""]; Cumulative=[""7944"", ""8956""]; Skip.to.Item=[""NA"", ""NA""]"

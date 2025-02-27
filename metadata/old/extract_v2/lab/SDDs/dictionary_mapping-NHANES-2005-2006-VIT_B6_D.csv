@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBX4PA,,,,,,,,,,,,
-2,LBXPLP,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBX4PA,4-pyridoxic acid (nmol/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXPLP,Pyridoxal 5-phosphate (nmol/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

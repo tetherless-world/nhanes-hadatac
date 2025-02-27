@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SMD460,,,,,,,,,,,,
-2,SMD470,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SMD460,Now I would like to ask you a few questions about smoking in this home. How many people who live here smoke cigarettes cigars little cigars pipes water pipes hookah or any other tobacco product?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SMD470,Not counting decks porches or detached garages how many people who live here smoke cigarettes cigars little cigars pipes water pipes hookah or any other tobacco product inside this home?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

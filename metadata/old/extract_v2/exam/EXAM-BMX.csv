@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BMX","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "BMX","BMAEXLEN","BMAEXLEN","Length of a MEC exam (sec)","Exam length in seconds","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 909"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""9282"", ""0""]; Cumulative=[""9282"", ""9282""]; Skip.to.Item=[""NA"", ""NA""]"
 "BMX","BMAEXSTS","BMAEXSTS","Status of a MEC exam","Status of a MEC exam","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not Done"", ""Missing""]; Count=[""9143"", ""80"", ""59"", ""0""]; Cumulative=[""9143"", ""9223"", ""9282"", ""9282""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

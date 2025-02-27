@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXCRP,,,,,,,,,,,,
-2,LBXBAP,,,,,,,,,,,,
-3,LBXPT21,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXCRP,C-reactive protein (mg/dL),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXBAP,Bone alkaline phosphotase (ug/L),Both males and females 8 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,LBXPT21,Parathyroid Hormone(Elecys method) pg/mL,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

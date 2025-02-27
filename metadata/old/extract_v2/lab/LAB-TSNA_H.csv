@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TSNA_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "TSNA_H","URXNAL","URXNAL","Urinary Total NNAL (ng/mL)","Urinary 4-(Methylnitrosamino)-1-(3-pyridyl)-1-Butanol (NNAL) (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0004 to 890"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7914"", ""377""]; Cumulative=[""7914"", ""8291""]; Skip.to.Item=[""NA"", ""NA""]"
 "TSNA_H","URDNALLC","URDNALLC","Urinary Total NNAL Comment Code","Urinary 4-(Methylnitrosamino)-1-(3-pyridyl)-1-Butanol (NNAL) Comment Code","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""5012"", ""2902"", ""377""]; Cumulative=[""5012"", ""7914"", ""8291""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

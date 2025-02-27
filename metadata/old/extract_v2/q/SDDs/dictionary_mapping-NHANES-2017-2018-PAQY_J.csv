@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,PAQ706,,,,,,,,,,,,
-2,PAQ710,,,,,,,,,,,,
-3,PAQ715,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 2 YEARS - 17 YEARS,,,,,,,,,,,,,
+1,PAQ706,Id like to ask you some questions about {your/SPs} activities. During the past 7 days on how many days {were you/was SP} physically active for a total of at least 60 minutes per day? Add up all the time {you/he/she} spent in any kind of physical activity that increased {your/his/her} heart rate and made {you/him/her} breathe hard some of the time.,Both males and females 2 YEARS - 17 YEARS,,,,,,,,,,,,,
+2,PAQ710,Now I will ask you first about TV watching and then about computer use. Over the past 30 days on average how many hours per day did {you/SP} sit and watch TV or videos? Would you say . . .,Both males and females 2 YEARS - 17 YEARS,,,,,,,,,,,,,
+3,PAQ715,Text: Over the past 30 days on average how many hours per day did {you/SP} use a computer or play computer games outside of school? Include Playstation Nintendo DS or other portable video games Would you say . . .,Both males and females 2 YEARS - 17 YEARS,,,,,,,,,,,,,

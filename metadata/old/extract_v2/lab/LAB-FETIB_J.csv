@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "FETIB_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "FETIB_J","LBXIRN","LBXIRN","Iron frozen Serum (ug/dL)","Iron frozen Serum (ug/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""11 to 481"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5922"", ""479""]; Cumulative=[""5922"", ""6401""]; Skip.to.Item=[""NA"", ""NA""]"
 "FETIB_J","LBDIRNSI","LBDIRNSI","Iron frozen Serum (umol/L)","Iron frozen Serum (umol/L)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""2 to 86.1"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5922"", ""479""]; Cumulative=[""5922"", ""6401""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBDRFO,,,,,,,,,,,,
-2,LBDRFOSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBDRFO,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDRFOSI,LBDRFOSI= {WBF-[LBDFOTSI * (1.0 -  LBXHCT/100)]}/(LBXHCT/100),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

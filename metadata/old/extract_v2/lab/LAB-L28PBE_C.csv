@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L28PBE_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "L28PBE_C","WTSB2YR","WTSB2YR","Two-year MEC weights of subsample B","Two-year MEC weights of subsample B","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 435025.30254"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2337"", ""0""]; Cumulative=[""2337"", ""2337""]; Skip.to.Item=[""NA"", ""NA""]"
 "L28PBE_C","LBXBB1","LBXBB1","224455-hexabromobiphenyl","224455-hexabromobiphenyl (pg/g)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.2 to 2943.1"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2032"", ""305""]; Cumulative=[""2032"", ""2337""]; Skip.to.Item=[""NA"", ""NA""]"

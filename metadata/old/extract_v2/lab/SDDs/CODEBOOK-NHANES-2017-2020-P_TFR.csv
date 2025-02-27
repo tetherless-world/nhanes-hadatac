@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,LBDTFRSI,14.6 To 414,Range Of Values,Transferrin receptor (nmol/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-1,LBDTFRSI,.,Missing,Transferrin receptor (nmol/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-2,LBXTFR,1.24 To 35.1,Range Of Values,Transferrin receptor (mg/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-3,LBXTFR,.,Missing,Transferrin receptor (mg/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-4,SEQN,,,Respondent sequence number,Both males and females 1 YEARS - 5 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,LBDTFRSI,14.6 To 414,Range Of Values,,
+1,LBDTFRSI,.,Missing,,
+2,LBXTFR,1.24 To 35.1,Range Of Values,,
+3,LBXTFR,.,Missing,,
+4,SEQN,,,,

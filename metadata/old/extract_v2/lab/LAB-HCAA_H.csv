@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HCAA_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "HCAA_H","WTSA2YR","WTSA2YR","Subsample A Weights","Subsample A Weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 530325.34726"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2755"", ""0""]; Cumulative=[""2755"", ""2755""]; Skip.to.Item=[""NA"", ""NA""]"
 "HCAA_H","URXAAC","URXAAC","A-a-C (pg/mL)","2-Amino-9H-pyrido[23-b]indole (A-a-C) (pg/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.44 to 1200"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2568"", ""187""]; Cumulative=[""2568"", ""2755""]; Skip.to.Item=[""NA"", ""NA""]"

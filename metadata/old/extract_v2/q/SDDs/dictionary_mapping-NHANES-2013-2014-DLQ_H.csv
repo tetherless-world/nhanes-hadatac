@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,DLQ010,,,,,,,,,,,,
-2,DLQ020,,,,,,,,,,,,
-3,DLQ040,,,,,,,,,,,,
-4,DLQ050,,,,,,,,,,,,
-5,DLQ060,,,,,,,,,,,,
-6,DLQ080,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,DLQ010,With this next set of questions we want to learn about people who have physical mental or emotional conditions that cause serious difficulties with their daily activities. Though different these questions may sound similar to ones I asked earlier. {Are you/Is SP} deaf or {do you/does he/does she} have serious difficulty hearing?,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,DLQ020,{Are you/Is SP} blind or {do you/does he/does she} have serious difficulty seeing even when wearing glasses?,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,DLQ040,Because of a physical mental or emotional condition {do you/does he/does she} have serious difficulty concentrating remembering or making decisions?,Both males and females 5 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,DLQ050,{Do you/Does SP} have serious difficulty walking or climbing stairs?,Both males and females 5 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,DLQ060,{Do you/Does SP} have difficulty dressing or bathing?,Both males and females 5 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,DLQ080,Because of a physical mental or emotional condition {do you/does he/does she} have difficulty doing errands alone such as visiting a doctors office or shopping?,Both males and females 15 YEARS - 150 YEARS,,,,,,,,,,,,,

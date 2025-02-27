@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "FOLFMS_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "FOLFMS_E","LBXSF1SI","LBXSF1SI","5-Methyl-tetrahydrofolate (nmol/L)","5-Methyl-tetrahydrofolate (nmol/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""5.37 to 190"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2734"", ""388""]; Cumulative=[""2734"", ""3122""]; Skip.to.Item=[""NA"", ""NA""]"
 "FOLFMS_E","LBDSF1LC","LBDSF1LC","5-Methyl-tetrahydrofolate cmt","5-Methyl-tetrahydrofolate comment code","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""2734"", ""0"", ""388""]; Cumulative=[""2734"", ""2734"", ""3122""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

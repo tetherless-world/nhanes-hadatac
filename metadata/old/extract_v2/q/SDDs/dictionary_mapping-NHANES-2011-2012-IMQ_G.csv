@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,IMQ011,,,,,,,,,,,,
-2,IMQ020,,,,,,,,,,,,
-3,IMQ040,,,,,,,,,,,,
-4,IMQ070,,,,,,,,,,,,
-5,IMQ080,,,,,,,,,,,,
-6,IMQ090,,,,,,,,,,,,
-7,IMQ045,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,IMQ011,Hepatitis (Hep-a-ti-tis) A vaccine is given as a two dose series to some children older than 2 years and also to some adults especially people who travel outside the United States. It has only been available since 1995. {Have you/Has SP} ever received hepatitis A vaccine?,Both males and females 2 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,IMQ020,Hepatitis (Hep-a-ti-tis) B vaccine is given in three separate doses and has been recommended for all newborn infants since 1991. In 1995 it was recommended that adolescents be given the vaccine. Persons who may be exposed to other peoples blood such as health care workers also may have received the vaccine. {Have you/Has SP} ever received the 3-dose series of the hepatitis B vaccine?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,IMQ040,Human Papillomavirus (HPV) vaccine is given to prevent cervical cancer in girls and women. There are two HPV vaccines available called Cervarix and Gardasil. It is given in 3 separate doses over a 6 month period. {Have you/Has SP} ever received one or more doses of the HPV vaccine?,Females only 9 YEARS - 59 YEARS,,,,,,,,,,,,,
+4,IMQ070,Human Papillomavirus (HPV) vaccine is given to prevent HPV infection and genital warts in boys and men. It is given in 3 separate doses over a 6 month period. {Have you/Has SP} ever received one or more doses of the HPV vaccine? (The brand name for the vaccine is Gardasil.),Males only 9 YEARS - 59 YEARS,,,,,,,,,,,,,
+5,IMQ080,Which of the HPV vaccines did {you/SP} receive Cervarix or Gardasil?,Females only 9 YEARS - 59 YEARS,,,,,,,,,,,,,
+6,IMQ090,How old {were you/was SP} when {you/SP} received your first dose of {Cervarix/Gardasil/the vaccine}?,Both males and females 9 YEARS - 59 YEARS,,,,,,,,,,,,,
+7,IMQ045,How many doses of {Cervarix/Gardasil/the vaccine} {have you/has SP} received?,Both males and females 9 YEARS - 59 YEARS,,,,,,,,,,,,,

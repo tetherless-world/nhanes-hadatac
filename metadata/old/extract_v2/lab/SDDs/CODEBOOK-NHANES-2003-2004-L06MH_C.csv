@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,nan,,
-1,LBXHCY,1.79 To 116.21,Range Of Values,Homocysteine(umol/L),Both males and females 3 YEARS - 150 YEARS,nan,,
-3,LBXHCY,.,Missing,Homocysteine(umol/L),Both males and females 3 YEARS - 150 YEARS,nan,,
-5,LBXMMA,0.048 To 10.558,Range Of Values,Methylmalonic acid (umol/L),Both males and females 3 YEARS - 150 YEARS,nan,,
-7,LBXMMA,0.035,Below Limit Of Detection,Methylmalonic acid (umol/L),Both males and females 3 YEARS - 150 YEARS,nan,,
-9,LBXMMA,.,Missing,Methylmalonic acid (umol/L),Both males and females 3 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXHCY,1.79 To 116.21,Range Of Values,,
+3,LBXHCY,.,Missing,,
+5,LBXMMA,0.048 To 10.558,Range Of Values,,
+7,LBXMMA,0.035,Below Limit Of Detection,,
+9,LBXMMA,.,Missing,,

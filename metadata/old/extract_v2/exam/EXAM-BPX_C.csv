@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BPX_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "BPX_C","PEASCST1","PEASCST1","Blood Pressure Status","Blood Pressure Status","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not done"", ""Missing""]; Count=[""9194"", ""104"", ""345"", ""0""]; Cumulative=[""9194"", ""9298"", ""9643"", ""9643""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "BPX_C","PEASCTM1","PEASCTM1","Blood Pressure Time in Seconds","Blood Pressure Time in Seconds","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 1933"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""9337"", ""306""]; Cumulative=[""9337"", ""9643""]; Skip.to.Item=[""NA"", ""NA""]"

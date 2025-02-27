@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSHCVRNA,,,,,,,,,,,,
-2,SSHCVGEN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSHCVRNA,Hepatitis C RNA,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSHCVGEN,Hepatitis C genotype,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

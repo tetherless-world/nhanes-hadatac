@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,DXXPRVFX,,,,,,,,,,,,
-2,DXXFRAX1,,,,,,,,,,,,
-3,DXXFRAX2,,,,,,,,,,,,
-4,DXXFRAX3,,,,,,,,,,,,
-5,DXXFRAX4,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,DXXPRVFX,Previous self-reported fracture after age 20,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,DXXFRAX1,10-year hip fracture risk score assuming previous fracture,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,DXXFRAX2,10-year major osteoporotic fracture risk score assuming previous fracture,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,DXXFRAX3,10-year hip fracture risk score assuming no previous fracture,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,DXXFRAX4,10-year major osteoporotic fracture risk score assuming no previous fracture,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,

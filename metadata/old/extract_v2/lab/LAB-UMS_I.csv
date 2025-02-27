@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UMS_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "UMS_I","WTFSM","WTFSM","Two year smoking weights","Two year smoking weights","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""5682.8332946 to 708016.13026"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2389"", ""73"", ""0""]; Cumulative=[""2389"", ""2462"", ""2462""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UMS_I","URXUBA","URXUBA","Barium urine (ug/L)","Barium urine (ug/L)","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.042 to 58.66"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2373"", ""89""]; Cumulative=[""2373"", ""2462""]; Skip.to.Item=[""NA"", ""NA""]"

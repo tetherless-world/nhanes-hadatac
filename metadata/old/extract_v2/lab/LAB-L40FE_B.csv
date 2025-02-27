@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L40FE_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "L40FE_B","LBXIRN","LBXIRN","Iron frozen (ug/dL)","Iron frozen (ug/dL)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""3 to 357"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8814"", ""1115""]; Cumulative=[""8814"", ""9929""]; Skip.to.Item=[""NA"", ""NA""]"
 "L40FE_B","LBDIRNSI","LBDIRNSI","Iron frozen (umol/L)","Iron frozen (umol/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.54 to 63.90"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8814"", ""1115""]; Cumulative=[""8814"", ""9929""]; Skip.to.Item=[""NA"", ""NA""]"

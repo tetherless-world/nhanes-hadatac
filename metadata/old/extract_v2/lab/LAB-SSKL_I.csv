@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSKL_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 40 YEARS - 79 YEARS",NA,NA
-"SSKL_I","SSKLOTH","SSKLOTH","Klotho (pg/ml)","Klotho (pg/ml)","Both males and females 40 YEARS - 79 YEARS",NA,"Code.or.Value=[""153.8 to 5038.3"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2637"", ""0""]; Cumulative=[""2637"", ""2637""]; Skip.to.Item=[""NA"", ""NA""]"
+"SSKL_I","SSKLOTH","SSKLOTH","Klotho (pg/ml)","Klotho (pg/ml)","Both males and females 40 YEARS - 79 YEARS",NA,"Code.or.Value=[""."", ""153.8 to 5038.3""]; Value.Description=[""Missing"", ""Range of Values""]; Count=[""0"", ""2637""]; Cumulative=[""2637"", ""2637""]; Skip.to.Item=[""NA"", ""NA""]"

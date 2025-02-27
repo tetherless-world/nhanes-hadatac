@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "P_PERNT","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "P_PERNT","URDNO3LC","URDNO3LC","Nitrate urine Comment Code","Nitrate urine Comment Code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""4491"", ""7"", ""392""]; Cumulative=[""4491"", ""4498"", ""4890""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "P_PERNT","URDSCNLC","URDSCNLC","Thiocyanate urine Comment Code","Thiocyanate urine Comment Code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""4496"", ""3"", ""391""]; Cumulative=[""4496"", ""4499"", ""4890""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

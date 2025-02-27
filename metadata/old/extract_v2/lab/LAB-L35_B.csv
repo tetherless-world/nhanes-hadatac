@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L35_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "L35_B","LBXMS1","LBXMS1","S. aureus present 1","S. aureus present 1","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""2964"", ""6658"", ""307""]; Cumulative=[""2964"", ""9622"", ""9929""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "L35_B","LBXM1","LBXM1","MRSA 1","MRSA 1","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""75"", ""2889"", ""6965""]; Cumulative=[""75"", ""2964"", ""9929""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

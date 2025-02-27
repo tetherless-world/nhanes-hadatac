@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Females only 8 YEARS - 59 YEARS,nan,,
-1,URXPREG,0,None,Pregnancy test result,Females only 8 YEARS - 59 YEARS,nan,,
-2,URXPREG,1,Positive,Pregnancy test result,Females only 8 YEARS - 59 YEARS,nan,,
-3,URXPREG,2,Negative,Pregnancy test result,Females only 8 YEARS - 59 YEARS,nan,,
-4,URXPREG,3,Not Done,Pregnancy test result,Females only 8 YEARS - 59 YEARS,nan,,
-5,URXPREG,4,Invalid,Pregnancy test result,Females only 8 YEARS - 59 YEARS,nan,,
-6,URXPREG,.,Missing,Pregnancy test result,Females only 8 YEARS - 59 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,URXPREG,0,None,,
+2,URXPREG,1,Positive,,
+3,URXPREG,2,Negative,,
+4,URXPREG,3,Not Done,,
+5,URXPREG,4,Invalid,,
+6,URXPREG,.,Missing,,

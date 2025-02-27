@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSTP2Y,,,,,,,,,,,,
-2,SSSAPN,,,,,,,,,,,,
-3,SSSAPNL,,,,,,,,,,,,
-4,SSSBPN,,,,,,,,,,,,
-5,SSSBPNL,,,,,,,,,,,,
-6,SSSLIM,,,,,,,,,,,,
-7,SSSLIML,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSSTP2Y,Surplus specimen terpenes 2 year weights for 2013-2014,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSSAPN,α-Pinene (ng/mL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSSAPNL,α-Pinene Comment Code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SSSBPN,β-Pinene (ng/mL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SSSBPNL,β-Pinene Comment Code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,SSSLIM,Limonene (ng/mL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,SSSLIML,Limonene Comment Code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

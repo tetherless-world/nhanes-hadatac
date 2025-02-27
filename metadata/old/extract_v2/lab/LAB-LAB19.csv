@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB19","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 49 YEARS",NA,NA
 "LAB19","LBXME","LBXME","Measles","Measles","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 29.33"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5113"", ""550""]; Cumulative=[""5113"", ""5663""]; Skip.to.Item=[""NA"", ""NA""]"
 "LAB19","LBDRUIU","LBDRUIU","Rubella international units","Rubella units","Both males and females 6 YEARS - 49 YEARS",NA,"Code.or.Value=[""1 to 291"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""5113"", ""550""]; Cumulative=[""5113"", ""5663""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSFR_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSFR_G","WTSSBG2Y","WTSSBG2Y","Surplus specimen B 11-12 2 year weights","Surplus specimen 2 year weights B for 2011-2012","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""17260.918238 to 682109.15247"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""2053"", ""1"", ""0""]; Cumulative=[""2053"", ""2054"", ""2054""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSFR_G","SSDPHP","SSDPHP","Diphenyl phosphate (ug/L)","Diphenyl phosphate (ug/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.071 to 101"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2051"", ""3""]; Cumulative=[""2051"", ""2054""]; Skip.to.Item=[""NA"", ""NA""]"

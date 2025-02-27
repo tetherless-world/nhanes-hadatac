@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L06HM_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "L06HM_B","WTSHM2YR","WTSHM2YR","Heavy Metal Subsample 2 Year Mec Weight","Heavy Metal Subsample 2 Year Mec Weight","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 671114.86074"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2804"", ""0""]; Cumulative=[""2804"", ""2804""]; Skip.to.Item=[""NA"", ""NA""]"
 "L06HM_B","WTSHM4YR","WTSHM4YR","Heavy Metal Subsample 4 Year Mec Weight","Heavy Metal Subsample 4 Year Mec Weight","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 339040.61749"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2804"", ""0""]; Cumulative=[""2804"", ""2804""]; Skip.to.Item=[""NA"", ""NA""]"

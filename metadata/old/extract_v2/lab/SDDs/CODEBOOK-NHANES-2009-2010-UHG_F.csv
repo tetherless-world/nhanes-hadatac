@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,URXUHG,0.06 To 19.33,Range Of Values,Mercury urine (ug/L),Both males and females 6 YEARS - 150 YEARS,nan,,
-2,URXUHG,.,Missing,Mercury urine (ug/L),Both males and females 6 YEARS - 150 YEARS,nan,,
-3,URXUCR,6 To 489,Range Of Values,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-4,URXUCR,.,Missing,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-5,WTSA2YR,0 To 476882.95898,Range Of Values,Environmental A 2 year weights,Both males and females 6 YEARS - 150 YEARS,nan,,
-6,WTSA2YR,.,Missing,Environmental A 2 year weights,Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,URXUHG,0.06 To 19.33,Range Of Values,,
+2,URXUHG,.,Missing,,
+3,URXUCR,6 To 489,Range Of Values,,
+4,URXUCR,.,Missing,,
+5,WTSA2YR,0 To 476882.95898,Range Of Values,,
+6,WTSA2YR,.,Missing,,

@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,LBXTC,59 To 523,Range Of Values,Total Cholesterol( mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-2,LBXTC,.,Missing,Total Cholesterol( mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-3,LBDTCSI,1.53 To 13.52,Range Of Values,Total Cholesterol( mmol/L),Both males and females 6 YEARS - 150 YEARS,nan,,
-4,LBDTCSI,.,Missing,Total Cholesterol( mmol/L),Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXTC,59 To 523,Range Of Values,,
+2,LBXTC,.,Missing,,
+3,LBDTCSI,1.53 To 13.52,Range Of Values,,
+4,LBDTCSI,.,Missing,,

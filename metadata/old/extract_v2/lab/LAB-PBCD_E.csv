@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PBCD_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "PBCD_E","LBXBCD","LBXBCD","Cadmium (ug/L)","Cadmium (ug/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.2 to 8.81"", ""0.14"", "".""]; Value.Description=[""Range of Values"", ""Below Detection Limit Fill Value"", ""Missing""]; Count=[""5254"", ""3012"", ""1041""]; Cumulative=[""5254"", ""8266"", ""9307""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "PBCD_E","LBDBCDSI","LBDBCDSI","Cadmium (nmol/L)","Cadmium (nmol/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.78 to 78.38"", ""1.25"", "".""]; Value.Description=[""Range of Values"", ""Below Detection Limit Fill Value"", ""Missing""]; Count=[""5254"", ""3012"", ""1041""]; Cumulative=[""5254"", ""8266"", ""9307""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

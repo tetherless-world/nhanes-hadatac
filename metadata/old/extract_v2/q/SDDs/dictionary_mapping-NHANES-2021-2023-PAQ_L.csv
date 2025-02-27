@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,PAD790Q,,,,,,,,,,,,
-2,PAD790U,,,,,,,,,,,,
-3,PAD800,,,,,,,,,,,,
-4,PAD810Q,,,,,,,,,,,,
-5,PAD810U,,,,,,,,,,,,
-6,PAD820,,,,,,,,,,,,
-7,PAD680,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,PAD790Q,The next questions are about physical activities such as exercise sports or physically active hobbies that you may do in your leisure time. We are interested in two types of physical activity: moderate and vigorous-intensity. Moderate-intensity activities cause moderate increases in breathing or heart rate whereas vigorous-intensity activities cause large increases in breathing or heart rate. How often {do you/does SP} do moderate-intensity leisure-time physical activities?,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,PAD790U,The next questions are about physical activities such as exercise sports or physically active hobbies that you may do in your leisure time. We are interested in two types of physical activity: moderate and vigorous-intensity. Moderate-intensity activities cause moderate increases in breathing or heart rate whereas vigorous-intensity activities cause large increases in breathing or heart rate. How often {do you/does SP} do moderate-intensity leisure-time physical activities?,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,PAD800,About how long {do you/does SP} do these moderate leisure-time physical activities each time?,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,PAD810Q,How often {do you/does SP} do vigorous-intensity leisure-time physical activities?,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,PAD810U,How often {do you/does SP} do vigorous-intensity leisure-time physical activities?,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,PAD820,About how long {do you/does SP} do these vigorous leisure-time physical activities each time?,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,PAD680,The following question is about sitting at school at home getting to and from places or with friends including time spent sitting at a desk traveling in a car or bus reading playing cards watching television or using a computer. Do not include time spent sleeping. How much time {do you/does SP} usually spend sitting on a typical day?,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,

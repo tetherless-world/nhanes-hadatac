@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXB12,,,,,,,,,,,,
-2,LBDB12SI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXB12,Vitamin B12 ( pg/mL),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDB12SI,Vitamin B12 (pmol/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

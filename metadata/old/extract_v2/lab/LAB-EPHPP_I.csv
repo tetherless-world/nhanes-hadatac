@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "EPHPP_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "EPHPP_I","WTSB2YR","WTSB2YR","Subsample B weights","Subsample B weights","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""7005.984297 to 874638.01159"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2747"", ""56"", ""0""]; Cumulative=[""2747"", ""2803"", ""2803""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "EPHPP_I","URXBP3","URXBP3","Urinary Benzophenone-3 (ng/mL)","Urinary 2-Hydroxy-4-metoxybenzophenone (Benzophenone-3)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.28 to 99886.7"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2651"", ""152""]; Cumulative=[""2651"", ""2803""]; Skip.to.Item=[""NA"", ""NA""]"

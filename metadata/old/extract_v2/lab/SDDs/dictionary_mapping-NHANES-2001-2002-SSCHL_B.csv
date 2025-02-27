@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSTESTO,,,,,,,,,,,,
-2,SSSHBG,,,,,,,,,,,,
-3,SSSE2,,,,,,,,,,,,
-4,SS3adlG,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSTESTO,Testostosterone (ng/mL),Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSSHBG,Sex Hormone Binding Globulin (nmol/L),Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSSE2,estradiol (pg/mL),Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SS3adlG,androstanedione glucuronide (ng/mL),Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,

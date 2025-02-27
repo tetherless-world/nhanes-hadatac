@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,DUQ100,,,,,,,,,,,,
-2,DUQ110,,,,,,,,,,,,
-3,DUQ120,,,,,,,,,,,,
-4,DUQ130,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,
+1,DUQ100,The following questions ask about drug use. Have you ever used cocaine including crack or freebase or other street drugs? Do not include marijuana.,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,
+2,DUQ110,In the past 12 months how many days have you used cocaine including crack or freebase or other street drugs?,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,
+3,DUQ120,Have you ever used a needle to take street drugs?,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,
+4,DUQ130,In the past 12 months how many days have you used a needle to take street drugs?,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,

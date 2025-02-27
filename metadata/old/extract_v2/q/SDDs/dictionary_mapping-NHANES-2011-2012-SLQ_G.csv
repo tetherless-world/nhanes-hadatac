@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SLD010H,,,,,,,,,,,,
-2,SLQ050,,,,,,,,,,,,
-3,SLQ060,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SLD010H,The next set of questions is about your sleeping habits. How much sleep {do you/does SP} usually get at night on weekdays or workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SLQ050,{Have you/Has SP} ever told a doctor or other health professional that {you have/s/he has} trouble sleeping?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SLQ060,{Have you/Has SP} ever been told by a doctor or other health professional that {you have/s/he has} a sleep disorder?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,

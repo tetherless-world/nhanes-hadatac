@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSAGP,,,,,,,,,,,,
-2,WTSSAGPP,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 5 YEARS,,,,,,,,,,,,,
+1,SSAGP,Alpha-1-Acid Glycoprotein (g/L),Both males and females 3 YEARS - 5 YEARS,,,,,,,,,,,,,
+2,WTSSAGPP,Surplus specimen AGP weights pre-pandemic,Both males and females 3 YEARS - 5 YEARS,,,,,,,,,,,,,

@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 20 YEARS - 150 YEARS,nan,,
-1,LBXMMASI,32.6 To 3020,Range Of Values,Methylmalonic Acid (nmol/L),Both males and females 20 YEARS - 150 YEARS,nan,,
-2,LBXMMASI,.,Missing,Methylmalonic Acid (nmol/L),Both males and females 20 YEARS - 150 YEARS,nan,,
-3,LBDMMALC,0,At Or Above The Detection Limit,Methylmalonic Acid comment code,Both males and females 20 YEARS - 150 YEARS,nan,,
-4,LBDMMALC,1,Below Lower Detection Limit,Methylmalonic Acid comment code,Both males and females 20 YEARS - 150 YEARS,nan,,
-5,LBDMMALC,.,Missing,Methylmalonic Acid comment code,Both males and females 20 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXMMASI,32.6 To 3020,Range Of Values,,
+2,LBXMMASI,.,Missing,,
+3,LBDMMALC,0,At Or Above The Detection Limit,,
+4,LBDMMALC,1,Below Lower Detection Limit,,
+5,LBDMMALC,.,Missing,,

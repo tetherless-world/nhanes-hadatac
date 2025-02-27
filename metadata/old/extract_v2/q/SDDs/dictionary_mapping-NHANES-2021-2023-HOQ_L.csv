@@ -1,3 +1,3 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,HOD051,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,HOD051,I would like to ask you about {your/FAMILY SPs} home.  How many rooms are in {your/FAMILY SPs} home? Count the kitchen and do not count any bathrooms or an unfinished basement or a laundry room.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

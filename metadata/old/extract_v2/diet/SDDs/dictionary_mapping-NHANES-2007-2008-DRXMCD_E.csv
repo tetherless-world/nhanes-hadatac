@@ -1,3 +1,3 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,DRXMC,,,,,,,,,,,,
-1,DRXMCD,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,DRXMC,Modification Code,,,,,,,,,,,,,,
+1,DRXMCD,Modification Code Description ,,,,,,,,,,,,,,

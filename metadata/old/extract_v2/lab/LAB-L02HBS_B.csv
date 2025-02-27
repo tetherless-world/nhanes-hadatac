@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L02HBS_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 2 YEARS - 150 YEARS",NA,NA
 "L02HBS_B","LBXHBS","LBXHBS","Hepatitis B Surface Antibody","Hepatitis B Surface Antibody","Both males and females 2 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""2842"", ""5675"", ""1081""]; Cumulative=[""2842"", ""8517"", ""9598""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

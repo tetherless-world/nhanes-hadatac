@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VIT_B6_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "VIT_B6_E","LBX4PA","LBX4PA","4-pyridoxic acid (nmol/L)","4-pyridoxic acid (nmol/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""3.2 to 15500"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8171"", ""1136""]; Cumulative=[""8171"", ""9307""]; Skip.to.Item=[""NA"", ""NA""]"
 "VIT_B6_E","LBXPLP","LBXPLP","Pyridoxal 5-phosphate (nmol/L)","Pyridoxal 5-phosphate (nmol/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""2.1 to 2330"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""8171"", ""1136""]; Cumulative=[""8171"", ""9307""]; Skip.to.Item=[""NA"", ""NA""]"

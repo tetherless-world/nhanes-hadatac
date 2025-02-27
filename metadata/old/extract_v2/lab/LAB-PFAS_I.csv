@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PFAS_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "PFAS_I","WTSB2YR","WTSB2YR","Subsample B weights","Subsample B weights","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""16425.326175 to 874638.01159"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2143"", ""27"", ""0""]; Cumulative=[""2143"", ""2170"", ""2170""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "PFAS_I","LBXPFDE","LBXPFDE","Perfluorodecanoic acid (ng/mL)","Perfluorodecanoic acid (PFDeA) (ng/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.07 to 6.5"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1993"", ""177""]; Cumulative=[""1993"", ""2170""]; Skip.to.Item=[""NA"", ""NA""]"

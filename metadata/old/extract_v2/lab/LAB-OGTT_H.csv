@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "OGTT_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "OGTT_H","WTSOG2YR","WTSOG2YR","OGTT Subsample 2 Year MEC Weight","OGTT Subsample 2 Year MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""15353.54074 to 415382.80096"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2600"", ""309"", ""0""]; Cumulative=[""2600"", ""2909"", ""2909""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "OGTT_H","LBXGLT","LBXGLT","Two Hour Glucose(OGTT) (mg/dL)","Two Hour Glucose(OGTT) (mg/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""40 to 604"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2345"", ""564""]; Cumulative=[""2345"", ""2909""]; Skip.to.Item=[""NA"", ""NA""]"

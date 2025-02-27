@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HSCRP_J","SEQN","SEQN","Respondent Sequence Number","Respondent Sequence Number","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "HSCRP_J","LBXHSCRP","LBXHSCRP","HS C-Reactive Protein (mg/L)","High-Sensitivity C-Reactive Protein (hs-CRP) (mg/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.11 to 182.82"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7250"", ""1116""]; Cumulative=[""7250"", ""8366""]; Skip.to.Item=[""NA"", ""NA""]"
 "HSCRP_J","LBDHRPLC","LBDHRPLC","HS C-Reactive Protein Comment Code","High-Sensitivity C-Reactive Protein (hs-CRP) Comment Code","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""7175"", ""75"", ""1116""]; Cumulative=[""7175"", ""7250"", ""8366""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

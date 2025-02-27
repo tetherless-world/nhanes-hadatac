@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,DRXFDCD,11000000 To 95342000,Range Of Values,Food Code,nan,nan,,
-1,DRXFDCD,.,Missing,Food Code,nan,nan,,
-2,DRXFCSD,Short Food Code Description,Value Was Recorded,Short Food Code Description,nan,nan,,
-3,DRXFCSD,,,Short Food Code Description,nan,nan,,
-4,DRXFCLD,Long Food Code Description,Value Was Recorded,Long Food Code Description,nan,nan,,
-5,DRXFCLD,,,Long Food Code Description,nan,nan,,
+,Column,Code,Label,Class,Other For
+0,DRXFDCD,11000000 To 95342000,Range Of Values,,
+1,DRXFDCD,.,Missing,,
+2,DRXFCSD,Short Food Code Description,Value Was Recorded,,
+3,DRXFCSD,,,,
+4,DRXFCLD,Long Food Code Description,Value Was Recorded,,
+5,DRXFCLD,,,,

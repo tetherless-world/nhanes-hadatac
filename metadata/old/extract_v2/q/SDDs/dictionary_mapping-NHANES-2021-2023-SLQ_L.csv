@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SLQ300,,,,,,,,,,,,
-2,SLQ310,,,,,,,,,,,,
-3,SLD012,,,,,,,,,,,,
-4,SLQ320,,,,,,,,,,,,
-5,SLQ330,,,,,,,,,,,,
-6,SLD013,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SLQ300,What time {do you/does SP} usually fall asleep on weekdays or workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SLQ310,What time {do you/does SP} usually wake up on weekdays or workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SLD012,Number of hours usually sleep on weekdays or workdays.,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SLQ320,What time {do you/does SP} usually fall asleep on weekends or non-workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,SLQ330,What time {do you/does SP} usually wake up on weekends or non-workdays?,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,SLD013,Number of hours usually sleep on weekends or non-workdays.,Both males and females 16 YEARS - 150 YEARS,,,,,,,,,,,,,

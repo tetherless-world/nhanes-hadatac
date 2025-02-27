@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB04","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 59 YEARS",NA,NA
 "LAB04","WTSVOC2Y","WTSVOC2Y","VOC subsample 2 yr MEC Weight","","Both males and females 20 YEARS - 59 YEARS",NA,"Code.or.Value=[""6703.435144 to 992877.35227"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Non-Respondent"", ""Missing""]; Count=[""669"", ""182"", ""0""]; Cumulative=[""669"", ""851"", ""851""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "LAB04","WTSVOC4Y","WTSVOC4Y","VOC subsample 4 yr MEC Weight","","Both males and females 20 YEARS - 59 YEARS",NA,"Code.or.Value=[""2836.3452371 to 306407.42974"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Non-Respondent"", ""Missing""]; Count=[""669"", ""182"", ""0""]; Cumulative=[""669"", ""851"", ""851""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

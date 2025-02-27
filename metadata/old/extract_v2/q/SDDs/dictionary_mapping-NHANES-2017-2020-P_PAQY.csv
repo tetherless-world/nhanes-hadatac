@@ -1,3 +1,3 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,PAQ706,,,,,,,,,,,,
-1,SEQN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,PAQ706,Id like to ask you some questions about {your/SPs} activities. During the past 7 days on how many days {were you/was SP} physically active for a total of at least 60 minutes per day? Add up all the time {you/he/she} spent in any kind of physical activity that increased {your/his/her} heart rate and made {you/him/her} breathe hard some of the time.,Both males and females 2 YEARS - 17 YEARS,,,,,,,,,,,,,
+1,SEQN,Respondent sequence number.,Both males and females 2 YEARS - 17 YEARS,,,,,,,,,,,,,

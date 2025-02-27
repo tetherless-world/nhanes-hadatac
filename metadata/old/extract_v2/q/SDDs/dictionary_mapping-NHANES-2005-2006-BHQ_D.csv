@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,BHQ005,,,,,,,,,,,,
-2,BHQ010,,,,,,,,,,,,
-3,BHQ020,,,,,,,,,,,,
-4,BHQ030,,,,,,,,,,,,
-5,BHQ040,,,,,,,,,,,,
-6,BHD050,,,,,,,,,,,,
-7,BHQ060,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,BHQ005,,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,BHQ010,Next wed like to talk to you about bowel health. Well start with accidental bowel leakage. There are four types of bowel leakage that can happen: leakage (passing) of gas leakage of mucus leakage of liquid stool and leakage of solid stool. We will ask you about leakage of each of these one at a time. How often during the past 30 days have you had any amount of accidental bowel leakage that consisted of gas? Would you say . . .,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,BHQ020,How often during the past 30 days have you had any amount of accidental bowel leakage that consisted of mucus?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,BHQ030,How often during the past 30 days have you had any amount of accidental bowel leakage that consisted of liquid stool?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,BHQ040,How often during the past 30 days have you had any amount of accidental bowel leakage that consisted of solid stool?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,BHD050,How often do you usually have bowel movements?,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,BHQ060,Please look at this card and tell me the number that corresponds to your usual or most common stool type.,Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,

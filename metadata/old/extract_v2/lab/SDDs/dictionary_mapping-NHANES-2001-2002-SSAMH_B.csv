@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSAMH,,,,,,,,,,,,
-2,SSINHBIN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSAMH,Anti-Mullerian Hormone (ng/ml),Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSINHBIN,Inhibin B (pg/ml),Males only 12 YEARS - 150 YEARS,,,,,,,,,,,,,

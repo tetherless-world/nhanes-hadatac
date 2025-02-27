@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSCH2Y,,,,,,,,,,,,
-2,SSGLYP,,,,,,,,,,,,
-3,SSGLYPL,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSSCH2Y,Surplus specimen 2 year weights C for 2013-2014,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSGLYP,Glyphosate,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSGLYPL,Glyphosate comment code,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

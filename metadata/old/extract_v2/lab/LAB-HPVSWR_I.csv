@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HPVSWR_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 18 YEARS - 59 YEARS",NA,NA
 "HPVSWR_I","LBDRPCR","LBDRPCR","Roche HPV linear array summary result","Roche HPV linear array (LA) summary result","Females only 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Inadequate"", ""Missing""]; Count=[""764"", ""1094"", ""14"", ""192""]; Cumulative=[""764"", ""1858"", ""1872"", ""2064""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "HPVSWR_I","LBDRHP","LBDRHP","Roche LA high positive globin control","Roche LA high positive globin control","Females only 18 YEARS - 59 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Missing""]; Count=[""1850"", ""8"", ""206""]; Cumulative=[""1850"", ""1858"", ""2064""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

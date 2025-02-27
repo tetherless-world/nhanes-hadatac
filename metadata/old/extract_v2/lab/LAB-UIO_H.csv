@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UIO_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UIO_H","URXUIO","URXUIO","Iodine urine (ug/L)","Iodine urine (ug/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""7.4 to 33046"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2666"", ""89""]; Cumulative=[""2666"", ""2755""]; Skip.to.Item=[""NA"", ""NA""]"
 "UIO_H","URXUCR","URXUCR","Creatinine urine (mg/dL)","Creatinine urine (mg/dL) ","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""5 to 546"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2681"", ""74""]; Cumulative=[""2681"", ""2755""]; Skip.to.Item=[""NA"", ""NA""]"

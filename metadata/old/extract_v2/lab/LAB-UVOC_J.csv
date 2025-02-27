@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UVOC_J","SEQN","SEQN","Respondent Sequence Number","Respondent Sequence Number","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "UVOC_J","WTSA2YR","WTSA2YR","Subsample A Weights","Subsample A Weights","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""3829.845402 to 1502431.3423"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Participants 3+ years with no lab specimen"", ""Missing""]; Count=[""2871"", ""108"", ""0""]; Cumulative=[""2871"", ""2979"", ""2979""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UVOC_J","URX2MH","URX2MH","2-methylhippuric acid (ng/mL)","2-methylhippuric acid (ng/mL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""3.54 to 7380"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2655"", ""324""]; Cumulative=[""2655"", ""2979""]; Skip.to.Item=[""NA"", ""NA""]"

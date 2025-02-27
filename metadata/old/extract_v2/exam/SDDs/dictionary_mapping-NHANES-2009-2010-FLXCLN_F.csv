@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,FCX06DI,,,,,,,,,,,,
-2,FCX07DI,,,,,,,,,,,,
-3,FCX08DI,,,,,,,,,,,,
-4,FCX09DI,,,,,,,,,,,,
-5,FCX10DI,,,,,,,,,,,,
-6,FCX11DI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+1,FCX06DI,Fluorosis Deans Index: Upper right cuspid (C),Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+2,FCX07DI,Fluorosis Deans Index: Upper right lateral incisor (LI),Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+3,FCX08DI,Fluorosis Deans Index: Upper right central incisor (CI),Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+4,FCX09DI,Fluorosis Deans Index: Upper left central incisor (CI),Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+5,FCX10DI,Fluorosis Deans Index: Upper left lateral incisor (LI),Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+6,FCX11DI,Fluorosis Deans Index: Upper left cuspid (C),Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,

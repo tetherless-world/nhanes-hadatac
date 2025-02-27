@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSPFC_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "SSPFC_A","SEPAHLC","SEPAHLC","Surplus sera EPAH comment code","Surplus sera EPAH comment code","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""1352"", ""104"", ""0""]; Cumulative=[""1352"", ""1456"", ""1456""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSPFC_A","SEPAH","SEPAH","Surplus sera EPAH result (ng/ml)","Surplus sera 2-(N-ethyl-perfluorooctane sulfonamido) acetate (EPAH) result (ng/ml)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.2 to 24.6"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1456"", ""0""]; Cumulative=[""1456"", ""1456""]; Skip.to.Item=[""NA"", ""NA""]"

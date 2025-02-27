@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,URXUIO,2.9 To 1406700,Range Of Values,Iodine urine (ng/mL),Both males and females 6 YEARS - 150 YEARS,nan,,
-2,URXUIO,.,Missing,Iodine urine (ng/mL),Both males and females 6 YEARS - 150 YEARS,nan,,
-3,URXUCR,7 To 678,Range Of Values,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-4,URXUCR,.,Missing,Creatinine urine (mg/dL),Both males and females 6 YEARS - 150 YEARS,nan,,
-5,WTSC2YR,0 To 475173.70936,Range Of Values,Two-year MEC weights of subsample C,Both males and females 6 YEARS - 150 YEARS,nan,,
-6,WTSC2YR,.,Missing,Two-year MEC weights of subsample C,Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,URXUIO,2.9 To 1406700,Range Of Values,,
+2,URXUIO,.,Missing,,
+3,URXUCR,7 To 678,Range Of Values,,
+4,URXUCR,.,Missing,,
+5,WTSC2YR,0 To 475173.70936,Range Of Values,,
+6,WTSC2YR,.,Missing,,

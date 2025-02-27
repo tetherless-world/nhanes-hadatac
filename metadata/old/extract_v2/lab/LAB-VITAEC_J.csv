@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VITAEC_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "VITAEC_J","LBXALC","LBXALC","alpha-carotene (ug/dL)","alpha-carotene (ug/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.5 to 229"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6282"", ""1153""]; Cumulative=[""6282"", ""7435""]; Skip.to.Item=[""NA"", ""NA""]"
 "VITAEC_J","LBDALCSI","LBDALCSI","alpha-carotene (umol/L)","alpha-carotene (umol/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.009 to 4.266"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6282"", ""1153""]; Cumulative=[""6282"", ""7435""]; Skip.to.Item=[""NA"", ""NA""]"

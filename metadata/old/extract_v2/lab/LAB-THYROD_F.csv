@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "THYROD_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "THYROD_F","WTSA2YR","WTSA2YR","Two-year A subsample weights","Two-year A subsample weights","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 476882.95898"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2544"", ""0""]; Cumulative=[""2544"", ""2544""]; Skip.to.Item=[""NA"", ""NA""]"
 "THYROD_F","LBXATG","LBXATG","Thyroglobulin antibodies (IU/mL)","Thyroglobulin antibodies (IU/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.6 to 1671.9"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2328"", ""216""]; Cumulative=[""2328"", ""2544""]; Skip.to.Item=[""NA"", ""NA""]"

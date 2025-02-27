@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,URXUFL,,,,,,,,,,,,
-2,URDUFLLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+1,URXUFL,Fluoride urine (mg/L),Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,
+2,URDUFLLC,Fluoride urine comment code,Both males and females 6 YEARS - 19 YEARS,,,,,,,,,,,,,

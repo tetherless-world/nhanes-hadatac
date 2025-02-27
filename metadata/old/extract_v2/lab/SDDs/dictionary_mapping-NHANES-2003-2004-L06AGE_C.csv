@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXACR,,,,,,,,,,,,
-2,LBDACRLC,,,,,,,,,,,,
-3,LBXGLY,,,,,,,,,,,,
-4,LBDGLYLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXACR,Acrylamide (pmoL/G Hb),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDACRLC,Acrylamide comment code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXGLY,Glycidamide (pmoL/G Hb),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDGLYLC,Glycidamide comment code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,9 +1,9 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,URDNO3LC,,,,,,,,,,,,
-2,URDSCNLC,,,,,,,,,,,,
-3,URDUP8LC,,,,,,,,,,,,
-4,URXNO3,,,,,,,,,,,,
-5,URXSCN,,,,,,,,,,,,
-6,URXUP8,,,,,,,,,,,,
-7,WTSAPRP,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,URDNO3LC,Nitrate urine Comment Code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,URDSCNLC,Thiocyanate urine Comment Code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,URDUP8LC,Perchlorate urine Comment Code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,URXNO3,Nitrate urine (ng/mL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,URXSCN,Thiocyanate urine (ng/mL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,URXUP8,Perchlorate urine (ng/mL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+7,WTSAPRP,Subsample A Weights,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,

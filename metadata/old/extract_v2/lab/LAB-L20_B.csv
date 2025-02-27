@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L20_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 5 YEARS",NA,NA
 "L20_B","DCDINDEX","DCDINDEX","Index child for sampling","","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Index Child"", ""Other Household Child"", ""Missing""]; Count=[""969"", ""361"", ""0""]; Cumulative=[""969"", ""1330"", ""1330""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "L20_B","DCDSTAT","DCDSTAT","Dust sample status","","Both males and females 1 YEARS - 5 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Floor Only"", ""Window Only"", ""Floor and Window"", ""Missing""]; Count=[""322"", ""1"", ""934"", ""73""]; Cumulative=[""322"", ""323"", ""1257"", ""1330""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

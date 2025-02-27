@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ORHPV_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 69 YEARS",NA,NA
 "ORHPV_H","ORXGH","ORXGH","HPV High Globulin Band result","HPV High Globulin Band result","Both males and females 18 YEARS - 69 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Not evaluated"", ""Missing""]; Count=[""4724"", ""0"", ""333"", ""0""]; Cumulative=[""4724"", ""4724"", ""5057"", ""5057""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "ORHPV_H","ORXGL","ORXGL","HPV Low Globulin Band result","HPV Low Globulin Band result","Both males and females 18 YEARS - 69 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Not evaluated"", ""Missing""]; Count=[""4724"", ""0"", ""333"", ""0""]; Cumulative=[""4724"", ""4724"", ""5057"", ""5057""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

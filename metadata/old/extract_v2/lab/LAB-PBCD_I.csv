@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PBCD_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "PBCD_I","WTSH2YR","WTSH2YR","Blood metal weights","Blood metal weights","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""5099.649848 to 499733.23816"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Participants 12+ years with no lab specimen"", ""Missing""]; Count=[""5597"", ""218"", ""0""]; Cumulative=[""5597"", ""5815"", ""5815""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "PBCD_I","LBXBPB","LBXBPB","Blood lead (ug/dL)","Blood lead (ug/dL)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.05 to 23.51"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4988"", ""827""]; Cumulative=[""4988"", ""5815""]; Skip.to.Item=[""NA"", ""NA""]"

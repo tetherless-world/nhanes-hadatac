@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSAF2YR,,,,,,,,,,,,
-2,LBXTR,,,,,,,,,,,,
-3,LBDTRSI,,,,,,,,,,,,
-4,LBDLDL,,,,,,,,,,,,
-5,LBDLDLSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSAF2YR,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXTR,Triglyceride (mg/dL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDTRSI,Triglyceride (mmol/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDLDL,LDL-cholesterol (mg/dL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBDLDLSI,LDL-cholesterol (mmol/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

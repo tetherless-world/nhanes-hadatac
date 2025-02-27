@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "FLDEW_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 19 YEARS",NA,NA
 "FLDEW_I","LBDWFL","LBDWFL","Fluoride water (mg/L) average 2 values","Fluoride water (mg/L) average 2 values","Both males and females 0 YEARS - 19 YEARS",NA,"Code.or.Value=[""0.07 to 3.05"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3987"", ""83""]; Cumulative=[""3987"", ""4070""]; Skip.to.Item=[""NA"", ""NA""]"
 "FLDEW_I","LBDWFLLC","LBDWFLLC","Fluoride water comment code","Fluoride water comment code","Both males and females 0 YEARS - 19 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""3495"", ""492"", ""83""]; Cumulative=[""3495"", ""3987"", ""4070""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

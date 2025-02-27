@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSTOXG,,,,,,,,,,,,
-2,SSTOXM,,,,,,,,,,,,
-3,SSTOXAV,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SSTOXG,Toxoplasmosis IgG antibodies (IU/ml),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSTOXM,Toxoplasmosis IgM antibodies,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSTOXAV,Toxoplasmosis IgG Avidity (IU/ml),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

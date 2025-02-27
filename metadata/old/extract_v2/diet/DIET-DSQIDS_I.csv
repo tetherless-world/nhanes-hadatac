@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DSQIDS_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "DSQIDS_I","DSDSUPID","DSDSUPID","Supplement ID Number","Supplement ID Number","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""Supplement ID Number"", ""< blank >""]; Value.Description=[""Value was recorded"", ""Missing""]; Count=[""9559"", ""0""]; Cumulative=[""9559"", ""9559""]; Skip.to.Item=[""NA"", ""NA""]"
 "DSQIDS_I","DSDSUPP","DSDSUPP","Supplement Name","","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""Supplement Name"", ""< blank >""]; Value.Description=[""Value was recorded"", ""Missing""]; Count=[""9559"", ""0""]; Cumulative=[""9559"", ""9559""]; Skip.to.Item=[""NA"", ""NA""]"

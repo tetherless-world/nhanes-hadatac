@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSPFAC_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 11 YEARS",NA,NA
 "SSPFAC_H","WTSSPH2Y","WTSSPH2Y","SSPFAC_H 2 year weights","Surplus specimen SSPFAC_H 2 year weights","Both males and females 3 YEARS - 11 YEARS",NA,"Code.or.Value=[""16976.25749 to 443049.06765"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""525"", ""0"", ""0""]; Cumulative=[""525"", ""525"", ""525""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSPFAC_H","SSPFSA","SSPFSA","Perfluorooctane sulfonamide (ng/mL)","Perfluorooctane sulfonamide (ng/mL)","Both males and females 3 YEARS - 11 YEARS",NA,"Code.or.Value=[""0.07 to 0.72"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""525"", ""0""]; Cumulative=[""525"", ""525""]; Skip.to.Item=[""NA"", ""NA""]"

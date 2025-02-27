@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L28OCP_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "L28OCP_C","WTSB2YR","WTSB2YR","Two-year MEC weights of subsample B","Two-year MEC weights of subsample B","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 435025.30254"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2337"", ""0""]; Cumulative=[""2337"", ""2337""]; Skip.to.Item=[""NA"", ""NA""]"
 "L28OCP_C","LBXHCB","LBXHCB","Hexachlorobenzene (ng/g)","Hexachlorobenzene (ng/g)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0116 to 1.1847"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1961"", ""376""]; Cumulative=[""1961"", ""2337""]; Skip.to.Item=[""NA"", ""NA""]"

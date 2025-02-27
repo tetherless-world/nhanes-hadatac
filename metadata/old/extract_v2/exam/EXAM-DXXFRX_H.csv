@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DXXFRX_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 40 YEARS - 150 YEARS",NA,NA
 "DXXFRX_H","DXXPRVFX","DXXPRVFX","Self-reported fracture age 20+","Previous self-reported fracture after age 20","Both males and females 40 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""1070"", ""2623"", ""15""]; Cumulative=[""1070"", ""3693"", ""3708""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "DXXFRX_H","DXXFRAX1","DXXFRAX1","Hip FRAX previous fracture","10-year hip fracture risk score assuming previous fracture","Both males and females 40 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 53.08"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3127"", ""581""]; Cumulative=[""3127"", ""3708""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,INDFMMPI,,,,,,,,,,,,
-2,INDFMMPC,,,,,,,,,,,,
-3,INQ300,,,,,,,,,,,,
-4,IND310,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,INDFMMPI,Family monthly poverty level index a ratio of monthly family income to the HHS poverty guidelines specific to family size.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,INDFMMPC,Family monthly poverty level index categories.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,INQ300,Do {you/NAMES OF OTHER FAMILY/you and NAMES OF FAMILY MEMBERS} have more than $5000 in savings at this time? Please include money in your checking accounts.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,IND310,Total savings or cash assets at this time for {you/NAMES OF OTHER FAMILY/your family}.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

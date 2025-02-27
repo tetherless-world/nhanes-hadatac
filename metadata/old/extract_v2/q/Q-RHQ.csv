@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "RHQ","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Females only 12 YEARS - 150 YEARS",NA,NA
 "RHQ","RHQ010","RHQ010","Age when first menstrual period occurred","The next series of questions are about {your/SPs} reproductive history. I will begin by asking about {your/SPs} periods or menstrual cycles. How old {were you/was SP} when {you/SP} had {your/her} first menstrual period?","Females only 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 20"", ""777"", ""999"", "".""]; Value.Description=[""Range of Values"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""3171"", ""0"", ""127"", ""219""]; Cumulative=[""3171"", ""3171"", ""3298"", ""3517""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "RHQ","RHQ015","RHQ015",NA,NA,"Females only 12 YEARS - 150 YEARS",NA,NA

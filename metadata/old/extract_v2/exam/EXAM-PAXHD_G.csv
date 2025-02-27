@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PAXHD_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "PAXHD_G","PAXSTS","PAXSTS","Physical activity monitor data status","Indicates which participants have PAM data available in the summary data files","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""6917"", ""904"", ""0""]; Cumulative=[""6917"", ""7821"", ""7821""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "PAXHD_G","PAXSENID","PAXSENID","PAM device ID","Accelerometer device identifier (e.g. NEOXXXXXXXXXXX)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""PAM device ID"", ""< blank >""]; Value.Description=[""Value was recorded"", ""Missing""]; Count=[""6917"", ""904""]; Cumulative=[""6917"", ""7821""]; Skip.to.Item=[""NA"", ""NA""]"

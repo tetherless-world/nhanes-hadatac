@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "CAFE_G","SEQN","SEQN","Respondent Sequence Number","Respondent Sequence Number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "CAFE_G","WTSC2YR","WTSC2YR","Two-year C subsample weights","Two-year C subsample weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""14032.338381 to 649694.78163"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Specimen"", ""Missing""]; Count=[""2441"", ""64"", ""0""]; Cumulative=[""2441"", ""2505"", ""2505""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "CAFE_G","URXMU1","URXMU1","1-methyluric acid (umol/L)","1-methyluric acid (umol/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.657 to 2620"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2398"", ""107""]; Cumulative=[""2398"", ""2505""]; Skip.to.Item=[""NA"", ""NA""]"

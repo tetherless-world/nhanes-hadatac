@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXCRP,,,,,,,,,,,,
-2,LBXFB,,,,,,,,,,,,
-3,LBDFBSI,,,,,,,,,,,,
-4,LBDBAP,,,,,,,,,,,,
-5,URDNT,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXCRP,C-reactive protein (mg/dL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXFB,Fibrinogen (mg/dL),Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDFBSI,Fibrinogen (g/L),Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDBAP,Bone alkaline phosphotase (ug/L),Both males and females 8 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,URDNT,N-Telopeptides (nmol BCE),Both males and females 20 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXHIVC,,,,,,,,,,,,
-2,LBXHIV1,,,,,,,,,,,,
-3,LBXHIV2,,,,,,,,,,,,
-4,LBXHNAT,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+1,LBXHIVC,HIV-1 2 Combo Test,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+2,LBXHIV1,HIV-1 antibody,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+3,LBXHIV2,HIV-2 antibody,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+4,LBXHNAT,HIV Confirmatory Test,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,

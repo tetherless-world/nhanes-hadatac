@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,LBXHBS,1,Positive,Hepatitis B Surface Antibody,Both males and females 2 YEARS - 150 YEARS,nan,,
-1,LBXHBS,2,Negative,Hepatitis B Surface Antibody,Both males and females 2 YEARS - 150 YEARS,nan,,
-2,LBXHBS,3,Indeterminate,Hepatitis B Surface Antibody,Both males and females 2 YEARS - 150 YEARS,nan,,
-3,LBXHBS,.,Missing,Hepatitis B Surface Antibody,Both males and females 2 YEARS - 150 YEARS,nan,,
-4,SEQN,,,Respondent sequence number,Both males and females 2 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,LBXHBS,1,Positive,,
+1,LBXHBS,2,Negative,,
+2,LBXHBS,3,Indeterminate,,
+3,LBXHBS,.,Missing,,
+4,SEQN,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "LAB28POC","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "LAB28POC","WTSPO4YR","WTSPO4YR","Dioxins Subsample 4 Year Mec Weight","Dioxins Subsample 2 Year Mec Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 332972.39067"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2274"", ""0""]; Cumulative=[""2274"", ""2274""]; Skip.to.Item=[""NA"", ""NA""]"
 "LAB28POC","WTSPO2YR","WTSPO2YR","Dioxins Subsample 2 Year Mec Weight","Dioxins Subsample 2 Year Mec Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 846810.73623"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2274"", ""0""]; Cumulative=[""2274"", ""2274""]; Skip.to.Item=[""NA"", ""NA""]"

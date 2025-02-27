@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UHG_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UHG_D","URXUHG","URXUHG","Mercury urine (ng/mL)","Urinary Mercury","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.06 to 25.48"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2578"", ""114""]; Cumulative=[""2578"", ""2692""]; Skip.to.Item=[""NA"", ""NA""]"
 "UHG_D","URDUHGLC","URDUHGLC","Urinary mercury comment code","Urinary mercury comment code","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""2387"", ""191"", ""114""]; Cumulative=[""2387"", ""2578"", ""2692""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

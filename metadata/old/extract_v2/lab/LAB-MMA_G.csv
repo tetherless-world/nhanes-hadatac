@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "MMA_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 150 YEARS",NA,NA
 "MMA_G","LBXMMASI","LBXMMASI","Methylmalonic Acid (nmol/L)","Methylmalonic Acid (nmol/L)","Both males and females 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""32.6 to 3020"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""4880"", ""439""]; Cumulative=[""4880"", ""5319""]; Skip.to.Item=[""NA"", ""NA""]"
 "MMA_G","LBDMMALC","LBDMMALC","Methylmalonic Acid comment code","Methylmalonic Acid comment code","Both males and females 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""4880"", ""0"", ""439""]; Cumulative=[""4880"", ""4880"", ""5319""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

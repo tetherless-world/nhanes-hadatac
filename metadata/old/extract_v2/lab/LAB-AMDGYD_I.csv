@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "AMDGYD_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "AMDGYD_I","WTSA2YR","WTSA2YR","Subsample A weights","Subsample A weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""16357.767797 to 708844.24678"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2644"", ""48"", ""0""]; Cumulative=[""2644"", ""2692"", ""2692""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "AMDGYD_I","LBXACR","LBXACR","Acrylamide (pmol/g Hb)","Acrylamide (pmol/g Hb)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""5.94 to 555"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2413"", ""279""]; Cumulative=[""2413"", ""2692""]; Skip.to.Item=[""NA"", ""NA""]"

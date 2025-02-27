@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "KIQ_P_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Males only 20 YEARS - 150 YEARS",NA,NA
 "KIQ_P_E","KIQBOX1","KIQBOX1",NA,NA,"Males only 20 YEARS - 150 YEARS",NA,NA
 "KIQ_P_E","KIQ081","KIQ081","Have trouble starting to urinate?","The next set of questions is about mens health including urinary and prostate problems. The prostate is a gland located just below the bladder. Do you usually have trouble starting to urinate (pass water)?","Males only 40 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""7"", ""9"", "".""]; Value.Description=[""Yes"", ""No"", ""Refused"", ""Don't know"", ""Missing""]; Count=[""186"", ""1553"", ""2"", ""2"", ""3964""]; Cumulative=[""186"", ""1739"", ""1741"", ""1743"", ""5707""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

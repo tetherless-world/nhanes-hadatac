@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TCHOL_L","SEQN","SEQN","Respondent Sequence Number","Respondent Sequence Number","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "TCHOL_L","WTPH2YR","WTPH2YR","Phlebotomy 2 Year Weight","Phlebotomy 2 Year Weight","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""4391.8220579 to 241728.85724"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No blood sample provided"", ""Missing""]; Count=[""7316"", ""752"", ""0""]; Cumulative=[""7316"", ""8068"", ""8068""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "TCHOL_L","LBXTC","LBXTC","Total Cholesterol (mg/dL)","Total Cholesterol (mg/dL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""62 to 438"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6890"", ""1178""]; Cumulative=[""6890"", ""8068""]; Skip.to.Item=[""NA"", ""NA""]"

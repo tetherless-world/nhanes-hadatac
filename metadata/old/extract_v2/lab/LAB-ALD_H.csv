@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ALD_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "ALD_H","WTALD2YR","WTALD2YR","Two Year Aldehyde Subsample Weights","Two Year Aldehyde Subsample Weights","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""22540.35398 to 595728.72529"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""1843"", ""481"", ""0""]; Cumulative=[""1843"", ""2324"", ""2324""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "ALD_H","LBXBZAL","LBXBZAL","Benzaldehyde (ng/mL)","Benzaldehyde (ng/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.326 to 28.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1468"", ""856""]; Cumulative=[""1468"", ""2324""]; Skip.to.Item=[""NA"", ""NA""]"

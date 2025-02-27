@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSTFR,,,,,,,,,,,,
-2,SSFER,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Females only 13 YEARS - 56 YEARS,,,,,,,,,,,,,
+1,SSTFR,Serum transferrin receptor (mg/l),Females only 13 YEARS - 56 YEARS,,,,,,,,,,,,,
+2,SSFER,Serum ferritin (ng/ml),Females only 13 YEARS - 56 YEARS,,,,,,,,,,,,,

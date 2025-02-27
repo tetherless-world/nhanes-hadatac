@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "FLDEP_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 19 YEARS",NA,NA
 "FLDEP_H","LBDPFL","LBDPFL","Fluoride plasma (umol/L) average 2","Fluoride plasma (umol/L) average 2 values","Both males and females 6 YEARS - 19 YEARS",NA,"Code.or.Value=[""0.18 to 16.67"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2325"", ""378""]; Cumulative=[""2325"", ""2703""]; Skip.to.Item=[""NA"", ""NA""]"
 "FLDEP_H","LBDPFLLC","LBDPFLLC","Fluoride plasma comment code","Fluoride plasma comment code","Both males and females 6 YEARS - 19 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""2017"", ""308"", ""378""]; Cumulative=[""2017"", ""2325"", ""2703""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ALDUST_D","SEQN","SEQN","Respondent sequence number","Respondent Sequence Number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "ALDUST_D","WTAL2YR","WTAL2YR","Dust Allergen Subsample 2-Year Weight","Dust Allergen Subsample 2-Year Weight","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 222708.18031"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""9440"", ""0""]; Cumulative=[""9440"", ""9440""]; Skip.to.Item=[""NA"", ""NA""]"
 "ALDUST_D","AADEXSTS","AADEXSTS","Status of Dust Allergen Data","Status of Dust Allergen Data","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not done"", ""Missing""]; Count=[""6786"", ""177"", ""2477"", ""0""]; Cumulative=[""6786"", ""6963"", ""9440"", ""9440""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

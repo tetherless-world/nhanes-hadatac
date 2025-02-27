@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "THYROD_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "THYROD_E","LBXATG","LBXATG","Thyroglobulin antibodies (IU/mL)","Thyroglobulin antibodies (IU/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.6 to 2391.9"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6250"", ""667""]; Cumulative=[""6250"", ""6917""]; Skip.to.Item=[""NA"", ""NA""]"
 "THYROD_E","LBXT3F","LBXT3F","Triiodothyronine (T3) free (pg/mL)","Triiodothyronine (T3) free (pg/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.8 to 20.7"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6262"", ""655""]; Cumulative=[""6262"", ""6917""]; Skip.to.Item=[""NA"", ""NA""]"

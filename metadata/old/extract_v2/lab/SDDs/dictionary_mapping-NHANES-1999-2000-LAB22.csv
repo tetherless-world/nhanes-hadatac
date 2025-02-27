@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,HRQ010,,,,,,,,,,,,
-2,HRXHG,,,,,,,,,,,,
-3,HRDHGLC,,,,,,,,,,,,
-4,HRDHG,,,,,,,,,,,,
-5,HRDHGLC2,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+1,HRQ010,Has your hair been given a permanent or been treated with a hair dye or a hair straightener within the last month?,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+2,HRXHG,Total Hair Mercury as ug mercury/gram hair (ppm): MQL is Detection Limit (See Documentation for Definitions),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+3,HRDHGLC,The comment code associated with the value of the HRXHG variable (see Documentation for definitions),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+4,HRDHG,Total Hair Mercury as ug mercury/gram hair (ppm): MDL is Detection Limit (See Documentation for Definitions),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+5,HRDHGLC2,The comment code associated with the value of the HRDHG variable (see Documentation for definitions),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,

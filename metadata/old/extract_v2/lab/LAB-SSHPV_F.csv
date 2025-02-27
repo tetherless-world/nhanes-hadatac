@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSHPV_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 69 YEARS",NA,NA
 "SSHPV_F","SSHPTYPE","SSHPTYPE","Oral HPV type","Oral HPV type","Both males and females 18 YEARS - 69 YEARS",NA,"Code.or.Value=[""16 to 82"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""769"", ""0""]; Cumulative=[""769"", ""769""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSHPV_F","SSHPVLD","SSHPVLD","Oral HPV viral load","Oral HPV viral load","Both males and females 18 YEARS - 69 YEARS",NA,"Code.or.Value=[""."", ""0 to 1658424""]; Value.Description=[""Missing"", ""Range of Values""]; Count=[""3"", ""766""]; Cumulative=[""769"", ""766""]; Skip.to.Item=[""NA"", ""NA""]"

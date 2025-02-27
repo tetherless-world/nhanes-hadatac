@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PP_D","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "PP_D","WTSB2YR","WTSB2YR","Environmental B 2 year weights","Environmental C 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 486352.50255"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2638"", ""0""]; Cumulative=[""2638"", ""2638""]; Skip.to.Item=[""NA"", ""NA""]"
 "PP_D","URX14D","URX14D","25-dichlorophenol (ug/L) result","25-dichlorophenol (ug/L) result","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.14 to 19600"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2548"", ""90""]; Cumulative=[""2548"", ""2638""]; Skip.to.Item=[""NA"", ""NA""]"

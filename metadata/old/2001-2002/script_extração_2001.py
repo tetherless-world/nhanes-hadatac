@@ -116,34 +116,34 @@ for url in urls:
                                 link = "https://wwwn.cdc.gov" + link
                             
                             dados.append({
-                                'Titulo': titulo,
-                                'Descricao': descricao,
-                                'Nome_Modulo': nome_modulo,
-                                'Documento': documento,
+                                'TTitleitulo': titulo,
+                                'Description': descricao,
+                                'Module_Name': nome_modulo,
+                                'Document': documento,
                                 'Link': link
                             })
                         else:
                             dados.append({
-                                'Titulo': titulo,
-                                'Descricao': descricao,
-                                'Nome_Modulo': "",
-                                'Documento': "",
+                                'Title': titulo,
+                                'Description': descricao,
+                                'Module_Name': "",
+                                'Document': "",
                                 'Link': ""
                             })
                 else:
                     dados.append({
-                        'Titulo': titulo,
-                        'Descricao': descricao,
-                        'Nome_Modulo': "",
-                        'Documento': "",
+                        'Title': titulo,
+                        'Description': descricao,
+                        'Module_Name': "",
+                        'Document': "",
                         'Link': ""
                     })
             else:
                 dados.append({
-                    'Titulo': titulo,
-                    'Descricao': descricao,
-                    'Nome_Modulo': "",
-                    'Documento': "",
+                    'Title': titulo,
+                    'Description': descricao,
+                    'Module_Name': "",
+                    'Document': "",
                     'Link': ""
                 })
         

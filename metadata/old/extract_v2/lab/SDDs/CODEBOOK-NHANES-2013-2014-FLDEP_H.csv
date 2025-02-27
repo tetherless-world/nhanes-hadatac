@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number,Both males and females 6 YEARS - 19 YEARS,nan,,
-1,LBDPFL,0.18 To 16.67,Range Of Values,Fluoride plasma (umol/L) average 2 values,Both males and females 6 YEARS - 19 YEARS,nan,,
-2,LBDPFL,.,Missing,Fluoride plasma (umol/L) average 2 values,Both males and females 6 YEARS - 19 YEARS,nan,,
-3,LBDPFLLC,0,At Or Above The Detection Limit,Fluoride plasma comment code,Both males and females 6 YEARS - 19 YEARS,nan,,
-4,LBDPFLLC,1,Below Lower Detection Limit,Fluoride plasma comment code,Both males and females 6 YEARS - 19 YEARS,nan,,
-5,LBDPFLLC,.,Missing,Fluoride plasma comment code,Both males and females 6 YEARS - 19 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBDPFL,0.18 To 16.67,Range Of Values,,
+2,LBDPFL,.,Missing,,
+3,LBDPFLLC,0,At Or Above The Detection Limit,,
+4,LBDPFLLC,1,Below Lower Detection Limit,,
+5,LBDPFLLC,.,Missing,,

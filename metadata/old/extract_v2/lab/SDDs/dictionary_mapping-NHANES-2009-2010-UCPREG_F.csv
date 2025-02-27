@@ -1,3 +1,3 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,URXPREG,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Females only 20 YEARS - 44 YEARS,,,,,,,,,,,,,
+1,URXPREG,Pregnancy test result,Females only 20 YEARS - 44 YEARS,,,,,,,,,,,,,

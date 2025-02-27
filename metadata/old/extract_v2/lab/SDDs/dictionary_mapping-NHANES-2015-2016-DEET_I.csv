@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSB2YR,,,,,,,,,,,,
-2,URXDEA,,,,,,,,,,,,
-3,URDDEALC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSB2YR,Subsample B Weights,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,URXDEA,3-(Ethlycarbamoyl) benzoic acid (ng/mL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,URDDEALC,3-(Ethlycarbamoyl) benzoic acid (ng/mL) Comment Code,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,

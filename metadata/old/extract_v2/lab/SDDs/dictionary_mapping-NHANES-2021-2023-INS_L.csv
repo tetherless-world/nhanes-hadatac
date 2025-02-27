@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSAF2YR,,,,,,,,,,,,
-2,LBXIN,,,,,,,,,,,,
-3,LBDINSI,,,,,,,,,,,,
-4,LBDINLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSAF2YR,Fasting Subsample 2 Year MEC Weight,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXIN,Insulin (uU/mL),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDINSI,Insulin (pmol/L),Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDINLC,Insulin Comment Code,Both males and females 12 YEARS - 150 YEARS,,,,,,,,,,,,,

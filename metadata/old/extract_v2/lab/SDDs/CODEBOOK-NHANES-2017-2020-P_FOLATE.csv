@@ -1,9 +1,9 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,LBDRFO,50.3 To 2590,Range Of Values,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
-1,LBDRFO,.,Missing,RBC folate (ng/mL),Both males and females 1 YEARS - 150 YEARS,nan,,
-2,LBDRFOSI,114 To 5870,Range Of Values,RBC folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
-3,LBDRFOSI,.,Missing,RBC folate (nmol/L),Both males and females 1 YEARS - 150 YEARS,nan,,
-4,SEQN,,,Respondent sequence number,Both males and females 1 YEARS - 150 YEARS,nan,,
-5,WTFOLPRP,2613.502065 To 856106.12264,Range Of Values,Folate & Folate Form Weight Pre-Pandemic,Both males and females 1 YEARS - 150 YEARS,nan,,
-6,WTFOLPRP,0,No Lab Result,Folate & Folate Form Weight Pre-Pandemic,Both males and females 1 YEARS - 150 YEARS,nan,,
-7,WTFOLPRP,.,Missing,Folate & Folate Form Weight Pre-Pandemic,Both males and females 1 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,LBDRFO,50.3 To 2590,Range Of Values,,
+1,LBDRFO,.,Missing,,
+2,LBDRFOSI,114 To 5870,Range Of Values,,
+3,LBDRFOSI,.,Missing,,
+4,SEQN,,,,
+5,WTFOLPRP,2613.502065 To 856106.12264,Range Of Values,,
+6,WTFOLPRP,0,No Lab Result,,
+7,WTFOLPRP,.,Missing,,

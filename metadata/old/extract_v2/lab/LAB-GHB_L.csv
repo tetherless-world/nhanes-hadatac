@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "GHB_L","SEQN","SEQN","Sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "GHB_L","WTPH2YR","WTPH2YR","Phlebotomy 2 Year Weight","Phlebotomy 2 Year Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""4391.8220579 to 241728.85724"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No blood sample provided"", ""Missing""]; Count=[""6750"", ""449"", ""0""]; Cumulative=[""6750"", ""7199"", ""7199""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "GHB_L","LBXGH","LBXGH","Glycohemoglobin (%)","Glycohemoglobin (%)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""3.2 to 17.1"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""6715"", ""0"", ""484""]; Cumulative=[""6715"", ""6715"", ""7199""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

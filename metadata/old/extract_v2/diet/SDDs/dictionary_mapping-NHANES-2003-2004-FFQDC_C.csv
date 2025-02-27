@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,FFQ_VAR,,,,,,,,,,,,
-2,FFQ_FOOD,,,,,,,,,,,,
-3,FFQ_FREQ,,,,,,,,,,,,
-4,FFQ_CODE,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 2 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,FFQ_VAR,The Variable ID from DietCalc. Use the VARLOOK dataset to cross-reference this Variable ID value to its corresponding food description.,Both males and females 2 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,FFQ_FOOD,The Food ID from DietCalc. Use the FOODLOOK dataset to cross-reference this Food ID value to its corresponding food description.,Both males and females 2 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,FFQ_FREQ,,Both males and females 2 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,FFQ_CODE,Code describing how the food frequencies were derived. A value of zero means the daily food frequency was computed from the actual questionnaire response while values of 1 2 and 3 represent imputed daily food frequencies.,Both males and females 2 YEARS - 150 YEARS,,,,,,,,,,,,,

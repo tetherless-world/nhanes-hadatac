@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,DEQ034A,,,,,,,,,,,,
-2,DEQ034C,,,,,,,,,,,,
-3,DEQ034D,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,
+1,DEQ034A,When {you go/SP goes} outside on a very sunny day for more than one hour how often {do you/does SP} Stay in the shade?,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,
+2,DEQ034C,Wear a long sleeved shirt? Would you say . . .,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,
+3,DEQ034D,Use sunscreen? Would you say . . .,Both males and females 20 YEARS - 59 YEARS,,,,,,,,,,,,,

@@ -1,7 +1,7 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTFSM,,,,,,,,,,,,
-2,LBXACR,,,,,,,,,,,,
-3,LBDACRLC,,,,,,,,,,,,
-4,LBXGLY,,,,,,,,,,,,
-5,LBDGLYLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTFSM,Smoking weights,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBXACR,Acrylamide (pmol/g Hb),Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDACRLC,Acrylamide comment code,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBXGLY,Glycideamide (pmol/g Hb),Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBDGLYLC,Glycidamide comment code,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,

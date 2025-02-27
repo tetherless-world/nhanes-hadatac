@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L39_2_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 16 YEARS - 69 YEARS",NA,NA
 "L39_2_B","LB2DAY","LB2DAY","Days between 1st and 2nd exam","Days between 1st and 2nd exam","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""3 to 47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""550"", ""1""]; Cumulative=[""550"", ""551""]; Skip.to.Item=[""NA"", ""NA""]"
 "L39_2_B","LB2EPP","LB2EPP","Erythrocyte protoporphyrin (ug/dL RBC)","Erythrocyte protoporphyrin (ug/dL RBC)","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""17 to 312"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""550"", ""1""]; Cumulative=[""550"", ""551""]; Skip.to.Item=[""NA"", ""NA""]"

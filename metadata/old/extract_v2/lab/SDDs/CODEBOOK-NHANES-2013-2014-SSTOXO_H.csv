@@ -1,8 +1,8 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,SSTOXG,0 To 239,Range Of Values,Toxoplasmosis IgG antibodies (IU/ml),Both males and females 6 YEARS - 150 YEARS,nan,,
-2,SSTOXG,.,Missing,Toxoplasmosis IgG antibodies (IU/ml),Both males and females 6 YEARS - 150 YEARS,nan,,
-3,SSTOXM,0.1 To 6.8,Range Of Values,Toxoplasmosis IgM antibodies,Both males and females 6 YEARS - 150 YEARS,nan,,
-4,SSTOXM,.,Missing,Toxoplasmosis IgM antibodies,Both males and females 6 YEARS - 150 YEARS,nan,,
-5,SSTOXAV,2.9 To 71,Range Of Values,Toxoplasmosis IgG Avidity (IU/ml),Both males and females 6 YEARS - 150 YEARS,nan,,
-6,SSTOXAV,.,Missing,Toxoplasmosis IgG Avidity (IU/ml),Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,SSTOXG,0 To 239,Range Of Values,,
+2,SSTOXG,.,Missing,,
+3,SSTOXM,0.1 To 6.8,Range Of Values,,
+4,SSTOXM,.,Missing,,
+5,SSTOXAV,2.9 To 71,Range Of Values,,
+6,SSTOXAV,.,Missing,,

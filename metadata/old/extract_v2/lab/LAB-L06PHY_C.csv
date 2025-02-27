@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L06PHY_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "L06PHY_C","WTSB2YR","WTSB2YR","Environmental B 2 year weights","Environmental B 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 435025.30254"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2697"", ""0""]; Cumulative=[""2697"", ""2697""]; Skip.to.Item=[""NA"", ""NA""]"
 "L06PHY_C","URXDAZ","URXDAZ","Daidzein (ng/mL)","Daidzein (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.2 to 29200"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2594"", ""103""]; Cumulative=[""2594"", ""2697""]; Skip.to.Item=[""NA"", ""NA""]"

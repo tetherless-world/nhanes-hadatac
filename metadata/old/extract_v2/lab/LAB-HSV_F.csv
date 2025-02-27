@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "HSV_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 14 YEARS - 49 YEARS",NA,NA
 "HSV_F","LBXHE1","LBXHE1","Herpes Simplex Virus I","Herpes Simplex Virus I","Both males and females 14 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""2216"", ""1590"", ""1"", ""299""]; Cumulative=[""2216"", ""3806"", ""3807"", ""4106""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"
 "HSV_F","LBXHE2","LBXHE2","Herpes Simplex Virus II","Herpes Simplex Virus II","Both males and females 18 YEARS - 49 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Indeterminate"", ""Missing""]; Count=[""636"", ""2550"", ""2"", ""918""]; Cumulative=[""636"", ""3186"", ""3188"", ""4106""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

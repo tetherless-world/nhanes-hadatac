@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DEET_F","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "DEET_F","WTSC2YR","WTSC2YR","Environmental C Weights","Environmental C Weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 413068.05064"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2831"", ""0""]; Cumulative=[""2831"", ""2831""]; Skip.to.Item=[""NA"", ""NA""]"
 "DEET_F","URXDEE","URXDEE","DEET (ug/L)","DEET (ug/L)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0587 to 45.1"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2744"", ""87""]; Cumulative=[""2744"", ""2831""]; Skip.to.Item=[""NA"", ""NA""]"

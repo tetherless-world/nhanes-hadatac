@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "APOB_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "APOB_I","WTSAF2YR","WTSAF2YR","Fasting Subsample 2 Year MEC Weight","Fasting Subsample 2 Year MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""13612.331812 to 521632.18583"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2743"", ""448"", ""0""]; Cumulative=[""2743"", ""3191"", ""3191""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "APOB_I","LBXAPB","LBXAPB","Apolipoprotein (B) (mg/dL)","Apolipoprotein (B) (mg/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""22 to 211"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2722"", ""469""]; Cumulative=[""2722"", ""3191""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSMC2Y,,,,,,,,,,,,
-2,WTSSMC4Y,,,,,,,,,,,,
-3,SSCMVOD,,,,,,,,,,,,
-4,SSCMV,,,,,,,,,,,,
-5,SSCMIGM,,,,,,,,,,,,
-6,SSCMIGGA,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+1,WTSSMC2Y,Surplus specimen SSMUMP and SSCMV 2 year weights,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+2,WTSSMC4Y,Surplus specimen SSMUMP and SSCMV 4 year weights 99-02,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+3,SSCMVOD,CMV optical density from ELISA,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+4,SSCMV,CMV specific IgG results,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+5,SSCMIGM,Cytomegalovirus IgM,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,
+6,SSCMIGGA,Cytomegalovirus IgG Avidity,Both males and females 6 YEARS - 49 YEARS,,,,,,,,,,,,,

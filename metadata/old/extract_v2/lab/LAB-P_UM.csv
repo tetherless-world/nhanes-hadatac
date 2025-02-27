@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "P_UM","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "P_UM","URDUBALC","URDUBALC","Urinary Barium Comment Code","Urinary Barium Comment Code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""4544"", ""51"", ""295""]; Cumulative=[""4544"", ""4595"", ""4890""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "P_UM","URDUCDLC","URDUCDLC","Urinary Cadmium Comment Code","Urinary Cadmium Comment Code","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""At or above the detection limit"", ""Below lower detection limit"", ""Missing""]; Count=[""3235"", ""1360"", ""295""]; Cumulative=[""3235"", ""4595"", ""4890""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

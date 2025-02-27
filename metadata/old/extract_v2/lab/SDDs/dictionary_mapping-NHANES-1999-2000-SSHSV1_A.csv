@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSHS2Y,,,,,,,,,,,,
-2,WTSSHS4Y,,,,,,,,,,,,
-3,SSXHE1,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 13 YEARS,,,,,,,,,,,,,
+1,WTSSHS2Y,Surplus specimen SSHSV1 2 year weights,Both males and females 6 YEARS - 13 YEARS,,,,,,,,,,,,,
+2,WTSSHS4Y,Surplus specimen SSHSV1 4 year weights 99-02,Both males and females 6 YEARS - 13 YEARS,,,,,,,,,,,,,
+3,SSXHE1,Herpes I antibody,Both males and females 6 YEARS - 13 YEARS,,,,,,,,,,,,,

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSFA_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 150 YEARS",NA,NA
 "SSFA_C","SSMR1_N","SSMR1_N","Myristic acid (micromol/L)","Myristic acid (micromol/L)","Both males and females 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""24.8 to 2410"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1751"", ""27""]; Cumulative=[""1751"", ""1778""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSFA_C","SSML1_N","SSML1_N","Myristoleic acid (micromol/L)","Myristoleic acid (micromol/L)","Both males and females 20 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.19 to 186"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1763"", ""15""]; Cumulative=[""1763"", ""1778""]; Skip.to.Item=[""NA"", ""NA""]"

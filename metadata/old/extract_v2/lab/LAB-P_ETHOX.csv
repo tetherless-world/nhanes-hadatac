@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "P_ETHOX","LBDEOALC","LBDEOALC","Ethylene Oxide comment code","Ethylene Oxide comment code","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""detectable result"", ""below detectable limit"", ""Missing""]; Count=[""3463"", ""174"", ""424""]; Cumulative=[""3463"", ""3637"", ""4061""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "P_ETHOX","LBXEOA","LBXEOA","Ethylene Oxide (pmol/g Hb)","Ethylene Oxide (pmol/g Hb)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""9.12 to 1460"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3637"", ""424""]; Cumulative=[""3637"", ""4061""]; Skip.to.Item=[""NA"", ""NA""]"
 "P_ETHOX","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA

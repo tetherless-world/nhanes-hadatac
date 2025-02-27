@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSCTEIA,,,,,,,,,,,,
-2,SSCTMBA,,,,,,,,,,,,
-3,SSCTEIOD,,,,,,,,,,,,
-4,SSCTMBFI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Females only 18 YEARS - 39 YEARS,,,,,,,,,,,,,
+1,SSCTEIA,Chlamydia Pgp3 ELISA,Females only 18 YEARS - 39 YEARS,,,,,,,,,,,,,
+2,SSCTMBA,Chlamydia Pgp3 MBA,Females only 18 YEARS - 39 YEARS,,,,,,,,,,,,,
+3,SSCTEIOD,Chlamydia Pgp3 EIA Optical Density,Females only 18 YEARS - 39 YEARS,,,,,,,,,,,,,
+4,SSCTMBFI,Chlamydia Ppg3 MBA medium fluorescence intensity,Females only 18 YEARS - 39 YEARS,,,,,,,,,,,,,

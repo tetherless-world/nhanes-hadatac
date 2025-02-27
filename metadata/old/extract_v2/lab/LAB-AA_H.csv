@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "AA_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "AA_H","WTSA2YR","WTSA2YR","Subsample A Weights","Subsample A Weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""16284.37488 to 530325.34726"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2724"", ""31"", ""0""]; Cumulative=[""2724"", ""2755"", ""2755""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "AA_H","URX1NP","URX1NP","1-Aminonaphthalene urine (pg/mL)","1-Aminonaphthalene urine (pg/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.91 to 441"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2478"", ""277""]; Cumulative=[""2478"", ""2755""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "FASTQX_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "FASTQX_E","PHQ020","PHQ020","Coffee or tea with cream or sugar?","Coffee or tea with cream or sugar? [Include milk or non-dairy creamers.]","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", "".""]; Value.Description=[""Yes"", ""No"", ""Missing""]; Count=[""25"", ""8807"", ""475""]; Cumulative=[""25"", ""8832"", ""9307""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "FASTQX_E","PHACOFHR","PHACOFHR","Coffee/tea fast time (hours)","The time (in hours) since the examinee last drank coffee or tea with cream or sugar.","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 12"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""25"", ""9282""]; Cumulative=[""25"", ""9307""]; Skip.to.Item=[""NA"", ""NA""]"

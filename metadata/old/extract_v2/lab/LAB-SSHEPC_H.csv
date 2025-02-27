@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSHEPC_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSHEPC_H","LBDHCI","LBDHCI","Hepatitis C Antibody (confirmed)","Hepatitis C Antibody (confirmed)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", ""4"", "".""]; Value.Description=[""Positive"", ""Negative"", ""Negative Screening HCV Antibody"", ""Positive HCV RNA"", ""Missing""]; Count=[""36"", ""25"", ""7490"", ""67"", ""673""]; Cumulative=[""36"", ""61"", ""7551"", ""7618"", ""8291""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"

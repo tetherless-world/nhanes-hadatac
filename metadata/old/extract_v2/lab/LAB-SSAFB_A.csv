@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSAFB_A","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "SSAFB_A","SSAFB","SSAFB","Aflatoxin B1-lysine result (ng/mL)","Aflatoxin B1-lysine result (ng/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.01 to 0.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1883"", ""11""]; Cumulative=[""1883"", ""1894""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSAFB_A","SSAFBLC","SSAFBLC","Aflatoxin B1-lysine result comment code","Aflatoxin B1-lysine result comment code","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0"", ""1"", "".""]; Value.Description=[""detectable result"", ""below detectable limit"", ""Missing""]; Count=[""26"", ""1857"", ""11""]; Cumulative=[""26"", ""1883"", ""1894""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"

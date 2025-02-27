@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,PUQ100,,,,,,,,,,,,
-1,PUQ110,,,,,,,,,,,,
-2,SEQN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,PUQ100,In the past 7 days were any chemical products used in {your/his/her} home to control fleas roaches ants termites or other insects?,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,PUQ110,In the past 7 days were any chemical products used in {your/his/her} lawn or garden to kill weeds?,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

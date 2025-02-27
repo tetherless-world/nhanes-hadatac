@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L13_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "L13_C","LBXTC","LBXTC","Total Cholesterol (mg/dL)","Total Cholesterol (mg/dL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""68 to 704"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7774"", ""782""]; Cumulative=[""7774"", ""8556""]; Skip.to.Item=[""NA"", ""NA""]"
 "L13_C","LBXHDD","LBXHDD","Direct HDL-Cholesterol (mg/dL)","Direct HDL-Cholesterol (mg/dL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""19 to 154"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7773"", ""783""]; Cumulative=[""7773"", ""8556""]; Skip.to.Item=[""NA"", ""NA""]"

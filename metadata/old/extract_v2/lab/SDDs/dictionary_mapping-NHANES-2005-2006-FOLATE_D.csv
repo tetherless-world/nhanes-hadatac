@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXRBF,,,,,,,,,,,,
-2,LBDRBFSI,,,,,,,,,,,,
-3,LBXFOL,,,,,,,,,,,,
-4,LBDFOLSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBXRBF,Folate RBC (ng/mL RBC),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDRBFSI,Folate RBC(nmol/L RBC),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXFOL,Folate serum (ng/mL),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDFOLSI,Folate serum (nmol/L),Both males and females 1 YEARS - 150 YEARS,,,,,,,,,,,,,

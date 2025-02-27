@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UIO_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "UIO_I","WTSA2YR","WTSA2YR","Subsample A weights","Subsample A weights","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""6552.119284 to 708844.24678"", ""0"", "".""]; Value.Description=[""Range of Values"", ""Participants 6+ years with no lab specimen"", ""Missing""]; Count=[""3231"", ""48"", ""0""]; Cumulative=[""3231"", ""3279"", ""3279""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UIO_I","URXUIO","URXUIO","Iodine urine (ng/mL)","Iodine urine (ng/mL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""8.9 to 72155.3"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3079"", ""200""]; Cumulative=[""3079"", ""3279""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "CIQPANIC","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 20 YEARS - 39 YEARS",NA,NA
 "CIQPANIC","WTSCI2YR","WTSCI2YR","CIDI Subsample 2 year MEC Weight","CIDI Subsample 2 year MEC Weight","Both males and females 20 YEARS - 39 YEARS",NA,"Code.or.Value=[""2594.9999622 to 453821.755"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""727"", ""51""]; Cumulative=[""727"", ""778""]; Skip.to.Item=[""NA"", ""NA""]"
 "CIQPANIC","WTSCI4YR","WTSCI4YR","CIDI Subsample 4 Year MEC Weight","CIDI Subsample 4 Year MEC Weight","Both males and females 20 YEARS - 39 YEARS",NA,"Code.or.Value=[""1820.5187288 to 230304.53472"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""727"", ""51""]; Cumulative=[""727"", ""778""]; Skip.to.Item=[""NA"", ""NA""]"

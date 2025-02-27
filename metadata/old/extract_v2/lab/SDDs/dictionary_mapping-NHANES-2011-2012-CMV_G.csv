@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBXIGG,,,,,,,,,,,,
-2,LBXIGGA,,,,,,,,,,,,
-3,LBXIGM,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+1,LBXIGG,Cytomegalovirus (IgG),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+2,LBXIGGA,Cytomegalovirus (IgG) avidity,Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,
+3,LBXIGM,Cytomegalovirus (IgM),Both males and females 1 YEARS - 5 YEARS,,,,,,,,,,,,,

@@ -1,8 +1,8 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSAF2YR,,,,,,,,,,,,
-2,WTSAF4YR,,,,,,,,,,,,
-3,LBXTR,,,,,,,,,,,,
-4,LBDTRSI,,,,,,,,,,,,
-5,LBDLDL,,,,,,,,,,,,
-6,LBDLDLSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSAF2YR,2Yr AM(3-11) & fasting (12+) weights,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,WTSAF4YR,4Yr AM(3-11) & fasting (12+) weights,Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBXTR,Triglyceride (mg/dL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,LBDTRSI,Triglyceride (mmol/L),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+5,LBDLDL,LDL-cholesterol (mg/dL),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,
+6,LBDLDLSI,LDL-cholesterol (mmol/L),Both males and females 3 YEARS - 150 YEARS,,,,,,,,,,,,,

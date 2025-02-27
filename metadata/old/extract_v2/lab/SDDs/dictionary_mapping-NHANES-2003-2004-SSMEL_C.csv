@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSBMEL,,,,,,,,,,,,
-2,SSMEL,,,,,,,,,,,,
-3,SSCYA,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSBMEL,Melamine Subsample Weight,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSMEL,Melamine,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSCYA,Cyanuric acid,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

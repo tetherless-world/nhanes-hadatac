@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSNORO_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 16 YEARS - 49 YEARS",NA,NA
 "SSNORO_C","SSGI1C1","SSGI1C1","Antibody con. in dup. 1 for GI.1 ag","Antibody con. in dup. 1 for GI.1 ag","Both males and females 16 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 100000"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1031"", ""5""]; Cumulative=[""1031"", ""1036""]; Skip.to.Item=[""NA"", ""NA""]"
 "SSNORO_C","SSGI1C2","SSGI1C2","Antibody con. in dup. 2 for GI.1 ag","Antibody con. in dup. 2 for GI.1 ag","Both males and females 16 YEARS - 49 YEARS",NA,"Code.or.Value=[""0 to 100000"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1032"", ""4""]; Cumulative=[""1032"", ""1036""]; Skip.to.Item=[""NA"", ""NA""]"

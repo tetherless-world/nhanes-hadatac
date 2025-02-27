@@ -1,5 +1,5 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 150 YEARS,nan,,
-1,LBXVB6,10 To 962,Range Of Values,Vitamin B6 (Pyridoxal 5-phosphate) test results (nmol/L).,Both males and females 1 YEARS - 150 YEARS,nan,,
-2,LBXVB6,7.1,Fill Value Of Limit Of Detection,Vitamin B6 (Pyridoxal 5-phosphate) test results (nmol/L).,Both males and females 1 YEARS - 150 YEARS,nan,,
-3,LBXVB6,.,Missing,Vitamin B6 (Pyridoxal 5-phosphate) test results (nmol/L).,Both males and females 1 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXVB6,10 To 962,Range Of Values,,
+2,LBXVB6,7.1,Fill Value Of Limit Of Detection,,
+3,LBXVB6,.,Missing,,

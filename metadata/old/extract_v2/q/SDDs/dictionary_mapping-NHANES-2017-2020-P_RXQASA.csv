@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,RXQ510,,,,,,,,,,,,
-1,RXQ515,,,,,,,,,,,,
-2,RXQ520,,,,,,,,,,,,
-3,SEQN,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,RXQ510,Doctors and other health care providers sometimes recommend that {you take/SP takes) a low-dose aspirin each day to prevent heart attacks strokes or cancer. {Have you/Has SP} ever been told to do this?,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,RXQ515,{Are you/Is SP} now following this advice?,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,RXQ520,On {your/SPs} own {are you/is SP} now taking a low-dose aspirin each day to prevent heart attacks strokes or cancer?,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SEQN,Respondent sequence number.,Both males and females 40 YEARS - 150 YEARS,,,,,,,,,,,,,

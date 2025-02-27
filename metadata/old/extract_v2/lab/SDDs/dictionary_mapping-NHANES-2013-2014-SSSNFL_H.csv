@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSNH2Y,,,,,,,,,,,,
-2,SSSNFL,,,,,,,,,,,,
-3,SSNFLH,,,,,,,,,,,,
-4,SSNFLL,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 20 YEARS - 75 YEARS,,,,,,,,,,,,,
+1,WTSSNH2Y,Surplus specimen SSSNFL_H 2 year weights,Both males and females 20 YEARS - 75 YEARS,,,,,,,,,,,,,
+2,SSSNFL,Serum neurofilament light chain (pg/ml),Both males and females 20 YEARS - 75 YEARS,,,,,,,,,,,,,
+3,SSNFLH,Serum neurofilament above detect limit,Both males and females 20 YEARS - 75 YEARS,,,,,,,,,,,,,
+4,SSNFLL,Serum neurofilament below detect limit,Both males and females 20 YEARS - 75 YEARS,,,,,,,,,,,,,

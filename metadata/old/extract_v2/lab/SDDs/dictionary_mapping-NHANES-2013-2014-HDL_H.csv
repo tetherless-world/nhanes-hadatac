@@ -1,4 +1,4 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBDHDD,,,,,,,,,,,,
-2,LBDHDDSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,LBDHDD,Direct HDL-Cholesterol (mg/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDHDDSI,Direct HDL-Cholesterol (mmol/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

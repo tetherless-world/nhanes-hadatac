@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PAHS_I","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "PAHS_I","WTFSM","WTFSM","Two-Year Smoking Weights","Two Year Smoking Weights","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""5682.8332946 to 708016.13026"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2389"", ""73"", ""0""]; Cumulative=[""2389"", ""2462"", ""2462""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "PAHS_I","URXP01","URXP01","1-Hydroxynaphthalene (ng/L)","1-Hydroxynaphthalene (ng/L)","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""42.4 to 22500000"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2249"", ""213""]; Cumulative=[""2249"", ""2462""]; Skip.to.Item=[""NA"", ""NA""]"

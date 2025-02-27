@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L40_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "L40_B","LBXSAL","LBXSAL","Albumin (g/dL)","Albumin (g/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""2.1 to 5.5"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6891"", ""554""]; Cumulative=[""6891"", ""7445""]; Skip.to.Item=[""NA"", ""NA""]"
 "L40_B","LBDSALSI","LBDSALSI","Albumin (g/L)","Albumin (g/L)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""21 to 55"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6891"", ""554""]; Cumulative=[""6891"", ""7445""]; Skip.to.Item=[""NA"", ""NA""]"

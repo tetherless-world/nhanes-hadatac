@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "BPX_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "BPX_J","PEASCCT1","PEASCCT1","Blood Pressure Comment","Blood Pressure Comment","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", ""4"", "".""]; Value.Description=[""Safety exclusion"", ""SP refusal"", ""Time constraints"", ""Other"", ""Missing""]; Count=[""0"", ""34"", ""317"", ""93"", ""8260""]; Cumulative=[""0"", ""34"", ""351"", ""444"", ""8704""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA"", ""NA""]"
 "BPX_J","BPXCHR","BPXCHR","60 sec HR (30 sec HR * 2)","60 sec HR (30 sec HR * 2)","Both males and females 0 YEARS - 7 YEARS",NA,"Code.or.Value=[""60 to 180"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1539"", ""7165""]; Cumulative=[""1539"", ""8704""]; Skip.to.Item=[""NA"", ""NA""]"

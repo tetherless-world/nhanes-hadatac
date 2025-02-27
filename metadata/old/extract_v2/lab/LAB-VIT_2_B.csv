@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VIT_2_B","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 16 YEARS - 69 YEARS",NA,NA
 "VIT_2_B","LB2DAY","LB2DAY","Days between 1st and 2nd exam","The number of days between the collection of the first and second exam","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""3 to 47"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""545"", ""6""]; Cumulative=[""545"", ""551""]; Skip.to.Item=[""NA"", ""NA""]"
 "VIT_2_B","LB2ALC","LB2ALC","alpha-carotene(ug/dL)","alpha-carotene(ug/dL)","Both males and females 16 YEARS - 69 YEARS",NA,"Code.or.Value=[""0.5 to 51.7"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""545"", ""6""]; Cumulative=[""545"", ""551""]; Skip.to.Item=[""NA"", ""NA""]"

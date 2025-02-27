@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTFSM,,,,,,,,,,,,
-2,URXUAS,,,,,,,,,,,,
-3,URDUASLC,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTFSM,Two year smoking weightsweights,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,URXUAS,Urinary arsenic total (ug/L),Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,URDUASLC,Urinary arsenic total Comment Code,Both males and females 18 YEARS - 150 YEARS,,,,,,,,,,,,,

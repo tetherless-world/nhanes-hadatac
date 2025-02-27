@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 1 YEARS - 5 YEARS,nan,,
-1,WTPH2YR,6213.3002375 To 253478.77765,Range Of Values,Phlebotomy 2 Year Weight,Both males and females 1 YEARS - 5 YEARS,nan,,
-2,WTPH2YR,0,No Blood Sample Provided,Phlebotomy 2 Year Weight,Both males and females 1 YEARS - 5 YEARS,nan,,
-3,WTPH2YR,.,Missing,Phlebotomy 2 Year Weight,Both males and females 1 YEARS - 5 YEARS,nan,,
-4,LBXAGP,0.261 To 2.76,Range Of Values,alpha-1-acid glycoprotein (g/L),Both males and females 1 YEARS - 5 YEARS,nan,,
-5,LBXAGP,.,Missing,alpha-1-acid glycoprotein (g/L),Both males and females 1 YEARS - 5 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,WTPH2YR,6213.3002375 To 253478.77765,Range Of Values,,
+2,WTPH2YR,0,No Blood Sample Provided,,
+3,WTPH2YR,.,Missing,,
+4,LBXAGP,0.261 To 2.76,Range Of Values,,
+5,LBXAGP,.,Missing,,

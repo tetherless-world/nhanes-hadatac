@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DS1TOT_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 0 YEARS - 150 YEARS",NA,NA
 "DS1TOT_E","WTDRD1","WTDRD1","Dietary day one sample weight","Dietary day one sample weight","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1774.4576942 to 330066.87932"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""9255"", ""507""]; Cumulative=[""9255"", ""9762""]; Skip.to.Item=[""NA"", ""NA""]"
 "DS1TOT_E","WTDR2D","WTDR2D","Dietary two-day sample weight","Dietary two-day sample weight","Both males and females 0 YEARS - 150 YEARS",NA,"Code.or.Value=[""1513.0983763 to 419692.00229"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7838"", ""1924""]; Cumulative=[""7838"", ""9762""]; Skip.to.Item=[""NA"", ""NA""]"

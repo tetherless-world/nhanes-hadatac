@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTPH2YR,,,,,,,,,,,,
-2,LBDHDD,,,,,,,,,,,,
-3,LBDHDDSI,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent Sequence Number,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTPH2YR,Phlebotomy 2 Year Weight,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,LBDHDD,Direct HDL-Cholesterol (mg/dL),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,LBDHDDSI,Direct HDL-Cholesterol (mmol/L),Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

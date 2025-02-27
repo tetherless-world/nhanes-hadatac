@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TRIGLY_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "TRIGLY_E","WTSAF2YR","WTSAF2YR","Fasting Subsample 2 Year MEC Weight","Fasting Subsample 2 Year MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 404655.623"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3315"", ""0""]; Cumulative=[""3315"", ""3315""]; Skip.to.Item=[""NA"", ""NA""]"
 "TRIGLY_E","LBXTR","LBXTR","Triglyceride (mg/dL)","Triglyceride (mg/dL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""12 to 2549"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3099"", ""216""]; Cumulative=[""3099"", ""3315""]; Skip.to.Item=[""NA"", ""NA""]"

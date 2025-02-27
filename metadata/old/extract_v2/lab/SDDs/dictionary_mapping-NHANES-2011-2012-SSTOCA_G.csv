@@ -1,5 +1,5 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,WTSSTT2Y,,,,,,,,,,,,
-2,SSTCAMFI,,,,,,,,,,,,
-3,SSTCAR,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,WTSSTT2Y,Surplus specimen SSTOCA and SSTOXO 2 year weights,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SSTCAMFI,Toxocara mean florescent intensity,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SSTCAR,Toxocara antibody result,Both males and females 6 YEARS - 150 YEARS,,,,,,,,,,,,,

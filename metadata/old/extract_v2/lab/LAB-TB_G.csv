@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "TB_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "TB_G","LBXTBA","LBXTBA","TB Antigen result","TB Antigen result","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 11"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7111"", ""710""]; Cumulative=[""7111"", ""7821""]; Skip.to.Item=[""NA"", ""NA""]"
 "TB_G","LBXTBN","LBXTBN","TB Nil control result","TB Nil control result","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 5.06"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7112"", ""709""]; Cumulative=[""7112"", ""7821""]; Skip.to.Item=[""NA"", ""NA""]"

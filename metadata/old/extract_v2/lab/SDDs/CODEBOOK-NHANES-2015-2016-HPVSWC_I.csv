@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Females only 18 YEARS - 59 YEARS,nan,,
-1,LBXHP2C,1,Positive,Cobas HPV Swab High Risk,Females only 18 YEARS - 59 YEARS,nan,,
-2,LBXHP2C,2,Negative,Cobas HPV Swab High Risk,Females only 18 YEARS - 59 YEARS,nan,,
-3,LBXHP2C,3,Inadequate,Cobas HPV Swab High Risk,Females only 18 YEARS - 59 YEARS,nan,,
-4,LBXHP2C,.,Missing,Cobas HPV Swab High Risk,Females only 18 YEARS - 59 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,LBXHP2C,1,Positive,,
+2,LBXHP2C,2,Negative,,
+3,LBXHP2C,3,Inadequate,,
+4,LBXHP2C,.,Missing,,

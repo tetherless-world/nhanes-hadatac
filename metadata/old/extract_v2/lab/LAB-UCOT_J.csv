@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UCOT_J","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 3 YEARS - 150 YEARS",NA,NA
 "UCOT_J","WTSA2YR","WTSA2YR","Subsample A Weight","Subsample A Weight","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""3829.845402 to 1502431.3423"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2871"", ""108"", ""0""]; Cumulative=[""2871"", ""2979"", ""2979""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "UCOT_J","URXCOTT","URXCOTT","Cotinine urine (ng/mL)","Cotinine urine (ng/mL)","Both males and females 3 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.021 to 23700"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2685"", ""294""]; Cumulative=[""2685"", ""2979""]; Skip.to.Item=[""NA"", ""NA""]"

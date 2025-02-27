@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "INS_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "INS_H","WTSAF2YR","WTSAF2YR","Fasting Subsample MEC Weight","Fasting Subsample MEC Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""12937.987305 to 395978.46579"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2927"", ""402"", ""0""]; Cumulative=[""2927"", ""3329"", ""3329""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "INS_H","LBXIN","LBXIN","Insulin (uU/mL)","Insulin (uU/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.14 to 682.48"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3093"", ""236""]; Cumulative=[""3093"", ""3329""]; Skip.to.Item=[""NA"", ""NA""]"

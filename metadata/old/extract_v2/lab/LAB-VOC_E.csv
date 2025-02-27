@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "VOC_E","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 12 YEARS - 150 YEARS",NA,NA
 "VOC_E","WTSVOC2Y","WTSVOC2Y","VOC Subsample Weight","VOC Subsample Weight","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""7544.8236215 to 319733.44187"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3374"", ""41""]; Cumulative=[""3374"", ""3415""]; Skip.to.Item=[""NA"", ""NA""]"
 "VOC_E","LBXWBF","LBXWBF","Water Bromoform (ng/mL)","Water Bromoform (ng/mL)","Both males and females 12 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.0707 to 60"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""3172"", ""243""]; Cumulative=[""3172"", ""3415""]; Skip.to.Item=[""NA"", ""NA""]"

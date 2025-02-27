@@ -1,3 +1,3 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "UCOSMO_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "UCOSMO_G","URXOAV","URXOAV","Urine osmolality (mOsm/kg)","Urine osmolality (mOsm/kg)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""34 to 1394"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7395"", ""426""]; Cumulative=[""7395"", ""7821""]; Skip.to.Item=[""NA"", ""NA""]"

@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "MSX","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 50 YEARS - 150 YEARS",NA,NA
 "MSX","MSAEXLEN","MSAEXLEN","length of a MEC exam (sec)","Timed walk & muscle strength time (sec)","Both males and females 50 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 2884"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2156"", ""0""]; Cumulative=[""2156"", ""2156""]; Skip.to.Item=[""NA"", ""NA""]"
 "MSX","MSAEXSTS","MSAEXSTS","Status of a MEC exam","Timed walk and muscle strength status","Both males and females 50 YEARS - 150 YEARS",NA,"Code.or.Value=[""1"", ""2"", ""3"", "".""]; Value.Description=[""Complete"", ""Partial"", ""Not done"", ""Missing""]; Count=[""1481"", ""461"", ""214"", ""0""]; Cumulative=[""1481"", ""1942"", ""2156"", ""2156""]; Skip.to.Item=[""NA"", ""NA"", ""NA"", ""NA""]"

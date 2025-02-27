@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "DRXFCD_E","DRXFDCD","DRXFDCD","Food Code","Food Code",NA,NA,"Code.or.Value=[""11000000 to 94210200"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""7177"", ""0""]; Cumulative=[""7177"", ""7177""]; Skip.to.Item=[""NA"", ""NA""]"
 "DRXFCD_E","DRXFCSD","DRXFCSD","Short Food Code Description","Short Food Code Description",NA,NA,"Code.or.Value=[""Short Food Code Description"", """"]; Value.Description=[""Value was recorded"", """"]; Count=[""7177"", ""0""]; Cumulative=[""7177"", ""7177""]; Skip.to.Item=[""NA"", ""NA""]"
 "DRXFCD_E","DRXFCLD","DRXFCLD","Long Food Code Description","Long Food Code Description",NA,NA,"Code.or.Value=[""Long Food Code Description"", """"]; Value.Description=[""Value was recorded"", """"]; Count=[""7177"", ""0""]; Cumulative=[""7177"", ""7177""]; Skip.to.Item=[""NA"", ""NA""]"

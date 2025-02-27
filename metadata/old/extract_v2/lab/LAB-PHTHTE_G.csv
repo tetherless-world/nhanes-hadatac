@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "PHTHTE_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "PHTHTE_G","WTSA2YR","WTSA2YR","Subsample A weights","Subsample A weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""12199.652219 to 643202.3505"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2551"", ""43""]; Cumulative=[""2551"", ""2594""]; Skip.to.Item=[""NA"", ""NA""]"
 "PHTHTE_G","URXCNP","URXCNP","Mono(carboxynonyl) Phthalate (ng/mL)","Mono(carboxynonyl) Phthalate (ng/mL)","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.14 to 603.3"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2489"", ""105""]; Cumulative=[""2489"", ""2594""]; Skip.to.Item=[""NA"", ""NA""]"

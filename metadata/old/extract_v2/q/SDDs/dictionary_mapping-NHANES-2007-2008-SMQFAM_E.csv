@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SMD410,,,,,,,,,,,,
-2,SMD415,,,,,,,,,,,,
-3,SMD415A,,,,,,,,,,,,
-4,SMD430,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+1,SMD410,I would now like to ask you a few questions about smoking. Does anyone who lives here smoke cigarettes cigars or pipes anywhere inside this home?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+2,SMD415,Total number of smokers inside home,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+3,SMD415A,Total # of cigarette smokers inside home,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,
+4,SMD430,How many cigarettes per day {do you/does PERSON} usually smoke anywhere inside the home?,Both males and females 0 YEARS - 150 YEARS,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 12 YEARS - 150 YEARS,nan,,
-1,SAMPLEID,1 To 265,Range Of Values,Pool identification number,Both males and females 12 YEARS - 150 YEARS,nan,,
-2,SAMPLEID,.,Missing,Pool identification number,Both males and females 12 YEARS - 150 YEARS,nan,,
-3,WTSB2YRA,0 To 874638.01159,Range Of Values,Adjusted subsample weight for the individual participant in pooled sample,Both males and females 12 YEARS - 150 YEARS,nan,,
-4,WTSB2YRA,.,Missing,Adjusted subsample weight for the individual participant in pooled sample,Both males and females 12 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,SAMPLEID,1 To 265,Range Of Values,,
+2,SAMPLEID,.,Missing,,
+3,WTSB2YRA,0 To 874638.01159,Range Of Values,,
+4,WTSB2YRA,.,Missing,,

@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,SSHPTYPE,,,,,,,,,,,,
-2,SSHPVLD,,,,,,,,,,,,
-3,SSHPVCEL,,,,,,,,,,,,
-4,SSHPVNLD,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 18 YEARS - 69 YEARS,,,,,,,,,,,,,
+1,SSHPTYPE,Oral HPV type,Both males and females 18 YEARS - 69 YEARS,,,,,,,,,,,,,
+2,SSHPVLD,Oral HPV viral load,Both males and females 18 YEARS - 69 YEARS,,,,,,,,,,,,,
+3,SSHPVCEL,Oral HPV Cell Number,Both males and females 18 YEARS - 69 YEARS,,,,,,,,,,,,,
+4,SSHPVNLD,Oral HPV normal viral load,Both males and females 18 YEARS - 69 YEARS,,,,,,,,,,,,,

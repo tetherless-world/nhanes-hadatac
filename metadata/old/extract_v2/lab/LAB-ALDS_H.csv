@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ALDS_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "ALDS_H","WTALDS2Y","WTALDS2Y","Two Year Aldehyde Smoking Weights","Two Year Aldehyde Smoking Weights","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""0 to 511460.1478"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2605"", ""0""]; Cumulative=[""2605"", ""2605""]; Skip.to.Item=[""NA"", ""NA""]"
 "ALDS_H","LBXBZAL","LBXBZAL","Benzaldehyde (ng/mL)","Benzaldehyde (ng/mL)","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.326 to 28.2"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""1661"", ""944""]; Cumulative=[""1661"", ""2605""]; Skip.to.Item=[""NA"", ""NA""]"

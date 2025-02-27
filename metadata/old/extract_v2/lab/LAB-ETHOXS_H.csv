@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "ETHOXS_H","SEQN","SEQN","Respondent sequence number","Respondent sequence number","Both males and females 18 YEARS - 150 YEARS",NA,NA
 "ETHOXS_H","WTFSM","WTFSM","Smoking weights","Smoking weights","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""6426.907677 to 456840.9815"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No Lab Result"", ""Missing""]; Count=[""2546"", ""59"", ""0""]; Cumulative=[""2546"", ""2605"", ""2605""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "ETHOXS_H","LBXEOA","LBXEOA","Ethylene Oxide (pmol/g Hb)","Ethylene Oxide (pmol/g Hb)","Both males and females 18 YEARS - 150 YEARS",NA,"Code.or.Value=[""5.8 to 1301.37"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""2410"", ""195""]; Cumulative=[""2410"", ""2605""]; Skip.to.Item=[""NA"", ""NA""]"

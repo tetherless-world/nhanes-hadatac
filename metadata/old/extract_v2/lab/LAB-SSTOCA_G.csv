@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "SSTOCA_G","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 6 YEARS - 150 YEARS",NA,NA
 "SSTOCA_G","WTSSTT2Y","WTSSTT2Y","SSTOCA and SSTOXO 2 year weights","Surplus specimen SSTOCA and SSTOXO 2 year weights","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""5700.578442 to 247519.73303"", ""0"", "".""]; Value.Description=[""Range of Values"", ""No lab specimen"", ""Missing""]; Count=[""6099"", ""0"", ""0""]; Cumulative=[""6099"", ""6099"", ""6099""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "SSTOCA_G","SSTCAMFI","SSTCAMFI","Toxocara mean florescent intensity","Toxocara mean florescent intensity","Both males and females 6 YEARS - 150 YEARS",NA,"Code.or.Value=[""-25.5 to 11745.3"", "".""]; Value.Description=[""Range of Values"", ""Missing""]; Count=[""6098"", ""1""]; Cumulative=[""6098"", ""6099""]; Skip.to.Item=[""NA"", ""NA""]"

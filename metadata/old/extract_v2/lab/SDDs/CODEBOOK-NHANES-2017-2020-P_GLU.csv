@@ -1,9 +1,9 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,LBDGLUSI,2.61 To 29.1,Range Of Values,Fasting Glucose (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
-1,LBDGLUSI,.,Missing,Fasting Glucose (mmol/L),Both males and females 12 YEARS - 150 YEARS,nan,,
-2,LBXGLU,47 To 524,Range Of Values,Fasting Glucose (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
-3,LBXGLU,.,Missing,Fasting Glucose (mg/dL),Both males and females 12 YEARS - 150 YEARS,nan,,
-4,SEQN,,,Respondent sequence number,Both males and females 12 YEARS - 150 YEARS,nan,,
-5,WTSAFPRP,4808.069916 To 741259.18875,Range Of Values,Fasting Subsample Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
-6,WTSAFPRP,0,No Lab Result Or Not Fasting For 8 -< 24 Hours,Fasting Subsample Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
-7,WTSAFPRP,.,Missing,Fasting Subsample Weight,Both males and females 12 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,LBDGLUSI,2.61 To 29.1,Range Of Values,,
+1,LBDGLUSI,.,Missing,,
+2,LBXGLU,47 To 524,Range Of Values,,
+3,LBXGLU,.,Missing,,
+4,SEQN,,,,
+5,WTSAFPRP,4808.069916 To 741259.18875,Range Of Values,,
+6,WTSAFPRP,0,No Lab Result Or Not Fasting For 8 -< 24 Hours,,
+7,WTSAFPRP,.,Missing,,

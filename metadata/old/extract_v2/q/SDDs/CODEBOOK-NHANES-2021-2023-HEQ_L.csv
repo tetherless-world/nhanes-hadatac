@@ -1,7 +1,7 @@
-,Column,Code,Label,English_Text,Target,English_Instructions,Class,Other For
-0,SEQN,,,Respondent sequence number.,Both males and females 6 YEARS - 150 YEARS,nan,,
-1,HEQ010,1,Yes,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis B? (Hepatitis is a form of liver disease. Hepatitis B is an infection of the liver from the Hepatitis B virus (HBV).),Both males and females 6 YEARS - 150 YEARS,nan,,
-2,HEQ010,2,No,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis B? (Hepatitis is a form of liver disease. Hepatitis B is an infection of the liver from the Hepatitis B virus (HBV).),Both males and females 6 YEARS - 150 YEARS,nan,,
-3,HEQ010,7,Refused,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis B? (Hepatitis is a form of liver disease. Hepatitis B is an infection of the liver from the Hepatitis B virus (HBV).),Both males and females 6 YEARS - 150 YEARS,nan,,
-4,HEQ010,9,Don'T Know,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis B? (Hepatitis is a form of liver disease. Hepatitis B is an infection of the liver from the Hepatitis B virus (HBV).),Both males and females 6 YEARS - 150 YEARS,nan,,
-5,HEQ010,.,Missing,Has a doctor or other health professional ever told {you/SP} that {you have/s/he/SP has} Hepatitis B? (Hepatitis is a form of liver disease. Hepatitis B is an infection of the liver from the Hepatitis B virus (HBV).),Both males and females 6 YEARS - 150 YEARS,nan,,
+,Column,Code,Label,Class,Other For
+0,SEQN,,,,
+1,HEQ010,1,Yes,,
+2,HEQ010,2,No,,
+3,HEQ010,7,Refused,,
+4,HEQ010,9,Don'T Know,,
+5,HEQ010,.,Missing,,

@@ -1,6 +1,6 @@
-,Column,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
-0,SEQN,,,,,,,,,,,,
-1,LBX06,,,,,,,,,,,,
-2,LBX11,,,,,,,,,,,,
-3,LBX16,,,,,,,,,,,,
-4,LBX18,,,,,,,,,,,,
+,Column,English_Text,Target,English_Instructions,Attribute,attributeOf,Unit,Time,Entity,Role,Relation,inRelationTo,wasDerivedFrom,Maturity,Template,wasGeneratedBy
+0,SEQN,Respondent sequence number.,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+1,LBX06,HPV 06 result,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+2,LBX11,HPV 11 result,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+3,LBX16,HPV 16 result,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,
+4,LBX18,HPV 18 result,Both males and females 18 YEARS - 59 YEARS,,,,,,,,,,,,,

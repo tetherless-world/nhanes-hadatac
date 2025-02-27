@@ -1,4 +1,4 @@
-"Tabela","Variavel","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Tabela_Valores"
+"Table_name","Variable","Variable_Name","SAS_Label","English_Text","Target","English_Instructions","Codebook_table"
 "L06BMT_C","SEQN","SEQN","Respondent sequence number","Respondent sequence number.","Both males and females 1 YEARS - 150 YEARS",NA,NA
 "L06BMT_C","LBXBCD","LBXBCD","Cadmium (ug/L)","Cadmium (ug/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""0.2 to 7.4"", ""0.1"", "".""]; Value.Description=[""Range of Values"", ""Below Limit of Detection"", ""Missing""]; Count=[""5616"", ""2756"", ""807""]; Cumulative=[""5616"", ""8372"", ""9179""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
 "L06BMT_C","LBDBCDSI","LBDBCDSI","Cadmium (nmoL/L)","Cadmium (nmoL/L)","Both males and females 1 YEARS - 150 YEARS",NA,"Code.or.Value=[""1.78 to 65.84"", ""0.89"", "".""]; Value.Description=[""Range of Values"", ""Below Limit of Detection"", ""Missing""]; Count=[""5616"", ""2756"", ""807""]; Cumulative=[""5616"", ""8372"", ""9179""]; Skip.to.Item=[""NA"", ""NA"", ""NA""]"
